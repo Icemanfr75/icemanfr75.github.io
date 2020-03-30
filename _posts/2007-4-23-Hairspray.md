@@ -17,11 +17,28 @@ Dans la salle, c’est le rire et l’entrain des morceaux qui dominent, malgré
 
 [La Vidéo](youtube=https://www.youtube.com/watch?v=ReXLP_lcB18)
 
-*Casting : Marissa Perry, George Wendt, Ashley Parker Angel, Aubrey O’Day, Clark Thorell, Karen Mason, Jenifer Lewis, Tevin Campbell, Scott Davidson…
-*Livret : Mark O’Donnell, Thomas Meehan
-*Musique de Marc Shaiman
-*Paroles : Marc Shaiman, Scott Wittman
-*Mise en scène : Jack O’Brien
-*Chorégraphie : Jerry Mitchell.
+* Casting : Marissa Perry, George Wendt, Ashley Parker Angel, Aubrey O’Day, Clark Thorell, Karen Mason, Jenifer Lewis, Tevin Campbell, Scott Davidson…
+* Livret : Mark O’Donnell, Thomas Meehan
+* Musique de Marc Shaiman
+* Paroles : Marc Shaiman, Scott Wittman
+* Mise en scène : Jack O’Brien
+* Chorégraphie : Jerry Mitchell.
 
-1. Good Morning Baltimore 2. The Nicest Kids In Town 3. Mama, I’m A Big Girl Now 4. I Can Hear The Bells 5. (The Legend of) Miss Baltimore Crabs 6. It Takes Two 7. Welcome To The 60’s 8. Run And Tell That ! 9. Big, Blonde And Beautiful 10. The Big Dollhouse 11. Good Morning Baltimore Reprise 12. (You’re) Timeless To Me 13. Without Love 14. I Know Where I’ve Been 15. (It’s) Hairspray 16. Cooties 17. You Can’t Stop The Beat (Medley)
+1. Good Morning Baltimore
+2. The Nicest Kids In Tow
+3. Mama, I’m A Big Girl Now
+4. I Can Hear The Bells
+5. (The Legend of) Miss Baltimore Crabs
+6. It Takes Two
+7. Welcome To The 60’s
+8. Run And Tell That !
+9. Big, Blonde And Beautiful
+10. The Big Dollhouse
+11. Good Morning Baltimore Reprise
+12. (You’re) Timeless To Me
+13. Without Love
+14. I Know Where I’ve Been
+15. (It’s) Hairspray
+16. Cooties
+17. You Can’t Stop The Beat (Medley)
+
