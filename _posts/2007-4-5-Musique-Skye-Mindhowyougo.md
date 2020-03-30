@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Musique - Skye - Mind How you go - 2007
+title: Musique - Skye - Mind How you go (2007)
 category : musique
-tags : musique, 2000s, pop-rock
+tags : musique, 2000s, triphop, pop
 ---
 
 **Quelle n’était pas la déception des fans de Morcheeba à l’annonce du départ de la chanteuse Skye, et le dernier album du groupe prenait une tournure plus jazzy que trip hop. Aujourd’hui Skye sort son premier album sous son nom : Mind how you go.**
