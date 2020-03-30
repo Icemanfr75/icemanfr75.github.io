@@ -1,15 +1,21 @@
 ---
 layout: page
-title: About
+title: A propos
 permalink: /about/
 ---
 
-Some information about you!
+Ceci est mon blog mais me sert aussi à me présenter
 
-### More Information
+### Professionnellement
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Sur le web
 
-[email@domain.com](mailto:email@domain.com)
+
+
+### Mes autres activités
+
+
+### Me contacter
+
+[Mon Mail](mailto:icemanfr75@gmail.com)
