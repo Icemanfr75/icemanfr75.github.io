@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Et c'est parti
+title: Musique : Pascal Mono - Intact (2006)
 category : musique
 tags : musique, 2000s, pop-rock
 ---
