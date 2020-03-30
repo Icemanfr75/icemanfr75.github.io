@@ -16,7 +16,7 @@ L’introduction “XMas in Hell” plonge tout de suite dans l’ambiance de ce
 Au final voici un album étonnant dans ce milieu et qui curieusement arrive après un autre concept album, le Humanity des Scorpions, produit aussi par James Michael.
 
 
-[La vidéo](youtube=https://www.youtube.com/watch?v=1OABvU6Mz2g)
+[La vidéo](https://www.youtube.com/watch?v=1OABvU6Mz2g)
 
 Membres : DJ Ashba, Nikki Sixx, James Michael
 
