@@ -13,8 +13,12 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
   
+  <div class="category">
+    Categorie : {{page.category}}
+  </div>
+  
   <div class="tags">
-    Tags {{page.tags}}
+    Tags : {{page.tags}}
   </div>
 
   {% include disqus.html %}
