@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Musique - KISS + Cinder Road - Munich 2008
-tags: concert,hard-rock,live
 category : musique
+tags: concert,hard-rock,live
 ---
 
 **Après Oberhausen, ils étaient à Munich ce week-end. Ils seront dans un mois à Paris. L'occasion de parler d'un des concerts hard rock à ne pas rater cette année. Reportage à Munich pour cet événement.**
@@ -37,7 +37,7 @@ You Wanted the Best… la phrase mythique retentit et le rideau tombe. Descendan
 22. Detroit Rock City
 
 Tout l'album Alive 1 de 1975 est donc joué dans son intégralité (anniversaire oblige Alive 35 years) avec en plus les titres marquants de l'histoire du groupe. Pas de surprise certes, mais de l'efficacité ! Je ne vais pas détailler l'ensemble des morceaux. Ce qui compte c'est l'ambiance, le groupe, la qualité de la prestation. Et on peut dire qu'avec 2 h 20 de concert, on en a pour son argent.
-Rappelons qu'il manque deux des membres originels du groupe, remplacés par <strong>Tommy Thayer</strong> à la guitare solo et <strong>Eric Singer</strong> pour la batterie. A priori, certains diront que nous ne perdons pas au change pour la rapidité… et pourtant. Tommy a l'air totalement absent pendant presque ¾ d'heure et c'est bien dommage. Car, pendant ce temps, <strong>Paul Stanley</strong> est proprement déchaîné. On retrouve le Paul que l'on aime, avec ses facéties, ses mimiques, ses petits pas, ses poses. Incontestablement, il montre ce soir-là qu'il reste un des plus grands frontmen de toute l'histoire du hard rock. A lui seul ce soir, il tient en haleine toute la foule. Car <strong>Gene</strong> est déjà plus en roue libre, faisant son habituel show avec sa démarche de gros monstre, écartant ses ailes de chauve-souris ou tirant la langue aux groupies du premier rang qui lui envoient leur soutien-gorge. Eric est lui aussi très efficace derrière les fûts assurant à la fois au chant et à la batterie. Il paraît pour le coup bien mieux intégré au groupe, n'hésitant pas à mettre le soutien-gorge d'une groupie à Gene à la fin du concert !
+Rappelons qu'il manque deux des membres originels du groupe, remplacés par **Tommy Thayer** à la guitare solo et **Eric Singer** pour la batterie. A priori, certains diront que nous ne perdons pas au change pour la rapidité… et pourtant. Tommy a l'air totalement absent pendant presque ¾ d'heure et c'est bien dommage. Car, pendant ce temps, **Paul Stanley** est proprement déchaîné. On retrouve le Paul que l'on aime, avec ses facéties, ses mimiques, ses petits pas, ses poses. Incontestablement, il montre ce soir-là qu'il reste un des plus grands frontmen de toute l'histoire du hard rock. A lui seul ce soir, il tient en haleine toute la foule. Car **Gene Simmons** est déjà plus en roue libre, faisant son habituel show avec sa démarche de gros monstre, écartant ses ailes de chauve-souris ou tirant la langue aux groupies du premier rang qui lui envoient leur soutien-gorge. Eric est lui aussi très efficace derrière les fûts assurant à la fois au chant et à la batterie. Il paraît pour le coup bien mieux intégré au groupe, n'hésitant pas à mettre le soutien-gorge d'une groupie à Gene à la fin du concert !
 
 Mais Kiss ce n'est pas seulement une collection de hit rarement égalée. C'est aussi une pyrotechnie de haute volée et nous retrouvons les feux d'artifice de toute part. Tommy ne fait pas le même show avec la guitare qu'Ace, mais s'en approche avec une guitare lanceuse de fusées. Gene crache toujours des flammes et du sang, au plus grand bonheur de tout le public, friand de ses moments. Petits ou grands, nous sommes tous comme des gamins devant ce show réglé comme un papier à musique. Car Paul, que certains enterraient vocalement un peu vite, est au meilleur de sa forme. Pas une fausse note. Bien sûr, comme tous les chanteurs de son âge, les notes les plus aiguës ne passent plus et il a fallu prendre quelques morceaux un peu plus bas, sans enlever au charme. Car le charme opère toujours après trente-cinq ans et je ne pense pas avoir vu un visage mécontent à la sortie de ce concert.
 
@@ -47,4 +47,4 @@ Le groupe a beau promettre de revenir, on préfère se contenter de ranger cette
 
 [La Video](http://www.youtube.com/watch?v=630EP3hgwT4)
 
-<a href="http://cheziceman.files.wordpress.com/2014/11/kisslive.jpg"><img class="alignleft size-thumbnail wp-image-4176" src="http://cheziceman.files.wordpress.com/2014/11/kisslive.jpg?w=150" alt="kisslive" width="150" height="112" /></a>
+<a href="http://cheziceman.files.wordpress.com/2014/11/kisslive.jpg"><img src="http://cheziceman.files.wordpress.com/2014/11/kisslive.jpg"></a>
