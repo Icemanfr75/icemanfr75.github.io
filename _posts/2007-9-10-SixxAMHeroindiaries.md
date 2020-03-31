@@ -33,3 +33,5 @@ Membres : DJ Ashba, Nikki Sixx, James Michael
 11. Courtesy Call
 12. Permission
 13. Life After Death
+
+<a href="http://cheziceman.files.wordpress.com/2010/09/sixxheroin.jpg"><img  src="http://cheziceman.files.wordpress.com/2010/09/sixxheroin.jpg" ></a>
