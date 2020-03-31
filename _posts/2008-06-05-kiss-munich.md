@@ -21,6 +21,6 @@ category : musique
 <p style="text-align:justify;">Le groupe a beau promettre de revenir, on préfère se contenter de ranger cette soirée dans la collection des plus beaux concerts de notre vie. Car pour moi, qui ne les avait vus qu'en DVD, c'est un rêve qui se réalise. Et, si parfois les rêves ne correspondent pas à la réalité, celui-ci s'en rapproche particulièrement bien. Il se poursuivra à Paris et en fosse cette fois. S'il y a bien un événement à ne pas rater cette année, c'est celui-là. Kiss is definitely Alive.</p>
 
 <p style="text-align:justify;"><a href="https://www.flickr.com/search/?w=76217081@N04&amp;q=kiss%20munich">Galerie Photo</a></p>
-<p style="text-align:justify;">[La Vidéo](https://www.youtube.com/watch?v=630EP3hgwT4)</p>
+[La Vidéo](https://www.youtube.com/watch?v=630EP3hgwT4)
 
 </div>
