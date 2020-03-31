@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Musique - KISS + Cinder Road - Munich 2008
-tags: concert, hard-rock, live
+tags: concert,hard-rock,live
 category : musique
 ---
 
-<a href="http://cheziceman.files.wordpress.com/2014/11/kisslive.jpg"><img class="alignleft size-thumbnail wp-image-4176" src="http://cheziceman.files.wordpress.com/2014/11/kisslive.jpg?w=150" alt="kisslive" width="150" height="112" /></a>
 **Après Oberhausen, ils étaient à Munich ce week-end. Ils seront dans un mois à Paris. L'occasion de parler d'un des concerts hard rock à ne pas rater cette année. Reportage à Munich pour cet événement.**
-
 
 20 heures ou presque : la première partie du concert commence avec le groupe américain Cinder Road. Pas de logo sur la scène pour ce groupe pop rock plutôt jeune. Un chanteur guitariste, plus deux autres gratteux, un bassiste et un batteur constituent ce combo qui fait ce qu'il peut pour s'attirer les faveurs de la foule des "die hard fans" du premier rang. Un titre hard au début qui hélas laisse place à des titres plus banals et pop ensuite jusqu'à une reprise des Guns… Leur prestation, honnête pour qui aime le style, dure une demi-heure environ et il nous reste donc à attendre en principe une grosse demi-heure pour les stars de la soirée : KISS. Cinder Road en profite pour vendre ensuite et dédicacer leur album sur un stand.
 
@@ -48,3 +46,5 @@ Le Alive se termine avec une pluie de confettis sur le classique Rock'n'roll all
 Le groupe a beau promettre de revenir, on préfère se contenter de ranger cette soirée dans la collection des plus beaux concerts de notre vie. Car pour moi, qui ne les avait vus qu'en DVD, c'est un rêve qui se réalise. Et, si parfois les rêves ne correspondent pas à la réalité, celui-ci s'en rapproche particulièrement bien. Il se poursuivra à Paris et en fosse cette fois. S'il y a bien un événement à ne pas rater cette année, c'est celui-là. Kiss is definitely Alive.
 
 [La Video](http://www.youtube.com/watch?v=630EP3hgwT4)
+
+<a href="http://cheziceman.files.wordpress.com/2014/11/kisslive.jpg"><img class="alignleft size-thumbnail wp-image-4176" src="http://cheziceman.files.wordpress.com/2014/11/kisslive.jpg?w=150" alt="kisslive" width="150" height="112" /></a>
