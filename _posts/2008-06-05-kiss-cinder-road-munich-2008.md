@@ -1,9 +1,10 @@
-﻿---
+---
 layout: post
 title: Musique : KISS + Cinder Road - Munich 2008
 tags: concert, hard-rock, live
 category : musique
 ---
+
 <p style="text-align:justify;"><strong><a href="http://cheziceman.files.wordpress.com/2014/11/kisslive.jpg"><img class="alignleft size-thumbnail wp-image-4176" src="http://cheziceman.files.wordpress.com/2014/11/kisslive.jpg?w=150" alt="kisslive" width="150" height="112" /></a>Après Oberhausen, ils étaient à Munich ce week-end. Ils seront dans un mois à Paris. L'occasion de parler d'un des concerts hard rock à ne pas rater cette année. Reportage à Munich pour cet événement.</strong></p>
 
 <div class="rss_texte">
@@ -18,7 +19,7 @@ category : musique
 <p style="text-align:justify;">Mais Kiss ce n'est pas seulement une collection de hit rarement égalée. C'est aussi une pyrotechnie de haute volée et nous retrouvons les feux d'artifice de toute part. Tommy ne fait pas le même show avec la guitare qu'Ace, mais s'en approche avec une guitare lanceuse de fusées. Gene crache toujours des flammes et du sang, au plus grand bonheur de tout le public, friand de ses moments. Petits ou grands, nous sommes tous comme des gamins devant ce show réglé comme un papier à musique. Car Paul, que certains enterraient vocalement un peu vite, est au meilleur de sa forme. Pas une fausse note. Bien sûr, comme tous les chanteurs de son âge, les notes les plus aiguës ne passent plus et il a fallu prendre quelques morceaux un peu plus bas, sans enlever au charme. Car le charme opère toujours après trente-cinq ans et je ne pense pas avoir vu un visage mécontent à la sortie de ce concert.</p>
 <p style="text-align:justify;">Le Alive se termine avec une pluie de confettis sur le classique Rock'n'roll all Nite… Et nous avons bien envie de danser, sauter et chanter du rock'n'roll toute cette nuit ! Kiss l'a bien compris et revient pour les numéros bien connus de l'envol de Gene au sommet de la salle et celui de Paul pour rejoindre le milieu du public sur une petite scène, accrochée sur un anneau. On ne s'en lasse toujours pas ! Le show se termine sur un Detroit Rock City tonitruant, mais qui laisse évidemment un goût amer puisque c'est le dernier morceau de cette magnifique soirée.</p>
 <p style="text-align:justify;">Le groupe a beau promettre de revenir, on préfère se contenter de ranger cette soirée dans la collection des plus beaux concerts de notre vie. Car pour moi, qui ne les avait vus qu'en DVD, c'est un rêve qui se réalise. Et, si parfois les rêves ne correspondent pas à la réalité, celui-ci s'en rapproche particulièrement bien. Il se poursuivra à Paris et en fosse cette fois. S'il y a bien un événement à ne pas rater cette année, c'est celui-là. Kiss is definitely Alive.</p>
-<p style="text-align:justify;"><em><strong>Iceman</strong></em></p>
+
 <p style="text-align:justify;"><a href="https://www.flickr.com/search/?w=76217081@N04&amp;q=kiss%20munich">Galerie Photo</a></p>
 <p style="text-align:justify;">[youtube=https://www.youtube.com/watch?v=630EP3hgwT4]</p>
 
