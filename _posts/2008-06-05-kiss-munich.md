@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Musique : KISS + Cinder Road - Munich 2008
+title: Musique - KISS + Cinder Road - Munich 2008
 tags: concert, hard-rock, live
 category : musique
 ---
