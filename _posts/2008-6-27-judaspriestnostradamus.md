@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Musique : Judas Priest - Nostradamus (2008)
+title: Musique - Judas Priest - Nostradamus (2008)
 category: musique
 tags: metal, 2000s, musique
 ---
