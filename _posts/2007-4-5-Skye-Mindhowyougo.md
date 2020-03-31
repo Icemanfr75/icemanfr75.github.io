@@ -13,6 +13,6 @@ J’attendais évidemment beaucoup de cet album et tout semble bien commencer pa
 
 EDIT : Elle a collaboré depuis avec le collectif Nouvelle Vague de Marc Collin et prépare un album que l’on espère en 2009. Mais surprise, elle fait son retour dans Morcheeba en 2010 pour un nouvel album.
 
-[La video](youtube https://www.youtube.com/watch?v=NPPmoce-HsI?rel=0)
+[La video](https://www.youtube.com/watch?v=NPPmoce-HsI?rel=0)
 
 <a href="http://cheziceman.files.wordpress.com/2010/09/skyemind.jpg"><img  src="http://cheziceman.files.wordpress.com/2010/09/skyemind.jpg"></a>
