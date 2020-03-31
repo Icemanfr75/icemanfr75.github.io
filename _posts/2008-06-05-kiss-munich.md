@@ -44,7 +44,5 @@ Mais Kiss ce n'est pas seulement une collection de hit rarement égalée. C'est 
 Le Alive se termine avec une pluie de confettis sur le classique Rock'n'roll all Nite… Et nous avons bien envie de danser, sauter et chanter du rock'n'roll toute cette nuit ! Kiss l'a bien compris et revient pour les numéros bien connus de l'envol de Gene au sommet de la salle et celui de Paul pour rejoindre le milieu du public sur une petite scène, accrochée sur un anneau. On ne s'en lasse toujours pas ! Le show se termine sur un Detroit Rock City tonitruant, mais qui laisse évidemment un goût amer puisque c'est le dernier morceau de cette magnifique soirée.
 
 Le groupe a beau promettre de revenir, on préfère se contenter de ranger cette soirée dans la collection des plus beaux concerts de notre vie. Car pour moi, qui ne les avait vus qu'en DVD, c'est un rêve qui se réalise. Et, si parfois les rêves ne correspondent pas à la réalité, celui-ci s'en rapproche particulièrement bien. Il se poursuivra à Paris et en fosse cette fois. S'il y a bien un événement à ne pas rater cette année, c'est celui-là. Kiss is definitely Alive.
-
 [La Video](http://www.youtube.com/watch?v=630EP3hgwT4)
-
 <a href="http://cheziceman.files.wordpress.com/2014/11/kisslive.jpg"><img src="http://cheziceman.files.wordpress.com/2014/11/kisslive.jpg"></a>
