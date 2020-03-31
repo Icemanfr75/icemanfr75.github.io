@@ -5,7 +5,7 @@ tags: concert, hard-rock, live
 category : musique
 ---
 
-<p style="text-align:justify;"><strong><a href="http://cheziceman.files.wordpress.com/2014/11/kisslive.jpg"><img class="alignleft size-thumbnail wp-image-4176" src="http://cheziceman.files.wordpress.com/2014/11/kisslive.jpg?w=150" alt="kisslive" width="150" height="112" /></a>Après Oberhausen, ils étaient à Munich ce week-end. Ils seront dans un mois à Paris. L'occasion de parler d'un des concerts hard rock à ne pas rater cette année. Reportage à Munich pour cet événement.</strong></p>
+**<a href="http://cheziceman.files.wordpress.com/2014/11/kisslive.jpg"><img class="alignleft size-thumbnail wp-image-4176" src="http://cheziceman.files.wordpress.com/2014/11/kisslive.jpg?w=150" alt="kisslive" width="150" height="112" /></a>Après Oberhausen, ils étaient à Munich ce week-end. Ils seront dans un mois à Paris. L'occasion de parler d'un des concerts hard rock à ne pas rater cette année. Reportage à Munich pour cet événement.**
 
 <div class="rss_texte">
 <p style="text-align:justify;">20 heures ou presque : la première partie du concert commence avec le groupe américain <strong>Cinder Road</strong>. Pas de logo sur la scène pour ce groupe pop rock plutôt jeune. Un chanteur guitariste, plus deux autres gratteux, un bassiste et un batteur constituent ce combo qui fait ce qu'il peut pour s'attirer les faveurs de la foule des "die hard fans" du premier rang. Un titre hard au début qui hélas laisse place à des titres plus banals et pop ensuite jusqu'à une reprise des Guns… Leur prestation, honnête pour qui aime le style, dure une demi-heure environ et il nous reste donc à attendre en principe une grosse demi-heure pour les stars de la soirée : KISS. Cinder Road en profite pour vendre ensuite et dédicacer leur album sur un stand.</p>
@@ -22,4 +22,5 @@ category : musique
 
 <p style="text-align:justify;"><a href="https://www.flickr.com/search/?w=76217081@N04&amp;q=kiss%20munich">Galerie Photo</a></p>
 </div>
-[La Video](https://www.youtube.com/watch?v=630EP3hgwT4)
+<div>
+[La Video](https://www.youtube.com/watch?v=630EP3hgwT4)</div>
