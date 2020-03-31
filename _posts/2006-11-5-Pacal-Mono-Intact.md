@@ -49,3 +49,5 @@ Bilan : Un album moyen et trop tiède. Les 3 excellents morceaux que j’ai not�
 12. – Avec des mots
 
 [En vidéo](https://www.youtube.com/watch?v=bX4mMVTzYcM?rel=0)
+
+<a href="http://cheziceman.files.wordpress.com/2010/09/monointact1.jpg"><img src="http://cheziceman.files.wordpress.com/2010/09/monointact1.jpg></a>
