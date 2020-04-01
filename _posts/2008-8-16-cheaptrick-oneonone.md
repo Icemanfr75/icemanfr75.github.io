@@ -34,4 +34,4 @@ Membres : Rick Nielsen, Robin Zander, John Brant, Bun E Carlos
 10. I Want Be Man
 11. Four Letter Word
 
-[cover](http://cheziceman.files.wordpress.com/2010/09/cheaptrickone1.jpg)
+![cover](http://cheziceman.files.wordpress.com/2010/09/cheaptrickone1.jpg)
