@@ -2,7 +2,7 @@
 layout: post
 title: Musique - KISS + Cinder Road - Munich 2008
 category : musique
-tags: concert,hard-rock,live
+tags: concert,hard-rock,live,musique
 ---
 
 **Après Oberhausen, ils étaient à Munich ce week-end. Ils seront dans un mois à Paris. L'occasion de parler d'un des concerts hard rock à ne pas rater cette année. Reportage à Munich pour cet événement.**
