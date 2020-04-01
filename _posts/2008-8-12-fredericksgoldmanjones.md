@@ -5,7 +5,7 @@ category: musique
 tags: musique, pop, 1990s
 ---
 
-**En 1990, après 10 ans de carrière solo, Jean Jacques Goldman sort un album avec ses deux camarades de scènes, Carole Fredericks et Michael Jones, sous le nom Fredericks- Goldman – Jones. **
+**En 1990, après 10 ans de carrière solo, Jean Jacques Goldman sort un album avec ses deux camarades de scènes, Carole Fredericks et Michael Jones, sous le nom Fredericks- Goldman – Jones.**
 
 Sa carrière a commencé en 1975 avec **Tai Phong**, qui rencontre un petit succès d'estime. Mais déjà il est attiré par une carrière solo. En 1981 c'est le premier album sous son propre nom et le premier grand succès avec Il suffira d'un signe.** Michael Jones** le rejoint sur la tournée du deuxième album, alors qu'ils se sont croisés à l'époque de Tai Phong. En 1985, ils sortent le duo Je te donne sur le troisième album solo de Jean Jacques. Et le quatrième album studio, Entre gris clair et gris foncé, énorme carton dans les charts, marque aussi la rencontre avec la chanteuse **Carole Fredericks** qui les accompagne sur la tournée et qui a de nombreuses années de choriste en France avec les plus grands. Goldman est alors l'artiste incontournable en France, demandé par les plus grands pour composer des chansons.
 
