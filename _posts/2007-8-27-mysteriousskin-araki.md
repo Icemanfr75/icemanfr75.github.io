@@ -2,7 +2,7 @@
 layout: post
 title: Cinéma - Mysterious Skin de Greg Araki (2004)
 category: cinéma
-tags : 2000s, adolescence, Cinéma, pédocriminalité, usa
+tags : 2000s, adolescence,cinema, pédocriminalité, usa
 ---
 ***Je n’ai pas pour habitude d’écrire à chaud des chroniques de films. Mais parfois, il y a des ovnis, des films extraordinaires qui bouleversent, qui choquent. Mysterious Skin, du cinéaste Greg Araki est de ceux là.***
 
