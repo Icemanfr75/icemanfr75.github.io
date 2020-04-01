@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Musique : R.E.M. - Automatic for the People
+title: Musique - R.E.M. - Automatic for the People (1992)
 category: musique
 tags: musique, 1990s, pop, rock
 ---
