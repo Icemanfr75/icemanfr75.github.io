@@ -18,7 +18,7 @@ On termine tout de même par un Four Letter word beaucoup plus heavy, si on peut
 Si le line up est différent, cet album marque bien la fin d'une époque pour le groupe qui va entamer une longue traversée du désert, peu aidé par leur maison de disques. La situation revient à la normale dans les années 2000 et le groupe fête son anniversaire sur scène à Rockford lors d'un superbe concert édité en DVD. L'album Rockford de 2006 montre que le groupe est bien vivant encore.
 
 
-[youtube=https://www.youtube.com/watch?v=BJs_L7yq5qE]
+[La Video](https://www.youtube.com/watch?v=BJs_L7yq5qE)
 
 Membres : Rick Nielsen, Robin Zander, John Brant, Bun E Carlos
 
