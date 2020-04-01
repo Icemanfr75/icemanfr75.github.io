@@ -61,7 +61,10 @@ document.getElementById('query').value = encodeHTML(document.getElementById('que
     </div>
 
     <div id="main" role="main" class="container">
-      {{ content }}
+      
+{% for post in site.posts limit:10 %}
+{{ content }}
+{% endfor %}
     </div>
 
     <div class="wrapper-footer">
