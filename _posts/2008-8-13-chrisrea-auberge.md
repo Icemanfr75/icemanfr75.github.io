@@ -6,7 +6,7 @@ tags: blues, musique, pop, rock, 1990s
 ---
 
 
-**La fin des années 90 est l'apogée de la carrière de l'auteur compositeur interprète Chris Rea. **
+**La fin des années 90 est l'apogée de la carrière de l'auteur compositeur interprète Chris Rea.**
 
 Cet anglais à la voix grave rocailleuse et au son de guitare bluesy comptait déjà de gros succès depuis les années 80 avec Fool dès 1978, joué au piano pourtant puis Josephine sur l'album Shamrock Diaries en 1985, et On The Beach en 1986 qui lui fait faire la première partie sur quelques dates de la dernière tournée de **Queen**. En 1989, c'est la consécration dans son pays pour cet originaire de Middlesbrough et fils d'émigré italien, avec l'album Road to Hell, plus rock que les précédents. Et en 1991, il réussit à poursuivre ce succès avec ce magnifique album : Auberge.
 
