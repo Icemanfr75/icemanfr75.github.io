@@ -1,0 +1,20 @@
+---
+layout: default
+title: Geekeries
+---
+
+<div class="posts">
+   <h2>Geekeries</h2>
+  <ul>
+    {% for post in site.posts %}
+    {% if post.category contains "geek" %}
+    <li>
+      <span class="date">{{ post.date | date: "%B %e, %Y" }} - </span>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
+      <span class="category">{{ post.category | categorie : "%B" }}</span>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
