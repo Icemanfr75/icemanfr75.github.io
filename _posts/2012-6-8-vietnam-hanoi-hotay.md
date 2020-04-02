@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Environnement - Hanoi et la mort du lac Ho Tay
-Category: environnement, tourisme
+category: environnement, tourisme
 tags: culture, environnement, pollution, tourisme, vietnam
 ---
 **Hanoï est une ville émaillée de lacs. Le plus grand est le lac Ho Tay ou, encore, lac de l’ouest. Vaste étendue d’eau de 13 km de circonférence qui a inspiré bien des poètes, elle doit maintenant faire face à un nouvel ennemi… la pollution.**
