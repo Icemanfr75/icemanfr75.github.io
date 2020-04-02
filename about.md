@@ -18,6 +18,7 @@ Ceci est mon blog mais me sert aussi à me présenter
 * 2012-2015 : Rédacteur sur le webzine culturel [unidivers](https://www.unidivers.fr)
 * 2005-Aujourd'hui : Blogueur sur spip, dotclear, wordpress (autohébergé ou non : [blog principal](https://cheziceman.wordpress.com) )
 * 2006-2018 : création et gestion des sites Au Joyeux Végé et Histozic.fr
+* 2002-2005 : rédacteur sur Agoravox. Community manager sur divers forums.
 * 2000 : Rédacteur sur le site l'abeille.net (BeOS)
 
 ### Mes autres activités
