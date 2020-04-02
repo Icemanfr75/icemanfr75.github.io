@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Photographie - Les expositions photos seront numériques
-category: culture
+category: geek
 tags: culture,futur,geek,internet,photographie
 ---
 ***Dans cet article, je prendrai l’exemple du leader de l’hébergement de photos dans le monde, mais cela reste valable pour les concurrents, de plus en plus nombreux. La photographie a définitivement tourné une page avec l’abandon progressif de l’argentique par les fabricants de matériel et de médias. Il reste un maigre marché de passionnés pour quelques fabricants marginaux. Mais parallèlement à cela le comportement des photographes, amateurs ou professionnels, a évolué. Ainsi, les expositions photos deviendront probablement plus digitales.***
