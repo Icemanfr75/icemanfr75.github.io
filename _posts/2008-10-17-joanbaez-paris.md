@@ -26,7 +26,7 @@ La set list est donc la suivante :
  10. Rose of Sharon 
  11. Day after Tomorrow
  
- ![cover](http://chez.files.wordpress.com/2010/09/baezparis1.jpg)
+ ![cover](http://cheziceman.files.wordpress.com/2010/09/baezparis1.jpg)
 
 Nous apprendrons ainsi qu'elle soutient, sans surprise, Barrack Obama. Les lumières créent une atmosphère de cathédrale pour With god on our side. Elle termine de manière surprenant sur un titre du dernier album, le très réussi Day after Tomorrow. Souriante, elle revient pour un premier rappel :
 
