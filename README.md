@@ -10,6 +10,8 @@ Un moteur de recherche (qwant) a été ajouté par rapport à l'original.
 
 Un sitemap automatique a été ajouté
 
+Des menus thématiques basés sur "category" ont été créés dans les Pages
+
 
 ## Credits
 
