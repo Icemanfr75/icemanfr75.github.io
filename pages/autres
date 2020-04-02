@@ -1,0 +1,35 @@
+---
+layout: default
+title: Autres sujets - Automobile, Géopolitique
+---
+
+<div class="posts">
+   <h2>Automobile</h2>
+  <ul>
+    {% for post in site.posts %}
+    {% if post.category contains "automobile" %}
+    <li>
+      <span class="date">{{ post.date | date: "%B %e, %Y" }} - </span>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
+      <span class="category">{{ post.category | categorie : "%B" }}</span>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="posts">
+  <h2>Géopolitique</h2>
+  <ul>
+    {% for post in site.posts %}
+    {% if post.category contains "geopolitique" %}
+    <li>
+      <span class="date">{{ post.date | date: "%B %e, %Y" }} - </span>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
+      <span class="category">{{ post.category | categorie : "%B" }}</span>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
