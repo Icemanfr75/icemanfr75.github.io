@@ -1,0 +1,22 @@
+---
+layout: default
+title: Tutoriels
+---
+
+<div class="posts">
+   <h2>Tutoriels</h2>
+  <ul>
+    {% for post in site.posts %}
+    {% if post.category contains "tuto" %}
+    <li>
+      <span class="date">{{ post.date | date: "%B %e, %Y" }} - </span>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
+      <span class="category">{{ post.category | categorie : "%B" }}</span>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
+
+
