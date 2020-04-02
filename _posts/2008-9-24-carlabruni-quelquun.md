@@ -36,5 +36,5 @@ Production et arrangements : Louis Bertignac
 11. L'amour
 12. La dernière minute
 
-![cover](http://histozic.free.fr/wp-content/uploads/brunidit.jpg)
+![cover](https://hebdozic.files.wordpress.com/2014/11/brunidit.jpg?w=300&h=200&crop=1)
 
