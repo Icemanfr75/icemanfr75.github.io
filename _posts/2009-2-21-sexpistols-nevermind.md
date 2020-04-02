@@ -25,6 +25,17 @@ N'empêche,"The bollocks" est un tel brûlot, avec l'énergie, des refrains et c
 
 Membres : Johnny Rotten, Steve Jones, Paul Cook, Sid Vicious
 
-1. Holidays in the Sun 2. Bodies 3. No Feelings 4. Liar 5. God Save The Queen 6. Problems 7. Seventeen 8. Anarchy in the U.K. 9. Submission 10. Pretty Vacant 11. New York 12. EMI
+1. Holidays in the Sun 
+2. Bodies 
+3. No Feelings 
+4. Liar 
+5. God Save The Queen 
+6. Problems 
+7. Seventeen 
+8. Anarchy in the U.K. 
+9. Submission 
+10. Pretty Vacant 
+11. New York 
+12. EMI
 
 ![cover](http://cheziceman.files.wordpress.com/2014/11/sexpistols.jpg)
