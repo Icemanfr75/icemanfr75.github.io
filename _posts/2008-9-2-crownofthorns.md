@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Musique : Crown of Thorns - Crown of Thorns (1994)
+title: Musique - Crown of Thorns - Crown of Thorns (1994)
 category: musique
 tags: hard fm, 1990s, musique,
 ---
