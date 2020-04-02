@@ -14,7 +14,8 @@ L'album commence par sa désormais fameuse intro en arpège du titre du même no
 Blue Sky Mining confirmera le succès du précédent album et permet au groupe de continuer sur sa lancée. Un Live vient démontrer toute l'énergie du groupe sur scène en 1992. Et l'album studio suivant, Earth, Sun and Moon, s'il reste un succès, marque quand même le pas. Les albums suivant se perdent trop dans les styles en vogue à l'époque et déçoivent. Peter Garrett est peut être aussi plus intéressé par une carrière politique qui décolle enfin. Le groupe se rappelle à nos bons souvenirs lors des jeux olympiques de Sidney. Et en 2002, le groupe clôt une carrière très riche. Peter Garrett accède au poste de ministre de l'environnement en 2007.
 
 
-[La Video](youtube=https://www.youtube.com/watch?v=Ofrqm6-LCqs)
+[La Video](https://www.youtube.com/watch?v=Ofrqm6-LCqs)
+
 Membres : Rob Hirst, Martin Rotsey, Jim Moginie, Andrew "Bear" James, Peter Garrett
 
 1. Blue Sky Mine
