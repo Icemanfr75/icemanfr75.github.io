@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cinéma et Musique - Tous en scène de Vincente Minelli (1953)
-category: musique,cinema
+category: musique , cinema
 tags: cinema,comedie musicale,musical, musique, 1950s
 ---
 
