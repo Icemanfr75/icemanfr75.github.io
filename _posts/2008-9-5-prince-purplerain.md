@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Musique : Prince and The Revolution - Purple Rain
+title: Musique - Prince and The Revolution - Purple Rain
 category: musique
 tags: funk,musique,rap,RnB,soul,1980s
 ---
