@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nolwenn Leroy – Histoires Naturelles (2008)
+title: Musique - Nolwenn Leroy – Histoires Naturelles (2008)
 category: musique
 tags: musique,pop
 ---
