@@ -6,6 +6,7 @@ layout: default
   <ul>
     {% for post in site.posts %}
     {% if post.category == "musique" %}
+    Musique : 
     <li>
       <span class="date">{{ post.date | date: "%B %e, %Y" }} - </span>
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
