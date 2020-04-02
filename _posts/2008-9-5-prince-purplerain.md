@@ -15,7 +15,8 @@ Acclamé par les critiques, les professionnels et le public, Prince devient une 
 
 [La Video](https://www.youtube.com/watch?v=7NN3gsSf-Ys)
 
-Production, arrangements, composition : Prince Participation de John Nelson, Wendy and Lisa, Dr Fink pour les compositions.
+Production, arrangements, composition : Prince
+Participation de John Nelson, Wendy and Lisa, Dr Fink pour les compositions.
 Membre des Revolution : Prince, Wendy Melvoin, Lisa Coleman, Dr Fink, Bobby Z, Brown Mark.
 
 1- Let's Go Crazy
