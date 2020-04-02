@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Autres sujets - Automobile, Géopolitique
+title: Autres sujets - Automobile, Géopolitique, Environnement
 ---
 
 <div class="posts">
@@ -33,3 +33,17 @@ title: Autres sujets - Automobile, Géopolitique
   </ul>
 </div>
 
+<div class="posts">
+  <h2>Environnement</h2>
+  <ul>
+    {% for post in site.posts %}
+    {% if post.category contains "environnement" %}
+    <li>
+      <span class="date">{{ post.date | date: "%B %e, %Y" }} - </span>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
+      <span class="category">{{ post.category | categorie : "%B" }}</span>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
