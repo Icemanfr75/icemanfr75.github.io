@@ -30,5 +30,5 @@ Membres : Kurt Cobain, Krist Novoselic, Dave Grohl
 11. On a Plain 
 12. Something in the Way
 
-![cover](http://chez.files.wordpress.com/2014/11/nirvananevermind.jpg)
+![cover](http://cheziceman.files.wordpress.com/2014/11/nirvananevermind.jpg)
 
