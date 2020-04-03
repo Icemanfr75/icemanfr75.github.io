@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Végétarisme au quotidien : L'énergie japonaise
+title: Végétarisme au quotidien - L'énergie japonaise
 category: tourisme, vegan
 tags: alimentation, énergie, culture, japon, lifestyle, vegan
 ---
