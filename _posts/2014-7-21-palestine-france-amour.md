@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Géopolitique - Palestine-France, Nous nous sommes tant aimés
-category: geopolitique
+category: geopolitique, english
 tags: france, gaza, geopolitique, israel, manifestation, palestine, racisme
 ---
 **En l'espace d'une Semaine, le gouvernement français a réussi l'exploit de fragiliser un pays qui ne pensait pourtant qu'aux vacances. Retour sur cette semaine qui rimerait avec migraine.**
