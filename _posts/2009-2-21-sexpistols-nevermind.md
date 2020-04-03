@@ -39,3 +39,4 @@ Membres : Johnny Rotten, Steve Jones, Paul Cook, Sid Vicious
 12. EMI
 
 ![cover](http://cheziceman.files.wordpress.com/2014/11/sexpistols.jpg)
+
