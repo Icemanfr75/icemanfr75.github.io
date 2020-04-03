@@ -41,7 +41,7 @@ Les titres de Queen s'enchainent devant une salle quasi-comble maintenant, à l'
 26. We Are The Champions 
 27. God Save The Queen
 
-![cover](http://chez.files.wordpress.com/2014/11/queenparis.jpg)
+![cover](http://cheziceman.files.wordpress.com/2014/11/queenparis.jpg)
 
 La scène comprend une avancée en son centre jusqu'à une petite avancée où peuvent s'installer les musiciens. Après le classique "I Want to Break Free", le groupe reprend le single du dernier album qui rencontre un succès mitigé et un titre de Paul Rodgers. Ce que le public attend, c'est de voir Brian May et sa 12 cordes au milieu de la salle pour un "Love of my life" chargé d'émotion. Il entonne ensuite un « morceau folk d'un ami », c'est-à-dire le fameux "39" de A night at the Opera. Une fois n'est pas coutume, il ajoute à la grosse caisse de Roger Taylor, une basse électrique et un accordéon. La transition est ainsi toute trouvée pour laisser la scène à Taylor qui va d'abord jouer de la basse électrique avec les baguettes puis entamer un long solo où les roadies apportent un à un les éléments de batterie. Il enchaine sur son "I'm in love with my car" et "Say it's not true" issu encore du dernier album. Paul Rodgers prend le relais pour des morceaux de Bad Company. Le public, venu en large majorité pour Queen, n'apprécie guère et semble presque s'endormir malgré l'énergie du refrain de "Feel like makin' love". C'est enfin au tour de Brian May, malheureusement trop cantonné au centre de la salle, d'entamer son solo. C'est d'abord son habituel solo bâti autour de "Brighton Rock" mais il a le malheur de poursuivre avec des morceaux instrumentaux, très beaux certes, mais faisant durer le repos de Rodgers et Taylor trop longtemps.
 
