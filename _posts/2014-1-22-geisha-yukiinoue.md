@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Littérature - Mémoires d'une Geisha de Yuki Inoue
+title: Littérature - Mémoires d'une Geisha de Yuki Inoue (1993)
 category: litterature
-tags: geisha, guerre, histoire, japon, litterature
+tags: geisha, guerre, histoire, japon, litterature, 1990s
 ---
 
 **Quand on parle de la femme au Japon, l’icône de la Geisha ne tarde pas nourrir la conversation. Et, en matière de lecture consacrée à ces mondaines accomplies, artistes et courtisanes, c’est souvent le livre d’Arthur Golden qui s’invite, malgré une bien mauvaise adaptation au cinéma. Un autre ouvrage moins connu mériterait pourtant d’être mis en avant, Les Mémoires d’une geisha de Yuki Inoue.**
