@@ -1,6 +1,6 @@
 ---
 layout: post
-title: littérature - la nuit des enfants roide Bernard Lenteric (1981)
+title: Littérature - La Nuit des enfants rois de Bernard Lenteric (1981)
 category: litterature, cinema
 tags: litterature, cinema, 1980s
 ---
