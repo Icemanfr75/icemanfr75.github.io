@@ -8,8 +8,9 @@ tags: automobile, énergie, environnement, nucléaire, voiture électrique
 Voyons d’abord la question des rejets de CO2, Monsieur Prud’homme ayant concentré son argumentaire sur ce seul polluant. Il nous rappelle qu’une vache rejette 2,4 tonnes de CO2/an. Il fait donc l’amalgame entre les vaches laitières et les vaches dites « à viande », lesquelles n’ont ni la même durée de vie, ni les même rejets, ceux-ci oscillant entre 1,3 à 2,6 Tonnes de CO2. Ce n’est pas à un végétarien que l’on apprendra cela mais il était bon de le rappeler. Par contre, il calcule le rejet d’une voiture diesel à 1,3 Tonnes/an.
 
 Si on veut comparer ce qui est comparable, deux solutions :
-–          Hypothèse 1 : On prend une utilisation de voiture citadine classique, c’est-à-dire de la taille d’une Peugeot 107. Elle fait 110g CO2/km et roule moins de 10000 km/an. Dans ce cas on obtient 1,1T/an
-–          Hypothèse 2 : On prend le véhicule diesel moyen, tel que défini annuellement par les études. Elle fait donc 125g CO2/km et roule plus de 17000km/an. Là on grimpe à 2,1T/an
+
+* Hypothèse 1 : On prend une utilisation de voiture citadine classique, c’est-à-dire de la taille d’une Peugeot 107. Elle fait 110g CO2/km et roule moins de 10000 km/an. Dans ce cas on obtient 1,1T/an
+* Hypothèse 2 : On prend le véhicule diesel moyen, tel que défini annuellement par les études. Elle fait donc 125g CO2/km et roule plus de 17000km/an. Là on grimpe à 2,1T/an
 
 Partons donc sur l’hypothèse 1 pour être totalement cohérent.
 Nous avons donc en face un véhicule électrique qui parcourt moins de 100km/jour (le besoin étant fixé à 70km/jour  d’après les études actuelles) compte tenu des autonomies annoncées, minorées par l’utilisation d’accessoires de confort comme climatisation, autoradio, GPS. M. Prud’homme joue sur l’amalgame entre des pays qui n’ont rien à voir. Ainsi la densité de population et les ressources du Japon, pays en pointe dans l’électrique, n’ont rien à voir avec la Chine. Les besoins et habitudes sont donc bien différents comme le seront les réponses à fournir en matière de mobilité. Concentrons nous donc sur le problème français puisque c’est la base de son édito.
