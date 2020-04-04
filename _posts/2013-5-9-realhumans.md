@@ -4,8 +4,7 @@ title: Série -  Real Humans de Lars Lundström (2012)
 category: serie, geek
 tags: futur, geek, Geekeries, robot, robotisation, série, télévision
 ---
-**Campagne d’affichage inhabituelle et massive de la part d’Arte. Dithyrambes et éloges côté critique… Real Humans, la nouvelle série suédoise de la chaîne franco-allemande a tout pour attirer. Une réelle réussite
-**
+**Campagne d’affichage inhabituelle et massive de la part d’Arte. Dithyrambes et éloges côté critique… Real Humans, la nouvelle série suédoise de la chaîne franco-allemande a tout pour attirer. Une réelle réussite**
 
 Dans cette série d’anticipation (de science-fiction, diront certains), les humains ont créé des robots à leur image (les Hu-Bots pour Human Robots). La raison est bien connue : pour les assister et les soulager dans leurs tâches quotidiennes, voire même un peu plus… D’emblée, la problématique, elle aussi bien connue, irrigue l’ensemble : êtres vivants ou objets ? Machines que l’on peut pirater et améliorer et échanger ou  êtres sensibles aimables comme son prochain ? Leo, le héros de l’histoire, (un humain qui semble en partie robotisé) a choisi son camp : il erre avec des robots rescapés dans un monde triste et décadent.
 
