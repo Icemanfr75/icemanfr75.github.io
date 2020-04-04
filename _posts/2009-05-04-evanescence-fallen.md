@@ -18,7 +18,7 @@ La recette n'est pas nouvelle mais elle prend une dimension plus grand public. D
 Mais à la surprise générale, Ben Moody quitte le groupe pour composer pour d'autres. Il est remplacé sur la tournée en cours par **Terry Balsamo** mais cela compromet évidemment la préparation du second album, très attendu. Ce sera The Open Door qui décevra par l'efficacité moindre des chansons et surtout des mélodies. En 2007, ce sont Rocky et John qui partent à leur tour. Mais cela n'entame pas la volonté d'Amy Lee de pousser le groupe toujours plus loin....vers un troisième album.
 
 
-[La Video}(https://www.youtube.com/watch?v=CdhqVtpR2ts)
+[La Video](https://www.youtube.com/watch?v=CdhqVtpR2ts)
 
 Membres : Ben Moody, Amy Lee, John Le Compte, Rocky Gray, William Boyd
 
