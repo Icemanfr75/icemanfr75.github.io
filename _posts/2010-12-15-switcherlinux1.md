@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tuto :  Switcher sous Linux  Etape 1 - Le Choix
+title: Tuto - Switcher sous Linux  Etape 1 - Le Choix
 category: tuto
 tags: distribution, linux, logiciel libre, tutoriel
 ---
