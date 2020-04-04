@@ -30,4 +30,4 @@ Membres : Jon Crosby
 10. Somewhere Else to Be 
 11. You
 
-!{cover](http://cheziceman.files.wordpress.com/2014/11/vast.jpg)
+![cover](http://cheziceman.files.wordpress.com/2014/11/vast.jpg)
