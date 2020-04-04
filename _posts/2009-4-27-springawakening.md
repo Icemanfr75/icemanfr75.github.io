@@ -28,4 +28,4 @@ Mise en scène : Michael Mayer, Bill T Jones
 
 Chansons : - “Mama Who Bore Me” – Wendla - “Mama Who Bore Me (Reprise)” – Wendla and Girls - “All That's Known” – Melchior - “The Bitch of Living” – Moritz, Melchior and Boys - “My Junk” – Boys and Girls - “Touch Me” – Boys and Girls - “The Word of Your Body” – Wendla and Melchior - “The Dark I Know Well” – Martha, Ilse and Boys - “And Then There Were None” – Moritz and Boys - “The Mirror-Blue Night” – Melchior and Boys - “I Believe” – Boys and Girls - “There Once Was a Pirate”/“The Guilty Ones” – Wendla, Melchior, Boys and Girls - “Don't Do Sadness” – Moritz - “Blue Wind” – Ilse - “Don't Do Sadness/Blue Wind” – Moritz and Ilse - “Left Behind” – Melchior, Boys and Girls - “Totally Fucked” – Melchior and Full Company (except Moritz) - “The Word of Your Body (Reprise)” – Hanschen, Ernst, Boys and Girls - “Whispering” – Wendla - “Those You've Known” – Moritz, Wendla and Melchior - “The Song of Purple Summer” – Ilse and Full Company
 
-![**http://cheziceman.files.wordpress.com/2014/11/springawakening.jpg)
+![cover](http://cheziceman.files.wordpress.com/2014/11/springawakening.jpg)
