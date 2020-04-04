@@ -17,7 +17,7 @@ Didier Wampas chante faux ?? Oui, mais c'est fait exprès et on s'en fout bien c
 
 Un passage télé ou un DVD ne pourra rendre ce qu'il se passe sur scène et il faut ce genre de petites salles pour vivre des instants festifs comme cela où l'on oublie un peu les règles de la musique, de la bienséance, etc…pour juste vivre rock. Et je connais quelques groupies qui ont du faire le siège du tour bus après le concert. Alors il se dit que chaque concert des Wampas est unique et imprévisible….Allez y pour vérifier !
 
-[Video1(https://www.youtube.com/watch?v=pOIsC-Impzw)
+[Video1](https://www.youtube.com/watch?v=pOIsC-Impzw)
 [Video2](https://www.youtube.com/watch?v=db1WCPkfmHY)
 
 
