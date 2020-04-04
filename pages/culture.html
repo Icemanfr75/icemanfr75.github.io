@@ -34,6 +34,21 @@ title: Culture - Musique, Cinema, BD, Litterature, Tourisme
 </div>
 
 <div class="posts">
+   <h2>Séries</h2>
+  <ul>
+    {% for post in site.posts %}
+    {% if post.category contains "serie" %}
+    <li>
+      <span class="date">{{ post.date | date: "%B %e, %Y" }} - </span>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
+      <span class="category">{{ post.category | categorie : "%B" }}</span>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="posts">
    <h2>BD</h2>
   <ul>
     {% for post in site.posts %}
