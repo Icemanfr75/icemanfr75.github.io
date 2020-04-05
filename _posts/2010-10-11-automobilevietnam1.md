@@ -1,6 +1,6 @@
 ---
 layout: post
-title: L'automobile au Vietnam : Tome 1 - présentation
+title: L'automobile au Vietnam - Tome 1 - présentation
 category: automobile, geopolitique
 tags: asie, Automobile, économie, vietnam, geopolitique
 ---
