@@ -102,9 +102,24 @@ Film **Alvin et les Chipmunks**
 13. Ain't No Party 
 14. Get Munk'd 
 15. Witch Doctor (1958 recording) 
-16. The Chipmunk Song (Christmas Don't Be Late)</h3>
+16. The Chipmunk Song (Christmas Don't Be Late)
+
 Film **Alvin et les Chipmunks 2**
-<h3 class="spip">1. You Really Got Me 2. Hot N Cold - The Chipettes 3. So What 4. You Spin Me Round (Like A Record) 5. Single Ladies (Put A Ring On It) 6. Bring It On 7. Stayin 'Alive 8. The Song 9. It'S Ok 10. Shake Your Groove Thing 11. Put Your Records On 12. I Want To Know What Love Is 13. We Are Family 14. No One 15. I Gotta Feeling</h3>
-</div>
+1. You Really Got Me 
+2. Hot N Cold - The Chipettes 
+3. So What 
+4. You Spin Me Round (Like A Record) 
+5. Single Ladies (Put A Ring On It) 
+6. Bring It On 
+7. Stayin 'Alive 
+8. The Song 
+9. It'S Ok 
+10. Shake Your Groove Thing 
+11. Put Your Records On 
+12. I Want To Know What Love Is 
+13. We Are Family 
+14. No One 
+15. I Gotta Feeling
+
 
 ![affiche](http://cheziceman.files.wordpress.com/2014/11/chipmunks.jpg)
