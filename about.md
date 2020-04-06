@@ -8,23 +8,23 @@ Ceci est mon blog mais me sert aussi à me présenter
 
 ### Professionnellement
 * 1999-Aujourd'hui : Automobile - Recherche et développement, Achats
-  * 2018-Aujourd'hui : Pilotage de la qualité (équivalent ISO17025), Création d'un laboratoire de métrologie, formation aux outils qualité 
+  * 2018-Aujourd'hui : Pilotage de la qualité (équivalent ISO17025), Création d'un laboratoire de métrologie, formation aux outils qualité et aux postes métrologiques.
   * 2010-2018 : Support technique Mesure, raccordement métrologique, mesures spécifiques, gestion de parc de matériels, formation utilisateurs.
-  * 2008-2010 : Assistance achats série, pilotage des indicateurs qualité et productivité, formation aux outils achats
-  * 1999-2008 : Maintenance des moyens de mesure, gestion des contrats multisites, aide au raccordement métrologique, investissements des nouveaux moyens, Mise en place d'un logiciel de gestion métrologique (équipe projet)  
-* 1997 : Laboratoire d'analyse chimique lié au nucléaire - Mise en place d'un logiciel de gestion métrologique
+  * 2008-2010 : Assistance achats série, pilotage des indicateurs qualité et productivité, formation aux outils achats.
+  * 1999-2008 : Maintenance des moyens de mesure, gestion des contrats multisites, aide au raccordement métrologique, investissements des nouveaux moyens, Mise en place d'un logiciel de gestion métrologique (équipe projet).  
+* 1997 : Laboratoire d'analyse chimique lié au nucléaire - Mise en place d'un logiciel de gestion métrologique.
 
 ### Sur le web
 * 2012-2015 : Rédacteur sur le webzine culturel [unidivers](https://www.unidivers.fr)
 * 2005-Aujourd'hui : Blogueur sur spip, dotclear, wordpress (autohébergé ou non : [blog principal](https://cheziceman.wordpress.com) )
-* 2006-2018 : création et gestion des sites Au Joyeux Végé et Histozic.fr
-* 2002-2005 : rédacteur sur Agoravox. Community manager sur divers forums.
-* 2000 : Rédacteur sur le site l'abeille.net (BeOS)
+* 2006-2018 : Création et gestion des sites Au Joyeux Végé et Histozic.fr.
+* 2002-2005 : Rédacteur sur Agoravox. Community manager sur divers forums.
+* 2000 : Rédacteur sur le site l'abeille.net (BeOS).
 
 ### Mes autres activités
-* Utilisation de Linux depuis 2000, à 100% depuis 2016
-* Bénévolat dans des refuges de protection animale
-* Rédaction d'un roman et d'une nouvelle
+* Utilisation de Linux depuis 2000, à 100% depuis 2016.
+* Bénévolat dans des refuges de protection animale, organisation de collectes.
+* Rédaction d'un roman et d'une nouvelle.
 * Création musicale (un album de musique électronique)
 
 ### Me contacter
