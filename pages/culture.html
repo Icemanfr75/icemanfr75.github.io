@@ -3,7 +3,7 @@ layout: default
 title: Culture - Musique, Cinema, BD, Litterature, Tourisme
 ---
 
-<a href="#musique">Musique</a> - <a href="#cinema">Cinéma</a> - 
+<h1><a href="#musique">Musique</a> - <a href="#cinema">Cinéma</a> - <a href="#serie">Séries</a> - <a href="#bd">BD</a> - <a href="#litterature">Littérature</a> - <a href="#tourisme">Tourisme</a>/h1>  
 
 <div id="musique" class="posts">
    <h2>Musique</h2>
@@ -35,7 +35,7 @@ title: Culture - Musique, Cinema, BD, Litterature, Tourisme
   </ul>
 </div>
 
-<div class="posts">
+<div class="posts" id="serie">
    <h2>Séries</h2>
   <ul>
     {% for post in site.posts %}
@@ -50,7 +50,7 @@ title: Culture - Musique, Cinema, BD, Litterature, Tourisme
   </ul>
 </div>
 
-<div class="posts">
+<div class="posts" id="bd">
    <h2>BD</h2>
   <ul>
     {% for post in site.posts %}
@@ -65,7 +65,7 @@ title: Culture - Musique, Cinema, BD, Litterature, Tourisme
   </ul>
 </div>
 
-<div class="posts">
+<div class="posts" id="litterature">
    <h2>Littérature</h2>
   <ul>
     {% for post in site.posts %}
@@ -80,7 +80,7 @@ title: Culture - Musique, Cinema, BD, Litterature, Tourisme
   </ul>
 </div>
 
-<div class="posts">
+<div class="posts" id="tourisme">
    <h2>Tourisme</h2>
   <ul>
     {% for post in site.posts %}
