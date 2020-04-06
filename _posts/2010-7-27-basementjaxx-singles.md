@@ -2,7 +2,6 @@
 
 layout: post
 title: Musique - Basement Jaxx - The Singles (2005)
-date: 2010-07-27 06:45
 category: musique
 tags: electro, Musique, pop, 2000s
 ---
