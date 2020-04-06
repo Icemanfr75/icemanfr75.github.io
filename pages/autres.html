@@ -2,8 +2,9 @@
 layout: default
 title: Autres sujets - Automobile, Géopolitique, Environnement
 ---
+<h1><a href="#automobie">Automobile</a> - <a href="#geopolitique">Géopolitique</a> - <a href="#environnement">Environnement</a> - <a href="#vegan">Végétarisme et Véganisme</a></h1> 
 
-<div class="posts">
+<div class="posts" id="automobile">
    <h2>Automobile</h2>
   <ul>
     {% for post in site.posts %}
@@ -18,7 +19,7 @@ title: Autres sujets - Automobile, Géopolitique, Environnement
   </ul>
 </div>
 
-<div class="posts">
+<div class="posts" id="geopolitique">
   <h2>Géopolitique</h2>
   <ul>
     {% for post in site.posts %}
@@ -33,7 +34,7 @@ title: Autres sujets - Automobile, Géopolitique, Environnement
   </ul>
 </div>
 
-<div class="posts">
+<div class="posts" id="environnement">
   <h2>Environnement</h2>
   <ul>
     {% for post in site.posts %}
@@ -48,8 +49,8 @@ title: Autres sujets - Automobile, Géopolitique, Environnement
   </ul>
 </div>
 
-<div class="posts">
-   <h2>Veganisme</h2>
+<div class="posts" id="vegan">
+   <h2>Végétarisme et Véganisme</h2>
   <ul>
     {% for post in site.posts %}
     {% if post.category contains "vegan" %}
