@@ -45,6 +45,6 @@ Merci les Scorpions pour toute cette carrière.
 
 [La Video](https://www.youtube.com/watch?v=inWOi6zcwU0)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/scorpsolymp.jpg
+![cover](http://cheziceman.files.wordpress.com/2014/11/scorpsolymp.jpg)
 
 
