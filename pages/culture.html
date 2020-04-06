@@ -3,7 +3,9 @@ layout: default
 title: Culture - Musique, Cinema, BD, Litterature, Tourisme
 ---
 
-<div class="posts">
+<a href="#musique">Musique</a> - <a href="#cinema">Cinéma</a> - 
+
+<div id="musique" class="posts">
    <h2>Musique</h2>
   <ul>
     {% for post in site.posts %}
@@ -18,7 +20,7 @@ title: Culture - Musique, Cinema, BD, Litterature, Tourisme
   </ul>
 </div>
 
-<div class="posts">
+<div class="posts" id="cinema">
   <h2>Cinéma</h2>
   <ul>
     {% for post in site.posts %}
