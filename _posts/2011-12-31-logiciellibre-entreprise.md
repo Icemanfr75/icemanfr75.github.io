@@ -7,7 +7,7 @@ tags: entreprise, Geekeries, informatique, linux, logiciel libre, openoffice
 
 **Depuis quelques semaines, le Logiciel Libre a bonne presse chez certains candidats à la présidentielle. Sur le papier, voilà une solution d'économie, à condition de...**
 
-Utiliser des logiciels libres est devenu techniquement possible avec la profusion de logiciels dans tous les domaines. J'ai déjà fait <span style="text-decoration:underline;"><a href="https://cheziceman.wordpress.com/2010/12/15/tuto-switcher-sous-linux-etape-1-le-choix/">des dossiers complets</a> </span>sur Linux et l'installation d'un système complet et économiquement viable pour des associations ou petites structures. Mais en entreprise, quel est le besoin?
+Utiliser des logiciels libres est devenu techniquement possible avec la profusion de logiciels dans tous les domaines. J'ai déjà fait des dossiers complets sur Linux et l'installation d'un système complet et économiquement viable pour des associations ou petites structures. Mais en entreprise, quel est le besoin?
 
 Les entreprises ont en général besoin de produits bureautique comme tableur, traitement de texte, présentation et plus spécifiquement dans les métiers spécialisés de système de comptabilité et de logiciels/progiciels spécifiques  à l'activité. Il est clair que pour couvrir une telle diversité, Windows reste encore unique à proposer des fonctionnalités aussi larges. Linux reste trop cantonné au domaine de l'éducation, voir du scientifique. Mais sous Windows, il reste possible d'utiliser du logiciel libre.
 
