@@ -2,7 +2,7 @@
 layout: post
 title: Musique - The Answer
 category: musique
-categories: hard-rock, Musique, rock, 2000s
+tags: hard-rock, Musique, rock, 2000s
 ---
 **Nous avions déjà parlé de ce groupe lors de leur première partie d'AC/DC à Paris l'année dernière. Mais le moins que l'on puisse dire est qu'ils confirment avec leur denier album qui bénéficie d'une bienheureuse "re-sortie". **
 
