@@ -2,7 +2,7 @@
 layout: post
 title: Automobile - Luigi Colani
 category: automobile
-categories: automobile, design, 
+tags: automobile, design, 
 ---
 **Une rubrique design sans Colani? Impossible car ce designer a eu son heure de gloire dans les années 80-90 lorsque la mode fut au bio-design.**
 
