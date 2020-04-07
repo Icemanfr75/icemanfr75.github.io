@@ -2,7 +2,7 @@
 layout: post
 title: Cinéma - Le Complexe du castor de Jodie Foster (2011)
 category: cinema
-tags: Cinema, dépression, solitude]
+tags: Cinema, dépression, solitude, 2010s
 ---
 **L’actrice multi-oscarisée Jodie Foster a le don de réaliser des films à la fois sensibles et drôle . Ce complexe du castor en est un nouvel exemple.**
 
