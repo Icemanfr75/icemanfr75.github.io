@@ -1,0 +1,21 @@
+---
+layout: post
+title: Culture - Devons-nous défendre nos libraires?
+category: litterature
+tags: blog, Culture, librairie, 
+---
+**Suite à la lecture de <a href="http://www.telerama.fr/livre/menace-sur-les-libraires-independants,74661.php">cet article</a> sur télérama, interrogeons-nous sur l'avenir de cette noble profession.**
+
+Le libraire est à distinguer du papetier ou des kiosques à journaux. Nous ne parlons ici que de toutes ces boutiques consacrées aux livres de toute sorte, de la généraliste à la librairie à thème, de la plus classique à la plus branchée.
+
+Voyons d'abord le contexte. Le livre est en pleine mutation, qu'on le veuille ou non. Le livre numérique a fait un bon en avant avec l'apparition des tablettes numériques, que cela soit ipad ou kindle d'amazon mais il reste encore marginal dans les ventes. Mais la diffusion du livre a changé, comme pour tous les produits, avec l'ère d'internet. Sur Internet, on peut consulter des critiques directement sur les sites de vente ou bien sur les nombreux blogs littéraires et autres sites de passionnés. Et bien sur, les prix d'internet, malgré le tarif unique, sont particulièrement agressifs, tandis que les librairies du net ont un choix qui dépasse facilement la plus grande librairie de la capitale....à moins de mutualiser ou d'avoir une logistique adequate
+
+Sur le facteur Support, le facteur Choix et le facteur Conseil, le libraire ayant la meilleure volonté du monde ne peut lutter. Alors que lui reste-t-il? Partant du principe qu'il ne peut rivaliser dans la diversité du choix, il doit forcément cibler un créneau particulier, au risque d'oublier des clients en route. C'est ainsi que l'on voit de nombreuses librairies à thème s'ouvrir tandis que les plus traditionnelles baissent le rideau. Pour le conseil, il va de soi que le contact humain est un plus...autant qu'un moins : Un plus pour le client indécis ou boulimique de lecture, un moins pour le client timide, celui qui aime picorer, piocher au hasard, qui aime fouiller les rayons, un peu comme dans une bibliothèque, qui n'aime pas qu'on lui serve le livre que tout le monde a lu, .... Bref, un peu l'auteur de ces lignes. Ce client, c'est celui qui ne va pas souvent dans les librairies mais qui aime parler de ses découvertes. Comment l'attirer ?
+
+La réponse ne va pas de soi, c'est sur. Les prix des livres, tels que pratiqués par les éditeurs, sont totalement délirants. Il n'y a pas de logique et surtout les versions numériques sont à des prix totalement illogiques, parce que toute la chaîne de production n'est pas adaptée à cette évolution. La politique de prix des éditeurs et le passage en poche influe directement avec la vie des libraires. Le conseil apporté par le libraire attire des lecteurs mais n'est pas suffisant pour s'en sortir. Les libraires doivent donc fidéliser le client volatile, celui qui va voir les critiques à droite à gauche, sur internet. Alors pourquoi pas un portail de libraires indépendants avec avis et offres privilèges aux inscrits? Evidemment la concurrence des blogs littéraires enterre presque cette solution. Ce n'est qu'une piste car la vraie question est : La profession a-t-elle un avenir?
+
+Nous ne le pensons pas car la diffusion de la culture, comme celle de l'information, évolue, sans demander son avis à ses acteurs. Cette évolution est en marche et à trop s'accrocher à ces anciennes modes, on tue la profession. Pensez à nos disquaires d'autrefois : Il n'en reste plus, à part dans le créneau très pointu du vinyl. Pour les libraires, ce sera pareil : Ne resterons que ceux qui auront conservé le bon créneau, celui qui ne sera jamais dématérialisé, comme les livres anciens par exemple.
+
+Et les emplois? Et bien, les fameux Bac +5 (sic) narrés par Télérama, démontrent une fois de plus l'inadéquation entre notre système éducatif et le monde du travail. L'édition a un urgent besoin d'évoluer vers des plateformes permettant à la fois une édition numérique et papier via un flux simplifié. Ce nouveau métier a besoin de monde, à condition que les éditeurs de livres ne fassent pas la même erreur que les éditeurs phonographiques. Il faut voir cela comme une chance et non comme un obstacle. Et pour l'accès à la culture, mieux vaut soutenir les bibliothèques et le domaine public !
+
+
