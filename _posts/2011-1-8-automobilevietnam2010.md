@@ -3,6 +3,7 @@ layout: post
 title: Automobile - Des Nouvelles du Marché Vietnamien
 category: musique
 tags: automobile, économie, vietnam, 2010s
+---
 
 **L’analyse des chiffres de Novembre 2010 est intéressante à plus d’un titre et en apprend aussi sur les évolutions futures du marché en Asie du sud-est.**
 
