@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tuto : Switcher sous Linux Etape 3 - Les Applications
+title: Tuto - Switcher sous Linux Etape 3 - Les Applications
 category: tuto
 tags: distribution, linux, logiciel libre, tutoriel, tuto
 ---
