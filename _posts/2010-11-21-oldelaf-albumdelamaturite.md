@@ -2,7 +2,7 @@
 layout: post
 title: Musique - Oldelaf et Monsieur D. - L'Album de la Maturité (2006)
 category: musique
-categories: Musique, Pop, humour, chanson, 
+categories: Musique, Pop, humour, chanson, 2000s
 ---
 **La chanson humoristique et parodique est un genre à part. Elle emprunte à tous les styles et repose essentiellement sur le texte. Découvrons ensemble ce genre à travers ces deux joyeux lurons que sont Oldelaf et Monsieur D.**
 
