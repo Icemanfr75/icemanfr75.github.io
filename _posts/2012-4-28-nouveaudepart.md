@@ -1,26 +1,18 @@
 ---
 layout: post
-title: Cinéma - Margin Call de J.C. Chandor (2012)
+title: Cinéma - Un Nouveau Départ de Cameron Crowe (2012)
 category: cinema
-tags: Cinéma, finance, 2010s, 
+tags: Cinéma, protection animale, zoo, 2010s
 ---
-**Les films sur l’obscur monde de la finance ne sont pas légion, même à Hollywood. Et les films réussis sur le sujet le sont encore moins… Mais en voilà un, et non des moindres. Loin d’une simplification du milieu de la finance et d’une caricature des traders, cette vision américaine offre de mieux comprendre les tenants et les aboutissants du fameux « Marché ».**
+**Un film sur un homme qui rachète un zoo – quelle drôle d’idée ! Pourtant, il s’agit de l’adaptation par Cameron Crowe (Jerry Maguire, Vanilla Sky)  d’un livre de l’ancien journaliste anglais Benjamin Mee qui racheta le zoo de Dartmoor. Si ce n’est que l’histoire est… transposée aux États-Unis…**
 
-Margin Call propose de revenir en 2008, au début de la crise financière dans une grande banque ressemblant étrangement à Lehman Brothers. Au moment où il est licencié, le responsable d’une équipe de gestion des risques découvre que le modèle économique sur lequel se repose sa Banque lui fait prendre des risques inconsidérés et engage bien plus que la valeur totale de la société. Il confie le dossier à un jeune trader avant de quitter son bureau…
+Benjamin vient de perdre sa femme d’une leucémie. Il se retrouve seul à élever deux enfants qui vivent difficilement cette période de deuil. Le père lui-même peine à reprendre le dessus et décide de déménager pour éloigner les souvenirs. Voilà qu’il tombe amoureux d’une charmante maison… qui a un gros inconvénient : c’est un zoo ! Le voilà embarqué dans une lutte pour sauver les animaux et assurer la survie de l’établissement et de ses employés.
 
-Toute la difficulté consiste à expliquer des mécanismes compliqués, des termes du métier comme les MBS (Titre adossé à des créances hypothécaires). Pourtant, ce son bien les MBS, notamment, qui ont permis à plusieurs banques de réaliser d’immenses profits mais aussi de les conduire à leur perte. La bonne trouvaille du réalisateur est de traiter cet univers financier à travers la gestion de la crise, l’analyse de l’état d’esprit qui règne dans ce métier et la violence inouïe des salles de marché. Violence, c’est peu dire ! La première scène d’exposition montre une équipe de « nettoyeurs » débarquer avec des cartons dans un étage et convoquer un à un les « virés » du jour… Dans ce cadre, le spectateur croise un personnage proche de George Clooney dans In The Air.
+Évidemment, avec ce type de film, le spectateur se doute déjà un peu de la fin. Mais qu’importe, si le développement de l’histoire et de ses à-cotés est réussie ! Ici, c’est le deuil, la recherche d’un nouvel amour, d’un nouveau foyer. Et jamais le réalisateur ne sombre dans le pathos ou  la comédie romantique. Il équilibre savamment légèreté et gravité. La gravité aussi avec l’histoire du vieux tigre, comme une répétition de la maladie de l’épouse regrettée. C’est l’un des points centraux du film qui permet au héros d’avancer. Pour la légèreté, il y a deux histoires d’amour naissantes entre le fils du héros et Lily (Elle Fanning, qui grandit bien) ainsi qu’entre le héros et la jolie gardienne en chef du zoo, Kelly, interprétée par Scarlett Johansson qui démontre sa capacité à jouer les girlnextdoor efficacement. Il faut souligner aussi la bonne place laissée à une galerie de seconds rôles –  mention spéciale pour le méchant John Michael Higgins et son mètre à ruban…
 
-Un des effets notables de cette violence : les traders deviennent cyniques et se détachent lentement mais surement du monde réel. On saluera l’intelligence du réalisateur, JC Chandor, dont c’est le premier film, qui croise habilement les portraits de vieux routiers du milieu, des jeunes embauchés, des requins, etc. Toutes les catégories et fonctions d’un écosystème qui confine au trou noir.
+[la Video](https://www.youtube.com/watch?v=RimzlMDDRtA)
 
-Chaque personnage est habité par un paradoxe qui est bien rendu par un casting haut de gamme : Kevin Spacey (Usual Suspects, LA Confidential), Paul Bettany (Da Vinci Code) , Jeremy Irons (Le Mystère Von Bullow, Mission) , Zachary Quinto (Heroes, Star Trek), Simon Baker (Mentalist, The Killer inside me), Demi Moore, Stanley Tucci (Le Diable s’habille en Prada, Lovely Bones).
+Le film est un joli moment de comédie romantique. Sans esbroufe, sans innovation. Juste avec ce qu’il faut d’émotion pour faire passer ces 2h comme une lettre à la poste. Petit regret toutefois sur la place consacrée aux animaux et le peu d’insistance sur les conditions de vie de ceux-ci dans un zoo qui se voulait exemplaire à l’époque de sa création. Car si le réalisateur assène : « je préfère les humains aux animaux », ce sont pourtant ces derniers qui permettent à l’ensemble des personnages de progresser dans la vie en surmontant leurs problèmes.
 
-Cette pléiade d’acteurs mène sans accroc ce huis clos, suggérant à chaque spectateur de réfléchir à sa potentielle réaction dans cet univers de chiffres, de paris, où l’appât du gain est la pierre angulaire de tous les comportements. Même le plus incorruptible succombe, et ce ne sont guère les plus « purs » en début de film qui contribueront à sauver la situation…
-
-[la Video](https://www.youtube.com/watch?v=rc_WrFEZiJA)
-
-Autre élément frappant : ces hauts dirigeants finissent par oublier la « technique financière » pour se concentrer uniquement sur du management. Ils ne comprennent rien à ce que les plus doués des traders leur expliquent. Pourtant ce sont de brillants passés d’ingénieurs, issus des meilleures universités. Il en va ainsi du personnage interprété par Stanley Tucci : ingénieur en BTP, spécialiste des Ponts, capable de calculer de tête des opérations complexes. Quelle est la raison de cet appauvrissant paradoxe ? Comme dans nombre de grandes entreprises, France Telecom par exemple, un brillant ingénieur qui a prouvé sa valeur technique se retrouve propulsé dans le management où il oublie peu à peu… son savoir et ses compétences.
-
-La beauté du film – le lecteur d’Unidivers me permettra ce terme – est de traduire avec brio ce regrettable, voire suicidaire, détachement, ces ruptures de l’adhésion à la réalité tout en préservant, derrière la façade, une humanité oublieusement en quête.
-
-A ne pas manquer
+Un film tout agréable qui risque d’avoir du mal à trouver sa place entre les blockbusters du moment.
 
