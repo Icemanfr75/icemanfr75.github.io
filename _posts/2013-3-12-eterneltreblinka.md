@@ -1,0 +1,19 @@
+---
+layout: post
+title: Littérature - Un éternel Treblinka de Charles Paterson (2003)
+category: litterature, vegan
+tags: alimentation, histoire, littérature, protection animale, végétarien, végétarisme, vegan, vivisection, 2000s
+---
+**Non, Un Eternel Treblinka n’est pas un énième ouvrage sur la Shoah de Charles Paterson qui a déjà consacré plusieurs ouvrages à ce macabre thème. Cet ouvrage opère un parallèle entre deux génocides : celui des juifs et celui des animaux. Le titre s’inspire d’une nouvelle de l’auteur polonais et prix Nobel de littérature 1978, Isaac Bashevis Singer.**
+
+![cover](https://cheziceman.files.wordpress.com/2016/10/treblinka.jpg)
+
+Couverture sombre, lettres blanches et rouges : le ton est donné. Les premières pages sont plutôt ardues tant la somme bibliographique réunie paraît dense. L’auteur est un historien (ses travaux sont centrés, notamment, sur le mouvement des droits civiques, Thomas Jefferson, le génocide juif) et traite dans ce esprit son sujet. Il s’attache d’abord à contextualiser son récit en rappelant la place des animaux dans l’histoire de l’humanité, en convoquant l’esclavage et la notion de dominant-dominé. Les religions sont aussi présentes, en particulier le christianisme, le judaïsme et l’islam. Bien que complexe, le discours prend peu à peu forme : les éléments s’imbriquent au profit d’un développement descriptif de l’exploitation parallèle des hommes et des animaux.
+
+Vient un chapitre sur l’industrialisation de l’animal. Nourri de nombreux témoignages. Paterson rappelle comment la révolution industrielle s’est doublée d’une révolution de l’agriculture et de l’agroalimentaire. Plus rare, l’auteur montre l’essor parallèle des théories eugéniques qu’a propagé un certain Henry Ford en même temps que son système de production. Une métaphore filée conduit aux méthodes pratiquées pour l’abattage et celles utilisées dans les camps de concentration et d’extermination en Allemagne. Cette influence de l’eugénisme durant les années 1920-1930 aux États-Unis et en Allemagne (et globalement en Europe) est souvent passée sous silence. Des lois issues de ces périodes sombres ont subsisté jusque dans les années 80. Cet eugénisme est né aussi de cette volonté de l’homme de montrer sa domination sur les plus faibles, notamment pour « résoudre » une crise.
+
+Cette première moitié du livre a déjà de quoi faire réfléchir n’importe le lecteur sur ses acquis, à savoir : certains animaux ne sont que des produits pour l’alimentation de l’homme tandis que d’autres peuvent être des animaux de compagnies ou des bêtes de somme. Remis à l’échelle de l’histoire, il faut se souvenir qu’il y a encore peu de temps, certaines peuplades étaient exploitées et massacrées de la même manière. Mais Paterson choisit ensuite d’étayer son propos par une somme de témoignages de rescapés des camps. Des témoignages impressionnants dont les auteurs soulignent la similarité des méthodes d’abattage. Plusieurs d’entre eux sont des enfants de rescapés devenus végétariens qui militent tant pour le droit des animaux que pour le droit des humains.
+
+Un Eternel Treblinka reste un ouvrage d’une richesse difficile à appréhender en totalité. Les notes bibliographiques, bien que passionnantes, parsèment les pages à l’excès. On sort de cette lecture incontestablement enrichi, voire chamboulé par les descriptions de la production de la viande. D’autant plu que, les évènements récents en soulignent l’actualité.
+
+D’un accès peu aisé, cette recension des plus complètes expose la problématique de la place de l’animal dans notre monde, dans une dimension philosophique et spirituelle sans quitter la réalité du monde. Le rapport dominant-dominé décrit en préambule est au cœur même de la conception qui a mené à l’antispécisme. Un Eternel Treblinka contribue à abattre des murs d’a priori.
