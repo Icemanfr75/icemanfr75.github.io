@@ -1,0 +1,30 @@
+---
+layout: post
+title: Information - Un autre journalisme est-il possible
+category: reflexion
+tags: blog, Culture, information, journalisme, média, presse, Réflexion
+---
+**La revue XXI a publié récemment un manifeste pour un autre journalisme qui a fait grand bruit. Telerama a interrogé dans son édition du 9 janvier des figures du journalisme, avec la participation de « Libération », du « Monde », de Mediapart, de Slate et du Huffington Post. De quoi en tirer des enseignements et répondre nous-mêmes aux trois questions posées.**
+
+**La conversion numérique est-elle un piège mortel pour la presse ?**
+
+La conversion au numérique oppose. D’un côté, il y a le Huffington Post qui parle de son succès en oubliant de parler du problème de rémunération de ses plumes. De l’autre, nous avons des positions plus prudentes qui parlent d’une nécessité d’aller chercher le lecteur où il se trouve, autrement dit… sur le net. Il y a une rapidité nécessaire de la production d’information par rapport à une ou deux éditions quotidiennes papier. Edwy Plenel (Mediapart) souligne que le piège serait dans la « gratuité publicitaire », que l’on vise des informations futiles et immédiates pour remplir ce gratuit en oubliant que l’information a un coût. L’exemple du Canard Enchainé, sans édition numérique ni publicité, est mis en avant au même titre que Mediapart.
+
+Difficile de faire le tour du sujet, pourtant, en 5 intervenants. Le numérique ne doit pas être abordé de la même manière que le papier, car la lecture d’un article n’est pas la même. Le format doit être plus court et peut donc donner l’impression d’un « feuilletonage », car l’internaute ne lit pas comme avec un support papier, ne lit pas dans les mêmes lieux et lit de plus en plus sur mobile ou tablette. Il en découle deux modèles :
+
+* Les dépêches provenant des agences de presse et recopiées pour leur plus grande part pour alimenter les flux des sites. Elles sont complétées par des informations glanées par les contacts des journalistes de la rédaction. C’est un peu la tête de gondole du journal, ce qui se retrouve aussi dans les moteurs de recherche comme Google et dans les agrégateurs d’information que sont Flipboard, Taptu ou NewsRepublic.
+* Les articles de fond, voir d’opinion, dans un esprit plus magazine que quotidien et qui visent plus à fidéliser le lectorat. Ce sont eux qui devraient être le cœur du journal dans un format payant ou au moins payé par une source de revenus (voir la deuxième question). Ils doivent dépasser l’exercice de synthèse d’informations pour aller vers une véritable enquête (voir la troisième question), ceci dans le but de valoriser la profession de journaliste par rapport à celle de blogueur ou de « journaliste citoyen ».
+
+**La publicité est-elle synonyme d’une information low cost ?**
+
+Pour beaucoup des intervenants, la publicité appelle un compromis marketing qui ne permet pas toujours d’exercer librement son métier de journaliste. Il y a évidemment le conflit d’intérêts avec l’annonceur, mais la plupart sont aussi d’accord pour rejeter cette vision simpliste. Il y a autant d’exemples de mauvaise presse sans publicité que de bonne presse avec publicité. Edwy Plenel souligne le fait que la publicité n’a pas la même valeur en numérique qu’en papier. En effet, la lecture sur un écran est tout à fait différente et les « clics » ou « hits » n’ont pas la même valeur qu’un positionnement dans une pagination. Johan Hufnagel (Slate) souligne pour sa part que pour les médias d’audience, il y a un besoin de rapidité et, qui dit audience, dit publicité.
+
+Mais la dépendance de la presse à cette manne financière est en question. Pour certains, elle est indispensable, car depuis 40 ans, elle a permis de sauvegarder des titres de presse. Là encore, une vision globale de la presse n’est pas souhaitable. Tout le monde est d’accord pour distinguer la presse tabloïd de la presse dite sérieuse, dans des pays comme l’Allemagne ou l’Angleterre. En France, cette distinction est plus difficile, à part pour la presse « people ». On ne peut pas dire que « Le Parisien » soit un tabloïd au sens littéral du terme. La Presse française dispose pourtant de niches rentables, où la publicité a moins court, comme justement ce XXI. Pourquoi le modèle fonctionne-t-il ? Parce que le lectorat y trouve son compte ? Parce que l’équipe rédactionnelle ne vit pas au-dessus de ses moyens à cause de l’illusion de la publicité ? Serge Michel (Le Monde) n’espère-t-il pas de multiplier par 5 son lectorat numérique payant en 4 ans.
+
+Si le sujet de la publicité est montré du doigt, celui des subventions et du plan presse lancé par Sarkozy (1,2 milliard par an) ne l’est pas. Sujet tabou ?
+
+**Un journaliste assis est-il un mauvais journaliste ?**
+
+Cette question a été au cœur des débats sur Twitter entre Jean-Michel Aphatie et Mediapart montrant une opposition dans une profession que l’on croyait solidaire. Edwy Plenel est d’ailleurs le premier à souligner l’importance de l’esprit de synthèse et de tri d’information que doit avoir le journaliste. Serge Michel souligne la qualité d’un blog traitant du « printemps arabe » tout en étant éloigné du terrain. Il y a bien complémentarité entre ces deux visions du journalisme. Johan Hufnagel met le « critique cinéma » dans le journalisme, car il s’agit ici d’un journalisme « assis » qui donne une opinion. Encore une catégorie, donc, au même titre que les éditorialistes comme Jean-Michel Aphatie.
+
+Il est incontestable que la mine d’information que représentent Internet et ses réseaux sociaux impose une autre manière de faire du journalisme. Cela permet de préparer une enquête de terrain, de confronter aussi la vision terrain au ressenti net. Les commentaires, les Twitts sont aussi l’expression d’une opinion comme une interview de témoins. Il reste à savoir ce qui se trouve derrière ces commentaires pour ne pas tomber dans la manipulation. Le journaliste assis n’est donc pas foncièrement un plus mauvais journaliste que celui de terrain. Il convient aux deux de contextualiser leur travail et de remettre en question chaque fait, en dehors de tout parti-pris ou « passion ».
