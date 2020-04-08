@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Musique - Kosheen – Independance (2012)
-date: 2013-04-30 11:00
 category: musique
 tags: electro, Musique, trip-hop, 2010s
 ---
