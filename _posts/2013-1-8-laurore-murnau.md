@@ -2,7 +2,7 @@
 layout: post
 title: Cinéma - L'aurore de Friederich Wilhem Murnau (1927)
 category: cinema
-tags: amour, Cinéma, drame, romance, 1920s
+tags: amour, Cinéma, drame, romance, 1920s, cinematheque ideale
 ---
 **​Est-il besoin de paroles pour décrire l’amour ? Non, répondra-t-on après la vision de ce merveilleux film du cinéaste allemand Friedrich Wilhelm Murnau. Indéniablement un classique à voir et revoir.**
 
