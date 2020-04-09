@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automobile : Hommage à Sergio Pininfarina
+title: Automobile - Hommage à Sergio Pininfarina
 category: automobile
 tags: Automobile, carossier, design, industrie, pininfarina
 ---
