@@ -1,0 +1,16 @@
+---
+layout: post
+title: Musique - Space March – Mountain King (2013)
+tags: Musique, new wave, Pop, 
+---
+**Et pourquoi pas moi ?  Voilà ce qu'a du se dire un jour cet ex créatif d'une major australienne. Fan de new wave/synth pop depuis les années 80, c'est naturellement vers ce style qu'il s'est orienté.... avec bonheur.**
+
+Car ce Space March est tour à tour le compositeur, le chanteur, l'arrangeur, le designer, le producteur, le réalisateur des clips de toutes ces productions qui l'amènent à ce 4ème album d'une carrière commencée timidement en 2003 mais véritablement depuis 2011. Ses références ? Les Beatles, John Barry mais surtout un travail avec Mark Saunders, producteur d'Erasure, Depeche Mode, The Cure... Mais intéressons nous à ce Mountain King, sorti en 2013 et produit avec Robin Schmidt (OMD).
+
+Le son de synthé introduisant le premier titre, Mountain King, donne tout de suite le ton et nous ramène dans les années 80-90 dans une scène pré-électro. Il reprend ainsi en partie le refrain de In the Hall of the Mountain de **Edvard Grieg**. Les basses sont profondes et les sonorités ne sont pas sans rappeler la scène démo des années 90, comme ce que produisait alors Purple Motion et surtout Skaven (**Peter Hajba**, aujourd'hui musicien de jeux vidéos) avec Future Crew. Mais après cette introduction et un titre qui prolonge bien ce thème, "Babylon" est moins orchestral et beaucoup plus pop avec un refrain plutôt efficace avec d'agréables variations de synthétiseur et de rythmique pour un titre respirant la bonne humeur. Beau travail de production pour ce qui parait à la fois minimaliste mais pourtant subtile. La voix prend des intonations de **Neil Tennant** des **Pet Shop Boys**. Encore un titre très agréable que ce "Norway". Space March utilise des sonorités plus industrielles et presque chiptune comme introduction sans délaisser pourtant le style New Wave Pop. Dans "Magnificent March", il délaisse pourtant tout cela pour une marche très orchestrale bien que synthétique avec une inspiration celtique. Mais avec "Apple of my Eye", il revient sur une ballade new wave où l'on ne peut que regretter le manque de refrain accrocheur. La sauce prend beaucoup mieux avec "Sometimes" avec un sublime arrangement de synthé et de rythmique. Dommage que le single "You are Electric" arrive si tard. Là, il y a le refrain qu'il fallait, un gimmick sur la voix, une mélodie. Notre homme connaît son métier. On regrettera la production un peu facile sur la rythmique de "Mastermind of Crime". Surtout que "Too much time on your hands" redresse très bien la barre et pourrait même un très bon single avec son intro chiptune utilisant des sonorités de jeux vidéos. Les geeks restent des geeks, que voulez vous. Et on termine par l'étonnant "Twee Song", à la fois orchestrale et pop, utilisant des trompettes synthétiques pour un effet volontairement daté.
+
+Voilà donc un album très homogène, cohérent et volontairement rétro. Très bien produit, il crée la surprise pour ceux qui ont la nostalgie de cette période souvent injustement méprisée. Space March n'aura sans doute pas la carrière de ses modèles mais mérite bien un petit détour, avant, pourquoi pas, de se replonger dans cette période musicale.
+
+[la video](http://www.youtube.com/watch?v=oGtjZGkD-A0)
+
+![cover](http://cheziceman.files.wordpress.com/2014/11/spacemarch.jpg)
