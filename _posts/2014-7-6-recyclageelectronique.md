@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Environnement - Recyclage électronique, quel coût pour l’homme et la planète ?
-category: environnement
+category: environnement, geek, reflexion
 tags: écologie, environnement, pollution, recyclage,
 ---
 **Que sait-on de la vie et la mort des ordinateurs et autres gadgets électroniques ? Que fait-on réellement pour leur survie et leur recyclage ? Quel est le coût pour les ouvriers, la rentabilité pour les entreprises, l’impact environnemental ? Sans détailler chaque point, un simple exemple peut déjà éclairer notre lanterne.**
