@@ -1,0 +1,17 @@
+---
+layout: post
+title: Musique - Miossec - Ici-bas, Ici-même (2014)
+category: musique
+tags: 2010s, Musique, Pop, Rock, chanson
+---
+**Il aura fallu 3 ans pour revoir le brestois Christophe Miossec nous proposer un nouvel album studio, son neuvième. Avec son rythme de sortie régulier, doit-on pourtant s'attendre à de la routine de la part de l'auteur de "Boire" ? Si la maladie lui a fait arréter l'alcool, la musique continue.**
+
+Christophe Miossec a commencé sa carrière sur la scène brestoise dans les années 90. Son album fondateur est "Boire", installant sa personnalité écorchée et poète, où la voix se contente de quelques instruments pour créer une atmosphère. Si en France on le classe parfois dans le "Rock", il s'inscrit dans la lignée de la grande chanson française, celle où le texte se dispute la vedette à la musique. C'est surtout avec "Brule", son album de 2001, que Miossec s'installe durablement dans le paysage musical français après "à prendre" en 1998 dont il dit ne pas être totalement satisfait. Il devient inspirateur d'une génération de chanteur, écrit pour les autres et se fait plaisir avec son ami Yann Tiersen dans l'album "Finistèriens". Mais une maladie diagnostiquée  lui interdit ses errances alcooliques, devant la menace de terminer en fauteuil roulant. Une épreuve qui peut autant inspirer que brider un artiste....Qu'en est-il alors de cet album ?
+
+"C'est pas fini . On peut encore se raccrocher à la poésie.." : Voilà qui fixe d'entrée les choses dans "On vient à peine de commencer". Miossec n'est pas fini, loin de là. Le style reste épuré avec une guitare, un piano, une batterie légère. La voix est sussurante parfois, presqu'un murmure malgré sa gravité. Miossec est toujours dans ses thèmes habituels, le couple, l'amour, la vie ..... "Le Coeur" en est l'illustration parfaite. La rythmique se fait parfois plus "rock vintage" comme dans "Samedi soir au Vauban" qui renforce l'aspect mélancolique. Il s'interroge sur "Qui nous aime", titre qui donne le titre de l'album "ici-bas, ici-même".... L'interrogation qui finit toujours par nous tenailler lorsque la vie est plus derrière que devant. Beaucoup de questions et de constats sur la fragilité humaine : "Ce qui nous atteint", "nos morts". Alors qu'il a joué avec sa vie, il parle de nos jeux avec nos morts, de la vanité de nos actes.
+
+"Répondez par oui ou par non" est l'exemple de ces questions qui reviennent sans cesse et restent sans réponse avec une ligne de piano qui rajoute à la dramatique de la situation. C'est aussi le moment où l'on s'appercoit qu'on a été "Bête, comme j'étais avant" (écrit avec **Stephan Eicher**). Le chanteur est poête et reste un amoureux et la similitude avec certains Gainsbourg de la première heure est flagrante, comme ce "A l'attaque". Le titre exprime si bien qu'il ne se laissera pas faire par la vie, même "en vrac". Car s'il a cotoyé les poisons ( "Le plaisir, les poisons"), il n'a heureusement rien perdu de l'acidité de sa plume pour se repencher sur les rêves perdus, ou les mirages que l'on suit. Un album de lucidité ? Il l'a toujours été, à sa manière, mais les thèmes sont ici plus larges. Comment mieux conclure que par "Des Touristes" où il clame que "Tout baigne" ? Une voix et des choeurs féminins le rejoignent. Un signe aussi que l'artiste n'est rien, seul... mais aussi un instant de joie partagée, la joie de continuer à nous émouvoir par ses textes et sa musique.
+
+[la video](http://www.youtube.com/watch?v=as1vAIqcqAk)
+
+![cover](http://cheziceman.files.wordpress.com/2014/11/miossec2014.jpg)
