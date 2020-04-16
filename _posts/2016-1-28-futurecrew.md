@@ -2,7 +2,7 @@
 layout: post
 title: La Scène Demo - Future Crew
 category: geek
-categories: amiga, demo, demoscene, future crew, geek, Geekeries, histoire, programmation, 1990s
+tags: amiga, demo, demoscene, future crew, geek, Geekeries, histoire, programmation, 1990s
 ---
 **Quand j'ai pensé à faire des articles sur la scène Demo, j'ai d'abord pensé à Future Crew, un groupe finlandais dont on retrouve les membres dans le monde du jeu vidéo et du benchmark.**
 
