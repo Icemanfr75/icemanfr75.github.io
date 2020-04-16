@@ -2,7 +2,7 @@
 layout: post
 title: Souvenir de Gamer - The New Zealand Story (1988)
 category: geek
-tags: geek, Geekeries, jeu video, plateforme, retro gaming
+tags: geek, Geekeries, jeu video, plateforme, retro gaming, 1980s
 ---
 **Dans la pléthore de jeux de plateforme qui sont sortis dans les années 80, il y en a un qui m'a marqué par son originalité : The New Zealand Story**
 
