@@ -1,0 +1,19 @@
+---
+layout: post
+title: Musique - Oasis - Definitely Maybe (1994)
+category: musique
+tags: Musique, 1990s, Rock
+---
+**Oasis aura particulièrement marqué les années 90 et surtout avec cet album sorti en 1994.**
+
+Mais au lieu de raconter l'histoire du groupe, c'est aussi un peu de notre histoire que nous allons écrire. Car c'est lors d'une soirée radiophonique sur Europe 1 que j'ai entendu pour la première fois parler des **frères Gallagher**. Marc Toesca, fraichement débarqué du Top 50, anime l'émission "Top Live". Des pointures y passent mais aussi des découvertes, comme ce tout jeune groupe de Manchester. Liam au chant et Noel à la guitare sont accompagnés par **Paul "Bonehead" Arthurs** et **Paul "Guigsy" McGuigan **et** Tony McCaroll, **respectivement guitariste, bassiste et batteur. En cette année 1993, ils cherchent toujours un label mais se font une réputation dans les clubs....et la radio française. Car  la radio française croit dur comme fer dans ce groupe qui joue fort, très fort.
+
+Le live de l'époque servira pour un EP et Oasis sera signé dans la foulée. On sait depuis tout le bien et le mal que l'on peut dire de ce groupe bicéphale. Pourtant, en se repenchant aujourd'hui sur ce premier petit bijou, on revient dans cette ambiance d'une petite chambre avec une radio crachant ce son si britpop. Est-ce un hasard si l'album s'ouvre sur "Rock'n Roll Star", fixant d'entrée les choses sur la question de l'ambition du groupe. Un titre qui ne perd pas de son efficacité aujourd'hui, avec ses riffs et la voix pleine de morgue du frangin insupportable. On pense évidemment beaucoup aux **Beatles**, groupe à la fois modèle et dont ils veulent ternir l'étoile, sur des titres comme "Shakermaker" ou "Live Forever"... Mais ils parviennent à trouver leur son propre, à être à la fois dans leur temps tout en se référant au glorieux passé de la pop et du rock anglais. On leur reprochera justement quelques intros très inspirés de hits de leurs ainés, à une ou deux notes près mais ils ne se reposent pas non plus là dessus, comme ce gimmick dans "Up in the Sky" par exemple. Entre riffs tonitruant, distorsion, ils prennent aussi des accents beaucoup moins sages que ce que l'on attend de la pop. C'est bien ici un groupe Rock.
+
+Et c'est bien à une vitesse "Supersonic" que le groupe arrive dans ces années 90 déjà désenchantées. On trouverait presque quelques accents grunge à tout cela, alors que beaucoup d'yeux se tournent du coté de Seattle. C'est qu'il va falloir compter avec la vieille Europe à nouveau ! Il n'y a qu'à écouter le terrible "Bring it on down" pour comprendre que ça va être du lourd, tu très lourd. Pas sur qu'il n'y ait que "cigarettes &amp; alcohol" morceau revenant aux racines du rock'n roll avec efficacité à défaut d'originalité. A réécouter maintenant cet album , on perçoit encore mieux la recette miracle du duo : Faire la synthèse entre le passé et les sentiments de la génération des années 80-90.
+
+Mais tout a une fin et cet album aussi. On a maintenant l'impression que les frangins jetteront toute leur énergie dans leurs premiers albums, Definitely Maybe et Morning Glory, avant s'enfoncer peu à peu dans une routine plus banale. Le succès montera aussi surement à la tête de ce groupe qui se perdra dans des frasques plus que dans la musique. En 2009, Noel part....et le groupe disparaît avec les espoirs des fans. Si ce n'est le sursaut de "Don't Believe the Truth", on se demande si les frangins se retrouveront pour avoir à nouveau quelque chose à se dire, à nous dire... En tout cas, ne boudons pas notre plaisir de pouvoir revenir dans cette époque grace à eux.
+
+[la video](https://www.youtube.com/watch?v=p29MG7wn4F8)
+
+![cover](http://cheziceman.files.wordpress.com/2015/08/definitelymaybeoasis.jpg)
