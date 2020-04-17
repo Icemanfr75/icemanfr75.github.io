@@ -2,7 +2,7 @@
 layout: post
 title: Informatique, des années 80 à nos jours - 1989 à 1992
 category: geek
-tags: geek, Geekeries, histoire, informatique, ordinateur, retro gaming
+tags: geek, Geekeries, histoire, informatique, ordinateur, retro gaming, 1980s, 1990s
 ---
 **Dans le dernier article, nous en étions resté aux 8 bits, et autres ordinosaures.....Et voici que mon premier micro-ordinateur arrive chez moi !**
 
