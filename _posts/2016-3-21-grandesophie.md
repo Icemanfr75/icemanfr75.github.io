@@ -1,0 +1,20 @@
+---
+layout: post
+title: Musique - La Grande Sophie - Nos Histoires (2015)
+category: musique
+tags: Chanson, 2010s , Musique, Musique, Pop
+---
+**Depuis la fin des années 90, Sophie Huriaux trimballe son élégante silhouette dans le paysage musical français, sous le pseudonyme "La Grande Sophie". On ne résiste pas comme cela au temps sans un certain talent.**
+
+Si ce n'était son mètre soixante dix-huit, la chanteuse pourrait passer inaperçue. Elle n'a pas l'empreinte vocale  qui la fera reconnaître entre milles autres voix, mais elle a bien d'autres talents. Le premier est la constance. Depuis le milieu des années 90, quand elle a débarqué à Paris avec sa guitare, allant de squat en petites salles,  elle n'a pas changé avec sa "Kitchen Miousic", sa peinture du quotidien, son esprit entre rock et folk. De "Martin", son premier tube à aujourd'hui, il lui a fallu "du courage" et des "bonnes résolutions", celles de ne pas céder aux sirènes de la pop facile. Victoire de la Musique (méritée) en 2005, on aurait pu la perdre avec tout ce qui sort et devient éphémère aujourd'hui dans les maisons de disques. Valery Zeitoun de AZ a l'air de croire en elle et c'est tant mieux car elle est capable de nous sortir, années après années, de très bons albums pour un public qui lui reste fidèle. Et aujourd'hui, elle nous raconte "Nos Histoires"....
+
+Si il reste du "rock" chez La Grande Sophie, on ressent surtout mélancolie et nostalgie dans ce dernier opus. En fait de "nos", c'est aussi de ses propres histoires, qu'elle puise son inspiration, avec toujours autant d'habileté à jongler avec les mots, les phrases, les sons. Ce sont "des portes qui claquent", pour un départ en forme de fin... et qui pourtant est un nouveau début, le début d'un album. Et c'est vrai, il y a de son histoire, de nos histoires dans cette peinture si précise d'un quotidien. Les mots sont précis, comme la rythmique avec un son épuré parsemé de petits détails. Elle n'oublie pourtant pas le "rock", avec quelques riffs de ci delà, comme des "colères"... tout ça pour des rencontres avec des personnages. Parmi eux, il y a la grande pianiste "Maria Yudina" dont elle a percuté l'histoire et nous la renvoie. Et puis il y a ces moments de grâce comme "Hanoi", petits chefs d'oeuvre qui rend un hommage parfait à la capitale vietnamienne. Sophie a le talent de nous rendre des instants par les mots, de nous les faire vivre par quelques notes, d'apparence faciles et pourtant si complexes à trouver. Elle cite **Joe Hisaishi** parmi ses modèles... Et il y a un peu de ça dans les variations sur quelques notes, les silences, les pauses.
+
+"La maison des doutes" est un exemple de cela, avec un gimmick de piano qui laisse sa place à une mélodie qui paraît totalement évidente au point qu'on a l'impression d'avoir vécu avec. A défaut d'originalité, parfois, elle préfère nous conter des histoires, ces histoires qui seront parfois les nôtres demain, ou étaient celles d'un proche, hier. "Nos Histoires" est un de ces albums qui s'écoute, se vit, nous accompagne dans une journée, une semaine. Et à chaque écoute, on en découvre une autre facette, on se découvre même parfois. Au point qu'on l'écoute en boucle, sans voir le temps passer. Le temps est justement un élément qui a son importance dans l'album, comme dans "Mille Visages", single potentiel. On "n'a rien vu venir", c'est vrai, pas même la fin de cet album, presque trop court et pourtant juste parfait avec ses sourires et ses larmes. Comment ne pas être bouleversé par cette femme emportée par le tsunami de Fukushima... !? Il faut bien partir, pourtant et ces "lacs artificiels" semblent nous appeler à un voyage.
+
+On comprend alors le succès de cette artiste à part, fidèle à elle même. Et paradoxalement, on n'en attend rien de particulier, juste être là encore demain pour bercer notre quotidien de mots et de notes. A bientôt, Sophie...
+
+[la video](https://www.youtube.com/watch?v=ggEfvsgr-ok)
+
+![cover](http://cheziceman.files.wordpress.com/2016/01/grandesophie-noshistoires.jpg)
+
