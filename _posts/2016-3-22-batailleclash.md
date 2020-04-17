@@ -1,0 +1,30 @@
+---
+layout: post
+title: Jeu Mobile - Bataille de clash, la stratégie temps réel en mobile
+category: geek
+tags: android, geek, Geekeries, jeu video, stratégie, 2010s
+---
+**Au moment de choisir un jeu de stratégie sur Android, on tombe forcément sur deux des leaders du marché : Clash of Clans de Supercell, sorti en 2012.... et Castle Clash de IGG, sorti en 2013. Aucun de ces jeux n'a inventé son concept mais a repris des recettes éculés. Mais le second a beaucoup copié sur le premier, au point qu'on ne voit presque plus les différences.**
+
+Comme dans tous les jeux de stratégie temps réel, on part d'un village, on exploite des ressources, on batit une armée, on recherche de la technologie pour faire monter en compétences ces différents éléments pour plus de puissance, fortifier son village... Mais si des Ages of Empire ou Civilization misaient sur un contenu vaguement historique, de larges territoires, ici on se concentre sur un petit carré qu'il va falloir aménager en place forte pour se défendre d'agresseurs extérieurs. Ces agresseurs sont d'autres joueurs en ligne, définis par une échelle de compétence pour qu'il n'y ait pas trop de disproportion. Il faut donc penser, dès le départ, à protéger ses ressources, qui sont de deux sortes : pièces d'or et magie (le nom différe selon le jeu mais le système est identique). Le joueur peut se regrouper avec d'autres, lorsqu'il atteint un certain niveau, pour fonder un clan, une guilde, bref, un groupe d'armées. L'union fait la force mais c'est surtout le temps de jeu qui fait la force, et ... l'argent que l'on dépense pour gagner du temps. On rajoutera un troisième larron qui empreinte la mécanique des deux autres en l'améliorant par plus de détails et de réalisme : DomiNations. Mais vous remarquerez le manque d'imagination de certains dans le positionnement des boutons et affichages !
+
+<img class="size-full wp-image-887" src="https://cheziceman.files.wordpress.com/2016/02/wp-1454448016129.png" alt="Clash of Clans" width="730" height="411" />
+clash of clans
+
+**Gratuit ?**
+
+Comme souvent, quand c'est gratuit, c'est toi le produit. Alors au niveau des permissions des applications, il n'y a que Castle Clash et DomiNations qui abusent un peu en prenant l'ID du téléphone, les fichiers audio et le micro. Au niveau de la taille de l'application une fois installée, c'est 63 Mo pour Clash of Clans contre 121 Mo pour le concurrent singapourien..et 500Mo pour Dominations qui fait payer cher sa richesse graphique. A l'inverse, la consommation de ressource est énorme coté suédois avec 235Mo de RAM et 26% de CPU, contre 99Mo et 4% CPU pour son coucurrent asiatique et 125 Mo et 9% pour DomiNations. Bref, le choix est à faire sur le feeling, l'intrusivité des publicités et achats en ligne. Le système de jeu laisse quand même suffisamment à faire sans bourse délier pour que l'on s'amuse à développer son village.
+
+<img class="wp-image-886 size-full" src="https://cheziceman.files.wordpress.com/2016/02/wp-1454447973922.png" alt="wp-1454447973922.png" width="730" height="411" />
+DomiNations
+
+**La théorie des cartes où comment faire son Vauban.**
+
+Sur ces deux jeux, de nombreuses cartes types existent pour défendre au mieux son village avec des systèmes de fortifications complexes, en zone, avec des bombes dans des couloirs. La stratégie d'attaque consiste souvent à viser d'abord les défenses à distance de l'ennemi, c'est à dire les tours, les canons et les mortiers. La seule manière d'agir est de placer son unité prêt de l'objectif visé car ensuite elle devient indépendante. Il convient aussi de choisir ses unités selon les capacités, entre des archers qui frappent à distance mais ont peu de résistance, des géants puissants mais qui se concentrent sur les défenses ennemis, des fantassins qui attaquent ce qu'il y a devant eux, etc...Plus tard dans le jeu, on aborde même les attaques aériennes avec un bestiaire très heroic fantasy... sauf pour Dominations où l'on est dans l'histoire.  Lorsque l'on a été attaqué, on a un rapport et on peut revoir la séquence pour apprendre où se trouvaient les points faibles. C'est très pratique pour analyser les habitudes des joueurs. Des trois, DomiNations sort du lot puisque l'on doit défricher son terrain et qu'il ajoute des routes et des éléments inconnus des deux autres.
+
+<img class="wp-image-890 size-full" src="https://cheziceman.files.wordpress.com/2016/02/wp-1454448244569.png" alt="wp-1454448244569.png" width="730" height="411" />
+CastleClash
+
+Mais comme ces jeux sont basés sur un modèle économique similaire, il leur faut trouver le juste équilibre entre la jouabilité et la rentabilité. DomiNations est plus long à mettre en place, pour débloquer des options interessantes. Le système de guilde intervient plus tard mais on appréciera un réalisme qui rappelle Civilization. Pour les deux autres, c'est vraiment une affaire de goût et de petits détails. Il est par exemple énervant dans Clash of Clans de consommer des unités même quand elles n'ont pas été tuées dans un combat. Mais l'interface de CastleClash est dans un clinquant un peu ridicule. Le nombre de joueurs de CoC est impressionnant et il est facile de trouver un clan, une fois les premiers niveaux passés. Les quêtes sont un moyen de progresser rapidement mais on peut plafonner assez vite devant la difficulté. La stratégie est dans l'ensemble trop basique pour intéresser le wargamer ou le puriste du RTS, mais ça rend ces jeux très accessibles du grand public.
+
+A l'heure du choix, il faut avouer que deux des jeux sont quasi identiques. CoC bénéficie d'une vaste médiatisation et malgré quelques défauts énervant, reste le plus sobre d'aspect et le plus facile d'accès par un bon équilibre de sa mécanique. Son outsider CC peut être intéressant surtout si on aime économiser sa batterie. J'apprécie DomiNations pour sa richesse, ses possibilités stratégiques plus poussées et son réalisme. Il s'adresse sans doute à un public plus expérimenté et adulte.
