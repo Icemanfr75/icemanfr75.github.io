@@ -2,7 +2,7 @@
 layout: post
 title: Informatique, Des années 80 à nos jours - 1984 à 1989
 category: geek
-tags: geek, Geekeries, histoire, informatique, ordinateur, retro gaming
+tags: geek, Geekeries, histoire, informatique, ordinateur, retro gaming, 1980s
 ---
 **Je ne sais plus trop comment cela a commencé. Mais un jour j'ai découvert les consoles de jeu, les ordinateurs et j'ai tout de suite accroché. Pourtant, il m'a fallu attendre avant de pouvoir vraiment en utiliser chez moi. L'occasion de vous conter ce parcours geek des années 80 à nos jours.**
 
