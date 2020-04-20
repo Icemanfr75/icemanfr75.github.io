@@ -4,7 +4,7 @@ title: Web - L'illusion de la réalité
 category: reflexion, geek
 tags: analyse, blog, bulle, esprit critique, Geekeries, google, moteur de recherche, réalité, Réflexion
 ---
-**Nous percevons de plus en plus la réalité du monde qui nous entoure par des prismes. Il peut s'agir de celui des médias, de celui des réseaux sociaux ou bien encore des moteurs de recherche. Pourtant, comme tout <span style="text-decoration:underline;"><a href="https://fr.wikipedia.org/wiki/Doute_cart%C3%A9sien#Douter_des_sens">cartésien</a> le dit, "nos sens nous trompent"...**
+**Nous percevons de plus en plus la réalité du monde qui nous entoure par des prismes. Il peut s'agir de celui des médias, de celui des réseaux sociaux ou bien encore des moteurs de recherche. Pourtant, comme tout <a href="https://fr.wikipedia.org/wiki/Doute_cart%C3%A9sien#Douter_des_sens">cartésien</a> le dit, "nos sens nous trompent".**
 
 Que les médias soient selectifs sur ce qu'ils relatent, ce n'est pas nouveau. En effet, chaque rédaction a une orientation, politique et/ou commerciale et le lecteur achète normalement en connaissance de cause. Mais jusqu'ici, nous pensions qu'un moteur de recherche était neutre, et qu'un réseau social l'était aussi, ou orienté par ses propres utilisateurs. Ce dernier devrait alors être un miroir de la société ou d'une partie. J'ai eu l'occasion de parler déjà de parler de leur évolution et pourquoi je m'en éloigne. Reste alors le moteur de recherche et son pendant actuel : l'agrégateur d'actualité.
 
