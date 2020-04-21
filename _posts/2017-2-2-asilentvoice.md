@@ -1,0 +1,17 @@
+---
+layout: post
+title: BD - A Silent Voice de Yoshitoki Ōima (2011)
+category: bd
+tags: 2010s, bd, harcèlement, japon, Littérature et BD, manga, suicide, surdité
+---
+**Plus qu'aucune autre, la bande dessinée japonaise ose aborder tous les sujets. Dans "Koe no katachi" traduit par A silent Voice, Yoshitoki Oima aborde le harcèlement scolaire et la surdité.**
+
+La dessinatrice japonaise a fait appel à sa mère, traductrice de langue des signes, pour rendre son récit crédible. Le lecteur va suivre le personnage de Shoya Ishida, jeune collégien turbulent, qui va harceler la jeune Shoko Nishimiya, nouvelle élève dont le handicap va bouleverser les habitudes de l'école.  Le harceleur va pousser la jeune fille à partir de l"école et va se retrouver alors lui même le souffre douleur de ses camarades. Ceux qu'il faisait rire lorsqu'il harcelait la jeune fille, vont devenir ses cauchemars et lui faire prendre conscience du mal qu'il a fait. Mais pas plus que la jeune fille, il ne sera aidé ou accompagné par le corps enseignant.
+
+On retrouve dans ce récit la dureté du système éducatif nippon, bien sûr. Mais dans un message plus universel, on y montre aussi que l'enfance n'a rien d'un âge de l'innocence. L'auteur montre aussi les deux mères des protagonistes, presque en opposition à leurs enfants. L'une est plutôt cool et tente de juguler l'énergie de son garçon. L'autre semble sévère et rigide, face à sa fille qui pardonne tout et va vers les autres. Il faut noter aussi que les deux femmes sont seules, divorcées ou séparées, ce qui est encore difficilement accepté au Japon. On y parle sens de l'amitié, différence, suicide, incompréhension et communication, confiance en soi... car Nishimiya doute d'elle même, à travers ce qui lui arrive, même si elle ne montre rien. Le récit prend le temps de s'installer d'une manière originale. En effet, on connaît une bonne partie de l'histoire dans le premier volume, la suite revenant plus en détail et en flash back sur tout le cheminement du héros, dans sa rédemption progressive.
+
+<img class="aligncenter size-medium" src="http://img.manga-sanctuary.com/big/a-silent-voice-manga-volume-7-simple-241860.jpg" alt="" width="460" height="700" />
+
+Si l'histoire paraît dure, elle est aussi sensible. Dans ce mélo, par ailleurs adapté en Anime, il y a évidemment une part de caricature, de lieux communs. Le fait que cela se passe au Japon nous donne un coté dépaysant, notamment par les habitudes éducatives. Pourtant, j'ai pu constater par moi même combien la surdité est un handicap en entreprise ou dans le monde éducatif. Ayant travaillé pendant quelques années avec un collègue affecté de ce mal, j'ai entendu aussi des insultes, de la jalousie envers ses soit-disant privilèges. J'ai suivi des formations avec lui et l'ai aidé lorsqu'il ne pouvait tout comprendre de la part d'un formateur pas forcément très patient. Et j'ai aussi passé quelques jours avec un lycéen en stage et qui était aussi sourd. C'est extrèmement formateur lorsque l'on a à expliquer quelque chose. Il faut trouver d'autres moyens de communication, de démonstration. J'ai eu l'impression d'en apprendre autant que lui, au final.
+
+Dans ce manga, j'ai retrouvé aussi ce sentiment. Même s'il y a des redites parfois, j'ai été touché et passionné par ce manga paru en France en 7 volumes. Je vous le recommande donc chaudement, même si le sujet peut vous paraître peu distrayant.
