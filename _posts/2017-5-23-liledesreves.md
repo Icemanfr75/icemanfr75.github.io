@@ -1,0 +1,19 @@
+---
+layout: post
+title: Littérature - L'île des rêves de Keizo Hino (1985)
+category: litterature
+tags: 1980s, environnement, japon, littérature, Littérature et BD, surréalisme
+---
+**Il y a des livres dont il faut plusieurs jours pour s'en remettre, les assimiler. Ce livre du romancier japonais Keizo Hino est de ceux là.**
+
+<i>L'île des rêves</i> n'est rien d'autre qu'un immense terrain vague dans la baie de Tôkyô, recouvert d'ordures et de montagnes d'immondices rejetées par la ville.
+
+C'est là qu'aime aller se promener tous les dimanches Monsieur Sakai, employé dans une société de construction, l'une de celles qui ont édifié les tours, les gratte-ciel et les échangeurs de cette mégapole dont il est amoureux ; amoureux comme d'une créature vivante dont il écouterait les battements de coeur et la respiration. Sans parvenir à comprendre comment une décharge d'ordures peut dégager une telle fascinante beauté. La rencontre avec une mystérieuse jeune femme en noir, qui le renverse un soir avec sa moto, l'entraînera encore plus loin...
+
+Keizo Hino joue avec les mots, dès le titre, reprenant "<i>Yume no shima" </i>qui est à la fois un nouveau quartier de Tokyo mais aussi un terme assez ironique. Car ce nouveau quartier a été fabriqué à partir des ordures de la ville. Il y a la vision lumineuse et brillante en facade de Tokyo et ses déchets, sa face cachée, que cet amoureux de l'urbanisme qu'est M. Sakai ignorait. Dans un mode très contemplatif, Hino accompagne son héros à la découverte de cela, se retournant sur son passé, son enfance. Hino est un enfant de la guerre (16 ans à la fin du conflit) mais M. Sakai aussi, ayant participé à la reconstruction, au miracle économique japonais.
+
+Nous aurions pu nous arrêter à une simple critique du développement urbain, de la perte du lien avec la nature, qui reste tout de même l'ossature du livre. Mais Hino ne s'arrête pas là. A travers "La Femme", il entreprend de donner une âme à cette ville et à cette nature, à la fois séductrice et destructrice, à la fois folle et réaliste. Le récit fait appel à la culture profonde du peuple japonais, en devenant onirique, parfois d'une manière proche de ce que l'on rencontre chez certaines oeuvres de Miyazaki. Le fait que M. Sakai se retrouve dans un îlot de forêt entouré de mur, avec une relation quasi mystique à cette nature, rappelle évidemment le Shintoïsme.
+
+L'auteur y ajoute du surréalisme dans de nombreuses scènes où l'environnement se fond avec les êtres. Il le fait sans abuser des tournures et des mots. Il faut rendre d'ailleurs hommage à la traduction de l'éditeur français Picquier, spécialiste du Japon. Elle est tardive (2012 pour un livre sorti en 1985) mais ne semble pas, d'après ce que j'ai pu en lire, faire injure à l'oeuvre ou l'auteur. Hino stimule l'imaginaire de son lecteur, n'insérant pas une chronologie claire dans son récit (années 70, 80 ? ) mais s'attachant à donner une part d'universalité à son récit. Car ses thèmes sont évidemment au delà du seul Japon.
+
+Alors, bien sûr, le récit est assez lent, met du temps à s'installer et il est recommandé de lire cela dans un environnement calme ou coupé du brouhaha. Car le lecteur est stimulé par ces images fortes, se fondant parfois dans M. Sakai ou comme témoin invisible, comme passant, comme fleur ou arbre. On finit par imaginer la luxuriance de l'île, celle dont nous rêvions peut-être jadis et que nous avons fini par oublier avec l'age adulte. Elle pouvait même se métamorphoser dans ce terrain vague où nous jouions et qui aujourd'hui est bâti inconsidérément. Et je ne sais si c'est mon âge aujourd'hui qui me fait ressentir cela autrement, mais je trouve ce livre magnifique. Ce n'est pas un hasard si Picquier l'a choisi comme premier opus de l'oeuvre de Keizo Hino a traduire, ni pourquoi il est très connu au Japon. Il mérite maintenant de l'être dans la francophonie.
