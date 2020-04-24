@@ -1,0 +1,17 @@
+---
+layout: post
+title: Presse du passé - Joystick/Joypad (1988-2012)
+category: geek
+tags: 1990s, 2000s, geek, Geekeries, jeu video, presse, retrogaming
+---
+**Ce fut pendant quelques années mon magazine fétiche. A la fin de ma période Amstrad et avant ma période PC / Consoles, il était le truc que j'attendais d'aller chercher en kiosque...**
+
+<img class="size-medium alignleft" src="http://www.abandonware-magazines.org/images_petitescouvertures/Joystick/joystick_numero013.jpg" width="190" height="264" />
+
+Je n'ai pas connu la période hebdomadaire, évidemment. Ce n'est que vers 1991 que j'ai commencé à l'acheter. Mais par contre, j'ai très bien connu sa période "d'accouchement" de son jumeau, joypad. Mais revenons un peu en arrière. La presse dédiée à une machine en particulier se développe et les titres pionniers disparaissent. Tilt, par exemple, sent déjà le sapin , tout comme mon Amstrad CPC. Les consoles, le PC se démocratisent conjointement et la guerre Atari ST-Amiga fait long feu. Je passe donc progressivement vers ce nouveau magazine, d'autant qu'un de mes chroniqueurs préférés de Tilt, AHL, fait le même mouvement. Et justement, en 1991, le cahier dédié au console va s'appeler Joypad .... et devenir un autre magazine en novembre de la même année.
+
+C'est pourtant toujours vers Joystick que je continuerai d'aller jusqu'à ma période PC commencée en septembre 1995. J'aime le généralisme du magazine, tout autant que sa maquette moderne (pour l'époque), son ton joyeux, ses notes pas trop vendues aux éditeurs. AHL se barrera vers Console News mais je resterai finalement chez Joystick avec des chroniqueurs comme Olivier Ka, J'm Destroy, Seb puis Lord Casque noir (je vous laisse deviner la référence cinéma...). Sans y être abonné, j'ai été un lecteur assez régulier pendant la période qu'on appelle "Hachette", mais je vais moins aimer la période "Future Press", qui va littéralement tuer le magazine en le balançant ensuite chez Yellow Media. Les restes de Joystick se retrouveront chez CanardPC. J'ai cessé de le lire vraiment en 2004 ,grignotant péniblement un ou deux numéros par an. Il disparaîtra en 2012.
+
+<img class="alignleft" src="http://download.abandonware.org/magazines/Joystick/joystick_numero022/Joystick%20022%20-%20Decembre%201991%20-%20Page%20204.jpg"/>
+
+Il faut dire que le marché vidéoludique a beaucoup changé. Ma période "jeu en réseau PC" commence déjà à passer et je préfère la console. Joystick est donc le cul entre deux chaises, maintenant et ça ne pouvait plus marcher. Je serai plutôt sur joypad, mais pour un temps seulement. Le rapprochement avec Edge, autre titre du groupe Future Press, n'y suffira pas. Pourtant, Joystick représente un peu l'age d'or français pour la presse du jeu vidéo. On a toujours tendance à enjoliver les choses, c'est vrai. En revoyant <a href="http://www.abandonware-magazines.org/affiche_mag.php?mag=30&amp;num=572&amp;album=oui">les pages de l'époque</a>, je me dis quand même que ça a pris un sacré coup de vieux. Il y avait un max de pub, des cracks à n'en plus finir, un peu trop de photos par rapport au rédactionnel, sur le début du magazine, surtout quand on sortait de Tilt. Et pourtant, on avait de bons tests sur un bon paquet de pages qui donnaient de quoi rêver. Comme chaque année, il y avait le numéro spécial Salon de Las Vegas avec les jeux à venir. Et aujourd'hui, ça parait une mine pour le rétrogamer pour essayer de trouver la perle dont personne ne parle plus. Une fois plus, je regrette de m'être débarassé de quelques numéros.
