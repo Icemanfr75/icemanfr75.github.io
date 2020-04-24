@@ -24,10 +24,10 @@ On se retrouve alors avec une grande fenêtre bien vide. Je vous propose de copi
 >; NOTE: The value of AppId uniquely identifies this application.
 >; Do not use the same AppId value in installers for other applications.
 >; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
->AppId={{xxxxxxxxxxxxxxxxxxxxxxxxxxx}
+>AppId={{xxxxxxxxxxxxxxxxxxxxxxxxxxx}}
 >AppName=Portail
 >AppVersion=1.0.0
->;AppVerName=Portail 1.0.0
+>AppVerName=Portail 1.0.0
 >AppPublisher=Mon Nom
 >AppPublisherURL=xxxxxx
 >AppSupportURL=xxxxxx
