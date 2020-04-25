@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Informatique, des années 80 à nos jours : 2002 - 2005
+title: Informatique, des années 80 à nos jours - 2002 à 2005
 category: geek
 tags: 2000s, aim, beos, geek, Geekeries, histoire, informatique, ordinateur, retrogaming
 ---
