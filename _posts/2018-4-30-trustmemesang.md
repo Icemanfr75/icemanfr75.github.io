@@ -1,0 +1,21 @@
+---
+layout: post
+title: Musique - Trust - Dans le même sang (2018)
+category: musique
+tags: 2010s, hard-rock, Musique, Rock, trust
+---
+**10 ans ! Dix ans que l'on attendait un nouvel album de ce groupe mythique du Hard Rock made in France, le seul groupe qui ait rivalisé avec les pointures de l'époque à l'internationale. Après un concert il y a quelques années qui m'avait remis du baume au coeur, je l'attendais cet album.**
+
+Cette fois, on a un certain **Mike Fraser** aux manettes et ça rassure. Le producteur canadien est quand même derrières des classiques de AC/DC, Aerosmith, Metallica, Bryan Adams, ... excusez du peu. Je ne vais pas faire durer le suspens. On retrouve bien un son hard-rock comme on les aime, sans être trop rétro, mais un peu assagi quand même.
+
+Trust, ce n'est pas un groupe qui va vous va parler de sexe et de murge pendant un album comme d'autres. Ca a toujours été politisé, et ... Antisocial (elle était facile ! ). On pouvait craindre que ça s'assagisse de ce côté ? Avec le dernier concert que j'avais vu, je n'y croyais pas trop et en plus j'ai vu Bernie en interview il y a quelques semaines. Donc j'étais briefé : Ca va tirer à balles réelles, et à riffs réels. Apparemment, les prises ont été faites en "Live" et non par petits morceaux d'enregistrements pour chaque piste comme on peut le faire aujourd'hui. Ca se ressent par un son plus chaud, je trouve. Et on retrouve donc le duo historique **Norbert Krief** à la guitare / **Bernie Bonvoisin** au chant, accompagnés par **Ismalia Diop**, et de nouveaux, **Christian Dupuy** et **David Jacob**.
+
+Mike Fraser a retrouvé le Trust qu'on aime avec des intros parfois proches de classiques du groupe (L'exterminateur... Dont je vous laisse savourer les paroles). Il y a toujours cette efficacité de Nono dans les riffs, ce qui en fait toujours un des plus grands guitaristes français. Je savais déjà que les années auprès de Johnny n'avait pas émoussé l'artiste. Et on peut dire la même chose au niveau des textes avec un "Ni Dieu ni Maître" qui prévient d'entrée que l'on ne fera pas de cadeaux aux politiques. Il n'y a parfois pas trop d'originalité musicale pour se glisser derrière le texte et le renforcer (Démocrassie). Ca reste toujours d'une efficacité redoutable et j'aime le coté bluesy de Maître Krief. Quel kiff d'entendre un Bernie se payer les Valls, Fillon, Le Pen, BHL, tous ces faux Charlie dans un titre au vitriol comme "Fils de pute, Tête de liste" et "F-Haine". Ca ne plaira pas vraiment à tous ces hardos qui ont viré un peu trop à droite mais je ne pense pas qu'ils aimaient Trust à l'époque, de toute façon.
+
+Mais il y a aussi des titres moins énervés, du moins en apparence, où Bernie montre ses qualités de chanteur, d'émotion, même si la voix est moins incisive que par le passé. Je pense évidemment à la reprise de Piaf, "J'm'en fous pas mal" qui reste terriblement d'actualité. Mais il y a également "Christique" qui sonne vraiment plus live que d'autres avec des chœurs inhabituels et que personnellement je regrette. En parlant de religion, il y a évidemment des allusions aux attentats, à la récupération qui en est faite, à ceux qui se perdent spirituellement derrière de faux prophètes. C'est le coté positif de "Trust" qui ressort, à ce moment, malgré la noirceur qui pouvait transparaître, jusque là. Je vous laisse un peu de surprise avec "Caliente" qui m'a rappelé d'autres groupes. Et quand je parlais de blues, "Demande à ton père, demande à ta mère" aurait bien pu être chanté par une star française récemment disparue. Bernie assure mais Norbert a gardé des traces du passé !
+
+Je ne sais pas si c'est le fait de retrouver un Trust en forme, toujours aussi hard-rock, mais un peu plus blues-rock, qui me donne cette impression. Mais je l'aime bien cet album. Il faudra voir ce que ça donnera avec le temps. Mais souvent les Hiatus sont profitables. Celui de Trust avait été long et "13 à table" était imparfait. C'est donc avec plaisir que je fais tourner ça sur ... mon player et que je ressors les classiques de leurs pochettes.
+
+[la video](https://www.youtube.com/watch?v=yRoKKbqLI2I)
+
+![cover](https://cheziceman.files.wordpress.com/2018/04/memesang.jpg)
