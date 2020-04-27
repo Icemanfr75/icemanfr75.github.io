@@ -1,0 +1,19 @@
+---
+layout: post
+title: Souvenir de Gamer - Return to castle wolvenstein (2001)
+category: geek
+tags: 2000s, fps, geek, Geekeries, jeu video, réseau, retrogaming
+---
+**Wolfenstein 3D fut le premier FPS en "3D", donnant naissance à tous les Doom-like. J'étais un peu fâché avec le genre, à force de voir des copies, de copies. Et puis arriva cette suite officielle, qu'on appellera RTCW ...**
+
+Bizarrement, j'avais déjà joué à Quake et ses suites et même à Unreal Tournament dans les années précédentes. Le jeu en réseau PC fonctionnait donc bien avec des plateformes balbutiantes pour réunir les joueurs. Mais je commençais à me lasser sur les jeux en solo. Celui là m'a remis dans le bain avec une aventure qui me captiva. Il faut dire que graphiquement, c'était déjà très réussi. Normal, ça utilise le Quake engine dans sa version III, le top de l'époque. Et il y avait un très bon scénario et une bonne progressivité dans la difficulté avec surtout un character design au top.
+
+Durant la <a title="Seconde Guerre mondiale" href="https://fr.wikipedia.org/wiki/Seconde_Guerre_mondiale">Seconde Guerre mondiale</a>, en <a title="1943" href="https://fr.wikipedia.org/wiki/1943">1943</a>, les services secrets Alliés s'interrogent sur l'activité d'une section spéciale, l'organisation <a title="Schutzstaffel" href="https://fr.wikipedia.org/wiki/Schutzstaffel">SS</a>, appelée « Division paranormale SS », dans la région de Wolfenstein, dans les montagnes du <a title="Harz" href="https://fr.wikipedia.org/wiki/Harz">Harz</a>, plus particulièrement dans son château. Ils envoient donc l'agent Blazkowicz là bas pour savoir ce que complotent les nazis. Il découvre que les SS font des fouilles archéologiques dans plusieurs anciens sanctuaires païens de la région sous la houlette de l'ésotériste Helga von Bulow et de <a title="Heinrich Himmler" href="https://fr.wikipedia.org/wiki/Heinrich_Himmler">Himmler</a>, ainsi que dans les catacombes romaines du village de Wulfburg, où ils sont parvenus à ramener des morts à la vie. Lesquels sont incontrôlables et massacrent tout vivant qu'ils croisent. L'agent découvre ensuite qu'Himmler croit être la réincarnation d'Henri <abbr class="abbr" title="premier">I<sup>er</sup></abbr> et que les SS mènent des recherches pour le ramener à la vie : l'« Opération Résurrection ». (wikipedia)
+
+Alors, ça vous captive pas ce truc? Je n'ai pas pu y rejouer et je préfère laisser le souvenir de la jouabilité intact. Je me souviens encore très bien de cette ambiance très réussie, de ces headshots, ces infiltrations, ces ennemis déboulant par surprise. Et puis si je n'ai pas un grand souvenir du niveau des catacombes, je me souviens bien de cette base de sous-marins, ces couloirs et ces quais successifs avec la nécessité d'être discret et de tirer juste. Je suis allé juste un peu plus loin mais pas plus. Alors pour vous allécher, je vous laisse la vidéo 1 sur 4, sachant que j'ai du m'arrêter juste au début de la vidéo 3 sur 4 je pense.
+
+[video](https://www.youtube.com/watch?v=Jg-W0qa_UB8)
+
+Pourquoi je me suis arrêté là ? Simplement parce qu'il y avait aussi un mode multijoueur plutôt réussi. Les joueurs ne trichaient pas encore trop avec des cheats. Par contre je n'ai pas joué à l'extension Enemy Territory. Aujourd'hui, je ne sais pas si je pourrais y rejouer car il faut avouer que les graphismes ont vieilli, que l'œil du joueur demande plus de photo-réalisme. Il se trouve que le jeu a été adapté sur toutes les plateformes "ordinateur", Linux compris, donc on peut y rejouer sans "trop" de mal. Mais pour le mode multi, ça sera difficile. Et j'ai de bons souvenirs de partie de Capture the flag (capture le drapeau) avec les amis. Alors peut-être qu'avec la mode du retrogaming, on verra des plateformes spécialisées dans ce type de FPS.
+
+**Sorti par Gray Matter Interactive sur Microsoft Windows, Linux, Mac OS, Mac OS X, Xbox, PlayStation 2**
