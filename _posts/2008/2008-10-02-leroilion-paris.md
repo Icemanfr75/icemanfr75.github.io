@@ -2,7 +2,7 @@
 layout: post
 title: Spectacle - Le Roi Lion - Le Spectacle de Broadway - Paris 2008
 category: musique
-tags: concert, live, musique,pop
+tags: concert, live, musique,pop, 2000s
 ---
 
 **Les comédies et spectacles musicaux sont enfin à la mode en France. Mais dans la pléthore de propositions, rares sont les spectacles de qualité, que cela soit musicalement que visuellement. Un producteur hollandais a eu l'idée d'importer le meilleur de Broadway en France. C'est au théâtre Mogador à Paris qu'a été mis en place l'adaptation du film Disney Le Roi Lion.**
