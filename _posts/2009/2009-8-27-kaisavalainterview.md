@@ -29,7 +29,7 @@ Mon père, qui est musicien, me rapportait beaucoup de disques que je lui demand
 * Kaisa : Je pense que mes meilleurs souvenirs musicaux sont quand tu trouves quelquechose qui va changer ta manière de faire de la musique. Par exemple, quand tu vois un groupe jouer dans un grand concert, cela peut te faire comprendre des choses très profondes. Cela m'est arrivé plusieurs fois mais la dernière fois c'est il y a quelques semaines en regardant un groupe qui s'appelle **Murmansk** ( ndlr : un groupe de rock alternatif planant finlandais). Leur show était simple, efficace, juste à faire leur musique. Mais il n'étaient pas sur scène pour distraire quelqu'un. Et ils étaient froids et vulnérables.
 * Avec quel producteur voudriez vous travailler dans l'avenir ?
 * Kaisa : Citer un nom peut être risqué, parce que vous savez ce qu'il advient des espoirs quand on en parle. J'aime travailler avec des personnes expérimentées, talentueuses et visionnaires, qui savent comment me guider dans cette jungle que j'appelle la Musique. Le tamtam de cette jungle fera le reste.
-* Merci pour cette interview.
+* Merci pour cette interview.(réalisée en anglais)
 
 
 ![cover](http://cheziceman.files.wordpress.com/2014/11/kaisavala.jpg)
