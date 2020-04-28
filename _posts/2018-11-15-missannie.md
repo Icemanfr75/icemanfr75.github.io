@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BD - Miss Annie de Flore Balthazar et Frank Le Gall (2010)
-category: md
+category: bd
 tags: 2010s, aventure, bd, chat, humour, 
 ---
 **Miss Annie (nom du premier tome) est une suite de BD consacrée à la vie d'une chatte domestique. Une série qui a su se mettre à hauteur de chat.**
