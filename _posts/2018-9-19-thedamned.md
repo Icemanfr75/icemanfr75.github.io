@@ -1,0 +1,19 @@
+---
+layout: post
+title: Musique - The Damned - Evil Spirits (2018)
+category: musique
+tags: 2010s, garage, gothique, Musique, New Wave, Punk, Rock
+---
+**On peut dire que cet album signe le grand retour d'un groupe mythique. A l'origine du mouvement Punk, puis orienté Gothique (les vrais...pas les gens lookés d'aujourd'hui), le groupe est déjà très respecté de l'autre côté de la Manche. je me suis laissé aller à une écoute après la lecture de la chronique de Philippe Lageat sur Rock Hard.**
+
+J'ai laissé passé un peu de temps, histoire d'oublier un peu ce qu'il en disait, de réécouter de vieux titres de l'époque Punk et Dark Wave/Gothique. De quoi m'apercevoir que malgré le look de vampire, le groupe ne s'est jamais trop éloigné de son style garage rock-punk. De quoi aussi me dire que le guitariste, le fantasque **<a href="https://fr.wikipedia.org/wiki/Captain_Sensible">Captain Sensible</a>** (Hey Captain, "Wot?" c'est lui...) est sous évalué en tant que musicien. Il n'y a qu'à écouter le Strawberry de 1982 pour s'apercevoir qu'on est plus proche des Ramones que des Sex Pistols, avec tout le respect que je leur dois.
+
+Mais cet album est aussi un vrai retour aux sources. On a donc toujours l'emblématique **Dave Vanian** au chant, Captain Sensible (**Raymond Burns** de son vrai nom) à la guitare et chant, **Paul Gray** à la basse (celui de la période 80-84!), **Monty Oxymoron** gardant les claviers depuis les années 90 et **Pinch** officiant derrière les futs depuis les années 2000. La pochette indique un retour au rétro avec une impression très années 60. Et c'est très vite confirmé avec une ambiance entre rock 60s et dark wave gothique, tout ça avec un son très garage-rock. Les choeurs sont extrêmement présents et il faut ajouter que c'est le grand **Tony Visconti** qui produit l'ensemble. Oui, le Tony Visconti qui a longtemps accompagné **David Bowie**, jusqu'à Blackstar, celui qui produisit aussi **<a href="https://cheziceman.wordpress.com/2011/08/17/t-rex-the-slider/">T-Rex</a>** dans ces années glam-rock. Et j'en passe...
+
+Cela donne un album très homogène avec une jolie intro sur "Standing on the edge of tomorrow", de la nostalgie comme sur "look left" (ce n'est pas un hasard que ça soit le single) et quelques riffs bien placés. Je trouve quand même qu'on s'éloigne franchement du punk, en flirtant même parfois avec le glam rock. "Evil Spirits" aurait très bien pu sortir dans la fin des années 70 avec un son typique de cette période. C'est un album qui flatte donc le vieil auditeur à défaut de renouveler le genre. Je sens moins le côté délirant de Sensible (bien que sur "Procrastination"....) même si je ne doute pas qu'il fasse ce qui lui plaît. La voix de Vanian est moins performante, c'est sûr et le recours très systématique aux choeurs, permet de masquer des lacunes. Mais tout cela donne de très belles mélodies, de la grandiloquence, comme sur "Shadow Evocation", "I Don't care" et même "Daily Liar".
+
+Et puis en y réfléchissant, j'ai retrouvé un côté <a href="https://cheziceman.wordpress.com/2016/11/28/roxy-music-roxy-music/">Roxy music </a>(au delà du côté dandy des deux leaders des groupes), période glam, avec ce second degré typiquement anglais. Et quand on sait que Steve Jones des Sex Pistols était fan du groupe (cf le groupe The Strand), on se dit que la boucle est bouclée entre le punk et le glam rock. Alors je suis plutôt séduit par l'album car j'aime ce style et rétrospectivement, je comprends pourquoi Lageat l'a été. Ce n'est pas The Damned des années 70-80 mais c'est un retour aux sources, un plaisir de se retrouver ensemble en studio et surtout sur scène. Le groupe est sans doute plus sage qu'avant, moins extravagant mais il y a un petit quelque chose tellement séduisant dans tout cela que finalement, j'y reviens avec plaisir.
+
+[la video](https://www.youtube.com/watch?v=Za7S1q4qU2Q)
+
+![cover](https://cheziceman.files.wordpress.com/2018/07/cover.jpg)
