@@ -2,7 +2,7 @@
 layout: post
 title: Musique - Fredericks Goldman Jones – Fredericks Goldman Jones (1990)
 category: musique
-tags: musique, pop, 1990s
+tags: musique, pop, 1990s, chanson
 ---
 
 **En 1990, après 10 ans de carrière solo, Jean Jacques Goldman sort un album avec ses deux camarades de scènes, Carole Fredericks et Michael Jones, sous le nom Fredericks- Goldman – Jones.**
