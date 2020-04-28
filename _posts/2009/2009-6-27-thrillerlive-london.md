@@ -16,7 +16,4 @@ La troupe de chanteur ne peut évidemment pas rivaliser sur l'aspect chant+danse
 
 Mais mon problème avec ce spectacle est la comparaison avec la concurrence. A Londres, ce ne sont pas les spectacles musicaux de qualité qui manquent et lorsque l'on paye 50 euros, on peut s'attendre à autre chose qu'à une sorte d'émission de télé hommage avec des artistes reprenant les hits d'une grande star. Si ces danseurs et chanteurs font bien leur boulot (à noter une des danseuses, **Kamilah Afiyah Beckles** déjà vu ailleurs (où ???) et chantant sur les chœurs et même sur un solo avec une présence indiscutable), c'est la mise en scène trop classique et le manque de surprise qui est le gros point négatif de ce spectacle. Un choix compréhensible de la part de la production mais j'ai eu beaucoup plus de satisfaction avec d'autres spectacles que celui là. Je n'avais pas voulu écrire de critique jusqu'à ce jour mais autant prévenir les spectateurs potentiels, surtout que le spectacle risque de voyager à travers le monde. Maintenant, avec ce qu'il s'est passé, faut il voir ce spectacle ? A chacun de juger !
 
-
 [La video](https://www.youtube.com/watch?v=GpmCIuFnMM4)
-
-![affiche](http://hebdozic.files.wordpress.com/2014/11/thrillerlive.jpg)
