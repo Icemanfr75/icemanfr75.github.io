@@ -1,0 +1,19 @@
+---
+layout: post
+title: Littérature Informatique - Hackers d'Amaelle Guiton (2013)
+category: geek, litterature
+tags: 2010s, documentaire, geek, Geekeries, hacker, hacking, livre
+---
+**J'avais presque oublié ce livre que la journaliste Amaelle Guiton avait consacré aux "Hackers", ce terme qui est souvent mal compris du grand public. Sous titré "Au coeur de la résistance numérique", c'est un livre qui tente de faire de la vulgarisation tout en s'intéressant au milieu "Hacktiviste".**
+
+<img class="alignleft size-medium wp-image-24713" src="https://cheziceman.files.wordpress.com/2018/11/hackersguiton.jpg?w=276" alt="" width="276" height="300" />
+
+De la vulgarisation car la journaliste, aujourd'hui chez Libé, revient aux sources de ce terme, reprend d'une manière parfois désordonnée les grandes figures internationales de ce "mouvement" hétéroclyte. Elle essaie d'en faire une définition à partir de ce que lui rapportent les interlocuteurs, qu'ils viennent du MIT, du Chaos Computer Club ou de la Quadrature du net. Et forcément, il faut aborder brièvement le logiciel libre, l'origine d'internet, le piratage, le cracker... Tant de termes avec lesquels je suis familier mais ce n'est pas le cas de tout le monde. Combien de fois traduit-on faussement Hacker en pirate ?
+
+Ce n'est jamais évident de faire un livre de vulgarisation technique et scientifique. Il faut être précis mais aussi accessible. Il faut rendre le récit vivant sans faire des coupes dans les termes ou l'histoire. Le principe étant de faire des interviews, cela aide pas mal mais ce sont juste des morceaux juxtaposés avec le risque que l'interviewé retrouve une vision biaisée de ce qu'il a dit. J'ai déjà pu croisé certaines de ces personnes dans les réseaux sociaux, dans des conversations sur Diaspora* ou twitter et à priori, ils ne sont pas fâchés avec l'auteur de ce livre.
+
+J'ai quand même plus fréquenté l'activisme que l'Hactivisme mais il reste beaucoup de points communs. C'est forcément compliqué entre les personnes extrémistes et les modérés et cela explique pas mal des échecs du logiciel libre, par exemple. On parle ici beaucoup des anonymous, des Printemps arabes, une dimension géopolitique qui n'est pas pour me déplaire. C'est aussi le problème de fournir des outils pour libérer des citoyens mais qui peuvent aussi être utilisés par des gens moins scrupuleux, des criminels aux dictateurs. Cette dimension plus philosophiques apparaissent dans quelques cas cités, bien au delà du <a href="https://fr.wikipedia.org/wiki/White_hat">white hat</a>/black hat. L'auteure s'intéresse donc à la forme politique du hacking, que cela soit pour permettre à tous d'avoir des outils "libres" mais aussi pour ne plus se retrouver le jouet de politicien(ne)s qui ne comprennent rien à la technique.
+
+Malgré ce sentiment d'avoir un récit désordonné, on perçoit bien aussi les différences entre les scandinaves, les allemands, les français, les arabes (ici Tunisiens et Egyptiens)...On parle assez peu d'hacktivisme politique aux USA par contre. Tout cela tient autant à la culture, qu'aux centres d'intérêts ou la maturité politique des individus. Si certaines parties du livres m'ont semblé anecdotiques et plus là pour la "légende" (on parle d'un certain sous-marinier danois qui aime bien la découpe...), j'aurais aimé plus d'approfondissement sur ces divergences, le fait que le parti pirate réussisse (un temps) à sortir de l'anonymat dans quelques pays alors qu'en France par exemple, il n'a suscité aucun intérêt. Le livre est sorti trop tôt pour avoir le recul nécessaire à cette analyse.
+
+Il reste intéressant pour aborder une première fois le monde des "hackers" lorsque l'on n'y connaît rien. Je pense que c'était son but premier et je ne pouvais pas en être satisfait. Il faudrait une suite mais la bibliographie et les nombreuses notes de bas de page peuvent y aider le lecteur curieux.
