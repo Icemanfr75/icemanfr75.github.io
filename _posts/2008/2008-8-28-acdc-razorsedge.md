@@ -2,7 +2,7 @@
 layout: post
 title: Musique - AC/DC - The Razor's Edge (1990)
 category : musique
-tags: hard-rock,metal,musique
+tags: hard-rock,metal,musique, 1990s
 ---
 
 **AC/DC est un des rares groupes à avoir su dépasser les frontières du hard rock pour devenir une icône du Rock, au sens large. Parmi les très nombreux albums de la période Brian Johnson, on oublie peut être un peu trop ce Razor's Edge alors que quelques titres sont devenus des classiques reconnus.**
