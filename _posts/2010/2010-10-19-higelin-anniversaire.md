@@ -2,11 +2,11 @@
 layout: post
 title: Musique - Jacques Higelin - Paris 2010
 category: musique
-tags: concert, live, Musique, Pop, Rock, chanson
+tags: concert, live, Musique, Pop, Rock, chanson, 2010s
 ---
 **Jacques Higelin fêtait hier son anniversaire parmi son nombreux public au Zenith de Paris. Encore une légende de la scène à ne pas manquer.**
 
-Mais quel âge a-t-il Jacquot? Lui qui commença un peu par hasard la musique à vingt ans, la  légende voulant que c'est en rencontrant **Henri Crolla**, guitariste et accompagnateur d'Yves Montand,  que le jeune Jacques se met à la chanson... D'abord acteur, il fait connaissance d'autres personnalités parisiennes de l'époque comme Rufus, **Brigitte Fontaine **ou** Areski Belkacem**, un ami de régiment avec lequel il enregistre quelques titres. Mais stoppons là la machine à remonter le temps, appuyons sur le bouton forward, et hop nous voilà rapidement dans les années 79-80 avec le diptyque Champagne pour tout le monde..., Caviar pour les autres. 1988,  c'est l'album Tombé du ciel et son single du même nom qui le consacrent.  La rencontre avec **Rodolphe Burger** dans les années 90,  et hop nous voilà à ce Zenith de Paris 2010.
+Mais quel âge a-t-il Jacquot? Lui qui commença un peu par hasard la musique à vingt ans, la  légende voulant que c'est en rencontrant **Henri Crolla**, guitariste et accompagnateur d'Yves Montand,  que le jeune Jacques se met à la chanson... D'abord acteur, il fait connaissance d'autres personnalités parisiennes de l'époque comme Rufus, **Brigitte Fontaine** ou **Areski Belkacem**, un ami de régiment avec lequel il enregistre quelques titres. Mais stoppons là la machine à remonter le temps, appuyons sur le bouton forward, et hop nous voilà rapidement dans les années 79-80 avec le diptyque Champagne pour tout le monde..., Caviar pour les autres. 1988,  c'est l'album Tombé du ciel et son single du même nom qui le consacrent.  La rencontre avec **Rodolphe Burger** dans les années 90,  et hop nous voilà à ce Zenith de Paris 2010.
 
 Mais il venait fêter quoi, tout ce monde agglutiné à l'entrée du Zenith en une longue file d'attente dans les frimas de ce mois d'Octobre, bravant les embouteillages, les trains au repos et la pénurie de carburant ? Un public un peu plus âgé mais au fond toujours aussi jeune que son idole, un public qui arbore quelques t-shirts confectionnés pour l'occasion ("La Nuit Promet d'Être Belle"...) ou chante déjà quelques-unes de ses ritournelles.  Les portes s'ouvrent et nous prenons place dans les gradins d'un Zenith affichant complet.  Quelques  "Joyeux anniversaires" sont entonnés et quelques minutes avant le début du concert c'est même un "Frère Jacques" qui est chanté, comme si le grand frère de la soirée s'était endormi ???!
 
