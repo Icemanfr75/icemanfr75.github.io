@@ -2,7 +2,7 @@
 layout: post
 title: Musique - Testament + Megadeth + Judas Priest - Paris 2009
 category: musique
-tag: concert, live, Musique, metal,
+tag: concert, live, Musique, metal, 2000s
 ---
 
 **Les Dieux du metal nous avaient apporté le beau temps ce samedi sur Paris pour qu'une foule sombre et diverse vienne de toute la France voir trois groupes manier les Flying V dans le Zenith. Le chapiteau a résonné ainsi pendant presque cinq heures.**
