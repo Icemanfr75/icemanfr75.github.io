@@ -17,7 +17,16 @@ Après le carton du précédent album, il était difficile de s'attendre à mieu
 
 Membres : Freddie Mercury, Brian May, John Deacon, Roger Taylor
 
-1- Tie your mother down 2- You take my breath away 3- Long Away 4- The Millionaire Waltz 5- You and I 6- Somebody to love 7- White Man 8- Good Old-fashioned lover Boy 9- Drowse 10- Teo Torriate
+1. Tie your mother down 
+2. You take my breath away 
+3. Long Away 
+4. The Millionaire Waltz 
+5. You and I 
+6. Somebody to love 
+7. White Man 
+8. Good Old-fashioned lover Boy 
+9. Drowse 
+10. Teo Torriate
 
 ![cover](https://hebdozic.files.wordpress.com/2010/09/queenraces1.png)
 
