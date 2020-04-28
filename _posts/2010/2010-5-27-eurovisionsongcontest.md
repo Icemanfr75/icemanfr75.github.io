@@ -4,8 +4,6 @@ title: Musique - Eurovision Song Contest
 category: musique
 tags: Musique, Pop, histoire, 1970s, 1980s, 1990s, 2000s
 ---
-
-
 **L'Eurovision 2010 arrive Samedi. Une émission où le Kitsch l'emporte souvent mais où il y a eu aussi de vraies découvertes depuis plus de 50 ans. Cela en fait un évènement quasi unique dans le monde.**
 
 L' « European Song Contest » ou concours de la chanson de l'Eurovision a été créé par un suisse, Marcel Bezençon, alors directeur de la société de télévision suisse, en 1956 sur le modèle du fameux festival de San Remo. Il est patronné par l'Union Européenne de Radio-Télévision qui a même des membres parmi les pays du Maghreb et comprend Israël depuis 1973. La célèbre musique d'ouverture n'est autre que le Te Deum de **Marc Antoine Charpentier**. Pour la première édition, il n'y a que 7 pays : La France, la Suisse, L'Italie, le Benelux et l'Allemagne. Pour l'édition 2010, nous retrouvons 39 Pays, c'est dire l'évolution.
