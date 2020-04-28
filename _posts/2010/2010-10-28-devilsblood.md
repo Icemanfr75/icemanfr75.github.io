@@ -13,7 +13,7 @@ Pour ceux qui aiment le hard rock psychédélique, les sonorités 70s mais avec 
 [la Video](http://www.youtube.com/watch?v=Mc7YbOPx1Wo)
 
 Après ce bel exemple d'un titre du dernier album, il ne vous reste plus qu'à visiter <a href="http://www.myspace.com/thedevilsblood" target="_blank">leur site</a> et écouter le dernier album : The Time of No Time Evermore.
-la video2](https://www.youtube.com/watch?v=BOdNYmXc1c0)
+[la video2](https://www.youtube.com/watch?v=BOdNYmXc1c0)
 
 Et le groupe a splité en 2013 !
 
