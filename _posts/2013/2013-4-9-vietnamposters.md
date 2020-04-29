@@ -4,7 +4,7 @@ title: Culture - Vietnam Posters de Sherry Buchanan (2009)
 category: geek, tourisme
 tags: dessin, histoire, Littérature , photographie, propagande, vietnam, 2000s
 ---
-Encore aujourd’hui, l’un des éléments les plus frappants, pour celui qui visite le Vietnam, reste la présence de nombreuses affiches de propagandes. Véritable tradition depuis plus de 60 ans, elles sont aussi un moyen de comprendre l’histoire d’un pays et de sa politique. Sherry Buchanan s’emploie à démystifier ce dispositif de communication.
+**Encore aujourd’hui, l’un des éléments les plus frappants, pour celui qui visite le Vietnam, reste la présence de nombreuses affiches de propagandes. Véritable tradition depuis plus de 60 ans, elles sont aussi un moyen de comprendre l’histoire d’un pays et de sa politique. Sherry Buchanan s’emploie à démystifier ce dispositif de communication.**
 
 Auteur d’un ouvrage sur les briquets Zippo, à partir d’une exposition sur les affiches présentes jusqu’à fin 2012 au British Museum, Sherry Buchanan s’est aussi associée au collectionneur et galeriste David Heather pour présenter un superbe ouvrage sur ce moyen de communication. Le Vietnam a une longue tradition picturale et dès la déclaration d’indépendance du Parti communiste vietnamien, des artistes furent mis à contribution pour diffuser des messages à travers des affiches et des publications. À cette époque dans ce qui était l’Indochine Française, la population vietnamienne était majoritairement rurale et illettrée. L’image est donc un moyen de communication idéal, rendant d’autant plus intéressante l’expérience de la propagande utilisée durant la Seconde Guerre mondiale.
 
