@@ -12,6 +12,8 @@ Un sitemap automatique a été ajouté
 
 Des menus thématiques basés sur "category" ont été créés dans les Pages
 
+la limitation de 1000 articles a été contournée en créant des répertoires par année.
+
 
 ## Credits
 
