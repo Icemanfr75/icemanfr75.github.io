@@ -5,7 +5,7 @@ category: cinema
 tags: horreur, cinema, 2000s, film
 ---
 
-**​Mais que peut-il passer par la tête d’un réalisateur pour créer un film comme "The Human Centipede" ? Sans doute la même chose que ceux qui pratiquent les pires expériences sur des êtres vivants, diriez vous ? C’est en substance ce qu’il ressort des critiques que j’avais lu sur cet ovni cinématographique. **
+**Mais que peut-il passer par la tête d’un réalisateur pour créer un film comme "The Human Centipede" ? Sans doute la même chose que ceux qui pratiquent les pires expériences sur des êtres vivants, diriez vous ? C’est en substance ce qu’il ressort des critiques que j’avais lu sur cet ovni cinématographique.**
 
 Je m’attendais à un petit film de série Z, mal filmé, mal ficelé misant sur quelques effets et une profusion d’hémoglobine. Sorti il y a maintenant 4 ans, il a été suivi par un autre "épisode" et un autre est en préparation. Après tout, le genre de l’horreur et du gore a accouché de séries bien pires, dont le succès fut souvent basé sur l’aura d’un premier épisode. Je me devais donc de découvrir, à jeun, ce qui promettait être un sommet du dégoût, ou du mauvais goût.
 
