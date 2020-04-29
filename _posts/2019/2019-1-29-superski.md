@@ -4,7 +4,7 @@ title: Souvenir de Gamer - Super ski (1988)
 category: geek
 tags: 1980s, geek, Geekeries, jeu video, retrogaming, simulation
 ---
-**Connu aussi sous le nom de "Downhill Challenge", ce jeu m'a accompagné pendant quelques hivers dans la fin des années 80, début des années 90. **
+**Connu aussi sous le nom de "Downhill Challenge", ce jeu m'a accompagné pendant quelques hivers dans la fin des années 80, début des années 90.**
 
 Le jeu, développé par le français Microids, proposait 4 épreuves de ski : Saut, descence, slalom géant et slalom. L'écran montrait le skieur de dos avec une neige étrangement bleutée (le blanc aveuglait plus) et on devait passer des portes en courant contre le chronomètre. On pouvait jouer à plusieurs, chacun son tour et le challenge était de faire le meilleur temps sans faire de fautes. Nous avions donc une simulation tentant de rendre les sensations du ski. Le jeu utilisait la même technique que les jeux de courses de voiture de type Pole Position, avec agrandissement des sprites et succession de couleurs pour donner l'impression de vitesse.
 
