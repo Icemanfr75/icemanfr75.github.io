@@ -4,7 +4,7 @@ title: Cinéma - Le loup de wall street de Martin scorcese (2014)
 category: cinema
 tags: cinéma, drogue, finance, usa, 2010s
 ---
-​**Après Casino en 1995 qui nous décrivait le monde de la pègre de Las Vegas, Scorcese nous dépeint un autre monde objet de fantasme : Celui de Wall Street dans les années 80-90. Il trouve en Leonardo Di Caprio un digne successeur à Robert De Niro.**
+**Après Casino en 1995 qui nous décrivait le monde de la pègre de Las Vegas, Scorcese nous dépeint un autre monde objet de fantasme : Celui de Wall Street dans les années 80-90. Il trouve en Leonardo Di Caprio un digne successeur à Robert De Niro.**
 
 Le parallèle entre ces deux films n’est pas innocent car ils sont assez similaires. En effet, on se demande ce que veut vraiment nous faire passer le réalisateur. On le sent à la fois admiratif et fasciné par ces deux milieux mais aussi très critique à travers la violence et la déchéance qu’il dépeint. Parallèle aussi à travers les acteurs puisque Scorcese commence à faire toute sa fin de carrière avec Di Caprio comme avant il l’avait fait avec De Niro. Parallèle enfin avec une galerie de seconds rôles réjouissants. Pas de Sharon Stone, de Joe Pesci ou de James Woods ici mais Jonah Hill, Margot Robbie, entre autres. A noter aussi Kyle Chandler en agent incorruptible.
 
