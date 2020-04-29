@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Jeu mobile - Assoluto racing
+title: Jeu mobile - Assoluto racing (2016)
 category: geek
-tags: android, Automobile, course, geek, Geekeries, iOS, jeu video, mobile
+tags: android, Automobile, course, geek, 2010s Geekeries, iOS, jeu video, mobile
 ---
 **J'avais parlé de ce jeu il y a quasiment un an en notant le potentiel même si le challenge était alors limité. Et bien ça évolue dans le bon sens.**
 
