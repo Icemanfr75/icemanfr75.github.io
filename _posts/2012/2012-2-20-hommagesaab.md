@@ -5,6 +5,7 @@ category: automobile
 tags: Automobile, industrie, saab, suède, histoire
 ---
 **ça y est : Saab est mort après plusieurs années d'agonie. L'occasion pour moi de revenir sur une marque atypique.**
+
 Saab est issue de l'industrie aéronautique suédoise. Née au sortir de la guerre, la société SAAB Automobile se lance avec un premier modèle en 1949 : la Sabb 92, le 9 restant toujours un chiffre fétiche pour la marque.
 
 ![photo1](https://cheziceman.files.wordpress.com/2016/01/800px-saab_92001.jpg)
@@ -28,5 +29,3 @@ A leur volants, une génération de pilotes de rallye suédois vont se faire la 
 Mais en 1990, General Motors décide d'acheter la marque qui ne s'en remettra jamais. La 900 devient 9.3 avant de reprendre sur la version suivante un chassis Opel. La 9.5 poursuit sa carrière commencée en commun avec la Fiat Croma et la Lancia Thema sous le nom 9000. Elle n'aura de succession que lorsque GM abandonnera la marque. Comme l'autre marque suèdoise Volvo, Saab a misé très tôt sur le flex-fuel et les énergies renouvelables sans avoir toujours de prolongement en série, faute d'accord de la maison mère.
 
 Abandonnée, un temps repris par Spyker, lachée par les investisseurs, les décideurs ont préféré le dépot de bilan à une reprise scabreuse par des investisseurs chinois. Que deviendra ce savoir-faire atypique de cette marque attachante ? Les projets montrés dans les salons resteront ils à jamais dans les cartons ? Réponse dans les mois à venir.
-
-
