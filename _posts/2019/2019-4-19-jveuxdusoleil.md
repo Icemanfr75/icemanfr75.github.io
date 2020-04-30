@@ -1,0 +1,23 @@
+---
+layout: post
+title: Cinéma - J'veux du soleil de Gilles Perret et François Ruffin (2019)
+category: cinema
+tags: 2010s, Cinéma, documentaire, Film, politique, social
+---
+**Hasard du calendrier, je suis allé voir ce film juste avant le discours prévu de Jupiter. Hélas, une catastrophe a reporté ce dernier mais le film est resté... Parce qu'il est surtout fait pour laisser une trace, un témoignage du mouvement des Gilets jaunes.**
+
+![image](https://cheziceman.files.wordpress.com/2019/04/jveudusoleil.jpg)
+
+En effet, sous ce titre qui fleure bon l'optimisme et qui reprend le titre de la chanson d'<a href="https://fr.wikipedia.org/wiki/Au_p'tit_bonheur">Au P'tit bonheur</a> (1991 déjà...) , il s'agit d'un documentaire engagé où le député insoumis Ruffin parcourt les ronds-points à la rencontre de ces révoltés. Après son "Merci Patron", François Ruffin, déjà fondateur du magazine satirique Fakir, se positionne comme une sorte de <a href="https://fr.wikipedia.org/wiki/Michael_Moore">Michael Moore</a> à la picarde. Il se met en scène (ici avec l'aide de Gilles Perret) . On sait ce que l'on va voir, c'est à dire un film social et militant, ancré bien à gauche mais qui ne se voudra pas pour autant larmoyant. On aime ou on déteste.
+
+Et pourtant, du larmoyant, il pourrait y en avoir. Le parti-pris du film est de montrer ce qui est positif dans ce mouvement. On y parle donc de la solidarité retrouvée entre des hommes et des femmes que la vie avait isolés. Caméra à l'épaule, Perret suit Ruffin qui interviewe ces personnes, ces groupes en partant du rond-point d'Albert jusqu'au sud de la France. Comme il le dit, ce sont des gens qui n'hésitent pas à braver le froid, rester debout, des "durs au mal" alors que lui a déjà la goutte au nez au bout de deux heures. Dans cette sélection de portrait, nous rencontrons des travailleurs pauvres, des personnes usées par le travail, handicapées, des femmes divorcées qui attendent des pensions qui n'arrivent jamais, des retraités qui n'ont rien pour vivre, etc...
+
+Nous sommes de plain-pied dans la réalité des sans-voix, les "pauvres" qui se font insulter de fraudeurs ou fainéants alors que l'on voit ici qu'il n'en est rien. Évidemment, il ne faut pas sombrer dans l'angélisme et se dire que tout le monde il est beau mais c'est quand même bien plus la majorité des cas qui est présenté ici plutôt que les quelques petits pour-cents de tricheurs que l'on retrouve dans d'autres classes sociales également. Ces témoignages nous emmènent voir certains chez eux, autour d'un café souvent, de quelques morceaux de pain ou de gâteaux. Et l'on comprend que la révolte grondait depuis longtemps mais que ce mouvement est vu comme une "porte jaune fluo", un espoir car ils ne veulent que "du soleil".
+
+C'est bien un témoignage, celui du mouvement mais aussi celui d'une réalité oubliée de tous. Je me suis remémoré aussi des gens croisés dans ma vie pas si longue et à qui rien n'avait été épargné. Je me suis demandé ce qu'ils avaient pu devenir... Mais si le film frappe par la force des témoignages, il est aussi joyeux et drôle, par sa musicalité, par les traits d'humour des interlocuteurs et de Ruffin. Je me souviens par exemple de l'échange avec Alain, ce maire d'une petite commune, ancien cadre de la Banque. Ruffin se met à la place de Macron et lui demande ce qu'il dirait à ce président...Il n'en ressort souvent que du bon sens, celui qui met d'abord l'intérêt commun devant les intérêts particuliers. Il y a aussi ce village où tous les services publics ont disparu, où l'on doit faire des kilomètres pour simplement faire ses courses. Et puis il y a ces moments où Ruffin tombe un peu à plat avec des interrogations plus philosophiques, comme sur l'esthétique. C'est pourtant pertinent, autant que le magnifique portrait de Marcel.
+
+On peut avoir l'impression d'avoir tout entendu et vu pendant ces 6 mois. Il y a évidemment des approches simplistes dans le film, mais n'y-a-t-il pas la même chose en face justement et cela constamment à coup d'éditocrates omniprésents. C'est un film qui vient justement contrebalancer le propos dominant et donne des éléments de compréhension. A ceux qui reprochent le manichéisme du propos, je répondrais que nous sommes justement dans un moment où l'on ne cesse de nous opposer, dont justement ce président qui, dans les élections européennes qui arrivent, demande de voter pour lui ou le chaos. Ce n'est pas un hasard si c'est un cinéma d'art et d'essai qui le programme pendant 3 semaines quasiment chaque jour vers chez moi, car le cinéma n'est pas que distraction. Alors pour ceux qui ont encore à coeur de comprendre la complexité du monde...
+
+[la video](https://www.youtube.com/watch?v=jIMlyh8JjBk)
+
+
