@@ -4,7 +4,7 @@ title: Géopolitique - Turquie , Même si...
 category: geopolitique
 tags: europe, Geopolitique, turquie
 ---
-**J'avais tenté, lors d'un <a href="https://icezine.wordpress.com/2015/08/13/turquie-et-si-on-regardait-ce-pays-avec-realisme/">précédent article</a>, de faire voir la Turquie avec plus de réalisme et moins d'Ethnocentrisme. Les évènements dramatiques de ce Wee-end montrent un Turkey-Bashing qui oublie de faire la différence entre Erdogan et le pays qu'il dirige.**
+**J'avais tenté, lors d'un précédent article, de faire voir la Turquie avec plus de réalisme et moins d'Ethnocentrisme. Les évènements dramatiques de ce Wee-end montrent un Turkey-Bashing qui oublie de faire la différence entre Erdogan et le pays qu'il dirige.**
 
 Car Erdogan cristalise aujourd'hui l'inquiétude, le ressentiment, les fantasmes qui tournent autour de ce pays. Les critiques font fi de la position géostratégique et de l'histoire de la Turquie. C'est même avec une teinte néo-colonialiste et paternaliste que l'on retrouve ces positions à l'emporte pièce. Toutefois, il faut avouer que dans les derniers mois, Erdogan a vu sa stratégie échouer, tant dans la politique extérieure que dans la vie politique turque.
 
