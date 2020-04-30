@@ -1,0 +1,17 @@
+---
+layout: post
+title: Cinéma-Musique - The Dirt de Jeff Tremaine (2019)
+category: cinema, musique
+tags: 1980s, 2010s, biopic, Cinéma, Film, Motley crue, Musique
+---
+**Sorti sur Netflix, ce film retrace la carrière du groupe de Hard-rock Mötley Crüe. Et c'est plutôt l'anti Bohemian Rhapsody.**
+
+Car bien qu'étant fan de Queen, je n'ai pas chroniqué ici le biopic du groupe sorti l'année dernière. En fait je m'étais fait chié comme un rat mort pendant 2h à voir un truc propret et consensuel, bourré d'erreurs et visant à reconstruire une image à un groupe pour la postérité. Apparemment, je fais partie des exceptions... Mais ici, au contraire, pas de concession. J'avais déjà lu aussi l'autobio de Nikki Sixx, <a href="https://cheziceman.wordpress.com/2007/09/10/sixx-am-heroin-diaries/">Heroin Diaries</a>. Il faut dire aussi que la personnalité des groupes, les lieux et les époques sont différents. Le film donne la parole à chacun des membres du groupe qui va raconter l'ascension puis la déchéance avant la rédemption. Le héros est le fondateur, le bassiste Nikki Sixx, jeune paumé vite en addiction aux drogues et à l'alcool pour oublier une enfance violente.
+
+Il y a ensuite Tommy Lee, le fils d'émigré pas à l'aise dans sa famille et sa petite vie rangée, Mick Mars le grateux malade d'une dégénérescence osseuse et enfin Vince Neil, le drogué du ... sexe. Encore qu'ils le seront tous pour illustrer une vie de Sex, Drugs and Rock N'Roll. Ajoutez le manager mythique Doc McGhee et vous avez une peinture très réaliste du Strip de L.A. dans les années 80, haut lieu de tous les groupes de Hard qui ont comptés à cette époque. Mais ce qui frappe, c'est l'impression d'une bande de losers, un côté <a href="https://fr.wikipedia.org/wiki/Spinal_Tap">Spinal Tap</a> bien assumé avec l'autodérision des membres. Il y a bien sûr des moments qui construisent la légende, comme ce premier concert qui commence par une baston mais il y a aussi de purs moments de lose, de honte monumentale.
+
+Voilà un film absolument pas familial, avec du sexe, du cul, de la pipe, du nichon, de la queue, ... Et puis du Jack Daniels, de la coke, de l'héroïne, et tout ce qui vient pour se défoncer, jusqu'à la pisse <a href="https://cheziceman.wordpress.com/2007/12/30/ozzy-osbourne-rob-zombie-new-york-2007/">d'Ozzy</a>. Ca fait vendre, ça, non ? On rit évidemment, d'eux... et de leur entourage. Mais la vie du groupe a été parsemée de drames et pas seulement la brève mort du leader revenu d'outre tombe. Pour ceux qui ne connaissent pas, je vous laisse découvrir. Non, le problème c'est que c'est sorti sur Netflix alors que ça l'aurait fait grave sur grand écran. Heureusement que ça se trouve assez facilement par ailleurs, hé hé...
+
+Bref, si vous voulez voir un vrai film rock, savoir ce qu'est une groupie, vivre une tournée en quelques minutes (séquence signée Tommy Lee), vous souvenir d'Heather Locklear et ressortir la veste à patchs, c'est le film pour vous. Pour les autres, allez voir les films de pisse-froid. Par contre, pour incarner nos quatre héros, on aurait pu trouver un peu mieux. Cela empêche d'avoir plus de matière sur les personnages, notamment Nikki Sixx qui se dévoile autrement ou Mick Mars dont on entrevoit la souffrance. Difficile d'allier tout ça mais par rapport à la bio trash sortie en 2001, c'est fidèle.
+
+[la video](https://youtu.be/-NOp5ROn1HE)
