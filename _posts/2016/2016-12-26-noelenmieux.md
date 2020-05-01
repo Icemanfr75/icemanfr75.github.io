@@ -2,8 +2,7 @@
 layout: post
 title: Blog/Tuto - Noël ou Nouvel an en mieux?
 category: vegan, tuto, 
-
-tags: [amélioration, blog, Culture, fête, guirlande solaire, menu, protection animale, réparation, refuges, trucs, tutoriel, Tutoriels, végétarien, végétarisme, vegan]
+tags: amélioration, blog, Culture, fête, guirlande solaire, menu, protection animale, réparation, refuges, trucs, tutoriel, végétarien, végétarisme, vegan
 ---
 **Ca fait quelques temps que je parle moins d'informatique, de logiciel libre ou de mobile. Peut-être la période qui veut ça et donne moins envie de tester des trucs. Mais ça n'empêche pas de causer de petites astuces...**
 
