@@ -8,8 +8,7 @@ layout: default
     <li>
       <span class="date">{{ post.date | date: "%B %e, %Y" }} - </span>
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
-      <span class="category">{{ post.category | categorie : "%B" }}</span>
-      <span class="tags">{{ post.tags | tag : "%B" }}</span>
+      <span class="tags">{{ post.tags | tag : "%B" }} </span>
     </li>
     {% endfor %}
   </ul>
