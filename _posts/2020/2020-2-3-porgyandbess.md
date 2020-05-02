@@ -1,0 +1,29 @@
+---
+layout: post
+title: Opéra - Porgy and Bess des Gershwin - Metropolitan Opera, New York 2020
+category: musique
+tags: 1930s, 2020s, concert, gospel, jazz, live, Musique, New york, opéra, racisme, spectacle
+---
+**J'y étais presque puisque c'est dans une salle Pathé, qui diffusait en direct la représentation New Yorkaise que j'ai pu apprécier cette oeuvre de George et Ira Gershwin, adaptée d'un roman de DuBose et Dorothy Heyward et créée en 1935.**
+
+La mise en scène était assurée par James Robinson et la chorégraphie par Camille A. Brown. Accessoirement, c'était une des dernières représentations de cette production, inédite au METopera depuis 30 ans. C'est une oeuvre particulière car tout le casting de chanteurs ne doit être qu'exclusivement tenu par des noirs, depuis une clause dans le testament des Gershwin. J'ajoute que l'adaptation filmique, jugée édulcorée, est interdite de projection depuis 1974. 
+
+![image](https://cheziceman.files.wordpress.com/2020/02/9793-default-m1447246958.jpg)
+
+*Captation disponible en CD mais très cher*
+
+L'action se situe en Caroline du Sud, dans un petit quartier afro-américain baptisé Catfish Row où vivent des ouvriers du coton, des pécheurs... et des personnes moins recommandables. L'esclavage n'est plus de mise officiellement mais c'est encore la misère et la ségrégation. Porgy est un infirme et mendiant. Il tente de sauver Bess des griffes de Crown, son concubin violent, et de Sportin'life, un dealer qui voudrait la prostituer. Dans une bagarre de jeu, Crown commet un meurtre et doit s'enfuir, laissant Bess seule. Elle trouve alors la protection de Porgy et change sa vie. Dans ce monde du sud du début du 20ème siècle, rien n'est simple...
+
+A la différence de beaucoup d'opéras, il ne s'agit pas au départ d'une oeuvre du répertoire classique. En effet, on y retrouve du jazz, du swing, du gospel et ... de l'opéra. L'oeuvre a quitté Broadway pour s'installer alors dans les opéras, notamment depuis les années 80. Les deux pièces maîtresses de cet opéra sont "Summertime" et "It Ain't Necessarily So", même si toute la partition est hautement recommandable. Il n'y a quasiment aucune séquence parlée, sinon celle des policiers blancs. Dans cette diffusion en direct, il y avait des sous-titres ce qui évite le recours au livret pour comprendre. Et pendant l'entracte, il y a des interviews des chanteurs et acteurs, tout comme dans l'équivalent chez <a href="https://cheziceman.wordpress.com/2019/02/22/danse-le-lac-des-cygnes-de-tchaikowski-paris-bastille-2019/">UGC</a> pour les ballets et opéras. Le public, principalement grisonnant ici, bénéficie d'un bon son, de confort dans les sièges et d'une bonne réalisation pour la retransmission avec des gros plans que l'on n'aurait pas dans la salle américaine.
+
+![image](https://cheziceman.files.wordpress.com/2020/02/porgy-1.png)
+
+Et quelle claque on prend dans ces 3h50 (avec entracte de 40 minutes) ... La mise en scène reste sobre avec surtout de très belles lumières, un décor en bois qui pivote pour la plupart des actes. Les costumes ne sont pas non plus dans l'extravagance mais dans le réalisme. Il n'y a que Sportin'life qui peut se permettre du clinquant. Je n'avais qu'un vague souvenir de cette partition, les représentations étant assez rares (il faut aller à Londres, sinon). Je n'ai pas regretté mais il faut dire que comme fan de comédies musicales classiques, j'apprécie le travail des Gerschwin. On y retrouve les gimmicks musicaux de George avec des envolées lyriques en plus, du gospel et quelques pointes de swing. La vision un brin caricaturale de la vie du quartier est vite oubliée devant tant de beauté musicales.
+
+Il faut rendre grâce au casting pour faire passer ces émotions. Cela commence par la sud-africaine Golda Schultz avec le "summertime" du premier acte. Et puis il y a Latonia Moore dans le rôle de la bigote Serena. Oui, la religion est très présente dans cette histoire. Denyce Graves est également fantastique dans le rôle de Maria...je vais devoir citer tout le casting féminin, parti comme cela. Et surtout il y a la soprano Angel Blue, époustouflante dans le rôle titre, et qui fait se lever la salle new-yorkaise. Puissance, sensibilité, expressivité, énergie, il faut bien du talent pour ce rôle qu'elle tient pour la première fois, après avoir été Clara par le passé. A côté d'elle, un vieux routier du rôle de Porgy, le baryton Eric Owens, qui n'a rien laissé paraître d'un gros rhume (dixit le directeur du MetOpera). J'ai apprécié tout autant ce casting masculin avec les fantastiques Frederick Balantine, Alfred Walker ou Donovan Singletary. Charisme, puissance vocale, polyvalence, il y a tout. D'autant que le travail de la chorégraphe est aussi à saluer dans les ballets. On y retrouve des scènes proches de transes gospels avec des mouvements plus modern-jazz. Magnifique.
+
+![image](https://cheziceman.files.wordpress.com/2020/02/porgy1.jpg)
+
+Le chant de cette partition est complexe avec beaucoup de dialogues chantés parmi les choeurs (quelle puissance avec 60 chanteurs !). Mais ça se complique lorsque les voix se superposent dans des phrases différentes entre trois personnages, le tout dans un souci du rythme et des harmonies. Les rôles, surtout masculins sont physiques avec des scènes de combat et luttes. Il faut aussi un orchestre qui suive avec des cuivres, évidemment, de la clarinette et un gros travail sur les percussions. Et ici on ne tombait pas dans une surenchère de jazz ou d'opéra mais un bel équilibre des genres. C'est donc très moderne, surtout que cela parle de thèmes d'actualité, comme l'émancipation féminine, la violence conjugale, le racisme...Une oeuvre incontournable aujourd'hui pour tout amateur d'opéra. Et je suis définitivement fan de cette possibilité de découvrir l'opéra pas loin de chez soi dans les meilleurs conditions. A bientôt pour un autre (grand) spectacle.
+
+[la video](https://www.youtube.com/watch?v=NghjBMn6ZJM)
