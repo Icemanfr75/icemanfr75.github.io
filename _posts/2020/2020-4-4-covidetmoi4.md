@@ -2,7 +2,8 @@
 layout: post
 title: Blog - Covid-19 et moi, épisode 4/?
 date: 2020-04-04 08:12
-categories: blog, covid-19, geek, Geekeries, informatique, numérique, Réflexion, sociologie
+category: reflexion
+tags: blog, covid-19, geek, Geekeries, informatique, numérique, Réflexion, sociologie
 ---
 **Bon, il va falloir tenir au moins 6 semaines (ils n'ont pas fait de sites de paris sur ça ?) et j'ai bien peur de lasser avec ce type de billets. Je ne vais pas y raconter toute ma vie non plus alors il faudrait que je le renomme.**..
 
