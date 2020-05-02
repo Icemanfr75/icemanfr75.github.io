@@ -1,0 +1,24 @@
+---
+layout: post
+title: Musique - Avalon de Kenji Kawai (2001)
+category: musique
+tags: 2000s, BOF, Cinéma, classique, electro, Kenji Kawai, Musique, opéra
+---
+
+**Je pourrais parler de ce film extraordinaire de Mamoru Oshii qui ne cesse de m'interroger mais j'ai préféré commencer par le chef d'oeuvre du compositeur de la bande son. Une bande son sans qui le film n'aurait pas eu cette force !**
+
+![image](https://cheziceman.files.wordpress.com/2019/11/kawaiavalon.jpg)
+
+Kenji Kawai n'est pas à sa première collaboration avec le réalisateur japonais puisqu'il a déjà été sur les Patlabor, le Ghost in the shell (l'unique pour moi). Mais ici il a droit à un projet ambitieux qui touche le cyberpunk, le post-apocalyptique dans un certain sens, et tout ça dans une production polono-japonaise... Ce qui explique la présence de l'Orchestre philarmonique de Varsovie et d'une soliste polonaise. Le film alternant entre une réalité sombre et une réalité virtuelle plus guerrière, il fallait une musique à l'avenant et qui renforce les moments forts du film. 
+
+Grand habitué des percussions et des musiques électroniques, Kawai livre ici son chef d'oeuvre et je ne cesse de l'écouter depuis 20 ans. Il y a à la fois de l'ambient, du classique de haute volée, des influences d'opéra et des influences électro sans que tout cela ne paraisse jamais hétérogène. Pourtant le morceau d'introduction, "City 13", très éthéré peut surprendre, tant on est habitué à de grandes envolées en début d'album. Mais il plonge dans l'ambiance, justement. Il faut attendre "Log Off" avec ses choeurs, ses percussions et sa ligne de piano pour entrer dans la grandiloquence de l'album et entendre le thème récurent. On peut penser à <a href="https://cheziceman.wordpress.com/2010/09/07/carl-orff-carmina-burana/">Carmina Burana</a> mais cela serait réducteur car j'y trouve plus de nuances. Mais on les retrouvera encore mieux en avançant dans l'album et donc dans le film. Le morceau phare de l'album est pour moi "Voyage to avalon" avec la voix fabuleuse de **Elzbieta Towarnicka**. Ce titre m'arrache des larmes à chaque écoute par son intensité, cette voix sur le fil. Rien que pour cela, cet album est inoubliable.
+
+Mais si Kawai utilise des choeurs dans des ambiances plus électroniques, l'attention de l'auditeur ne baisse pas et on se laisse porter par cette partition, par ces voix délicatement posées. Il y a bien de cours intermèdes ("Bishop") servant au film et aux moments de tension. Il y a des passages très contemporains et expérimentaux comme "Nine sisters" et ses superpositions de voix répétitives qui captivent. On se demande si c'est du sampling ou du live d'ailleurs. Ce n'est pas une montée crescendo comme chez Ravel mais ça a son efficacité, surtout par rapport au film. Mais toujours Kawai revient à une partition atmosphérique, où chaque note, chaque mélopée a sa place sans que rien ne paraisse de trop. C'est le cas dans "Ruins C66" par exemple. Mais il est aussi à l'aise dans le plus profond "Gray Lady" qui me rappelle étrangement d'autres compositeurs japonais par certaines touches mélodiques. Le passage expérimental "Flak Tower 22" fait appel à des percussions traditionnelles et réinstalle une tension après l'émotion qui précède. 
+
+Elle se poursuit avec le très électronique "Ruins D99" où le travail des percussions est marquant. Il y a toute l'intensité de la "chasse" dans 'The Ghost Hunting" où l'on tend l'oreille, où l'on est prêt à bondir. Mais l'album reprend les deux titres inoubliables. "Voyage to Avalon" en version orchestrale de 10 minutes est fabuleux. On ne se lasse pas de cette montée émotionnelle et la version que j'ai mise plus bas ne rend pas justice au titre, par rapport à une écoute au casque. Il y a tout ce que je peux aimer dans le classique et l'opéra, entre la dramaturgie et la poésie du moment.Il faut bien "Thr na mBan" pour s'en remettre avant d'en reprendre dans la version orchestrale de "Log in" qui répond au "Log off" du début par le même thème. Cette fois, les nuances que je citais sont plus développées et pourtant ce morceau me paraît toujours trop court. Je me souviens être resté dans la salle un petit moment avec cet air en tête quelques jours. Autant dire que je n'ai pas attendu longtemps pour chercher le CD du film, rare  l'époque. Quand on sait que les percussions et les synthés sont réalisés par Kawai lui même, on voit tout le talent de cet homme qui a, à mon humble avis, réalisé l'oeuvre de sa vie.
+
+Un album à découvrir, à passer en boucle pour vraiment rentrer dans l'univers et qui ne peut pousser qu'à une chose : Voir ce film dont la fin fait toujours débat. Que voulez vous, avec Oshii, on est au delà du divertissement pour entrer dans de la philosophie. Il fallait bien un Kenji Kawai pour y aider.
+
+[la video](https://www.youtube.com/watch?v=6FLrh7wMoTA)
+
+
