@@ -4,7 +4,7 @@ title: Blog - Le petit monde du libre en émoi pour si peu...
 category: geek
 tags: blog, Geekeries, gnu, linux, logiciel libre, mastodon, next impact, presse, Réflexion, twitter, ubuntu
 ---
-**D'habitude, je ne fais qu'un billet de fin de semaine. Mais comme je vois pas mal de billets intéressants chez mes collègues dans une semaine très riche, je ne pouvais manquer d'en parler. **
+**D'habitude, je ne fais qu'un billet de fin de semaine. Mais comme je vois pas mal de billets intéressants chez mes collègues dans une semaine très riche, je ne pouvais manquer d'en parler.**
 
 Pour celui qui n'est pas familier avec ce "petit monde <a href="https://fr.wikipedia.org/wiki/Logiciel_libre">du libre</a>", il faut resituer rapidement. Je vais parler de GNU Linux, le système d'exploitation alternatif dont Ubuntu (édité par Canonical) est la "version" la plus emblématique auprès du grand public (mais pas toujours la plus recommandable, c'est un autre débat). Je vais aussi parler d'autres alternatives et aussi du petit à coté qu'est la presse "informatique". Vous allez voir que, même si vous n'êtes pas pointu sur le sujet, ça peut avoir une influence sur votre petite vie puisque le numérique (ET NON LE DIGITAL!!!) est partout.
 
