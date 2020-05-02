@@ -2,7 +2,8 @@
 layout: post
 title: BD - Cadavre Exquis de Pénélope Bagieu (2010)
 date: 2020-04-07 08:00
-categories: 2010s, bd, humour, romance, thriller
+category: bd
+tags: 2010s, bd, humour, romance, thriller
 ---
 **Pénélope Bagieu est une des plus talentueuses autrice/dessinatrice de BD de sa génération. Après l'adaptation de son blog BD en album, ce Cadavre Exquis est son premier "one shot". Il n'y a pas que la cadavre, d'exquis.** (ni son récent <a href="https://cheziceman.wordpress.com/2020/03/20/goodies-ma-coronamaison/">cadavre exquis numérique</a>)
 
