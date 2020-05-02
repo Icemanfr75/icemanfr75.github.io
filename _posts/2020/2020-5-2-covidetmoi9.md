@@ -39,9 +39,3 @@ Maintenant, il y a l'aspect financier. **Qui va payer ?** Parce qu'on nous sort 
 Ma peinture de ce monde d'après n'est pas réjouissante, c'est sûr. Je suis d'un naturel pessimiste pour être prévoyant et avoir d'heureuses surprises. Donc ça va logiquement partir dans le n'importe quoi, avec des profiteurs de tous poils, des inconscients, des chocs. Le mien c'est de risquer de perdre des êtres chers encore dans cette année. Je me bats avec mon vieux chat après un AVC consécutif à son asthme de plus en plus prononcé, avec la plus jeune déjà fragilisée par tant de choses et qui a un mal mystérieux pour l'instant. Ce n'était pas le bon moment mais on sait faire, on a les bonnes relations avec les bons vétérinaires, les médicaments en prévision, les nourritures aussi, et une clinique d'urgence 24h/24 pas trop loin. J'en connais qui seront peut-être choqué qu'on en fasse autant pour des animaux. Sûrement parce qu'ils n'ont jamais eu le relationnel qu'on peut avoir avec un autre être vivant...Ce n'est même plus une question d'anti-spécisme ou de veganisme. Simplement parce que l'on a fait du chemin ensemble, parce qu'... on vient de loin. Mais il reste du chemin à fleurir !
 
 [la video](https://www.youtube.com/watch?v=WDr3qCcXKXk)
-
-
-
-
-Prochain épisode le DIMANCHE 10, pour cause de ...roman feuilleton le samedi 9 ! Ça sentira le programme de dé-confinement. 
-
