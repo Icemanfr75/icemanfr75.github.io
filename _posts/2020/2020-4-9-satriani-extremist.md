@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Musique - Joe Satriani - The Extremist (1992)
-date: 2020-04-09 07:00
 category: musique
 tags: 1990s, guitare, hard-rock, joe satriani, Musique
 ---
