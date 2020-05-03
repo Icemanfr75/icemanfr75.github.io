@@ -1,4 +1,4 @@
-	---
+---
 layout: post
 title: Réflexion - Etre "sociable", aujourd'hui ou rester en cercle
 category: reflexion
