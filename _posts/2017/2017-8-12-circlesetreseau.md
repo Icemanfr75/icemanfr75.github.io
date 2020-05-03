@@ -1,10 +1,8 @@
 	---
 layout: post
 title: Réflexion - Etre "sociable", aujourd'hui ou rester en cercle
-date: 2017-08-12 08:00
-category:
-
-tags: [blog, Cinéma, logiciel libre, Réflexion, réseaux sociaux]
+category: reflexion
+tags: blog, Cinéma, logiciel libre, Réflexion, réseaux sociaux
 ---
 **Ce billet est l'occasion de parler à la fois d'un film (The Circle) mais aussi de la place d'internet aujourd'hui, dans notre vie de tous les jours. <a href="https://fr.wikipedia.org/wiki/Marronnier_(journalisme)">Mon marronnier</a> à moi...**
 
