@@ -2,7 +2,7 @@
 layout: post
 title: Musique - Little Richard - New York 2008
 category: musique
-tags: musique,concert,folk,funk,jazz,live,rap,RnB,Rock,soul
+tags: musique,concert,funk,jazz,live,Rock,soul
 ---
 
 **Il est des concerts dont on ressort avec un sourire jusqu'aux oreilles, avec l'impression que la vie est plus belle : Celui qu'a donné Little Richard au BB King's blues club de New York ce 8 juin, est de ceux là !**
