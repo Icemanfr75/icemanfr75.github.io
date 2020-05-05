@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tuto - L'hygiène numérique pour les ... branleurs
-category: tuto
+category: tuto, geek
 tags: email, geek, Geekeries, hygiène numérique, ransomware, revenge porn, sexto, tuto, tutoriel, 
 ---
 ...**et les branleuses, pas de sexisme. Avec un événement récent, il devient important de parler de précautions élémentaires avec les outils numériques, du simple téléphone portable à touches jusqu'au dernier cri de la technologie. Car ne laissons pas des juristes et éditorialistes mal informés dire ****<a href="https://signauxfaibles.co/2020/02/16/ce-qui-menace-nos-libertes/amp/?__twitter_impression=true">n'importe</a>**** quoi.**
