@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog - Le progrès en pause
-category: reflexion
+category: reflexion, geek
 tags: blog, consommation, environnement, geek, Geekeries, informatique, Réflexion
 ---
 **La semaine dernière, comme tous les trois ans, j'ai eu droit à un nouveau PC à mon boulot puisque c'est de la location. Je ne m'attendais pas à une révolution mais là, c'est carrément du surplace.**
