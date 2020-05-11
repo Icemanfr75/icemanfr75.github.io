@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 
-category: 
-tags: 
+title: Blog - Covid-19 et moi, épisode 10/?
+category: reflexion
+tags: confinement, covid19, reflexion, blog
 ---
 **Attention mesdames et messieurs, demain, on sort...Oui, enfin bon, pas tous quand même, surtout en même temps. Et déjà je me retourne sur 9 autres billets et ce que nous avons déjà vécu.**
 
