@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Jeu mobile - Une semaine avec #MarioKartTour
+title: Jeu mobile - Une semaine avec MarioKartTour
 category: geek
 tags: android, geek, Geekeries, jeu video, Mario kart, nintendo
 ---
-**Cela fait une semaine que cette version mobile de MarioKart est sortie. Faut-il ou pas craquer ? Retrouve-t-on le fin des versions consoles? Quelles sont les astuces pour progresser sans payer ? **
+**Cela fait une semaine que cette version mobile de MarioKart est sortie. Faut-il ou pas craquer ? Retrouve-t-on le fin des versions consoles? Quelles sont les astuces pour progresser sans payer ?**
 
 Pour répondre à cette question, ça dépend de quelle(s) version(s) vous venez. Pour quelqu'un comme moi qui joue depuis les <a href="https://cheziceman.wordpress.com/2016/04/28/souvenir-de-gamer-mario-kart/">premières versions</a> superNES, qui a fini la version DS, et n'a pas beaucoup aimé la version Wii, je dirai que c'est un accueil mitigé. Pour ceux qui ont découvert ça sur Wii, Switch...voire GameCube, ça doit être mieux. En fait, cela tient d'une part à l'influence du Snaking dans le jeu, cette technique qui vise à faire des séries de dérapage en ligne droite pour activer des turbo et qui tue le beau pilotage propre. D'autre part, il y a aussi l'influence trop importante des bonus offensifs et l'impossibilité d'élaborer des stratégies de défense face à cela. Ces deux points me dérangeaient sur les dernières versions. 
 
