@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Réflexion - #Digital error
+title: Réflexion - Digital error
 category: reflexion, geek
 tags: digital native, geek, Geekeries, internet, numérique, Réflexion, web
 ---
