@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cinéma - Vivarium de Lorcan Finnegan (2019)
-category: cinéma
+category: cinema
 tags: 2010s, cinéma, angoisse, fantastique
 ---
 
