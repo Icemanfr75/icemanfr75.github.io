@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog - Covid19 et moi, 12/12 FIN
+title: Blog - Covid-19 et moi, 12/12 FIN
 category: reflexion
 tags: reflexion, blog, covid19, confinement, société, sociologie
 ---
