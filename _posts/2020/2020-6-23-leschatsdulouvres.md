@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BD - Les chats du Louvre de Taiyō Matsumoto (2018
+title: BD - Les chats du Louvre de Taiyō Matsumoto (2018)
 category: bd
 tags: bd, manga, art, peinture, culture
 ---
