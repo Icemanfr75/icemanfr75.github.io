@@ -29,40 +29,7 @@ Pour les commentaires, la base que j’utilise avait déjà prévu le coup en pr
 
 Ah oui, le sitemap a l’air d’être intégré mais en fait ça ne fonctionnait pas terrible alors j’ai pris un script liquid pour ça que j’ai mis dans une page sitemap.html. Par contre le feed RSS fonctionne parfaitement sans rien touché et j’ai mis ça dans les icones du footer (le bas du fichier)
 
-le code est le suivant après l’entête spécifiant un layout null
- 
-><urlset xmlns= »http://www.sitemaps.org/schemas/sitemap/0.9″&gt;
->{% for post in site.posts %}
->{% unless post.published == false %}
-><url>
-><loc>{{ site.url }}{{ post.url }}</loc>
-><lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-><changefreq>monthly</changefreq>
-><priority>0.5</priority>
-></url>
->{% endunless %}
->{% endfor %}
-></urlset>
-
 Les nuages de tags, bon, c’est sympa mais finalement c’est peu utilisé. Il manque vraiment les liens dans les tags des articles mais c’est tout. Pour les menus, j’ai utilisé du liquid pour des pages par catégorie. J’ai rangé ça dans un répertoire spécifique et j’ai mis un petit script qui me cherche tous les articles en regardant l’item « category » qui est déclaré en en-tête de chaque article. Ca me génère la page automatiquement. J’ai mis un « if » avec l’opérateur « contains » pour toute ce que je veux faire apparaître dans la page et j’ai même fait un petit menu en haut qui dirige vers des « ancres » pour chaque sous-partie de la page. Simple, efficace et rétro.
-
-Voici un élément des pages qui génère la liste pour la catégorie « musique »
-
-><div id= »musique » class= »posts »>
-><h2>Musique</h2>
-><ul>
->{% for post in site.posts %}
->{% if post.category contains « musique » %}
-><li>
-><span class= »date »>{{ post.date | date: « %B %e, %Y » }} – </span>
-><a href= »{{ site.baseurl }}{{ post.url }} »>{{post.title}} – </a>
-><span class= »category »>{{ post.category | categorie : « %B » }}</span>
-></li>
->{% endif %}
->{% endfor %}
-></ul>
-></div>
- 
 
 Je peux faire de même sur les tags de chonologie que j’ai intégré dans les articles pour faire la chronologie que je faisais à la main dans wordpress. Pour le nuage de tags, il pourrait y avoir une solution en sélectionnant avant des tags parmi les plus populaires mais finalement je n’en vois pas l’intérêt.
 
@@ -99,6 +66,6 @@ Les résultats se recoupent parfaitement sur les requests et les tailles de page
 
 **Et après?**
 
-Maintenant la question qui se posera sera de savoir si un jour je passe définitivement sur ma solution github pages ou pas ? Il manque la partie programmation d’article évidemment qui est un grand confort sur wordpress, même par rapport à d’autres plateformes concurrentes. Les brouillons, ça peut se gérer encore en laissant des drafts par ailleurs dans une rubrique à part. Il manque surtout une facilité de création de liens entre articles par rapport à WordPress qui sait regarder directement dans sa propre base. Forcément, pas de base, pas de chocolat. Question forme c’est le plus épuré que je pouvais, pas au point d’un RMS et son fourre-tout, quand même. J’ai encore à retravailler quelques aspects de forme et de fond. Il faut aussi que je rajoute des commentaires sur les ajouts, même si j’en ai mis dans le readme. Tout ça se trouve ici : Github du blog
+Maintenant la question qui se posera sera de savoir si un jour je passe définitivement sur ma solution github pages ou pas ? Il manque la partie programmation d’article évidemment qui est un grand confort sur wordpress, même par rapport à d’autres plateformes concurrentes. Les brouillons, ça peut se gérer encore en laissant des drafts par ailleurs dans une rubrique à part. Il manque surtout une facilité de création de liens entre articles par rapport à WordPress qui sait regarder directement dans sa propre base. Forcément, pas de base, pas de chocolat. Question forme c’est le plus épuré que je pouvais, pas au point d’un RMS et son fourre-tout, quand même. J’ai encore à retravailler quelques aspects de forme et de fond. Il faut aussi que je rajoute des commentaires sur les ajouts, même si j’en ai mis dans le readme. Tout ça se trouve ici : [le github](https://github.com/Icemanfr75/icemanfr75.github.io)
 
 Par contre cette solution n’est pas du tout adaptée à une utilisation multi-compte avec plusieurs utilisateurs. C’est exclusivement pour des pages personnelles, des sites simples. C’est pour cela que pas mal de sites qui ont basculé sur cette solution sont revenus à … wordpress qui reste quand même le plus simple d’accès et le plus complet. On voit qu’avec le bon thème, les bonnes options et le bon hébergement, on arrive à de bons résultats. J’ai d’ailleurs profité de cela pour enlever le superflu de mon footer de ce site. Il y en a encore beaucoup, trop surement…Vous en pensez quoi ?
