@@ -1,0 +1,20 @@
+---
+layout: post
+title: Cinéma - Eurovision Song Contest , l’histoire de Fire Saga de David Dobkin (2020)
+category: cinema
+tags: cinéma, musique, 2020s, eurovision
+---
+
+**J’aime les films parodiques. J’aime l’Eurovision… Alors quand un film rejoint les deux, ça peut m’intéresser. Surtout que cette année, j’ai été sevré de concours…**
+
+![cover](https://cheziceman.files.wordpress.com/2020/07/eurovisionfilm.jpg)
+
+En plus, si on me met Will Ferrel (ex SNL)… Par contre, il faut aller sur Netflix pour trouver cela. A la manière d’un Spinal Tap (dont il faudra que je parle aussi), nous allons suivre l’épopée du duo islandais (!?) Fire Saga. Mais nous n’avons pas l’impression de voir un faux documentaire comme son modèle, le réalisateur David Dobkin préférant rester dans de la comédie. C’est sans doute le premier point qui me dérange… Ferrel a signé le scénario avec Andrew Steele. Il joue le leader du groupe, loser magnifique, fils renié par son père (Pierce Brosnan), qui rève de participer à l’Eurovision depuis la fois où il a vu ABBA.  Avec sa demi-soeur / cousine / voisine Sigrid (on ne sait pas), il forme le duo Fire Saga qui écume le bar de la ville et les quelques mariages.  Sigrid (Rachel Mc Adams) croit aux elfes et les invoque pour que la chance tourne. Un concours de circonstance (euh, l’explosion du bateau des candidats islandais …) fait qu’ils sont les candidats de leur pays.
+
+Comme d’habitude avec ce type de film, il faut avoir du recul et du troisième degré… ce que n’avait pas l’ancien chef de la délégation française. Oh, nous sommes très loin d’une réussite.  Mais le fan de l’eurovision a de l’auto-dérision, surtout quand on voit certain(e)s candidat(e)s chaque année. Les pseudo candidats représentent un peu tout ce que l’on a vu de pire ou de mieux ces dernières années. On a ainsi un « Lordi Like », pour contenter Michel Drucker, et bien d’autres références cachées ou non pour contenter le fan. Il y a un paquet de guests issus des anciens gagnants de l’Eurovision ou participants, comme par exemple le gagnant portugais Salvador Sobral ou l’ancien gagnant Alexander Rybak et son violon. Même Bilal Hassani y fait une apparition… Les chansons du film sont plutôt réussies pour coller au genre.
+
+C’est totalement farfelu, foutraque .. ça ça me va. Mais c’est surtout trop long… On perd beaucoup de rythme dans le développement de cette romance entre nos deux héros, avec au milieu le chanteur russe pour jouer le supposé méchant. Non, impossible, les candidats de l’eurovision ne sont pas méchants !  On se doute évidemment de la fin possible du film (non, je n’ai pas dit qu’ils gagnaient) comme dans toute romance… Au passage, l’Islande est caricaturée façon Trump mais Ferrel y met un peu de critique des américains à sa manière.  Il a juste un peu oublié l’histoire du pays et son relationnel avec les USA. Mais ça, je ne le savais pas moi-même avant de me pencher sur la question. On a quand même des éléments « historiques » récents bien sentis.
+
+Le film vise avant tout les « eurofans » c’est vrai mais aussi les amateurs de parodie. Passé ce public, j’ai comme en doute sur l’efficacité du film qui reste moyen. Il y a des moments cultes et Ferrel traine son habituel air de chien battu / loser qui lui donne un petit air de Dana Carvey dans Wayne’s World, autre chef d’oeuvre du genre … issu du SNL encore. Rachel McAdams n’a pas un rôle suffisamment développé pour donner dans le comique et c’est dommage. Brosnan fait sans doute le lien avec les films sur ABBA, se contentant du minimum syndical (être beauuuuu….). Tout cela m’aura fait passer un bon petit moment, me consolant de l’émission bâclée de cette année (pour cause de COVID) dont le casting était finalement plutôt pauvre (je ne garderai qu’un titre…). Un bon timing finalement et un moyen pour l’ESC de se faire connaître aux USA, dans l’hypothèse où ils ont de l’humour. Ils en ont jusque dans les élections de leur président, c’est vrai, ha ha .
+
+[la video](https://youtu.be/7q6Co-nd0lM)
