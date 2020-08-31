@@ -25,7 +25,7 @@ Ne pas calculer, c’est un peu ce que je ressens dans la création littéraire 
 
 Mais évidemment, le moment de création fait appel à des connaissances emmagasinées par l’expérience. Celui qui n’a jamais lu ne pourrait pas bien écrire, même dans un style plus « parlé ». Il y a un besoin d’avoir eu des échanges, avec des écrits ou avec des personnes. Ce mélange de connaissances que l’on constitue influence inconsciemment ce que l’on écrit. Et on y rajoute la part de soi, de son vécu pour nourrir récits, essais, romans. Pour mon roman feuilleton, c’est assez évident au premier abord, … Reste aussi à connaître les habitudes du genre que l’on aborde, ou à faire le choix de les rompre, en connaissance de cause. En littérature, il peut y avoir des schémas types que l’on peut reproduire à l’envie, que cela soit pour le roman à l’eau de rose, ou sur les page-turners et autres best-sellers. Mais ce n’est pas facile pour autant, comme la condescendance des critiques littéraires aimerait le faire croire. Il ne s’agit pas seulement de capter le goût du moment comme le marketing sait le faire. L’histoire de la peinture est aussi riche d’enseignement sur ce sujet avec les académismes du moment qui rejetaient l’évolution ou des manques de technique supposés.
 
-![tableau](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-Young_Greeks_Attending_a_Cock_Fight–Google_Art_Project.jpg/800px-Jean-L%C3%A9on_G%C3%A9r%C3%B4me–Young_Greeks_Attending_a_Cock_Fight-_Google_Art_Project.jpg)
+![tableau](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/AspasiaAlcibiades.jpg/800px-AspasiaAlcibiades.jpg)
 
 *Dire que Gèrome était exposé au Louvre avec ce tableau quand on refusait les impressionnistes*
 
