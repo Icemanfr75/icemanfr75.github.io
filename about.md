@@ -27,5 +27,4 @@ Ceci est mon blog mais me sert aussi à me présenter
 * Rédaction d'un roman et d'une nouvelle.
 * Création musicale (un album de musique électronique)
 
-### Me contacter
-[Mon Mail](mailto:icemanfr75@gmail.com)
+
