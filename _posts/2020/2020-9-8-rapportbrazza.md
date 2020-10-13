@@ -5,7 +5,7 @@ category: bd
 tags: 1900s, 2010s, colonialisme, colonisation, congo, françafrique,
 ---
 
-Voilà encore une BD qui est une parfaite introduction à l’histoire de la colonisation française en Afrique. En effet, elle reprend les travaux de l’historienne Catherine Coquery-Vidrovitch pour les mettre en image. Terribles images…
+**Voilà encore une BD qui est une parfaite introduction à l’histoire de la colonisation française en Afrique. En effet, elle reprend les travaux de l’historienne Catherine Coquery-Vidrovitch pour les mettre en image. Terribles images…**
 
 Le titre complet est Congo 1905, Le rapport Brazza, le premier secret de la françafrique. Il tire son nom de l’explorateur franco-italien Pierre Savorgnan de Brazza. Je vous laisse découvrir l’histoire tumultueuse de ce personnage, ami du Général Mangin et d’autres figures de l’époque. Tout commence par une affaire sordide d’un assassinat à la dynamite dans le Congo français. Le congo belge voisin est déjà secoué par les exactions belges mais la France ne veut pas non plus être sous le feu des mêmes critiques. En même temps, il reste ce désir de revanche de 1870, cette recherche de richesses et le Congo n’est pas des plus rentables, en tout cas pas pour les compagnies qui exploitent le pays sur place. Après ce meurtre, on envoit un des découvreurs du pays, Brazza, pour faire un rapport, sans trop de moyen ni de temps…
 
