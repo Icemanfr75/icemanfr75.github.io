@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog - Covid19 et moi, la pas vraiment suite 1/?
-category: blog
+category: reflexion
 tags: blog, confinement, covid-19, société
 ---
 
