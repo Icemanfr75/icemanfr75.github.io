@@ -21,7 +21,7 @@ L'album restera 44 semaines numéro 1 en France. Vendu à plus de 7millions d'ex
 S'il fallait ne garder qu'un album d'elle, ce serait celui là. Les collaborations suivantes avec Goldman étant moins fructueuses en 98 avec « S'il suffisait d'aimer » et 2003 avec »1 fille 4 types » où Goldman prend plus de recul.
 
 
-[La vidéo](youtube=https://www.youtube.com/watch?v=zCsuKp9ewLY)
+[La vidéo](https://www.youtube.com/watch?v=zCsuKp9ewLY)
 
 1- Pour que tu m'aimes encore
 2- Le ballet
@@ -36,4 +36,4 @@ S'il fallait ne garder qu'un album d'elle, ce serait celui là. Les collaboratio
 11- Prière païenne
 12- Vole.
 
-![cover](https://hebdozic.files.wordpress.com/2010/09/diondeux1.jpg)
+![cover](http://hebdozic.files.wordpress.com/2010/09/diondeux1.jpg)
