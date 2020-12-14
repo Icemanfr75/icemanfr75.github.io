@@ -36,4 +36,4 @@ S'il fallait ne garder qu'un album d'elle, ce serait celui là. Les collaboratio
 11- Prière païenne
 12- Vole.
 
-![cover](https://hebdozic.files.wordpress.com/2010/09/diondeux1.jpg)
+![image](https://hebdozic.files.wordpress.com/2010/09/diondeux1.jpg)
