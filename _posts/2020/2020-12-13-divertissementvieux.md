@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Réflexion - Le divertissement en mode #vieuxgeek
+title: Réflexion - Le divertissement en mode vieux geek
 category: reflexion
 tags:  Culture, evolution, Réflexion
 ---
