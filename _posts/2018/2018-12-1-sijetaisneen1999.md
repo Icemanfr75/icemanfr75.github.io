@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog : Si j'etais né en 1999
+title: Blog - Si j'etais né en 1999
 category: reflexion
 tags: adolescence, éducation, blog, enfance, Réflexion
 ---
