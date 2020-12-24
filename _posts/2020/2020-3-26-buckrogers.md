@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Série du passé : Buck Rogers (1979-1981)
+title: Série du passé - Buck Rogers (1979-1981)
 category: serie
 tags: 1970s, 1980s, geek, série, Séries, science fiction, space opera, tv
 ---
