@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Souvenir de Gamer : Mr Driller (1999)
+title: Souvenir de Gamer - Mr Driller (1999)
 category: geek
 tags: 1990s, arcade, geek, Geekeries, jeu video, namco, puzzle game
 ---
