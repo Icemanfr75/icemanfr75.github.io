@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #D9ECFB;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -232,7 +232,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: #D9ECFB;
     }
   }
 }
@@ -275,7 +275,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #D9ECFB;
 }
 
 footer {
