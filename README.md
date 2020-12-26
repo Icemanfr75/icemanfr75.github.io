@@ -1,10 +1,14 @@
 Ce blog est basé sur Jekyll Now de [Barry Clark](https://github.com/barryclark/jekyll-now)
 
-Il consiste en un backup progressif des meilleurs articles de mon blog principal, [Cheziceman.wordpress.com](https://cheziceman.wordpress.com)
+Il consiste en un miroir des meilleurs articles de mon blog principal, [Cheziceman.wordpress.com](https://cheziceman.wordpress.com), pour ne plus avoir ni publicité, ni cookie.
 
 Le contenu est publié sous licence creative commons.
 
-Les commentaires sont activés avec Disqus
+Les commentaires sont desactivés avec Disqus
+
+**Mes ajouts**
+
+Le meta name keywords a été ajouté 
 
 Un sitemap automatique a été ajouté
 
