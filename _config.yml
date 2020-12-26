@@ -6,7 +6,7 @@
 name: Chez Iceman, le blog de Backup
 
 # Short bio or description (displayed in the header)
-description: Artisan blogueur depuis 2005, 
+description: Artisan blogueur depuis 2005, le blog parle de culture, de geeks et geekeries, de logiciel libre, de géopolitique, parfois en anglais , de tutoriels informatique, maintenant sur smartphone.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://icemanfr75.github.io/images/cheziceman.jpeg
@@ -42,7 +42,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://icemanfr75.github.io
+url: https://icemanfr75.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
