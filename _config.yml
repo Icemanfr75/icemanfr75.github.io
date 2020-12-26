@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: https://icemanfr75.github.io/feed.xml
-  twitter: chez_iceman
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -34,8 +34,8 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-comments: false
-disqus: icemanfr75
+comments: 
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
