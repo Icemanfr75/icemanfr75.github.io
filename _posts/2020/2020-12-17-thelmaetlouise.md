@@ -2,7 +2,7 @@
 layout: post
 title: Cinéma - Thelma et Louise de Ridley Scott (1991)
 category: cinema
-tags:  990s, aventure, Cinéma, cinematheque ideale, drame, féminisme, road movie, western
+tags:  1990s, aventure, Cinéma, cinematheque ideale, drame, féminisme, road movie, western
 ---
 
 **Il fait partie de mes films-cultes, ceux que je peux revoir et re-revoir sans lassitude. A croire qu’il était en avance sur son temps.**
