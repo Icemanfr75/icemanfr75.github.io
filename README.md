@@ -6,9 +6,9 @@ Le contenu est publié sous licence creative commons.
 
 Les commentaires sont desactivés avec Disqus
 
-**Mes ajouts**
+## Mes ajouts
 
-Le meta name keywords a été ajouté
+Le meta name keywords at été ajouté
 
 Un sitemap automatique a été ajouté
 
