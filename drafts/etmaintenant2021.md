@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Blog - Et maintenant 2021
 category: reflexion
 tags: nouvel an, blog, covid19, hébergement, informatique
