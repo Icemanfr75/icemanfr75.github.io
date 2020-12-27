@@ -1,8 +1,8 @@
 ---
-Layout:post
-Title: Blog - Et maintenant 202...1
-Category: reflexion
-Tags: nouvel an, blog, covid19, hébergement, informatique
+layout:post
+title: Blog - Et maintenant 2021
+category: reflexion
+tags: nouvel an, blog, covid19, hébergement, informatique
 ---
 
 **Il paraît que c'est tout nouveau, tout beau, tout récent...Vous l'avez vue, vous, cette nouvelle année ? Dans ce que j'en ai vu, ça ressemble quand même à l'autre, là, la maudite...**
