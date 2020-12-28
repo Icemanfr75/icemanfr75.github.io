@@ -40,8 +40,9 @@ Code :
 Ensuite, il faut rajouter justement ce petit code dans le fichier de _layout qui décrit les pages d'articles, c'est à dire post.html
 
 Code :
-
- `include share.html` avec les habituels crochets et %
+```
+{% include share.html %}
+```
 
 Enfin, il faut rajouter du code dans la feuille de style pour décrire le comportement, les couleurs,etc...
 
