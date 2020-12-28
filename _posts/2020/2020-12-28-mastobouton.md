@@ -2,7 +2,7 @@
 Layout: post
 Title: Tuto - Ajouter un bouton mastodon sur son blog Jekyll
 Category: tuto
-Tags: développement,jekyll,mastodon, github, pages
+Tags: développement,jekyll,mastodon,github,pages
 ---
 
 **Un site moderne ne peut plus se passer de boutons de partage. Il y a évidemment ceux des méchants réseaux sociaux dominants mais aussi ceux des réseaux alternatifs comme Mastodon. Sauf qu'il faut préserver la confidentialité des utilisateurs.**
