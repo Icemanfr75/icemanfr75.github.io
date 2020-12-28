@@ -16,9 +16,7 @@ Code :
 Ensuite, il faut rajouter justement ce petit code dans le fichier de _layout qui décrit les pages d'articles, c'est à dire post.html
 
 Code :
-~~~
-{% include share.html %}
-~~~
+
  include share.html avec les crochets et %
 
 
