@@ -1,8 +1,8 @@
 ---
-Layout: post
-Title: Littérature - Le Loup des steppes de Herman Hesse (1927)
-Category: litterature
-Tags: 1920s, essai, littérature, roman, sociologie
+layout: post
+title: Littérature - Le Loup des steppes de Herman Hesse (1927)
+category: litterature
+tags: 1920s, essai, littérature, roman, sociologie
 ---
 
 **Voilà un livre qui, comme souvent chez Herman Hesse, est un peu plus qu’un Roman. Classique de la littérature, il est de ces livres qui deviennent intemporels.**
