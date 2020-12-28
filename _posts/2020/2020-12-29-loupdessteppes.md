@@ -16,8 +16,8 @@ Ce qui est aussi perturbant, c’est que face à ces interrogations de Harry, on
 
 Tout cela en fait un écrit complexe à aborder par ses multiples thèmes. C’est le genre de livre qu’il faut lire et relire, qui mérite bien plus qu’une lecture distraite évidemment et ne peut même se capter à travers une chronique. Un livre qui peut aussi bouleverser, ou laisser sans voix. Je vous aurais prévenu.
 
-*Nous sommes les amis du dragon céleste.
+*Nous sommes les amis du dragon céleste.*
 
-Immobile et froide est notre existence infinie,
+*Immobile et froide est notre existence infinie,*
 
-Astral et glacé notre rire éternel.* 
+*Astral et glacé notre rire éternel.* 
