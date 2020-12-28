@@ -13,26 +13,6 @@ Code :
 
 ![code1](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/mastobutton1.png)
 
-```
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-
-<div class="share-box">
-<h5>Partager sur:</h5>
-
-<a class="f" href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}" onclick="window.open(this.href, 'mywin',
-'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" ><i class="fa fa-facebook-official fa"></i><span> facebook</span></a>
-
-<a class="t" href="https://twitter.com/intent/tweet?text=&url={{page.title}} {{site.url}}{{page.url}}" onclick="window.open(this.href, 'mywin',
-'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa fa-twitter fa"></i><span> twitter</span></a>
-
-<a class="r" href="http://www.reddit.com/submit?url={{page.title}}{{site.url}} {{page.url}}" onclick="window.open(this.href, 'mywin',
-'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" ><i class="fa fa-reddit fa"></i><span> reddit</span></a>
-
-<a class="e" href="mailto:?subject=&amp;body=Lis ce site : {{page.title}} {{site.url}}{{page.url}}"><i class="fa fa-envelope fa"></i><span> email</span></a>                          
-
-</div>
-```
-
 Ensuite, il faut rajouter justement ce petit code dans le fichier de _layout qui décrit les pages d'articles, c'est à dire post.html
 
 Code :
