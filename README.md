@@ -12,6 +12,8 @@ Le meta name keywords at été ajouté
 
 Un sitemap automatique a été ajouté
 
+Des boutons de partage dont un pour mastodon sans JavaScript 
+
 titres des articles passés en h2 sur les listes
 
 Des menus thématiques basés sur "category" ont été créés dans les Pages
