@@ -8,17 +8,13 @@ Les commentaires sont desactivés avec Disqus
 
 ## Mes ajouts
 
-Le meta name keywords at été ajouté
-
-Un sitemap automatique a été ajouté
-
-Des boutons de partage dont un pour mastodon sans JavaScript 
-
-titres des articles passés en h2 sur les listes
-
-Des menus thématiques basés sur "category" ont été créés dans les Pages
-
-la limitation de 1000 articles a été contournée en créant des répertoires par année.
+* Le meta name keywords a été ajouté
+* Le meta james image a été ajouté 
+* Un sitemap automatique a été ajouté
+* Ajout des boutons de partage dont un pour mastodon sans JavaScript 
+* Titres des articles passés en h2 sur les listes
+* Des menus thématiques basés sur "category" ont été créés dans les Pages
+* la limitation de 1000 articles a été contournée en créant des répertoires par année.
 
 
 ## Credits
