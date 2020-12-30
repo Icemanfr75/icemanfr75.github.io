@@ -22,7 +22,7 @@ Ceci est mon blog mais me sert aussi à me présenter
 * 2000 : Rédacteur sur le site l'abeille.net (BeOS).
 
 ### Mes autres activités
-* Utilisation de Linux depuis 2000, à 100% depuis 2016.
+* Utilisation de GNU/Linux depuis 2000 (slackware, redhat, fedora, mint, debian , ubuntu) à 100% depuis 2016.
 * Bénévolat dans des refuges de protection animale, organisation de collectes.
 * Rédaction d'un roman et d'une nouvelle.
 * Création musicale (un album de musique électronique)
