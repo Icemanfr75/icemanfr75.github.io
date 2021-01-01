@@ -5,7 +5,7 @@ category: geek
 tags: email, progrès, Réflexion, tuto, tutoriel
 ---
 
-**J’aurais pu appeler cet article « Lettre à Ploum » mais pour qui ne connaît pas le personnage ou le sujet abordé, il vaut mieux préciser les choses. C’est une sorte de réponse (plutôt un complément?) à un sujet qu’il a initié autour des logiciels de mail et de leur évolution. A défaut de mail pour y répondre, un billet de blog à l’ancienne mode, ça le fait aussi.**
+**J’aurais pu appeler cet article « Lettre à Ploum » mais pour qui ne connaît pas le personnage ou le sujet abordé, il vaut mieux préciser les choses. C’est une sorte de réponse (plutôt un complément?) à [un sujet qu’il a initié](https://ploum.net/pour-un-logiciel-de-correspondance-plutot-quun-client-mail/) autour des logiciels de mail et de leur évolution. A défaut de mail pour y répondre, un billet de blog à l’ancienne mode, ça le fait aussi.**
 
 J’ai déjà abordé le sujet de l’e-mail ici avec des tutoriels. Il y avait déjà les bonnes pratiques autour des smartphones et de leurs notifications. Mais il y avait surtout la manière que l’on a de gérer nos communications avec le mail, ce sujet ayant aussi été abordé par Genma. Autour de cela, il y a la notion de gestion du temps et le choix entre l’immédiat et le temps long. J’ai parlé de cet élément de manière diffuse dans bien des articles sans vraiment me concentrer dessus. Ploum parle à la fois de la manière de rédiger un email dans nos logiciels mais aussi de la manière de communiquer par courrier électronique au sens temporel.
 
