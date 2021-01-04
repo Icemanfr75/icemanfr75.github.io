@@ -9,7 +9,7 @@ Les commentaires sont desactivés avec Disqus
 ## Mes ajouts
 
 * Le meta name keywords a été ajouté
-* Le meta james image a été ajouté 
+* Le meta name image a été ajouté 
 * Un sitemap automatique a été ajouté
 * Ajout des boutons de partage dont un pour mastodon sans JavaScript 
 * Titres des articles passés en h2 sur les listes
