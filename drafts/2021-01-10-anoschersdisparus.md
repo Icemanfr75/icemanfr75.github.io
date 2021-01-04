@@ -62,5 +62,5 @@ Enfin ça ressemblait un peu à ça, même si ce ne sont pas mes articles.
 
 Parfois je me le demande mais je trouve cela utile de témoigner des évolutions de l'histoire. Je pourrais même montrer comment c'était avec des versions utilisables. Pour l'instant elles vont dormir sur un serveur privé, bien au chaud et un jour, au coin du feu pour mes vieux jours, je me dirai que j'était quand même un peu dingue de faire tout ça. Surtout quand ça parle de choses qui sont disparues aussi, quand ça parle d'oeuvres et d'artistes du passé et qu'on enterre un peu trop vite à coup de remakes et reprises. C'était mon petit bonus de ce dimanche en attendant un vrai gros article. Car maintenant, je me tourne vers l'avenir qui s'annonce radieux même si semé d'embuches. Là encore, je vais me lancer dans des trucs pas raisonnables mais bon...Allez à plus.
 
-Bande son : Mylène Farmer - L'instant X
+Bande son : [Mylène Farmer - L'instant X ![video](/images/youtube.png )](https://www.youtube.com/watch?v=aHLW4hw2UIQ)
 
