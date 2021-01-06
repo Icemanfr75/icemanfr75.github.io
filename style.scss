@@ -120,9 +120,7 @@ img {
 }
 
 // Specify the color of the selection
-::-moz-selection {
-    background: #000000;
-}
+
 ::selection {
 
   background: #000000;
@@ -289,7 +287,6 @@ footer {
 //share buttons
 .share-box a {
   display: inline-block;
-  -webkit-box-shadow: 0 0 1px #777;
   box-shadow: 0 0 1px #777;
   padding: 5px 12px;
   margin-right: 5px;
@@ -297,8 +294,6 @@ footer {
   text-decoration: none; }
   .share-box a:hover {
     text-decoration: none;
-    -webkit-transition: background-color 200ms linear;
-    -ms-transition: background-color 200ms linear;
     transition: background-color 200ms linear; }
 
 .f {
