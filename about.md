@@ -7,6 +7,8 @@ permalink: /about/
 Ceci est mon blog mais me sert aussi à me présenter
 Pour les [FAQ, c'est par ici](/pages/faq/)
 
+Quelques articles sont in <a href="{{ site.baseurl }}/pages/english">English</a>
+
 ### Professionnellement
 * 1999-Aujourd'hui : Automobile - Recherche et développement, Achats
   * 2018-Aujourd'hui : Pilotage de la qualité (équivalent ISO17025), Création d'un laboratoire de métrologie, formation aux outils qualité et aux postes métrologiques.
