@@ -12,6 +12,9 @@ Les commentaires sont desactivés avec Disqus
 * Le meta name keywords a été ajouté
 * Le meta name image a été ajouté 
 * Un sitemap automatique a été ajouté
+* Un Feed RSS automatique a été ajouté, validé w3c
+* suppression du recours aux plugins dans le config.yml
+* la feuille de style est validée w3c apres modifications du reset.sass et suppression des recours à des ressources propriétaires
 * Ajout des boutons de partage dont un pour mastodon sans JavaScript 
 * Titres des articles passés en h2 sur les listes
 * Des menus thématiques basés sur "category" ont été créés dans les Pages
