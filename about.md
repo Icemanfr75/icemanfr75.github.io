@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Ceci est mon blog mais me sert aussi à me présenter
+Pour les [FAQ, c'est par ici](/pages/faq/)
 
 ### Professionnellement
 * 1999-Aujourd'hui : Automobile - Recherche et développement, Achats
