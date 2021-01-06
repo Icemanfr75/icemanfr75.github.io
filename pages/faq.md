@@ -15,6 +15,11 @@ J'utilisais les Github Pages et je suis passé avec du Jekyll (langage Ruby) dir
 ### C'est indiqué libre, pourquoi ? 
 Parce que c'est fait sur des outils en "logiciel libre", sur un OS libre (Ubuntu, Debian...). Et aussi parce que j'y suis libre de parler de ce que je veux, ce que je décide, m^me si parfois je m'auto-censure.
 
+### C'est quoi tous ces logos en bas ? 
+Il y en a un pour expliquer ce qu'est le Creative Commons. 
+Il y en a un qui dit que c'est sans espionnage ici.
+Il y en a pour dire que le code a été validé par les outils de la W3C.org, organisme officiel qui définit les standards du web
+
 ### Mais une adresse Hotmail, ça va chez Microsoft ? 
 Oui, c'est le seul truc pas libre, tout ça pour éviter le spam dans une adresse perso. Et puis la seule chose que nous échangerons sera par rapport à ce blog. Peut-être que je te donnerai une autre adresse en toute confiance. 
 
