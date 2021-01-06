@@ -19,12 +19,11 @@ Les commentaires sont desactivés avec Disqus
 * Titres des articles passés en h2 sur les listes
 * Des menus thématiques basés sur "category" ont été créés dans les Pages
 * la limitation de 1000 articles a été contournée en créant des répertoires par année.
-
+* suppression des svg icons pour ne garder que des icones w3c et Cc plus icone spyfree.
 
 ## Credits
 
 - [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
-- [SVG icons](https://github.com/neilorangepeel/Free-Social-Icons) - Thanks, Neil Orange Peel. They're beautiful.
 - [Solarized Light Pygments](https://gist.github.com/edwardhotchkiss/2005058) - Thanks, Edward.
 - [Joel Glovier](http://joelglovier.com/writing/) - Great Jekyll articles. I used Joel's feed.xml in this repository.
 - [David Furnes](https://github.com/dfurnes), [Jon Uy](https://github.com/jonuy), [Luke Patton](https://github.com/lkpttn) - Thanks for the design/code reviews.
