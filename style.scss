@@ -33,7 +33,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   font-weight: bold;
-
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -254,7 +253,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: #000000;
+    color: #eeeeee;
     font-size: 22px;
     font-style: italic;
   }
