@@ -3,7 +3,7 @@ layout: page
 title: A propos
 permalink: /about/
 ---
-Oui, c'est un blog, ou Weblog, bref une sorte de journal personnel. 
+Oui, c'est un blog, ou Weblog, bref une sorte de journal personnel, depuis 2005 dans de nombreuses formes, celle-ci étant la 7ème. 
 
 Pour les [FAQ, c'est par ici](/pages/faq/)
 
