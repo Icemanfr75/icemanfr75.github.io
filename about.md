@@ -29,9 +29,11 @@ Ceci est mon blog mais me sert aussi à me présenter
 * 2000 : Rédacteur sur le site l'abeille.net (BeOS).
 
 ### Mes autres activités
-* Utilisation de GNU/Linux depuis 2000 (slackware, redhat, fedora, mint, debian , ubuntu) à 100% depuis 2016.
+* Utilisation de Linux depuis 2000, à 100% depuis 2016.
 * Bénévolat dans des refuges de protection animale, organisation de collectes.
-* Rédaction d'un roman et d'une nouvelle.
-* Création musicale (un album de musique électronique)
-
+* Rédaction d'un roman ([epub](https://e.pcloud.link/publink/show?code=XZqR17ZOj7UJpj6QjLAKMT5leHPUH1mERxy) ou [pdf](https://e.pcloud.link/publink/show?code=XZ6R17ZClwKjkFcEGJTEvXAFNsbbFGR3jAy))
+* d'une petite BD en collaboration avec Odysseus ([pdf](https://e.pcloud.link/publink/show?code=XZiRt7ZJ493bWWgb0RkRM6IhoyaSBJ0lS9V))
+* d'une nouvelle ([epub](https://e.pcloud.link/publink/show?code=XZOR17ZEonKToOqr0plRCE6CGnYNhgPphJk) ou [pdf](https://e.pcloud.link/publink/show?code=XZIR17Z3YAu3mhmWc8JNxU3XYWULyhwPg0X))
+* et de la poésie (haïkus en version [epub](https://e.pcloud.link/publink/show?code=XZNR17Zc4J21j0tp90eVN8yee0ijb9vJLB7), haïkus illustrés par [Péha](https://lesptitsdessinsdepeha.wordpress.com/2016/04/04/haikus-1ere-partie/) en [pdf](https://e.pcloud.link/publink/show?code=XZAR17ZxwMBeb8PkPfWXHGk77QInkKdvwgy), poèmes : [Vol 1](https://e.pcloud.link/publink/show?code=XZVL17ZM3Giu8AY1rbi1H7iqcU2RJSXWiuV))
+* Création musicale (un album de musique électronique [sur Bandcamp](https://iceman75.bandcamp.com/releases))
 
