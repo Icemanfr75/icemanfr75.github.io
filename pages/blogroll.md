@@ -1,5 +1,6 @@
 ---
-layout: null
+layout: default
+title: Et pour quelques blogs de plus
 ---
 
 Quelques liens essentiels, indispensables… bref, on se demande à quoi ça sert puisque vous les connaissez : (l’ordre est aléatoire)
