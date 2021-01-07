@@ -12,7 +12,7 @@
  
 
 {% if page.image %}
-  <meta content="/images/{{ page.image }}" property="og:image">
+  <meta content="{{ site.url }}/images/{{ page.image }}" property="og:image">
 {% else %}
-  <meta content="/images/cheziceman.jpg" property="og:image">
+  <meta content="{{ site.url }}/images/cheziceman.jpg" property="og:image">
 {% endif %}
