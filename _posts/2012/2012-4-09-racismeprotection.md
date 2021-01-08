@@ -1,7 +1,7 @@
 ---
 layout: post
 title: France - Racisme et Protection animale
-category: reflexion, vegetarisme
+category: reflexion, vegan
 tags:   politique, protection animale, racisme, spécisme
 ---
 
