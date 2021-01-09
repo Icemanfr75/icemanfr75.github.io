@@ -11,7 +11,7 @@ Les commentaires sont desactivés avec Disqus
 
 * Le meta name keywords a été ajouté
 * Le meta name image a été ajouté 
-* meta corrigé pour etre conforme w3c
+* meta corrigé pour etre conforme w3c, open graph et twitter 
 * Un sitemap automatique a été ajouté
 * Un Feed RSS automatique a été ajouté, validé w3c
 * suppression du recours aux plugins dans le config.yml
