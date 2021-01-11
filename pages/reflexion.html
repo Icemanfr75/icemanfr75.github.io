@@ -2,12 +2,26 @@
 layout: default
 title: Reflexions
 ---
-<h1><a href="#reflexion">Réflexions</a> - </h1> 
+<h1><a href="#reflexion">Réflexions</a> - <a href="#poésie">Poésie</a> </h1> 
 <div class="posts" id="reflexion">
    <h2>Reflexions</h2>
   <ul>
     {% for post in site.posts %}
     {% if post.category contains "reflexion" %}
+    <li>
+      <span class="date">{{ post.date | date: "%B %e, %Y" }} - </span>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
+      <span class="category">{{ post.category | categorie : "%B" }}</span>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+<div class="posts" id="poesie">
+   <h2>Poésie</h2>
+  <ul>
+    {% for post in site.posts %}
+    {% if post.category contains "poesie" %}
     <li>
       <span class="date">{{ post.date | date: "%B %e, %Y" }} - </span>
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
