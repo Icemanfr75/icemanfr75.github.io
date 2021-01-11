@@ -13,7 +13,7 @@ Mettant plus en avant ses musiciens sur cette tournée, Jean Jacques Goldman dé
 
 Le succès sera encore au rendez vous avec des titres devenus depuis des classiques repris lors des tournées des Enfoirés auxquelles participe Jean Jacques depuis la création des Restos du cœur. L'album Rouge suivra en 1993 avec tout autant de succès, avec son packaging métallique. Mais en 1997, Goldman reprendra sa carrière solo, sans toutefois abandonner ses compagnons qui eux aussi veulent capitaliser sur le succès du trio Hélas en 2001, Carole Fredericks décèdera d'une crise cardiaque à la fin d'un concert, mettant fin à tout retour éventuel du trio. Michael Jones ne rencontre pas le succès escompté en solo alors que Jean Jacques Goldman sort encore un album en 2001 (Chansons pour les pieds) et multiplie les collaborations comme auteur compositeur et producteur.
 
-[La Video](https://www.youtube.com/watch?v=sXHtP7DWE0A)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=sXHtP7DWE0A)
 
 Membres : Jean-Jacques Goldman, Carole Fredericks, Michael Jones
 
@@ -28,4 +28,4 @@ Membres : Jean-Jacques Goldman, Carole Fredericks, Michael Jones
 9. Peurs
 10. Tu manques
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/fdg.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/fgj.jpg)

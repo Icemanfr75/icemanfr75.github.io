@@ -15,7 +15,7 @@ Après cela, Speedway et ses bruits de courses nous ramène dans le monde de la 
 
 En 1996, le single Firestarter poursuit sur cette voie, relayé par l'album Fat of the Land en 97. Le succès considérable de ce troisième album permet au groupe une longue tournée. Mais les années 2000 sont bien différentes. Si le désenchantement du début des années 90 trouvait une réponse dans les titres de cet album, ce sera moins le cas pour le Always Outnumbered, Never Outgunned. Mais Prodigy reste une figure par ce coté attitude rock insufflé dans le monde de la techno, qui les fera être diffusés sur des radio rock et avoir comme descriptif : « a rock band that plays electronic music »
 
-[La Video](https://www.youtube.com/watch?v=wmin5WkOuPw)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=wmin5WkOuPw)
 
 Membres : Liam Howlett , Neil McLellan, Maxim Reality,Pop Will Eat Itself, Phil Bent, Lance Riddler
 
@@ -33,4 +33,4 @@ Membres : Liam Howlett , Neil McLellan, Maxim Reality,Pop Will Eat Itself, Phil 
 12. Skylined*
 13. Claustrophobic Sting
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/prodigyjilted.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/prodigyjilted.jpg)

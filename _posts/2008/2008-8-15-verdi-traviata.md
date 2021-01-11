@@ -13,8 +13,8 @@ La Traviata arrive donc après ces nombreuses péripéties et s'inscrit comme un
 
 Difficilement accueilli lors de sa première, il ne sera présenté à Paris qu'en 1862. Verdi, après un intermède sur des thèmes plus léger, reviendra aux thèmes historiques avec Aida puis à Shakespeare dans Falstaff et Otello, ne parvenant à terminer le roi Lear. Il meurt en 1901 laissant une œuvre majeure dans le répertoire lyrique italien.
 
-[La Video](https://www.youtube.com/watch?v=4oJwdMG-eeA)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=4oJwdMG-eeA)
 
 Personnages : - Violetta Valéry, soprano lyrique - Flora Bervoix, mezzo-soprano - Annina, mezzo-soprano ou soprano - Alfredo Germont, ténor - Giorgio Germont, son père, baryton - Gastone, vicomte de Letorières, ténor - Baron Douphol, baryton - Marquis d'Obigny, basse - Docteur Grenvil, basse - Giuseppe, serviteur de Violetta, ténor - Un domestique de Flora, basse - Un commissionnaire, basse - Amis de Violetta et Flora, matadors, picadors, tsiganes, masques et serviteurs, chœurs
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/verditraviata.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/verditraviata.jpg)

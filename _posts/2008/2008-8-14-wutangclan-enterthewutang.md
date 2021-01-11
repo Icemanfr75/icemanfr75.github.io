@@ -11,7 +11,7 @@ Déboulant de Staten Island, New York en 1992, ils signent leur premier album l'
 
 Bénéficiant de l'aura de ce premier album, les différents membres du collectif vont poursuivre des carrières solos de leur coté. RZA produira par exemple la magnifique BO du film Ghostdog de **Jim Jarmusch**, permettant au Hip Hop d'avoir une autre image devant le public « branché » du réalisateur indépendant New Yorkais. Le groupe continue à exister au travers d'album comme Wu Tang Forever en 96, puis The W en 2001. Ils continuent chacun à s'impliquer dans des projets solos, dans des productions de groupe. En 2001, Iron Flag est une déception, peut-être parce qu'ils sont de plus en plus pris par leurs carrières respectives. Mais leur nom est inscrit à jamais dans l'histoire du rap East Coast.
 
-[La Video](https://www.youtube.com/watch?v=1_-3Bh1VFI8)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=1_-3Bh1VFI8)
 
 Membres : RZA, Method Man, Raekwon, Ol Dirty Bastard, Ghostface Killah, GZA, Inspectah Deck, Masta Killa, U-God
 
@@ -25,4 +25,4 @@ Membres : RZA, Method Man, Raekwon, Ol Dirty Bastard, Ghostface Killah, GZA, Ins
 8. C.R.E.A.M.
 9. Method Man
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/wutang.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/wutang.jpg)
