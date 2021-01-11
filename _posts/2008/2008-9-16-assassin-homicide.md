@@ -13,7 +13,7 @@ Mais avant de partir, DJ Clyde participe à la création d'un deuxième album en
 
 L'album est vendu à plus de 100 000 exemplaires, chose incroyable pour un indépendant. Il faudra ensuite attendre 5 ans pour avoir droit à un autre opus, Touche d'espoir. Assassin est aussi à la production et participe à divers projets. Le groupe sort encore un live en 2002 avant qu'Assassin productions disparaisse. On retrouve Assassin dans le giron **Kassovitz - Cassel**, ce qui les amène à apparaître sur les bandes sons de Métisse ou La Haine ou encore à collaborer avec **Kim Chapiron**, ami de Vincent Cassel. Rockin'Squat doit sortir Confessions d'un enfant du siècle en fin 2008. Doctor L collabore avec Rodolphe Burger entre autres.
 
-[La Video](https://www.youtube.com/watch?v=fyicwhv3OLw)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=fyicwhv3OLw)
 
 Membres : Rockin'Squat, DoctorL, DJ Clyde, Ekoué.
 
@@ -38,6 +38,6 @@ Membres : Rockin'Squat, DoctorL, DJ Clyde, Ekoué.
 19. Atakamalak 
 20. Ecrire contre l'oubli
 
-![cover](http://cheziceman.files.wordpress.com/2010/09/assassinhomicide1.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/assassinhomicide.jpg)
 
 

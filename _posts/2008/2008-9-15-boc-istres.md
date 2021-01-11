@@ -35,6 +35,6 @@ Malheureusement, la batterie va connaître de petits problèmes techniques, ne g
 
 Le rappel donnera l'occasion à Richie Castellano de montrer qu'il peut aussi être efficace au chant. Un unique titre pour leur dire au revoir car c'est avec plaisir que nous viendrons les revoir en 2009. La pleine lune et les étoiles éclairent notre retour à notre hôtel, mais nous avons encore les titres de cette soirée plein la tête.
 
-[La Video](https://www.youtube.com/watch?v=cnv0iNDumow)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=cnv0iNDumow)
 
-![Cover](http://cheziceman.files.wordpress.com/2014/11/bocistres.jpg)
+![Cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/bocistres.jpg)

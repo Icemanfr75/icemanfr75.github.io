@@ -13,10 +13,12 @@ Le projet est particulièrement ambitieux puisqu'il s'inscrit dans une œuvre fi
 
 Acclamé par les critiques, les professionnels et le public, Prince devient une immense star internationale. Mais comment succéder à pareil chef d'œuvre. On voit déjà bien l'attirance du musicien vers les expérimentations musicales de toutes sortes. Prince écrit pourtant aussi pour d'autres comme les **Bangles**. Il enchaîne les hits avec "Parade" et "Sign o' the times" sans pour autant aller dans la facilité. Maintenant libre de faire ce qu'il veut, il peut se permettre d'aller dans des styles moins vendeurs ou même de se perdre dans des bandes originales de film comme Batman en 1989. En 1993, il préfère se faire appeler sous le nom de **Love Symbol** surtout pour des raisons de bataille légale avec la Warner. Après cette période plutôt trouble et des albums plus moyens, il fait surtout ce qui lui plaît, sans volonté commerciale mais avec toujours autant d'inventivité. Il reprend son nom de Prince en 2000. En 2004, Musicology marquera son grand retour. Jamais copié, il reste une figure à part dans le monde de la musique, par sa créativité et son indépendance, jusqu'à son décès en 2016.
 
-[La Video](https://www.youtube.com/watch?v=7NN3gsSf-Ys)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=7NN3gsSf-Ys)
 
 Production, arrangements, composition : Prince
+
 Participation de John Nelson, Wendy and Lisa, Dr Fink pour les compositions.
+
 Membre des Revolution : Prince, Wendy Melvoin, Lisa Coleman, Dr Fink, Bobby Z, Brown Mark.
 
 1- Let's Go Crazy
@@ -29,6 +31,6 @@ Membre des Revolution : Prince, Wendy Melvoin, Lisa Coleman, Dr Fink, Bobby Z, B
 8- Baby I'm a Star
 9- Purple Rain
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/purplerain2.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/purplerain2.jpg)
 
 

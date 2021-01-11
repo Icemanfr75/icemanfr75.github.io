@@ -13,8 +13,7 @@ Elle parle de ses doutes, de ses joies de mère de famille, de ses peines aussi,
 
 Après ce sommet de carrière, Lynda se consacre à nouveau à de nouveaux albums studio. On peut la voir faire sa promo avec l'humoriste Laurent Gerra qui partage brièvement sa vie. Mais c'est dans le secret qu'elle se sent le mieux pour se dévoiler dans ses textes. Elle se permet de créer un opéra folk dans Un éternel Hiver en 2006 qu'elle double d'un album la même année, Ma Signature. Ce n'est certainement pas une chanteuse à single qui aligne les hits mais elle a trouvé son style et sa place dans la chanson française, ou plutôt francophone. Elle nous étonnera certainement de longues années, tant elle semble curieuse et prolifique.
 
-
-[La video](https://www.youtube.com/watch?v=71GlbSX_t60)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=71GlbSX_t60)
 
 Musiciens : Lynda Lemay, Sébastien Dufour, Louis Bernier, Daniel Jean
 
@@ -37,4 +36,4 @@ Musiciens : Lynda Lemay, Sébastien Dufour, Louis Bernier, Daniel Jean
 17. Bande De Dégonflantes
 18. Ma Plus Belle Déception
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/lettresrouges.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/lettresrouges.jpg)

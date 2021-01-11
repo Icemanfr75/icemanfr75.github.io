@@ -19,7 +19,7 @@ Au final, si l'album n'est pas mauvais (meilleur que Made in Heaven), il ne parv
 
 A en croire les vidéos des concerts en Russie et Ukraine, le groupe a en tout cas trouver le bon réglage sur scène, reprenant évidemment de nombreux classiques de Queen mais intégrant ces nouveaux titres sans choquer tant que cela. Car l'essentiel est là : ils prennent du plaisir à jouer et créer ensemble dans ce nouveau groupe.
 
-[La Video](https://www.youtube.com/watch?v=dUBfFh9QovI)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=dUBfFh9QovI)
 
 Membres : Brian May, Paul Rodgers, Roger Taylor
 
@@ -38,4 +38,4 @@ Membres : Brian May, Paul Rodgers, Roger Taylor
 13 Surf's Up...School's Out ! 
 14- small reprise
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/queencosmos.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/queencosmos.jpg)

@@ -13,7 +13,7 @@ En 1982, ils sortent Blackout poursuivant sur leur lancée. Klaus Meine sort de 
 
 Le succès de l'album est considérable avec cette floppée de hits. En 84, Love at fist sting les conduits à la tournée World Wild Live qui les consacre définitivement. Après l'album Savage Amusement en 1988, ils se séparent de leur producteur fétiche et amorcent une décente que l'on aurait pu croire définitive. Crazy World et la ballade Wind of change a tendance à faire oublier que Scorpions est un groupe de Hard Rock, et ce n'est pas les errances d'un groupe qui cherche à rebondir en cette période grunge qui va aider les choses. Entre son métal puis pop, s'essayant au symphonique, les années 90 font oublier petit à petit le groupe. Mais en 2004, avec un nouveau bassiste et un batteur arrivé après le départ d'Hermann Rarebell, ils reviennent sur le devant de la scène avec Unbreakable, montrant qu'ils n'ont rien perdus de leur talent et de leur énergie. Ils s'essaient même au concept album ensuite avec Humanity – hour 1, .... quand s'arrêteront-ils?
 
-[La Video](https://www.youtube.com/watch?v=GY3BTyLh8vQ)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=GY3BTyLh8vQ)
 
 Membres : Rudolf Schenker, Klaus Meine, Herman Rarebell, Francis Buchholz, Matthias Jabs.
 
@@ -27,6 +27,6 @@ Membres : Rudolf Schenker, Klaus Meine, Herman Rarebell, Francis Buchholz, Matth
 8- China White
 9- When The Smoke Is Going Down
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/scorpionsblackout.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/scorpionsblackout.jpg)
 
 

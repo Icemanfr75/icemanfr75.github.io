@@ -19,7 +19,7 @@ Elle décroche même une victoire de la musique pour cela mais peut être plus p
 
 Finalement, de trace, elle laissera celle de l'épouse d'un président mais pas celle d'une musicienne. Si elle est invitée dans des émissions pop, c'est plus pour ce rôle que pour l'intérêt que l'on porte à sa musique. Cela lui importe-t-il vraiment puisqu'elle ne rêve que d'être devant les projecteurs comme la petite enfant gâtée qu'elle reste. Rendons lui service : oublions cet album.
 
-[La Video](https://www.youtube.com/watch?v=XvyMG0z0FZY)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=XvyMG0z0FZY)
 
 Production et arrangements : Louis Bertignac
 
@@ -36,5 +36,5 @@ Production et arrangements : Louis Bertignac
 11. L'amour
 12. La dernière minute
 
-![cover](https://hebdozic.files.wordpress.com/2014/11/brunidit.jpg?w=300&h=200&crop=1)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/brunidit.jpg)
 

@@ -15,7 +15,7 @@ Et ce n'est pas la vantardise de "Wir sterben niemals aus" qui les étouffe. Evi
 
 On ne peut évidemment pas reprocher au groupe de parler de mal être, des problèmes des adolescents pour s'intégrer dans une société d'adulte. Cela est tout de même plus crédible que ce que faisait **Kyo.** Mais de voir cette recette pratiquement déclinée pendant 2 albums augure mal d'une suite. Sans être originaux musicalement, ils sont efficaces, reprenant au passage un peu de tous les groupes qui sont connus de leur public : Nirvana, Green Day, **Blink 182, Good Charlotte** ou même **Cure**. Mais le public adolescent est volatile, comme le prouve les ventes décevantes du live de leur tournée européenne. A coup de compilations et de rééditions, le groupe parvient quand même à se maintenir à un niveau de vente suffisant pour continuer sa carrière... Mais le public vieillit comme la recette. Restera alors le souvenir, qui enjolive parfois.
 
-[https://www.youtube.com/watch?v=Le_IyYLrUtQ]
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Le_IyYLrUtQ)
 
 Membres : Bill Kaulitz, Tom Kaulitz, Georg Listing, Gustav Schaeffer
 
@@ -34,6 +34,6 @@ Membres : Bill Kaulitz, Tom Kaulitz, Georg Listing, Gustav Schaeffer
 13. Monsoon
 14. Ready, Set, Go !
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/tokio483.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/tokio483.jpg)
 
 

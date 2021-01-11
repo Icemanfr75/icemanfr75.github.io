@@ -13,7 +13,7 @@ L'aventure Voodoo X tournant court, Jean Beauvoir et Tommy Lafferty s'embarquent
 
 Si l'album n'a pas le succès escompté aux Etats-Unis, il obtient d'excellentes critiques dans la presse US et acquiert une certaine reconnaissance en Europe. Mais le genre Hard FM est passé de mode en 1994 avec l'arrivée de la vague grunge. Cela n'arrête pas Jean Beauvoir qui poursuit ses multiples projets, aussi bien lors d'albums solo qu'avec Crown of Thorns, retrouvant Tommy Lafferty au passage, ou dans la production et l'enregistrement pour d'autres artistes. On le retrouve également dans le projet Voices of rock en 2007 pour le titre Wild Thing où il montre qu'il n'a rien perdu de son talent de chanteur.
 
-[La Video](https://www.youtube.com/watch?v=m7OHwt-3N2w)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=m7OHwt-3N2w)
 
 Membres : Jean Beauvoir, Michael Paige, Micki Free, Tony Thompson, Stoney Boy.
 
@@ -30,4 +30,4 @@ Membres : Jean Beauvoir, Michael Paige, Micki Free, Tony Thompson, Stoney Boy.
 11. Til the End
 
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/crownofthorns.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/crownofthorns.jpg)
