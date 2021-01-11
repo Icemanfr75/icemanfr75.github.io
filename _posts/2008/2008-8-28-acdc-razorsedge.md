@@ -13,8 +13,7 @@ En 1990, après encore un autre départ de batteur, c'est avec **Chris Slade** q
 
 Entre hits et morceaux représentatifs du style AC/DC, il y a de quoi faire dans cet album considéré par beaucoup comme l'un des plus heavy. Il fallait bien cela pour que le groupe retrouve le succès. La tournée qui suit est monumentale alors que le Hard Rock commence à souffrir dans les charts. Mais AC/DC n'est décidément pas un groupe comme les autres avec son style inimitable, ou presque. Phill Rudd revient en 95 pour Ball Breaker et ne quitte plus le groupe (EDIT : du moins avant le moment où cet article est écrit). La légende est de toute façon installée et en 2009 on se demande si la tournée sera vraiment la dernière pour ce groupe qui donne toujours autant d'énergie.
 
-
-[La Video](https://www.youtube.com/watch?v=v2AC41dglnM)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=v2AC41dglnM)
 
 Membres : Brian Johnson, Angus Young, Malcolm Young, Cliff Williams, Chris Slade.
 
@@ -31,4 +30,4 @@ Membres : Brian Johnson, Angus Young, Malcolm Young, Cliff Williams, Chris Slade
 11. Goodbye And Good Riddance To Bad Luck
 12. If You Dare
 
-![cover](http://cheziceman.files.wordpress.com/2010/09/acdcrazor1.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/acdcrazor.jpg)

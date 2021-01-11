@@ -13,7 +13,7 @@ Wheels are turning est donc dans la continuité de ces albums et s'inscrit dans 
 
 Effectivement, la roue va tourner pour le groupe qui si il a définitivement trouvé son style va commencer à lasser. L'AOR tombe en désuétude dans cette période où les groupes de Hard FM sont très (trop ?) nombreux. Et évidemment le groupe se déchire dans cette période plus difficile. Sous le nom de REO Speedwagon les line up se succèdent mais sans succès. EPIC arrête même tout contrat avec le groupe à la fin des années 90. Le dernier album, auto-produit, date de 2007 mais le groupe a toujours son public pour les titres des années 70 et 80. Ce Wheels are turning a beaucoup fait pour cette réputation avec ses mélodies accrocheuses, la bonne humeur et la légèreté qui s'en dégage.
 
-[La Video](https://www.youtube.com/watch?v=zpOULjyy-n8)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=zpOULjyy-n8)
 
 Membres : Kevin Cronin, Gary Richrath, Neal Doughty, Alan Gratzer, Bruce Hall
 
@@ -27,4 +27,4 @@ Membres : Kevin Cronin, Gary Richrath, Neal Doughty, Alan Gratzer, Bruce Hall
 8. Break His Spell
 9. Wheels Are Turning
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/reowheels.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/reowheels.jpg)

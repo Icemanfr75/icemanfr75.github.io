@@ -13,7 +13,7 @@ Continuant dans cette veine, Depeche Mode enregistre en 1986 ce Black Celebratio
 
 L'album reste malgré la diversité des sujets et des styles, totalement cohérent. Le son est plus atmosphérique que d'ordinaire même si on reconnaît la patte Depeche Mode. Music for the masses tentera de surfer sur le succès de ce remarquable album mais sans y réussir. C'est avec Violator en 90 que le groupe installe définitivement son nom dans l'histoire. Et en 1995, après un autre album, Wilder quitte le groupe. Gahan a du mal à se débarrasser de problèmes de drogue. Mais le groupe parvient pourtant à sortir Ultra et à continuer avec Exciter en 2001, surfant sur le retour en grâce de la musique électronique. Le groupe a de toute façon une place à part dans la pop, et peut se permettre de ralentir le rythme de sortie de ses albums.
 
-[Video](https://www.youtube.com/watch?v=9pt7EWFF_T8])
+En video : [![Video](/images/youtube.png)](https://www.youtube.com/watch?v=9pt7EWFF_T8])
 
 Membres : Martin Gore, Dave Gahan, Alan Wilder et Andrew Fletcher
 
@@ -31,4 +31,4 @@ Membres : Martin Gore, Dave Gahan, Alan Wilder et Andrew Fletcher
 12. But not Tonight
 
 
-![cover](https://cheziceman.files.wordpress.com/2014/11/depecheblack.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/depecheblack.jpg)

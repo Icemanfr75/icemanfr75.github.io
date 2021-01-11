@@ -13,7 +13,7 @@ L'album commence avec Witness un morceau au rythme hip hop empruntant des sons i
 
 Ce premier album apparaît comme un ovni dans le monde musical britannique de l'époque. Ni dub, ni trip hop, il emprunte des éléments au rap, à la fusion mais surtout allie les sons asiatiques et surtout indiens à un message politique fort. Cela l'aidera peut être à fonctionner d'abord en France avant que le groupe acquiert la reconnaissance dans son propre pays. Rafi y aidera notamment avec son single Free Satpal Ram parlant d'une célèbre affaire de racisme de la justice britannique. Graduellement le groupe connaîtra un succès de plus en plus grand jusqu'à Ennemy of the Ennemy. En 2000, Deeder Zaman quitte le groupe pour des raisons personnelles ce qui élargira encore le groupe. En 2006 c'est le bassiste du groupe qui part pour enseigner et produire sa propre musique. Et depuis 2007 ce sont deux nouveaux chanteurs qui sont sur scène, continuant ainsi la vocation formatrice du groupe.
 
-[La Video](https://www.youtube.com/watch?v=lVlwFQBfvCM)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=lVlwFQBfvCM)
 
 Membres : Dr Das, Master D, Chandrasonic, Pandit G, Bubbly, Sun-J
 
@@ -30,4 +30,4 @@ Membres : Dr Das, Master D, Chandrasonic, Pandit G, Bubbly, Sun-J
 11. Thacid 9 (Dub Version)
 12. Return to Jericho (Dub Version)
 
-![cover](http://cheziceman.files.wordpress.com/2010/09/adffacts1.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/adffacts.jpg)

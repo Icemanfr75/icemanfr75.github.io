@@ -5,7 +5,6 @@ category: musique
 tags: musique,pop, 2000s
 ---
 
-
 **Rares sont les artistes issues des télé-crochets à avoir enregistré 2 albums. Nolwenn Leroy est une des exceptions et avec son joli grain de voix, on pouvait s'attendre à une bonne surprise.**
 
 On sait que les premiers albums de ces chanteurs ne sont guère personnels et sont souvent même bâclés pour rentabiliser au plus vite le produit. Qu'en est il donc de ce second album énigmatiquement appelé Histoires Naturelles ?
@@ -18,8 +17,7 @@ Alors après ce long moment d'ennui, on s'attend à quelque chose pour relever l
 
 Au final, on a l'impression qu'à vouloir absolument coller à une image voulue (par qui ?), l'album se perd totalement en effets de style, en textes approximatifs, en musiques acidulées. C'est oublier que Nolwenn Leroy est aussi une voix puissante et douce, chaude et captivante. La faire chanter ainsi la condamne à ne montrer qu'une infime partie d'elle. Elle ne devient plus elle-même mais un « produit » lissé qu'elle croît être. **Lara Fabian** s'était assagie vocalement pour ne pas énerver autant mais avait su garder ce qu'elle était. **Goldman** avait gommé le coté nord américain de **Céline Dion** tout en conservant l'essence même de sa voix et en révélant les multiples facettes de sa personnalité. Voulzy et son équipe ont échoué et si ils peuvent séduire un public plus "lounge" dans cette ambiance feutrée, ils en perdent un autre peut être plus nombreux, sans parler même d'une voix exceptionnelle que l'on espère entendre dans un troisième album, ...enfin.
 
-
-[La Vidéo](https://www.youtube.com/watch?v=snxNCUDXiUA)
+En Vidéo : [![vidéo](/images/youtube.png)](https://www.youtube.com/watch?v=snxNCUDXiUA)
 
 Participants : Laurent Voulzy, Kent, Alain Souchon, Yasmin Shah, Franck Eulry, Julien Voulzy.
 
@@ -37,4 +35,4 @@ Participants : Laurent Voulzy, Kent, Alain Souchon, Yasmin Shah, Franck Eulry, J
 12. Mélusine
 13. J'Aimais Tant L'Aimer
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/nolwennhistoires.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/nolwennhistoires.jpg)
