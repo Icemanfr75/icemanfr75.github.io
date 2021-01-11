@@ -12,7 +12,7 @@ Comme beaucoup de live, il reprend des titres des 3 premiers albums. Nous sommes
 
 Entre la voix de **Paul Stanley**, reconnaissable entre 1000, les solos classieux d'**Ace Frehley**, la vista de **Peter Criss** à la batterie et les facéties de **Gene Simmons** à la basse, il y a de quoi s'éclater. Difficile de faire un tri dans les titres qui sont passés à la postérité depuis. Il y a du péchu, du sensible, du racoleur, mais tout ça est un tout. Pas étonnant finalement qu'ils remplissent aujourd'hui encore des salle au simple énoncé de cette setlist. Elle sera longtemps l'ossature de leurs prestations live futures, comme le sont souvent les premiers Live. Et quoi de mieux pour terminer un tel show que Rock N Roll All Nite, ce quasi hymne du groupe.
 
-[La Vidéo](https://www.youtube.com/watch?v=QKznSgnj9JU)
+En video : [![Vidéo](/images/youtube.png)](https://www.youtube.com/watch?v=QKznSgnj9JU)
     
 Membres : Paul Stanley, Gene Simmons, Ace Frehley, Peter Criss
     
@@ -38,4 +38,4 @@ Disque 2 :
 7. Let Me Go, Rock' N' Roll
 
 
-![cover](https://cheziceman.files.wordpress.com/2010/09/kissalive1.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/kissalive.jpg)
