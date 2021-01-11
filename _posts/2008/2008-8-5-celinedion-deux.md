@@ -5,7 +5,6 @@ category: musique
 tags: 1990s, musique, Pop
 ---
 
-
 **Céline Dion, qu'on aime ou que l'on n'aime pas sa personnalité, restera comme l'une des plus grandes chanteuses internationales**.
 
 Elle commence très jeune à chanter au Québec et se fait connaître en France dès l'âge de 14 ans sans que sa carrière décolle. En 88, elle remporte l'**Eurovision** pour la Suisse mais il faudra attendre 1990 pour que sa carrière prenne de l'essor. D'abord elle éclate aux Etats-Unis avec l'album Unison qui sera classé 4ème au Billboard et est redécouverte en France lorsqu'elle chante Plamondon en 1992. Mais c'est véritablement en 1995, juste après son mariage avec le producteur **René Angelil**, qu'elle explose en France.
@@ -20,8 +19,7 @@ L'album restera 44 semaines numéro 1 en France. Vendu à plus de 7millions d'ex
 
 S'il fallait ne garder qu'un album d'elle, ce serait celui là. Les collaborations suivantes avec Goldman étant moins fructueuses en 98 avec « S'il suffisait d'aimer » et 2003 avec »1 fille 4 types » où Goldman prend plus de recul.
 
-
-[La vidéo](https://www.youtube.com/watch?v=zCsuKp9ewLY)
+En vidéo : [![vidéo](/images/youtube.png)](https://www.youtube.com/watch?v=zCsuKp9ewLY)
 
 1- Pour que tu m'aimes encore
 2- Le ballet
@@ -36,4 +34,4 @@ S'il fallait ne garder qu'un album d'elle, ce serait celui là. Les collaboratio
 11- Prière païenne
 12- Vole.
 
-![image](https://hebdozic.files.wordpress.com/2010/09/diondeux1.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/diondeux.jpg)

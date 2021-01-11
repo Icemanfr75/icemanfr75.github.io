@@ -13,7 +13,8 @@ Le projet se veut comme un film : il raconte l'histoire de l'exode à travers de
 
 Reste un problème : Le monde du métal a parfois eu l'habitude, comme celui du classique, à rester fermé à ces ovnis, aux concepts albums ambitieux, aux groupes naviguant sur des mers musicales différentes. La musique souffre trop souvent de ces sectarismes. Espérons que ce ne soit pas le cas surtout que cet album permet aussi de découvrir une autre culture.
 
-[La vidéo](https://www.youtube.com/watch?v=di0_tGOH2qE)
+En video : [![vidéo](/images/youtube.png)](https://www.youtube.com/watch?v=di0_tGOH2qE)
+
 Membres : Erez Yohanan, Mats Leven, Yuval Kramer, Hanan Avramovich, Kobi Fahri, Maya Avraham
 
 1. Sorrow
@@ -27,4 +28,4 @@ Membres : Erez Yohanan, Mats Leven, Yuval Kramer, Hanan Avramovich, Kobi Fahri, 
 9. Ten Plagues
 10. Land of the Dead
 
-![cover](https://hebdozic.files.wordpress.com/2010/09/amaseffer1.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/amaseffer.jpg)

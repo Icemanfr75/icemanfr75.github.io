@@ -17,8 +17,7 @@ L'album se termine par un plus classique « Built to last » en forme d'au revoi
 
 Un album qui mèle donc les genres folk, rock, pop et blues, puisque Jeff Lynne y cale aussi de discrètes parties de synthé et orgues sans faire perdre le son si caractéristique de Tom Petty. Mais finalement cet album reste un cas à part dans la carrière de Tom Petty. Certifié plusieurs fois platine, il détonne toutefois par le son plus sophistiqué et moins country, après les excellents « Full Moon Fever » et « Southern Accent ». Ce n'est donc pas un album pour découvrir cet artiste mais assurément un grand moment musical.
 
-
-[La Video](https://www.youtube.com/watch?v=xqmFxgEGKH0)
+En vidéo : [![Video](/images/youtube.png)](https://www.youtube.com/watch?v=xqmFxgEGKH0)
 
 1. Learning to Fly
 2. Kings Highway
@@ -35,6 +34,6 @@ Un album qui mèle donc les genres folk, rock, pop et blues, puisque Jeff Lynne 
 
 Membres : Tom Petty, Mike Campbell, Howie Epstein, Benmont Tench, Stan Lynch, Jeff Lynne, Roger McGuinn.
 
-![cover](http://cheziceman.files.wordpress.com/2010/09/pettywide1.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/intothegreatwide.jpg)
 
 

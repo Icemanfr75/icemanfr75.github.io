@@ -5,7 +5,6 @@ category: musique
 tags: musique,1990s,pop,rock
 ---
 
-
 **REM a déjà une très longue carrière derrière lui lorsque sort Automatic for the People en 1992. Fondé en 1980 par Michael Stipe et Peter Buck, à Athens, le groupe prend sa forme définitive avec l'arrivée de Mike Mills et Bill Berry, deux compères étudiants à l'université de Georgie. D'un petit groupe d'étudiants en 80, va naître un groupe majeur de la pop US des années 90.**
 
 Le premier single en 81, Radio Free Europe, fit rapidement son petit effet. Ils signent en 1982 chez IRS Records qui les accompagne dans la première partie de leur carrière. En 1983 ils sortent l'album Murmur, déjà célébré par le magazine Rolling Stone comme album de l'année. Suivent d'autres albums chez IRS mais sans que les ventes décollent vraiment malgré d'excellentes critiques. La progression est lente et le quatrième album se classe 21ème au Billboard. En 1988, avec Document, ils atteignent enfin la reconnaissance avec 1 million d'albums et le titre de meilleur groupe de Rock par Rolling Stone magazine. Mais les ventes restent cantonées aux Etats-Unis : ceci les motivent pour signer chez Warner. Les textes se sont politisé au fil des années. Ces amateurs de rock intello ont pris confiance en eux pour exprimer leurs idées comme dans l'album Green. Après une pause d'un an, ils sortent Out of Time qui les fait exploser mondialement.
@@ -14,7 +13,7 @@ C'est dans ce contexte que sort Automatic for the People en 1992. Bien différen
 
 Ils s'essaient à un son plus rock dans Monster et même encore dans New Adventures in Hifi, décevant certains de leurs fans, malgré de bonnes compositions. Et en 1997 Bill Berry fait un break après 17 ans. Michael Stipe devient politiquement plus présent mais musicalement moins inspiré, avec ses compères. En 2006 ,avec Accelerate ils reviendront heureusement dans leur formation originelle et retrouveront l'inspiration avant une pause peut-être plus définitive dans les années 2010.
 
-[La video](https://www.youtube.com/watch?v=xQN7A6Vl1H4)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=xQN7A6Vl1H4)
 
 Membres : Michael Stripe, Peter Buck, Bill Berry, Mike Mills
 
@@ -31,4 +30,4 @@ Membres : Michael Stripe, Peter Buck, Bill Berry, Mike Mills
 11. Nightswimming
 12. Find the River
 
-![cover](http://cheziceman.files.wordpress.com/2010/09/remautomatic1.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/remautomatic.jpg)
