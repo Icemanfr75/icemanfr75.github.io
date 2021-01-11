@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assassin - L'Homicide Volontaire (1995)
+title: Musique - Assassin - L'Homicide Volontaire (1995)
 category: musique
 tags: musique,rap,1990s
 ---
