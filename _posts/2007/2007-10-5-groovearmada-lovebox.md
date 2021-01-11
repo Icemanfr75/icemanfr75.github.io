@@ -25,4 +25,4 @@ Membres : Andy Cato, Tom Findlay
 10. Lovebox
 11. But I Feel Good
 
-![cover][https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2007/groovearmada.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2007/groovearmada.jpg)
