@@ -19,6 +19,8 @@ Alors, ce business est-il rentable ? Il est peut-être un peu tôt pour le dire,
 
 Un tel prix montre bien la différence entre ce que toucherait un artiste avec la part réservé au paiement de l’infrastructure informatique de diffusion, et la marge. VAST serait-il en train de démontrer que la vie est possible sans une major qui triple le prix d’un album ? L’avenir nous dira si son exemple sera suivi par d’autres. Car il reste un problème de visibilité. VAST n’a pas de campagne de promotion dans les médias et n’est connu que dans le petit milieu du métal (petit en France, surtout) et de la musique électronique. L’artiste prend maintenant un virage plus acoustique et épuré. Ce n’est certainement pas le signe d’un manque d’ambition car April semble encore un brouillon d’un autre album à venir. A suivre donc… avec impatience.
 
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2007/vast.jpg)
+
 Les liens : 
 * [www.realvast.com](www.realvast.com)
 * [www.2blossoms.com](www.2blossoms.com)

@@ -15,8 +15,7 @@ L’introduction “XMas in Hell” plonge tout de suite dans l’ambiance de ce
 
 Au final voici un album étonnant dans ce milieu et qui curieusement arrive après un autre concept album, le Humanity des Scorpions, produit aussi par James Michael.
 
-
-[La vidéo](https://www.youtube.com/watch?v=1OABvU6Mz2g)
+En video[![vidéo](/images/youtube.png)(https://www.youtube.com/watch?v=1OABvU6Mz2g)
 
 Membres : DJ Ashba, Nikki Sixx, James Michael
 
@@ -34,4 +33,4 @@ Membres : DJ Ashba, Nikki Sixx, James Michael
 12. Permission
 13. Life After Death
 
-<a href="http://cheziceman.files.wordpress.com/2010/09/sixxheroin.jpg"><img  src="http://cheziceman.files.wordpress.com/2010/09/sixxheroin.jpg" ></a>
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2007/sixxheroin.jpg)

@@ -15,7 +15,7 @@ La star est incontestablement la mère de l’héroïne, jouée par un homme au 
 
 Dans la salle, c’est le rire et l’entrain des morceaux qui dominent, malgré le sujet grave. Les costumes et décors sont volontairement kitsch et acidulés. Cela rend l’univers fifties un peu irréel. Et même si il n’est pas aisé de saisir toutes les nuances et private joke du texte, le jeu et l’énergie des acteurs font le reste. Tout cela se termine avec une ovation du public, le salut de tous les comédiens et chanteurs sur la scène. Ce soir-là, il y a une action pour la recherche contre le SIDA. Alors les comédiens viennent récolter les dons. La « Maman » s’en donne à cœur joie pour mettre de l’ambiance et essayer de motiver les spectateurs. Une bien jolie soirée qui se termine dans un Times Square encore bondé avec la sortie de tous les autres spectacles et les touristes habituels du lieu.
 
-[La Vidéo](https://www.youtube.com/watch?v=ReXLP_lcB18)
+En vidéo : [![Vidéo](/images/youtube.png)](https://www.youtube.com/watch?v=ReXLP_lcB18)
 
 * Casting : Marissa Perry, George Wendt, Ashley Parker Angel, Aubrey O’Day, Clark Thorell, Karen Mason, Jenifer Lewis, Tevin Campbell, Scott Davidson…
 * Livret : Mark O’Donnell, Thomas Meehan
@@ -42,4 +42,4 @@ Dans la salle, c’est le rire et l’entrain des morceaux qui dominent, malgré
 16. Cooties
 17. You Can’t Stop The Beat (Medley)
 
-<a href="http://cheziceman.files.wordpress.com/2010/09/hairspray1.jpg"><img  src="http://cheziceman.files.wordpress.com/2010/09/hairspray1.jpg"></a>
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2007/hairspray.jpg)
