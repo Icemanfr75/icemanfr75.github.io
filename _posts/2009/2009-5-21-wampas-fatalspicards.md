@@ -23,7 +23,7 @@ En video :
 
 et
 
-![[Video2](/images/youtube.png)](https://www.youtube.com/watch?v=db1WCPkfmHY)
+![Video2](/images/youtube.png)](https://www.youtube.com/watch?v=db1WCPkfmHY)
 
 
 ![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2009/wampas.jpg)
