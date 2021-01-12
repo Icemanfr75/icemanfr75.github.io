@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pause Photo et Poésie : Reflets
+title: Pause Photo et Poésie - Reflets
 category: poesie
 tags: Créations, photo, poème, poésie
 ---

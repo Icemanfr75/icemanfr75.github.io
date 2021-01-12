@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pause Photo et Poésie : Liberté
+title: Pause Photo et Poésie - Liberté
 category: poesie
 tags: Créations, photo, poème, poésie
 ---

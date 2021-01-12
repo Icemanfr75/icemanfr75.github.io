@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pause photo-poésie : Ruine
+title: Pause photo-poésie - Ruine
 category: poesie
 tags: Créations, photographie, poème, poésie
 ---

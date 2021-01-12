@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pause Photo et Poésie : L'être unique
+title: Pause Photo et Poésie - L'être unique
 category: poesie
 tags: création, Créations, photographie, poème, poésie
 ---

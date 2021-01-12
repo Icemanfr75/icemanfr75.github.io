@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pause Photo et Poésie : Grisaille
+title: Pause Photo et Poésie - Grisaille
 category: poesie
 tags: création, Créations, photographie, poème, poésie
 ---

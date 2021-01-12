@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pause Photo et Poésie : Sous-bois
+title: Pause Photo et Poésie - Sous-bois
 category: poesie
 tags: [création, Créations, photographie, poème, poésie]
 ---
