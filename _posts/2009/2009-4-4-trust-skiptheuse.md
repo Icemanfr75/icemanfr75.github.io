@@ -7,7 +7,6 @@ categories: concert, live, Musique, 2000s, rock, hard-rock
 
 **En ces temps de crise, il est bon de se lâcher et de se défouler. Trust, certainement plus illustre groupe de hard rock français des années 80, a repris du service et prouve encore au passage que l'on peut allier hard, paroles intelligentes et en français.**
 
-
 C'est dans la salle appelée La Scène que les Yvelines se retrouvent pour fêter le retour de Trust. Bernie Bonvoisin, après quelques films en tant que réalisateur, a repris le micro et convaincu ses copains de reprendre la route. Auteur d'un nouvel album en 2008, le groupe a surpris son monde en intégrant un DJ sur scène. Aussi, les plus intégristes pouvaient un peu d'inquiétude sur ce concert. A 20H30 précises, nous avons la surprise de voir débarquer sur scène un autre groupe que Trust : Un bassiste longiligne à la longue chevelure rasta, un guitariste à casquette, un clavier bien propre sur lui et un batteur en cravate et enfin, un chanteur noir à la coupe vaguement iroquoise. Mais qui sont ils ? Nous n'aurons pas le temps de nous poser trop de question car tout de suite ce groupe nous attrape par un premier titre bien catchy. La foule répond positivement à leur musique et le chanteur assure par sa présence et sa maîtrise vocal et son anglais sans accent. Sont ils français ? Ce n'est qu'au bout de 2 titres que nous répondrons positivement. Ils s'appellent **Skip The Use** et leur rock sonne diablement bien entre punk britannique, et groove funky voir reggae. On pense parfois à **Danko Jones**, aux **Hives** (dont le chanteur porte un t-shirt) ou aux plus récents **Bloc party** et leur bonne humeur scénique fait plaisir à voir. On tape du pied, on agite ce qu'il reste de crinière. Incontestable bout-en-train, le chanteur est aussi pour beaucoup dans la réussite de ce groupe, à suivre avec un album qui sort ce printemps. Au bout d'une demi heure, ils terminent leur set avec Bastard song, titre simple et accrocheur. A noter aussi un très bon son et des arrangements trés aboutis, chose rarepour un groupe de première partie.
 
 L'entracte nous permet de regarder la salle, sorte de hangar, se remplir : Au fond un espace merchandising richement garni de produits à l'effigie de Trust et sur un coté, l'espace buvette qui ne désemplit pas vue la chaleur ambiante. Il y a évidemment une majorité de quarantenaires mais ils sont venus avec leurs enfants mais parfois ce sont les enfants qui sont venus tous seuls.
@@ -18,7 +17,6 @@ Mesrine, remis au goût du jour récemment, est évidemment repris en chœur. Be
 
 Mais dans une salle surchauffée, le groupe aborde des titres plus classiques pour terminer son set. Marche ou crève, Mitard par exemple. Et pour la reprise, tout le monde attend Antisocial, hymne archi connu du groupe. Dommage que nous n'ayons pas eu droit à L'élite. Mais ne boudons pas notre plaisir car c'est à un bon spectacle que nous assistons. Un spectateur du premier rang aura même le droit de monter sur scène pour la fin d'Episthemo. Antisocial clotûre donc le concert et le groupe salue une foule aux anges. Oui, comme Bernie le dit, nous ne lâcherons rien. Et ça fait plaisir d'entendre un tel groupe s'exprimer encore comme cela.
 
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=-p9Mu1Hh13s)
 
-[La Video](https://www.youtube.com/watch?v=-p9Mu1Hh13s)
-
-![cover](http://cheziceman.files.wordpress.com/2014/11/trustvernouillet.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2009/trustvernouillet.jpg)

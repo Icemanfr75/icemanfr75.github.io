@@ -14,7 +14,7 @@ Si un single a eu la joie des ondes françaises, il ne pouvait à lui seul décr
 
 Cet album fondateur et injustement méconnu sera suivi par un magnifique Music for People et d'autres explorations d'un artiste qui va souvent là où on ne l'attend pas. Il signe maintenant sous son propre nom mais aussi sous le projet **Bang Band Sixxx**. Le projet Generica en 5 variantes s'annonce intéressant en 2009. A noter qu'il s'autoproduit mais aussi se diffuse sur son propre site à des prix défiant toute concurrence selon un modèle économique qui semble tenir le choc du déclin de l'industrie du disque.
 
-[La Video](https://www.youtube.com/watch?v=8S_R13jV11Q)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=8S_R13jV11Q)
 
 Membres : Jon Crosby
 
@@ -30,4 +30,4 @@ Membres : Jon Crosby
 10. Somewhere Else to Be 
 11. You
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/vast.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2007/vast.jpg)

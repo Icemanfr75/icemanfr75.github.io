@@ -18,7 +18,7 @@ Il y a évidemment plusieurs niveaux d'écoute sur ce type de disque. La dimensi
 
 Mais cette année 1977 sera aussi celle de la détection d'un melanome. L'opération qui aurait pu être salutaire n'a pas lieu. Pris dans l'engrenage du succès, Bob Marley préfère donner des concerts et continuer à enregistrer plutôt que de se faire soigner. En 1980, de nouveaux examens détectent des tumeurs. Il est trop tard pour un traitement efficace et trop faible pour revenir à temps en Jamaïque, Bob Marley décède en 1981 à Miami. Il laisse en héritage de nombreux enregistrements que ses femmes et enfants auront à coeur de diffuser ensuite. Mais il reste surtout symbolique d'une musique qui aura su conquérir le monde, contre toute attente, par son message plus universel qu'il paraît.
 
-[La Video](https://www.youtube.com/watch?v=5WlCdiU9IzA)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=5WlCdiU9IzA)
 
 Membres : Bob Marley, Aston Barrett, Carlton Barrett, Tyrone Downie, Alvin Patterson, Junior Marvin
 
@@ -33,4 +33,4 @@ Membres : Bob Marley, Aston Barrett, Carlton Barrett, Tyrone Downie, Alvin Patte
 9. Three Little Birds 
 10. One Love / People Get Ready
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/marleyexodus.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2009/marleyexodus.jpg)

@@ -17,9 +17,10 @@ Il est un peu plus de vingt heures lorsque le concert commence. Le groupe a pré
 Ce sont donc essentiellement les titres du deuxième album que l'on entend ce soir. Je suis heureux pour ma part d'entendre Toute ta vie et Repose en paix dans ce concert. Surprise aussi avec un inédit à paraître sur le prochain album (je laisse au groupe le soin de donner des infos sur le sujet). C'est Seize, titre plus lent et tout en ambiance. Nous en bavons d'impatience. Tout a une fin et c'est finalement un Wake Up de rappel qui clôt le concert. Juste pour le fun, un jeune en kilt viendra prouver que la légende concernant ce vêtement est réelle. Nous récupérons les posters laissés au stand et donnons notre feedback de ce excellent moment passé à Vernon mais un moment bien trop court. Il faudra que nous allions les voir en concert payant dans une salle la prochaine fois. Il est bien dommage qu'il n'y ait pas eu plus de 200 personnes pour cet excellent groupe français. Certains disent qu'on est pas prophète en son pays...
 
 
-[La Video](https://www.youtube.com/watch?v=AoNxTjnwREo)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=AoNxTjnwREo)
 
 Setlist :
+
 1. Fragile
 2. Stara Zagora
 3. A L'aube
@@ -33,4 +34,4 @@ Setlist :
 11. Rappel : Wake up
 
 
-![affiche](http://cheziceman.files.wordpress.com/2014/11/processvernon.jpg)
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2009/processvernon.jpg)

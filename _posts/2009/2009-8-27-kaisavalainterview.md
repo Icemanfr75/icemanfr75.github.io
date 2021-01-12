@@ -32,6 +32,6 @@ Mon père, qui est musicien, me rapportait beaucoup de disques que je lui demand
 * Merci pour cette interview.(réalisée en anglais)
 
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/kaisavala.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2009/kaisavala.jpg)
 
-[La Video](http://www.youtube.com/watch?v=HttcblOFfN0)
+En video [![video](/images/youtube.png)](http://www.youtube.com/watch?v=HttcblOFfN0)

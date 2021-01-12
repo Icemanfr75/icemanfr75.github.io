@@ -18,7 +18,13 @@ Si le son est puissant et fort, il n'est pas trop saturé pour autant. On déplo
 
 Tout le monde aura remarqué qu'il manque deux titres majeurs de la discographie du groupe. Ce sera pour le rappel qui commence par un acoustique sur Whorehouse Blues, baigné de lumière rouge. Pour l'occasion, Lemmy délaisse sa basse et Mikkey quitte les baguettes pour une guitare afin d'assurer la rythmique. Après ce moment de calme, c'est le tant attendu hit Ace of Spades qui déboule. Mais justement Motörhead n'a pas abattu toutes ses cartes : Ils terminent par un Overkill tonitruant Phil semblant rajeunir de 20 ans au moins. C'est à regret que nous voyons le groupe partir sous le son d'une guitare saturée. Les roadies éteignent les têtes d'amplis. Voilà, la soirée est finie mais quelle soirée. Lemmy semble immortel et ce concert a encore fait pour sa légende.
 
-[La Video1](https://www.youtube.com/watch?v=w30R1crEA9s)
-[La Video2](https://www.youtube.com/watch?v=5wuZb812bWc)
+En video : 
 
-![affiche](http://cheziceman.files.wordpress.com/2014/11/motorhead.jpg)
+[![Video1](/images/youtube.png)](https://www.youtube.com/watch?v=w30R1crEA9s)
+
+et
+
+[![Video2](/images/youtube.png)](https://www.youtube.com/watch?v=5wuZb812bWc)
+
+
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2009/motorhead.jpg)

@@ -16,7 +16,7 @@ Cet album recèle tout ce qui fait le charme du groupe : la voix de Lou Gramm es
 La carrière se poursuit avec Agent Provocateur et son hit FM I Want to Know What Love Is. En 1987, ils poursuivent avec Inside Information. Mais en 1990, c'est le départ de Lou Gramm qui s'oppose de plus en plus fréquemment à Mick Jones sur la direction à donner au groupe. Il poursuit sa carrière en solo mais sera stoppé par un cancer en 1997 qui va lui laisser des séquelles. C'est donc avec un nouveau chanteur que le groupe sort Unusual Heat en 1991 puis Mr Moonlight en 1994 qui ne rencontrent pas le succès escompté dans cette période où le Hard FM n'est plus à la mode. Mais le groupe revient à nouveau avec une vocation à nouveau hard rock en 2009 avec encore un nouveau chanteur, **Kelly Hansen**.
 
 
-[La Video](https://www.youtube.com/watch?v=WyGyPYP2zBI)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=WyGyPYP2zBI)
 
 Membres : Lou Gramm (chant), Mick Jones (guitare), Rick Wills (basse), Denis Elliot (batterie)
 
@@ -31,4 +31,4 @@ Membres : Lou Gramm (chant), Mick Jones (guitare), Rick Wills (basse), Denis Ell
 9. "Girl on the Moon" 
 10. "Don't Let Go"
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/foreigner4.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2009/foreigner4.jpg)

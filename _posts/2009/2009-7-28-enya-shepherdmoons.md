@@ -15,7 +15,7 @@ Tout commence dans une atmosphère etherée par le titre éponyme : une quelques
 
 Ce sont des millions d'albums qui récompensent ce travail et la belle aventure d'Enya se poursuit encore en 1995 par The Memory of Trees. Une compilation suit en 1997 mais elle ne fait un vrai retour qu'en 2000 avec A day without rain. Elle est un peu remise au gout du jour par la sortie des films du Seigneur des Anneaux qui utilisent deux de ses titres en bande sonore. Amarantine en 2005 puis And Winter Came confirment hélas la baisse de son audience mais restent tout de même bien vendus à un public de fidèles. Car personne n'a réellement copié le style d'Enya jusqu'à ce jour malgré les modes du celtisme et de la musique lounge.
 
-[La Video](https://www.youtube.com/watch?v=Jl8iYAo90pE)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Jl8iYAo90pE)
 
 Production : Nicky Ryan Musiciens : Enya, Andy Duncan, Roy Jewitt, Liam O'Flynn, Nicky Ryan – percussion, Steve Sidwell
 
@@ -32,4 +32,4 @@ Production : Nicky Ryan Musiciens : Enya, Andy Duncan, Roy Jewitt, Liam O'Flynn,
 11. Afer Ventus 
 12. Smaointe...'
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/enyashepherd.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2009/enyashepherd.jpg)

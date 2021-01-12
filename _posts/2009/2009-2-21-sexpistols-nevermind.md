@@ -21,7 +21,7 @@ N'empêche,"The bollocks" est un tel brûlot, avec l'énergie, des refrains et c
 
 (écrit en collaboration avec Mme Iceman)
 
-[La Video](https://www.youtube.com/watch?v=ubouVj4rAlI)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=ubouVj4rAlI)
 
 Membres : Johnny Rotten, Steve Jones, Paul Cook, Sid Vicious
 
@@ -38,5 +38,5 @@ Membres : Johnny Rotten, Steve Jones, Paul Cook, Sid Vicious
 11. New York 
 12. EMI
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/sexpistols.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2009/sexpistols.jpg)
 

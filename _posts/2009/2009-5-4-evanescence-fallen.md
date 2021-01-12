@@ -17,8 +17,7 @@ Même si Fallen est l'album le plus marketing du groupe, il reste un album phare
 La recette n'est pas nouvelle mais elle prend une dimension plus grand public. Des groupes nordiques et européens s'y étaient déjà essayé mais cela va plus loin encore dans la production, justement par cet emprunt à la pop. Pourtant certains morceaux ne seraient pas reniés par **Nightwish** ou **Lacuna Coil** par exemple, comme Whisper. Les radios US et MTV ne s'y tromperont pas avant que les autres pays embrayent derrière. Le succès sera colossale et entrainera dans son sillage d'autres groupes du même genre. A cela s'ajoute l'imagerie très travaillée du groupe et surtout de son icône et chanteuse, Amy Lee, qui lorgne sur un gothique chic.
 Mais à la surprise générale, Ben Moody quitte le groupe pour composer pour d'autres. Il est remplacé sur la tournée en cours par **Terry Balsamo** mais cela compromet évidemment la préparation du second album, très attendu. Ce sera The Open Door qui décevra par l'efficacité moindre des chansons et surtout des mélodies. En 2007, ce sont Rocky et John qui partent à leur tour. Mais cela n'entame pas la volonté d'Amy Lee de pousser le groupe toujours plus loin....vers un troisième album.
 
-
-[La Video](https://www.youtube.com/watch?v=CdhqVtpR2ts)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=CdhqVtpR2ts)
 
 Membres : Ben Moody, Amy Lee, John Le Compte, Rocky Gray, William Boyd
 
@@ -34,4 +33,4 @@ Membres : Ben Moody, Amy Lee, John Le Compte, Rocky Gray, William Boyd
 10. My Last Breath 
 11. Whisper
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/evanescencefallen.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2009/evanescencefallen.jpg)

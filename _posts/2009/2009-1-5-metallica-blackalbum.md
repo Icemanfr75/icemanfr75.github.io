@@ -13,7 +13,7 @@ L'album commence en tout cas par un titre devenu mythique maintenant : Enter San
 
 L'album qui se nomme officiellement Metallica mais est vite surnommé le black album à cause de sa mystérieuse pochette noire, va se vendre comme des petits pains. Le groupe part pour une tournée de 5 ans, loin des studios. C'est la consécration auprès du grand public qui embourgeoise un peu trop ses membres pour les fans de la première heure. Ainsi l'album suivant, Loadmarque une rupture avec les débuts. Il est suivi par un Reload du même acabit. Le groupe se risque même à un album de reprise en 1998 avec Garage Inc. avant de céder à la mode de l'orchestre symphonique pour S&amp;M. Jason Newsted décide de quitter le groupe pour d'autres projets. C'est donc sans lui et avec l'aide de Bob Rock qu'est enregistré St Anger, retour aux sources raté. Le groupe est l'ombre de lui-même et ce n'est pas l'arrivée de** Robert Trujillo** à la basse qui parvient à les ressouder complètement. En 2007, c'est l'expérimenté **Rick Rubbin** qui préside à la destinée d'un nouvel album Death Magnetic qui sans atteindre des sommets musicalement, marque un net regain d'intérêt. Mais le succès sur scène ne s'est jamais démenti.
 
-[La Video](https://www.youtube.com/watch?v=CD-E-LDc384)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=CD-E-LDc384)
 
 Membres : Lars Ulrich, Kirk Hammet, James Hetfield, Jason Newsted.
 
@@ -30,5 +30,5 @@ Membres : Lars Ulrich, Kirk Hammet, James Hetfield, Jason Newsted.
 11. My Friend of Misery 
 12. The Struggle Within
 
-![cover](http://cheziceman.files.wordpress.com/2010/09/metallicablack1.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2009/metallicablack.jpg)
 

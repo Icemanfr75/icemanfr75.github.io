@@ -13,8 +13,7 @@ C'est ce nom qu'ils choisiront pour un troisième album qui montre une autre fac
 
 Une version 2 sortira en 2005 avec quelques remixes communs. Entre temps ils enregistrent un nouvel album studio baptisé Legion of Boom avec des chanteurs invités, et les guitares de **Wes Borland** de **Limp Bizkitt**. Une bande originale de film et un autre album de remix ont suivi et après la construction d'un nouveau studio, on attend la sortie en 2010 d'un prochain album studio. A moins qu'ils nous fassent patienter par de nouveaux mix dont ils ont le secret.
 
-
-[La Video](https://www.youtube.com/watch?v=Mnmbj5r66hM)
+En Video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Mnmbj5r66hM)
 
 Membres : Ken Jordan, Scott Kirkland
 
@@ -35,4 +34,4 @@ Membres : Ken Jordan, Scott Kirkland
 15. The Crystal Method - You Know It's Hard (Koma + Bones Remix) 
 16. Scratch-D vs. H-Bomb - The Red Pill
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/crystalcommunity.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2009/crystalcommunity.jpg)

@@ -20,7 +20,7 @@ Vient alors un des morceaux phare de l'album : There was a time. On y retrouve m
 
 Voilà en effet un album qui ne se laisse pas capturer facilement et qui peut même rebuter à la première écoute. Ce n'est pas un hasard si cette chronique est si tardive. L'écoute dans de bonnes conditions acoustiques est impérative et les morceaux se prêtent mal à la compression destructive pour mettre sur son baladeur numérique. Quant à l'avenir des Guns N' Roses, plus Roses que jamais, qui pourra nous le dire…. ?
 
-[La Video](https://www.youtube.com/watch?v=SwjCvu4dYWY)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=SwjCvu4dYWY)
 
 Membres : Axl Rose, Robin Finck, Buckethead, Richard Fortus, Ron Thal, Tommy Stinson, Dizzy Reed, Chris Pitman, Frank Ferrer, "Brain", ...
 
@@ -39,4 +39,4 @@ Membres : Axl Rose, Robin Finck, Buckethead, Richard Fortus, Ron Thal, Tommy Sti
 13. This I Love 
 14. Prostitute
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/gunsdemocracy.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2009/gunsdemocracy.jpg)

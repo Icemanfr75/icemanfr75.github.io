@@ -29,9 +29,12 @@ Troisième Rappel : Living after midnight
 
 C'est à 23h30 que se termine le concert dans le plus grand calme, avec juste quelques chants. Ah nous sommes loin de l'ambiance d'autres concerts du genre et c'est dommage. Chacun de ces groupes méritait une setlist de 2h vue la richesse de leur carrière et leur efficacité. Et que dire d'une salle de concert acoustiquement pauvre et d'un réglage qui empire au cours du concert. A croire que pour certains Metal veut dire puissance mais pas finesse et virtuosité. Mais en même temps, nous en avons eu pour notre argent.
 
-![photo](http://cheziceman.files.wordpress.com/2014/11/judastestament.jpg)
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2009/judastestament.jpg)
 
+En video : 
 
-[La video1](https://www.youtube.com/watch?v=tASNOwYYqIY)
+[![video1](/images/youtube.png)](https://www.youtube.com/watch?v=tASNOwYYqIY)
 
-[la Video2](https://www.youtube.com/watch?v=zeJ994CWe2Y)
+et
+
+[![video2](/images/youtube.png)](https://www.youtube.com/watch?v=zeJ994CWe2Y)
