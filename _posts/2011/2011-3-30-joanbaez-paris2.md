@@ -4,7 +4,7 @@ title: Musique - Joan Baez - Paris 2011
 category: musique
 tags: concert, folk, live, Musique, 2010s
 ---
-**Tenir une salle de 1000 personnes avec juste sa voix et une guitare, ce n'est pas donné à tout le monde. Joan Baez nous a encore fait la démonstration de tout son talent hier soir au Grand Rex lors d'un concert de près de deux heures. **
+**Tenir une salle de 1000 personnes avec juste sa voix et une guitare, ce n'est pas donné à tout le monde. Joan Baez nous a encore fait la démonstration de tout son talent hier soir au Grand Rex lors d'un concert de près de deux heures.**
 
 Après 50 ans de carrières, on peut se dire qu'on va avoir droit à un show sans surprise. Mais avec la richesse du répertoire de Joan, c'est toujours un plaisir de la voir et de la revoir, même à chacun de ses passages parisiens. Le public y est donc varié, entre jeunes adultes et vieux afficionados, fans enamourés et amateurs de folk ou de blues.
 
