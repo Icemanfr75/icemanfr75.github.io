@@ -20,7 +20,7 @@ C'est après « Mechanix », avant-dernier album avec Paul Chapman et Neil Carte
 *Lilith (Mme Iceman)*
 
 
-En video : [![video](/images/youtube.png))[https://www.youtube.com/watch?v=NcRj6kdOjI4]
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=NcRj6kdOjI4)
 
 Membres : Phil Mogg, Paul Chapman, Pete Way, Andy Parker, Neil Carter
 
