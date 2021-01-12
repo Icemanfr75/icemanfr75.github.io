@@ -41,7 +41,7 @@ La « war machine » AC/DC n'a pas rouillé et est en route pour faire encore un
 
 Petite dédicace à 2 niçois bien sympas que nous avons rejoint.
 
-En video : [![video](/images/youtube.png)](youtube=https://www.youtube.com/watch?v=MciMJYDWpeU)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=MciMJYDWpeU)
 
 ![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2009/acdcparis.jpg)
 
