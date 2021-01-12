@@ -13,9 +13,8 @@ Baptisé, Songs in A Minor, l'album est numéro 1 de l'année 2001 aux Etats-Uni
 
 Comment survivre à un tel succès. Beaucoup ne s'en sont jamais remis mais elle y arrivera avec The Diary of Alicia Keys à peine moins vendu en 2005, suivi d'un live unplugged. En 2007, troisième album et le succès ne se dément pas avec As I am. Le cinéma la tente aussi puisqu'on la retrouve au coté de Scarlett Johansson dans Le journal d'une Baby Sitter. Reste à savoir ce qui continuera de motiver cette si talentueuse jeune femme à l'avenir.
 
-****
 
-[La Video](https://www.youtube.com/watch?v=Urdlvw0SSEc])
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Urdlvw0SSEc])
 
 1. Piano & I 
 2. Girlfriend 
@@ -34,6 +33,6 @@ Comment survivre à un tel succès. Beaucoup ne s'en sont jamais remis mais elle
 15. Caged Bird 
 16. Lovin You
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/aliciakeysong.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/aliciakeysong.jpg)
 
 

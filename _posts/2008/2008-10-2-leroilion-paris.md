@@ -14,7 +14,7 @@ La musique du film s'éloignait du classicisme des bandes sonores de Disney pour
 Les costumes sont remarquables d'inventivité. Les personnages sont très bien interprétés, que cela soit pour l'humour de Zazu dont certaines répliques et improvisations sont plus ancrées dans la culture française du moment, ou bien dans l'exubérance des trois hyènes, dans la méchanceté et la traitrise de Scar ou encore la majesté de Simba et son père Mufasa. Les chansons traduites en français n'ont rien de ridicule et les trois moments forts sont Terre d'Ombre, Il vit en toi et Circle of Life/Le Cercle de la vie pour entamer et clore le spectacle. Comme souvent chez Disney, il y a plusieurs lectures possibles ce qui permet de contenter petits et grands spectateurs. A noter aussi que la musique est jouée par un véritable orchestre en fosse, aidées de percussions sur les coté de la salle. Ce n'est malheureusement pas le cas sur bon nombre de spectacles en France, contrairement à Broadway. Après une pause pour l'hiver, le spectacle reprendra à Paris avec une nouvelle troupe en 2009.
 
 
-[La Video](https://www.youtube.com/watch?v=gp8IjALi-Lk)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=gp8IjALi-Lk)
 
 1. Circle of Life (Le cercle de la vie)
 2. Grasslands Chant (La savane) 
@@ -40,5 +40,5 @@ Les costumes sont remarquables d'inventivité. Les personnages sont très bien i
 
 Interprètes : Olivier Breitman, Jean-Luc « Jee L » Guizonne, Swazi Mokoena, David Eguren, Christian Abart, Arnaud Léonard, Jérémy Fontanet, Léah Vincent, Céline Languedoc, Valéry Rodriguez, Mickaël Viguier, Mélina M'Poy
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/roilion.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/roilion.jpg)
 

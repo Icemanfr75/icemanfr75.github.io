@@ -13,7 +13,7 @@ Il est facile de critiquer la simplicité des titres de Cobain mais le plus dur 
 
 Il est difficile de savoir combien de milions d'albums seront vendu grace à l'image qu'est devenu Kurt Cobain ensuite. Car il y a un après Nevermind. Kurt Cobain épouse en 92 la sulfureuse **Courtney Love** et un album de raretés et faces B sort : Insecticide. Le vrai nouvel album sera In Utero en 93 mais déjà Kurt ne se reconnaît plus dans ce que l'on veut faire de lui : le leader d'une génération, du mouvement Grunge. Il est devenu malgré lui ce qu'il détestait : un musicien à la mode. Cette même année, le groupe enregistre un MTV Unplugged. En 1994 la tournée européenne tourne court avec l'état inquiétant de Kurt. Sombrant dans l'héroine et autres drogues, il est admis en cure de désintoxication mais s'en échappe. La suite est connue…. Reste cet album, un temps renié par son co-auteur et pourtant si représentatif de lui-même et de ses paradoxes.
 
-[youtube=https://www.youtube.com/watch?v=vabnZ9-ex7o]
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=vabnZ9-ex7o)
 
 Membres : Kurt Cobain, Krist Novoselic, Dave Grohl
 
@@ -30,5 +30,5 @@ Membres : Kurt Cobain, Krist Novoselic, Dave Grohl
 11. On a Plain 
 12. Something in the Way
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/nirvananevermind.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/nirvananevermind.jpg)
 

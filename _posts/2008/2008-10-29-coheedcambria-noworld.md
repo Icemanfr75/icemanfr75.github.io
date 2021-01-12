@@ -15,7 +15,7 @@ Tout commence en douceur et en acoustique avec The Reaping qui introduit avec la
 
 L'album s'inscrit donc parfaitement dans le prolongement de Good Apollo ...IV et permet au groupe d'asseoir son succès. Que nous réservent ils dans l'avenir ? En attendant, il est possible de les voir dans deux excellents DVD et de comprendre ce qu'il se passe sur scène.
 
-[La Video](https://www.youtube.com/watch?v=XpuDUTPJZL0)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=XpuDUTPJZL0)
 
 Membres : Claudio Sanchez, Travis Stever, Michael Todd, Chris Pennie
 
@@ -33,5 +33,5 @@ Membres : Claudio Sanchez, Travis Stever, Michael Todd, Chris Pennie
 12. IV - The Road and the Damned 
 13. V - On The Brink
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/coheedtomorrow.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/coheedtomorrow.jpg)
 

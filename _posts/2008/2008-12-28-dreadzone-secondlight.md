@@ -15,7 +15,7 @@ L'album s'ouvre sur un extrait de film et une rythmique Dub prend le relais. Dan
 Deux ans plus tard paraîtra le très beau Biological Radio, peut être plus homogène mais tout aussi réussi. Suivront ensuite d'autres albums de très bonne tenue mais qui marqueront forcément moins par leur inventivité. Entre 98 et 2001, le groupe a d'ailleurs été résident dans un club de Notting Hill. Après 3 ans sans album studio, un nouvel album verra peut être le jour en 2009 ?
 
 
-[La Video](https://www.youtube.com/watch?v=6lD_VIbgEZY)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=6lD_VIbgEZY)
 
 Membres : Dan Donovan – clavier, Leo Williams - guitare basse, Greg Roberts – batterie
 
@@ -29,6 +29,6 @@ Membres : Dan Donovan – clavier, Leo Williams - guitare basse, Greg Roberts �
 8. Shining Path 
 9. Out of Heaven
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/dreadzonesecond.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/dreadzonesecond.jpg)
 
 

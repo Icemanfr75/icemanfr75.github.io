@@ -13,7 +13,7 @@ Car avec "En Scène", il y a d'abord une ambiance intimiste qui s'installe. De s
 
 Pris par les voyages, la découverte, il continue aussi discrètement qu'auparavant, à explorer de nouveaux univers. On le retrouve en Afrique mais aussi dans l'espace pour un livre CD. Chaque nouvel album est une surprise, toujours avec ces textes, délicieusement ciselés. Ce n'est pas pour rien que **Johnny Hallyday** ou **Enrico Macias** ont fait appel à lui. Mais à quand un autre live pour nous emmener à nouveau dans un si beau voyage.
 
-[La Video](https://www.youtube.com/watch?v=z5HHzup5wLM)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=z5HHzup5wLM)
 
 1. Au revoir, adieu
 2. On fait c'qu'on peut 
@@ -35,11 +35,15 @@ Pris par les voyages, la découverte, il continue aussi discrètement qu'auparav
 18. Quel est ton nom
 
 Jacques Bastello : voix, guitares, yukulélé, Luis Mariano 
+
 Jean-Marie Gerintes : voix, batterie, percussions, bruits divers, vibraphone, Claude Nougaro 
+
 Arnaud Méthivier : voix, accordéon, bandonéon, flûte à bec, Salvatore Adamo 
+
 Pierre Mortarelli : voix, contrebasse, mélodica, Bobby Solo 
+
 Enregistrement Le Voyageur les 14 &amp; 15 octobre 1994 à la Cigale (Paris)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/kent.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/kent.jpg)
 
 

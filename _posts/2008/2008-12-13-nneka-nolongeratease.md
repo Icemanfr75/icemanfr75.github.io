@@ -13,7 +13,7 @@ Alors évidemment ce deuxième album était attendu au tournant. Autant le dire 
 
 Au-delà de l'aspect musical de l'album, Nneka dénonce la situation de son pays, la condition des femmes au travers de textes habiles et intelligents. Une raison pour ne pas se laisser aller à l'inattention car l'album regorge de petits détails. Vivement un troisième album.
 
-[La Video](https://www.youtube.com/watch?v=6ivg3J3h5Ps)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=6ivg3J3h5Ps)
 
 1. Death
 2. Heartbeat 
@@ -33,6 +33,6 @@ Au-delà de l'aspect musical de l'album, Nneka dénonce la situation de son pays
 16. Deadly combination
 
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/nnekaease.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/nnekaease.jpg)
 
 

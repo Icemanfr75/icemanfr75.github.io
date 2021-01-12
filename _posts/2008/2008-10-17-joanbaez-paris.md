@@ -26,7 +26,7 @@ La set list est donc la suivante :
  10. Rose of Sharon 
  11. Day after Tomorrow
  
- ![cover](http://cheziceman.files.wordpress.com/2010/09/baezparis1.jpg)
+ ![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/baezparis.jpg)
 
 Nous apprendrons ainsi qu'elle soutient, sans surprise, Barrack Obama. Les lumières créent une atmosphère de cathédrale pour With god on our side. Elle termine de manière surprenant sur un titre du dernier album, le très réussi Day after Tomorrow. Souriante, elle revient pour un premier rappel :
 
@@ -38,6 +38,6 @@ Nous apprendrons ainsi qu'elle soutient, sans surprise, Barrack Obama. Les lumi�
 
 Elle repart à nouveau avec son groupe et revient pour un deuxième rappel, seule. Elle interprète le Manhattan Kaboul de Renaud, le texte à la main, avec toute l'émotion que sa seule voix peut donner. Le public descend au pied de la scène peu à peu. Elle revient enfin pour un dernier rappel et la bande son de Saccho et Vanzetti : "Here's to you". Dommage que le public n'ai pas rendu tout ce qu'elle a pu donner ce soir encore. Reviendra-t-elle dans cette salle peut être trop grande pour cela ? Peut être car si l'atmosphère était froide, la salle était comble. A bientôt Madame Joan Baez.
 
-[La Video](https://www.youtube.com/watch?v=goryhtu8If4)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=goryhtu8If4)
 
 

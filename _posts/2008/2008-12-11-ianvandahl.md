@@ -13,7 +13,7 @@ En 2004, le groupe, symbolisé par une emblématique chanteuse blonde **Annemie 
 
 Après cet album, Peter Luts retravaillera en 2007 avec Annemie pour ce que l'on croyait un troisième album de Ian Van Dahl. Mais c'est finalement sous le nom d'**Annagrace **que cela sortira.
 
-[La Video](https://www.youtube.com/watch?v=ztfDnlM6BnY)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=ztfDnlM6BnY)
 
 1. I Can't Let You Go 
 2. Inspiration 
@@ -32,4 +32,4 @@ Après cet album, Peter Luts retravaillera en 2007 avec Annemie pour ce que l'on
 15. To Fall in Love 
 16. State of Mind
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/ianvandahllost.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/ianvandahl.jpg)

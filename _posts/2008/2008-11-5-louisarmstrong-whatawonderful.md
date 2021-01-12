@@ -17,7 +17,7 @@ L'Europe a d'ailleurs beaucoup contribué à cette seconde vie du Jazz. La Franc
 
 Louis Armstrong s'éteint en 1971 le lendemain d'un concert au Waldorf Astoria de New York, après avoir connu le droit de vote aux noirs, mais aussi l'assassinat de JFK, la guerre du Vietnam, l'épisode de la Baie des cochons. Vraiment rien du monde paisible de sa chanson ! Mais aujourd'hui, il serait sûrement fier d'entendre son titre sur les ondes pour fêter un jour historique dans son pays, avec l'élection de Barack Obama.
 
-[La Video](https://www.youtube.com/watch?v=E2VCwBzGdPM)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=E2VCwBzGdPM)
 
 1. What A Wonderful 
 2. Cabaret 
@@ -31,4 +31,4 @@ Louis Armstrong s'éteint en 1971 le lendemain d'un concert au Waldorf Astoria d
 10. I Guess I'll Get The Papers And Go Home 
 11. Hellzapoppin'
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/louis-armstrong.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/louisarmstrong.jpg)

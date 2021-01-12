@@ -18,7 +18,7 @@ La surprise vient de la reprise de Can't take my eyes of you de **Frankie Valli*
 Peut-être est-ce ce que s'est dit Tomoko Wakase en changeant de registre pour revenir au style pop/rock dans le projet **Tommy Heavenly6**. C'est encore un succès même si l'originalité n'est plus là. Elle se marie avec le bassiste de Brilliant Green et le groupe se reforme pour un retour au premier plan en 2008.
 
 
-[La Video](https://www.youtube.com/watch?v=Wrt9VEAAYNQ)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Wrt9VEAAYNQ)
 
 Membres : Tomoko Wakase
 
@@ -35,6 +35,6 @@ Membres : Tomoko Wakase
 11. I'LL BE YOUR ANGEL 
 12. CANDY POP IN LOVE
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/tommyfebruary.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/tommyfebruary.jpg)
 
 

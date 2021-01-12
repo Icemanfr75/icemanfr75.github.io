@@ -25,7 +25,7 @@ Les fans du groupe risquent évidemment d'être surpris par ce parti pris de met
 Ils attendront alors le prochain album du groupe prévu pour février 2009.
 
 
-[La Video](https://www.youtube.com/watch?v=TyixOmMcLgo)
+En vidéo : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=TyixOmMcLgo)
 
 Membres : Vincent Cavanagh, Danny Cavanagh, Jamie Cavanagh, Lee Douglas, John Douglas, Les Smith
 
@@ -40,6 +40,6 @@ Membres : Vincent Cavanagh, Danny Cavanagh, Jamie Cavanagh, Lee Douglas, John Do
 9. Flying 
 10. Unchained
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/anathemahindsight.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2008/anathemahindsight.jpg)
 
 
