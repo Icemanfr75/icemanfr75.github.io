@@ -7,14 +7,14 @@ layout: default
 
   <div class="entry">
     {{ content }}
-
-Ce contenu est paru en premier sur <a target="_blank" href="https://cheziceman.fr" >Cheziceman.fr</a>
- 
- 
   </div>
   
+   <div>
+ Ce contenu est paru en premier sur <a target="_blank" href="https://cheziceman.fr" >Cheziceman.fr</a>
+  </div>
+
   <div class="date">
-    Ecrit le : {{ page.date | date: "%m/%d/%Y" }}
+    Ecrit le : {{ page.date | date: "%d/%m/%Y" }}
   </div>
   
   <div class="category"><i>
@@ -29,9 +29,9 @@ Ce contenu est paru en premier sur <a target="_blank" href="https://cheziceman.f
  <i> <p style="color:#feff02;">
 Pour commenter, vous pouvez passer par <a target="_blank" href="https://mastodon.social/@icemanfr75" >mastodon</a> ou vous pouvez aussi envoyer un mail à icemanfr75 (a) hotmail.com ou encore créer un article de blog avec un lien</i> 
  </p>
-  
+ 
+   </p>
   {% include  share.html %}
-  {% include disqus.html %}
 </article>
 
 
