@@ -30,7 +30,7 @@ Il est à noter que les 5 meilleurs sont :
 
 Cela peut se matérialiser par le schéma suivant :
 
-![photo](https://cheziceman.files.wordpress.com/2016/01/secueurope.jpg)
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2011/secueurope.jpg)
 
 On voit bien que contrairement à ce que l'on pense souvent, l'Allemagne n'est pas un si bon élève que cela, son chiffre de mortalité étant très proche de celui de la France avec une densité certe plus élevée. D'ailleurs, les autoroutes à vitesse libre sont remises souvent en cause du fait que les accidents y sont plus meurtriers même si en nombre ils peuvent être moindres qu'ailleurs.  La Grèce, avec un parc automobile très dense, a un chiffre de mortalité qui reste élevé mais correct vis à vis de cette densité.
 

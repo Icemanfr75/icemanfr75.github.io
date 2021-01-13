@@ -16,7 +16,7 @@ Il est autour de 21h lorsqu'une voix féminine annonce le groupe et que Tom, Ric
 
 Mais que tout cela passe vite. Voilà déjà le hit "Surrender" qui clôt le concert sous les hourras de la foule. Le groupe revient pour le rappel, Rick jetant sa serviette au sol pour repartir de plus belle et balancer par poignée des médiators multicolores. Robin a quitté ses lunettes de soleil depuis longtemps maintenant mais la visière de sa casquette empèche de voir son regard. Il donne tout ce qu'il a, tout en gardant justesse et énergie dans sa voix. C'est évidemment avec "Dream Police" qu'ils vont presque clore le spectacle, la fameuse guitare à 5 manches de Rick étant le clou du show. Le rappel nous paraît tellement court. Les lumières se rallument, la salle se vide, le temps de siroter une dernière Guiness et de tenter de voir le groupe à sa sortie de la salle dans une des petites ruelles qui entourent l'Olympia. Nous ne verrons que Robin qui signera quelques autographes avant de partir dans une navette rouge. Nous attendons avec les fans français, américains, irlandais ...en vain. Un roadie vient nous prévenir que le groupe est sorti de l'autre coté. Mais la soirée était si belle.... Nous ne retiendrons que le "See You next Year" que Rick prononça à la fin du concert.
 
-[la video](https://www.youtube.com/watch?v=D1GWAqvTp6c)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=D1GWAqvTp6c)
 
 * Hello There
 * California Man
@@ -43,6 +43,6 @@ En rappel
 * Dream Police
 * Good Night
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/cheaptrickdublin.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2011/cheaptrickdublin.jpg)
 
 

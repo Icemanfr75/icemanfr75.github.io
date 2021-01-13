@@ -15,6 +15,7 @@ Pour la génération 32/64 bits, il y a du monde : Saturn chez Sega, Nintendo 64
 La génération dite 64/128 bits est clairement celle de la PS2 de Sony. La gamecube et la XBOX n'ont fait que de la figuration, l'une vivant sur ses licences, l'autre se cherchant un peu mais avec déjà un online très au point mais arrivant encore un peu tôt. C'est aussi l'arrivée des jeux casuals comme Eye toy ou Guitar hero sur la PS2, ce qui aurait du mettre Sony sur la bonne voie...
 
 La génération HD est particulière car la WII n'en fait pas partie, étant plus un relookage de la Gamecube. Par la qualité de l'interface, la stabilité du online, la XBOX360 est gagnante. La récente panne du PSNetwork ne fait que le confirmer. Le ralliement tardif au casual par Sony et Microsoft a fait rentrer dans le rang Nintendo et sa Wii qui prend beaucoup la poussière passée l'effet "soirée raclette". La logithèque manque clairement de hits hors licences habituelles nintendo.
+
 La prochaine génération de Nintendo arrive en décalage et Sony + Microsoft vont attendre de bien rentabiliser leur parc avant une suite. Mais le online est maintenant incontournable et sur ce point, Microsoft a une bonne longueur d'avance avec même un confort d'utilisation très supérieur à leur Windows.
 
 Et pour tout un chacun, il suffit de regarder la taille de sa logithèque pour décider de ses gagnants.

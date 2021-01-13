@@ -18,7 +18,7 @@ Quand on parle de pop, les titres Sho's Song et son intro dansante, Sho's Lament
 
 Au final l'écoute de cet album donne une impression similaire à la vision du film des studios Ghibli : la découverte d'un nouveau joyau. Tous les morceaux semblent finement ciselés comme des bijoux mais sans une sophistication excessive ou une surproduction troi souvent rencontrée. La musique prouve encore que même avec des milliers de kilomètres d'écart, on peut partager les même émotions sur un morceau.
 
-[la video](https://www.youtube.com/watch?v=G7q07dyIsX8)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=G7q07dyIsX8)
 
 1. A DIFFERENT WORLD
 2. ARRIETTY'S SONG (English version)
@@ -35,4 +35,4 @@ Au final l'écoute de cet album donne une impression similaire à la vision du f
 13. DEPARTURE AT DAWN
 14. ARRIETTY`S SONG
 
-![cover](<a href="http://cheziceman.files.wordpress.com/2014/11/arrietty.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2011/arrietty.jpg)

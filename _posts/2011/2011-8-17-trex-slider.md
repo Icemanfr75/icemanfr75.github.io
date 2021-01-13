@@ -14,7 +14,7 @@ En écoutant cet album plus de 40 ans plus tard, on comprend à la fois les crit
 
 L'album marque la conquète des Etats-Unis mais aussi la fin de l'age d'or de T-Rex qui aura du mal à continuer sur sa lancée, malgré des albums chaque année jusqu'en 1977. Marc Bolan était décidément prolifique en tant qu'auteur, puisqu'en plus de T-Rex, il participe à d'autres albums et titres comme avec **Electric Light Orchestra** ou **Gloria Jones**, sa petite amie de l'époque. C'est dans la voiture de cette dernière qu'il trouvera la mort dans un accident de la route en 1977.  Il laisse pourtant une trace indélébile dans l'histoire de la musique, son style influençant aussi la musique Punk et le Hard Rock Glam du début des années 80.
 
-[la video](https://www.youtube.com/watch?v=19IqwU3itFk)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=19IqwU3itFk)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/the_slider.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2011/theslider.jpg)
 

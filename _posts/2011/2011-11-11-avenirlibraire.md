@@ -4,7 +4,7 @@ title: Culture - Devons-nous défendre nos libraires?
 category: litterature
 tags: blog, Culture, librairie, 
 ---
-**Suite à la lecture de <a href="http://www.telerama.fr/livre/menace-sur-les-libraires-independants,74661.php">cet article</a> sur télérama, interrogeons-nous sur l'avenir de cette noble profession.**
+**Suite à la lecture de cet [article](http://www.telerama.fr/livre/menace-sur-les-libraires-independants,74661.php)sur télérama, interrogeons-nous sur l'avenir de cette noble profession.**
 
 Le libraire est à distinguer du papetier ou des kiosques à journaux. Nous ne parlons ici que de toutes ces boutiques consacrées aux livres de toute sorte, de la généraliste à la librairie à thème, de la plus classique à la plus branchée.
 

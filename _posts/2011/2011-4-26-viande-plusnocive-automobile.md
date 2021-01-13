@@ -9,9 +9,10 @@ tags: agriculture, automobile, élevage, environnement, pollution, végétarien,
 Si l'association est américaine, elle ne se concentre pas uniquement sur les habitudes alimentaires américaines, comparant ses chiffres à ceux de l'Europe et du reste du monde. Le détail se situe ici : <a href="http://breakingnews.ewg.org/meateatersguide/">http://breakingnews.ewg.org/meateatersguide/</a>
 
 Le coeur du rapport est le nombre de Kg de CO2 émis pour produire 1kg de nourriture. Rappelons qu'en dehors de sa production, un véhicule économique émet 110g/CO2/km, soit 1650 kg CO2 par an, environ. Cela doublera évidemment pour les gros SUV et les puissantes berlines. L'étude ne tient pas compte d'un autre facteur important : la consommation d'eau.
+
 Désolé pour les francophones, mais le schéma suivant est en anglais.
 
-<img class="alignnone size-medium wp-image-159" src="https://cheziceman.files.wordpress.com/2016/01/green_house_proteins.jpg?w=300" alt="green_house_proteins" width="300" height="202" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2011/green_house_proteins.jpg)
 
 La partie verte des histogrammes est la production, la partie orange rajoute le transport, la préparation et l'emballage.  On notera que pour la pomme de terre, ce dernier facteur  est le principal facteur de pollution. C'est donc les lentilles qui sortent grandes gagnantes puis les tomates et les haricots secs. Le Tofu, grand fournisseur de protéines (on rappelle qu'il n'y a pas de différence entre les protéines animales et végétales), est donc 10 à 20 fois moins nocif que la viande en terme de CO2. Les noix, apportant notamment du fer, sont également très peu nocives.
 

@@ -18,7 +18,7 @@ Mais le temps passe si vite. Enfin pour nous car certains quittent les gradins a
 
 Voir un Judas Priest avec une telle forme donne vraiment des regrets que ce soit la tournée d'adieu. Merci pour cette soirée d'enfer!
 
-[la video](https://www.youtube.com/watch?v=7DA6vOD_o9Y)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=7DA6vOD_o9Y)
 
 
 * Rapid Fire
@@ -51,4 +51,4 @@ Rappel N°2
 Rappel N°3
 * Living After Midnight
 
-![affiche](http://cheziceman.files.wordpress.com/2014/11/judas-priest-epitaph.jpg)
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2011/judasepitaph.jpg)
