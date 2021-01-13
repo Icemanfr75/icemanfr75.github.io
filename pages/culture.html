@@ -11,7 +11,7 @@ title: Culture - Musique, Cinema, BD, Litterature, Tourisme
     {% for post in site.posts %}
     {% if post.category contains "musique" %}
     <li>
-      <span class="date">{{ post.date | date: "%m/%d/%Y" }} - </span>
+      <span class="date">{{ post.date | date: "%d/%m/%Y" }} - </span>
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
       <span class="category">{{ post.category | categorie : "%B" }}</span>
     </li>
@@ -26,7 +26,7 @@ title: Culture - Musique, Cinema, BD, Litterature, Tourisme
     {% for post in site.posts %}
     {% if post.category contains "cinema" %}
     <li>
-      <span class="date">{{ post.date | date: "%m/%d/%Y" }} - </span>
+      <span class="date">{{ post.date | date: "%d/%m/%Y" }} - </span>
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
       <span class="category">{{ post.category | categorie : "%B" }}</span>
     </li>
@@ -41,7 +41,7 @@ title: Culture - Musique, Cinema, BD, Litterature, Tourisme
     {% for post in site.posts %}
     {% if post.category contains "serie" %}
     <li>
-      <span class="date">{{ post.date | date: "%m/%d/%Y" }} - </span>
+      <span class="date">{{ post.date | date: "%d/%m/%Y" }} - </span>
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
       <span class="category">{{ post.category | categorie : "%B" }}</span>
     </li>
@@ -56,7 +56,7 @@ title: Culture - Musique, Cinema, BD, Litterature, Tourisme
     {% for post in site.posts %}
     {% if post.category contains "bd" %}
     <li>
-      <span class="date">{{ post.date | date: "%m/%d/%Y" }} - </span>
+      <span class="date">{{ post.date | date: "%d/%m/%Y" }} - </span>
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
       <span class="category">{{ post.category | categorie : "%B" }}</span>
     </li>
@@ -71,7 +71,7 @@ title: Culture - Musique, Cinema, BD, Litterature, Tourisme
     {% for post in site.posts %}
     {% if post.category contains "litterature" %}
     <li>
-      <span class="date">{{ post.date | date: "%m/%d/%Y" }} - </span>
+      <span class="date">{{ post.date | date: "%d/%m/%Y" }} - </span>
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
       <span class="category">{{ post.category | categorie : "%B" }}</span>
     </li>
@@ -86,7 +86,7 @@ title: Culture - Musique, Cinema, BD, Litterature, Tourisme
     {% for post in site.posts %}
     {% if post.category contains "tourisme" %}
     <li>
-      <span class="date">{{ post.date | date: "%m/%d/%Y" }} - </span>
+      <span class="date">{{ post.date | date: "%d/%m/%Y" }} - </span>
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
       <span class="category">{{ post.category | categorie : "%B" }}</span>
     </li>

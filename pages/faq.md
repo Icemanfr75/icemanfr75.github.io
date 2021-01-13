@@ -19,13 +19,16 @@ Parce que c'est fait sur des outils en "logiciel libre", sur un OS libre (Ubuntu
 Je parlais juste au dessus de la licence MIT pour le code utilisé pour générer le site. Il y a également un logo qui montre que le RSS a été validé au format officel de la W3C.
 Il y en a un pour expliquer ce qu'est le Creative Commons. 
 Il y en a un qui dit que c'est sans espionnage ici.
-Il y en a pour dire que le code a été validé par les outils de la W3C.org, organisme officiel qui définit les standards du web
+Il y en a pour dire que le code a été validé par les outils de la W3C.org, organisme officiel qui définit les standards du web.
 
 ### Mais une adresse Hotmail, ça va chez Microsoft ? 
 Oui, c'est le seul truc pas libre, tout ça pour éviter le spam dans une adresse perso. Et puis la seule chose que nous échangerons sera par rapport à ce blog. Peut-être que je te donnerai une autre adresse en toute confiance. 
 
 ### Et les partages vers les réseaux sociaux alors ? 
 On peut évidemment faire des copier-coller mais pour ceux qui ont la flemme, ça facilite toujours les choses. Par contre ces liens n'ont pas de trackers comme beaucoup trop de boutons aujourd'hui. Ca recopie juste quelques informations pour faciliter la rédaction. Et c'est compatible OpenGraph pour faire joli.
+
+### Et pourquoi pas d'intégration de vidéos, players audio ?
+Et bien parce que c'est donner le choix à l'utilisateur de voir ou pas la vidéo et pas de forcer un lecteur/player tiers qui parfois pourrait intégrer des espions. Les petits logos permettent de savoir chez qui est hébergé la vidéo. S'il n'y a pas de précision par un logo, c'est que c'est sur une plateforme libre, comme par exemple une instance Peertube. 
 
 ### Et tu as quoi comme PC ? 
 Après avoir passé 12 ans avec un Netbook Toshiba en Debian 7 et 8 en plus de Win7, j'ai maintenant un Lenovo série X en Ubuntu 20.04 LTS. Le Netbook est toujours vivant avec une slackware 14.2 dessus, la vieille Debian aussi.
