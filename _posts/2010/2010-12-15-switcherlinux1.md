@@ -12,7 +12,7 @@ Afin de ne pas vous endormir, je ne vais pas faire l'histoire de ce système d'e
 
 Après il y a plusieurs bases de noyau possible, c'est à dire le moteur principal du système :
 
-* Slackware, l'ancètre des linux en voie de disparition
+* Slackware, l'ancètre des linux en voie de disparition ? 
 * Red Hat, du nom d'une société très active dans ce système
 * Debian, très concurrent de la Red hat aujourd'hui.
 * Süse, concurrent de la Red Hat en provenance d'Allemagne.

@@ -12,6 +12,6 @@ Il y a aussi  cette voix blues irlandaise que l'on retrouvait dans le film The 
 
 Après le Rise de 2007 et un Live confidentiel, c'est un groupe à suivre pour un vrai nouvel album cette fois.
 
-[la video](https://www.youtube.com/watch?v=JL3gIO624X8)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=JL3gIO624X8)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/the-answer.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/theanswer.jpg)

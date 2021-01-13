@@ -19,7 +19,7 @@ Si pendant ce temps, **Prodigy** déchaîne les foules avec son Music for Jilted
 Comme on le voit cet EP dans sa version 8 titres permet de découvrir différentes facettes de l'oeuvre de Richard D. James et Aphex Twin. Et justement ces différentes facettes il va les explorer sous différents pseudos, si bien qu'il serait difficile de le suivre dans toutes ses expérimentations. On le retrouve ensuite sous le nom d'AFX, Blue Calx, Bradley Strider, Martin Tressider, Caustic Window, Gak, Soit-P.P., Polygon Window, Power-Pill, Prichard G. Jams, Q-Chastic, The Dice Man, Tahnaiya Russell, DJ Smojphace, The Tuss...Oui rien que cela! Alors si le public s'y perd et la critique le lâche, il faut reconnaître son inventivité, sa prise de risque constante et sa recherche musicale en devient passionnante car finissant par influencer le monde de la musique électronique. Il est certainement l'un des artistes les plus complexes et les plus difficile à appréhender, surtout pour des oreilles peu habituées à des sonorités que beaucoup qualifient de bruit. Ce n'est pas une raison pour autant pour aller à la découverte d'autres terrains musicaux.
 
 
-[la video](https://www.youtube.com/watch?v=h-9UvrLyj3k)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=h-9UvrLyj3k)
 
 
 * Come To Daddy (Pappy Mix)
@@ -31,6 +31,6 @@ Comme on le voit cet EP dans sa version 8 titres permet de découvrir différent
 * Come To Daddy (Mummy Mix)
 * IZ-US
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/aphextwin.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/aphextwin.jpg)
 
-[la video](http://www.youtube.com/watch?v=5Az_7U0-cK0)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=5Az_7U0-cK0)

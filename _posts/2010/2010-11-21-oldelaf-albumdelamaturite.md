@@ -19,6 +19,6 @@ Ouh que ça m'a fatigué tout ça. Je me sens tout mou, tout mou, tout mou....co
 En Janvier 2010, le groupe se dissout après un dernier spectacle à l'Olympia. Non, on ne les a pas jeté dans une cuve d'acide mais avouez qu'ils peuvent l'être acide?!! Alors tu l'achètes mon disque?
 
 
-[la video](https://www.youtube.com/watch?v=UGtKGX8B9hU)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=UGtKGX8B9hU)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/oldelaf.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/oldelaf.jpg)

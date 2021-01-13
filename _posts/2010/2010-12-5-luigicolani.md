@@ -15,7 +15,7 @@ Mais ce qui l’a fait connaître, c’est son travail dans l’automobile. En 1
 On voit bien qu’aucune concession n’est faite et que le coeur de son design est encore dans l’aerodynamisme. Dans cette version, la cabine a un essuie glace rappelant le sigle de la marque. Il travaille aussi à l’élaboration de produits bien éloignés des transports, comme l’appareil photo Canon T90, même si ce n’est pas son dessin final qui est retenu mais seulement une partie de ses idées.
 Avec les formes dictées par le vent et la nature, on lui attribue la paternité du biodesign. Il a en effet pris en compte très tôt l’interaction entre l’homme et la nature dans sa manière de dessiner les objets. C’est moins spectaculaire sur des souris d’ordinateurs, des casques hifi, un peu plus sur cette chaise datant de 1969 :
 
-![photo2](https://cheziceman.files.wordpress.com/2010/12/colanichair.jpg)
+![photo2](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/colanichair.jpg)
 
 Son site regroupe beaucoup de ses projets  et son influence est très grande dans le monde du design industriel actuel.
 
