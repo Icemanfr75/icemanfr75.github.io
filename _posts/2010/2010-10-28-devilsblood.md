@@ -10,11 +10,11 @@ Non, rassurez vous, les musiciens de ce groupe ne font rien de répréhensible �
 
 Pour ceux qui aiment le hard rock psychédélique, les sonorités 70s mais avec l'originalité de ne pas faire exactement comme un groupe très connu, alors il faut écouter The Devil's Blood. Les amateurs de metal britannique des 70s s'y retrouveront autant que ceux qui aiment le hard mélodique car le groupe a le bon goût de soigner ses mélodies. Le background satanique est quelquchose de classique dans cette musique. Attention, n'attendez pas des sonorités vocales guturales ou autres voix d'outre tombe. Non, ce n'est pas le genre de la maison batave.
 
-[la Video](http://www.youtube.com/watch?v=Mc7YbOPx1Wo)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=Mc7YbOPx1Wo)
 
 Après ce bel exemple d'un titre du dernier album, il ne vous reste plus qu'à visiter <a href="http://www.myspace.com/thedevilsblood" target="_blank">leur site</a> et écouter le dernier album : The Time of No Time Evermore.
 [la video2](https://www.youtube.com/watch?v=BOdNYmXc1c0)
 
 Et le groupe a splité en 2013 !
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/devilsblood.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/devilsblood.jpg)

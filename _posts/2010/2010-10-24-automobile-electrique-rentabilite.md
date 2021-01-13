@@ -4,7 +4,7 @@ title: Automobile - La voiture électrique remise en question ?
 category: automobile
 tags: automobile, énergie, environnement, nucléaire, voiture électrique
 ---
-**M. <a href="http://www.rprudhomme.com/" target="_blank">Remy Prud’homme</a>, professeur d’économie renommé se fendait d’un édito dans <a href="http://lecercle.lesechos.fr/entreprises-marches/industrie/221131572/la-voiture-electrique-un-pari-qui-risque-de-couter-cher">l’édition du 22/10/2010 </a>des Echos, intitulée « La voiture électrique, un pari qui risque de coûter cher ». Il argumente son propos avec des chiffres qui sont pourtant à nuancer. Sa conclusion est brutale : la voiture électrique n’est rentable ni écologiquement, ni économiquement. Mais que propose-t-il dans son modèle économique ?**
+**M. [Remy Prud’homme](http://www.rprudhomme.com/), professeur d’économie renommé se fendait d’un édito dans [l’édition du 22/10/2010 des Echos](http://lecercle.lesechos.fr/entreprises-marches/industrie/221131572/la-voiture-electrique-un-pari-qui-risque-de-couter-cher), intitulée « La voiture électrique, un pari qui risque de coûter cher ». Il argumente son propos avec des chiffres qui sont pourtant à nuancer. Sa conclusion est brutale : la voiture électrique n’est rentable ni écologiquement, ni économiquement. Mais que propose-t-il dans son modèle économique ?**
 Voyons d’abord la question des rejets de CO2, Monsieur Prud’homme ayant concentré son argumentaire sur ce seul polluant. Il nous rappelle qu’une vache rejette 2,4 tonnes de CO2/an. Il fait donc l’amalgame entre les vaches laitières et les vaches dites « à viande », lesquelles n’ont ni la même durée de vie, ni les même rejets, ceux-ci oscillant entre 1,3 à 2,6 Tonnes de CO2. Ce n’est pas à un végétarien que l’on apprendra cela mais il était bon de le rappeler. Par contre, il calcule le rejet d’une voiture diesel à 1,3 Tonnes/an.
 
 Si on veut comparer ce qui est comparable, deux solutions :
@@ -13,11 +13,13 @@ Si on veut comparer ce qui est comparable, deux solutions :
 * Hypothèse 2 : On prend le véhicule diesel moyen, tel que défini annuellement par les études. Elle fait donc 125g CO2/km et roule plus de 17000km/an. Là on grimpe à 2,1T/an
 
 Partons donc sur l’hypothèse 1 pour être totalement cohérent.
+
 Nous avons donc en face un véhicule électrique qui parcourt moins de 100km/jour (le besoin étant fixé à 70km/jour  d’après les études actuelles) compte tenu des autonomies annoncées, minorées par l’utilisation d’accessoires de confort comme climatisation, autoradio, GPS. M. Prud’homme joue sur l’amalgame entre des pays qui n’ont rien à voir. Ainsi la densité de population et les ressources du Japon, pays en pointe dans l’électrique, n’ont rien à voir avec la Chine. Les besoins et habitudes sont donc bien différents comme le seront les réponses à fournir en matière de mobilité. Concentrons nous donc sur le problème français puisque c’est la base de son édito.
 
 Avec une telle autonomie, on va considérer que la recharge aura lieu à 80% en heure creuse et  20% en heure pleine. Considérons que le chiffre proposé de 100g/kwh est acceptable. **Nous estimerons la consommation à 20kwh au 100km** (chiffre supérieur à ce qui n’est **curieusement pas mis en avant par les constructeurs**). Nous aurons donc 2000kwh annuels si nous avions un kilométrage identique à la petite citadine. En reprenant le chiffre de 100g/kwh, nous aurions donc 200kg de CO2 par an, soit seulement 900kg de réduction. Mais de manière plus réaliste, avec 70km/j sur 20 jours, nous aurions d’un coté 1,84T coté diesel et 0,34T coté électrique soit un gain d’une tonne et demi. Nous somme donc d’accord sur le surcoût de la tonne… Mais en pourcentage cela revient à une diminution de 80% !
 
 Voyons maintenant l’aspect coût :
+
 La voiture électrique coûte donc 35000 Euros. Ne déduisons pas la subvention puisque cela reste un coût pour l’état. En face nous avons une 107 d’un cout de 8000 Euros (voir moins, le diesel devenant une aberration pour ce kilométrage en ville). La différence est donc bien pire que ce qu’annonce notre économiste. Maintenant prenons la vie moyenne d’un véhicule, soit 8 ans. Le coût d’un kwh électrique étant de 0,11€ environ on obtient sur 8 ans une différence de 22000€. Pour le modèle proposé par Renault (coût d’achat inférieur et location batterie estimée), on se retrouve avec 13000 Euros de différence.
 
 Volontairement, je n’ai pas tenu compte du coût CO2 du raffinage, et de tous les coûts annexes liés au retraitement du véhicule, des batteries, de la production du véhicule.

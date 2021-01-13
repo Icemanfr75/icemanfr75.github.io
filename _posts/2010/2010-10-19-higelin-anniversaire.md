@@ -12,7 +12,7 @@ Mais il venait fêter quoi, tout ce monde agglutiné à l'entrée du Zenith en u
 
 Oh non, il ne dort pas malgré des petits pépins de santé qui l'ont fait annuler un concert il y a quelques jours et vont l'obliger à avoir pour compagnon supplémentaire, une ...boîte de mouchoirs. Non, il ne dort pas et c'est seul comme un cowboy qu'il vient affronter, pardon, embrasser le public avec une guitare, drapé dans un long manteau de velours presque assorti à sa désormais célèbre tignasse grise.
 
-![photo](http://cheziceman.files.wordpress.com/2014/11/dsc00071.jpg)
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/higelin2.jpg)
 
 La machine est lancée....machine, quel vilain mot pour un chanteur à la si belle âme, qui parle avec émotion de cette angoisse au sujet de ce concert, qui d'ailleurs est enregistré. La voix est là, unique, brute, douce, enjôleuse....L'énergie aussi mais ça, ce n'est pas une surprise.  Son "big band" le rejoint : deux guitaristes, un bassiste, une section cuivres avec trompette, saxo et trombone, un clavier, un batteur et un percussionniste....et puis l'ami Rodolphe. Le public est lui aussi de la partie, reprenant à tue-tête ses morceaux, du plus ancien au plus récent. Oui Jacques, je vais l'appeler Jacques comme il nous tutoie, nous emmène à la rencontre de Pamela Norton....Nous voilà transportés dans une boite de New Orleans en quelques secondes. Et il nous saisit, nous cueille, nous fait rire avec son histoire, son fantasme avec la belle Pamela...C'est Mona Lisa Klaxon, c'est Champagne, c'est......c'est la folie douce, c'est la musique qui nous prend, les mots qui nous entourent et nous appellent pour danser avec lui sur scène.
 
@@ -21,7 +21,7 @@ Oui, quel âge a-t-il pour entonner un tcha tcha tcha, un rock n roll ou se ba
 
 Et hop, le voilà qui disparaît avec sa troupe. Les minutes sont longues, nous laissant seuls, nous les 5000, 10000, que sais-je, convives de cet anniversaire, dans la lumière rougeâtre du Zenith. Oui , comme si ça ne suffisait pas, il y a ce jeu de lumières, ces fonds chatoyants, ces étoiles magiques, ces faisceaux lumineux qui nous captivent. Sans Jacques, le temps paraît arrété. 23h passé  et on en redemande, par des cris, des chants, des applaudissements. Non, il ne va pas partir comme cela. Il va bien nous faire un petit rappel?
 
-![photo](http://cheziceman.files.wordpress.com/2014/11/dsc00072b.jpg)
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/higelin3.jpg)
 
 Oh que oui, il va nous le faire et pas qu'un peu. Une heure de plus même et pas de l'heure au rabais. Il nous revient avec un accordéon et nous embarque dans un Paris musette, un Paris des faubourgs, un Paris de tous les jours, des beaux jours, des alentours...Et il virevolte dans une veste violette, tout en élégance, sur son piano, nous charmer de quelques notes. Et le public qui chante....Il nous a bien entraînés, c'est sûr, avec « Gordon, Alpes Maritimes, dont le donjon culmine à 2500 pieds du niveau de la mer Méditer…ranée ! » Mais maintenant c'est Paris - New York, New York Paris...et ....et.....
 
@@ -32,8 +32,7 @@ Oui, c'est la surprise du soir, qu'on espérait certes : **Arthur H**, son fils,
 Merci MONSIEUR Higelin.
 
 
-
-[La Video](https://www.youtube.com/watch?v=sQ8ZUluisY4)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=sQ8ZUluisY4)
 
 CD1
 
@@ -69,4 +68,4 @@ CD 3
 
 (merci à Martine C. pour le tracklisting)
 
-![affiche](http://cheziceman.files.wordpress.com/2014/11/higelin.jpg)
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/higelin.jpg)

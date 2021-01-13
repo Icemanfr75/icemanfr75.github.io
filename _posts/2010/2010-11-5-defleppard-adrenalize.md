@@ -24,7 +24,7 @@ Mais après cet album, la suite va être difficile. Si le succès d'Adrenalize p
 
 Le vrai retour d'un Def Leppard Hard Rock est plus à mettre à l'acquis de l'album Songs from the Sparkle Lounge. On peut même parler de retour en grâce pour certains et Def Leppard semble reparti pour quelques belles années.
 
-[La Video](https://www.youtube.com/watch?v=BO1Nae_EBvQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=BO1Nae_EBvQ)
 
 01. Let's Get Rocked
 02. Heaven Is
@@ -37,4 +37,4 @@ Le vrai retour d'un Def Leppard Hard Rock est plus à mettre à l'acquis de l'al
 09. I Wanna Touch U
 10. Tear It Down
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/adrenalize.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/adrenalize.jpg)

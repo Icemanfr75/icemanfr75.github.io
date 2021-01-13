@@ -17,7 +17,7 @@ Billy Idol inscrit donc ce remarquable album dans l'electro rock avec un sens du
 Le temps a fait son oeuvre et permet de réécouter ces vieilleries musicales dont certaines étaient peut être en avance sur leur temps. Ah s'ils avaient su ce qui allait advenir d'eux, tous ces humains....mais chut, ça c'est une autre historie.
 
 
-[la Video](https://www.youtube.com/watch?v=lx2fZU5USus)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=lx2fZU5USus)
 
 1. Wasteland 
 2. Shock to the System 
@@ -32,4 +32,4 @@ Le temps a fait son oeuvre et permet de réécouter ces vieilleries musicales do
 12. Then the Night Comes 
 13. Mother Dawn
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/cyberpunk.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/cyberpunk.jpg)

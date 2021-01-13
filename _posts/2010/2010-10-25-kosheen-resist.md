@@ -16,6 +16,6 @@ On trouvera bien un petit coté tubular bells dans "face in a crowd", morceau le
 
 Après une telle réussite, beaucoup de groupes ne se seraient jamais relevés. Mais Kosheen si! Il suffit d'écouter leurs albums suivants, Kokopelli en 2003, puis Damage en 2007 qui montrent une évolution plus rock et moins drum'n bass tout en conservant une aptitude aux dancefloor tout à fait paradoxale. On attend donc avec impatience un nouvel opus baptisé Independance et à la sortie imminente.
 
-[La video](https://www.youtube.com/watch?v=uTNlHRx4riE)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=uTNlHRx4riE)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/kosheen_resist.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/kosheen_resist.jpg)

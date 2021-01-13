@@ -14,8 +14,8 @@ Bien sûr, c'est un groupe japonais donc les paroles sont à la fois en anglais 
 
 La musique est donc à rapprocher des groupes de metal industriel, et autres néo gothiques. Sur que les fans de Manson vont s'y retrouver avec des emprunts forts à la vague gothique, à la dark wave et à des groupes comme Nine Inch Nails. Le son est péchu avec des bons refrains et une voix assez typique des chanteurs japonais, donc très différente des habituels chanteurs de metal.
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/despairsray.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/despairsray.jpg)
 
 Le meilleur moyen de découvrir ce groupe est encore de l'écouter ou de le voir :
 
-[La Video](http://www.youtube.com/watch?v=P0dx98-zWSI)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=P0dx98-zWSI)

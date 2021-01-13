@@ -12,76 +12,7 @@ Maintenant une maison de disque c’est une société qui veut tout maîtriser d
 
 Le dernier numéro de l’Ordinateur Individuel SVM parle du Diktat des Majors sur le streaming audio et au passage nous gratifie d’un comparatif de la répartition des revenus sur un fichier numérique et sur un CD. Ils parlent en pourcentage mais ramenons ces même chiffres en valeur, sachant qu’un CD vendu 15 à 17 euros est vendu 9,90 en MP3.
 
-<table border="0" width="359" cellspacing="0" cellpadding="0"><colgroup> <col span="1" width="119" /> <col span="3" width="80" /> </colgroup>
-<tbody>
-<tr>
-<td width="119" height="17"></td>
-<td width="80">**CD**</td>
-<td width="80">**MP3**</td>
-<td width="80">**Evolution**</td>
-</tr>
-<tr>
-<td height="17">Artiste</td>
-<td align="right">0,68 €</td>
-<td align="right">0,28 €</td>
-<td align="right">-59%</td>
-</tr>
-<tr>
-<td height="17">Producteur</td>
-<td align="right">1,01 €</td>
-<td align="right">0,69 €</td>
-<td align="right">-32%</td>
-</tr>
-<tr>
-<td height="17">Editeur/Label</td>
-<td align="right">2,65 €</td>
-<td align="right">2,53 €</td>
-<td align="right">-4%</td>
-</tr>
-<tr>
-<td height="17">SACEM</td>
-<td align="right">0,76 €</td>
-<td align="right">0,50 €</td>
-<td align="right">-35%</td>
-</tr>
-<tr>
-<td height="17">Distributeur</td>
-<td align="right">3,39 €</td>
-<td align="right">3,72 €</td>
-<td align="right">10%</td>
-</tr>
-<tr>
-<td height="17">Vendeur</td>
-<td align="right">6,84 €</td>
-<td align="right">0,10 €</td>
-<td align="right">-99%</td>
-</tr>
-<tr>
-<td height="17">Etat</td>
-<td align="right">1,70 €</td>
-<td align="right">1,58 €</td>
-<td align="right">-7%</td>
-</tr>
-<tr>
-<td height="17">DRM</td>
-<td align="right">0,00 €</td>
-<td align="right">0,50 €</td>
-<td></td>
-</tr>
-<tr>
-<td height="17"></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td height="17">Part de la major</td>
-<td align="right">3,67 €</td>
-<td align="right">6,95 €</td>
-<td align="right">90%</td>
-</tr>
-</tbody>
-</table>
+![tableau](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/hadopi.JPG)
 
 Oui c’est bien +90% de plus pour la Major qui maitrise la chaine de distribution beaucoup mieux maintenant et 60% de moins pour l’artiste. La Major a en effet récupéré au passage le rôle de distributeur qui pouvait lui échapper parfois. Certes le producteur peut encore être indépendant et les chiffres de vente de MP3/AAC sont moins importants que ceux des supports physiques…..mais il faudra presque moitié moins de vente de version numérique pour une même rentrée d’argent pour la major alors que l’artiste dans le même temps touchera…5 fois moins !
 
