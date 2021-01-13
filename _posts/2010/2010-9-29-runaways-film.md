@@ -4,7 +4,7 @@ title: Musique et Cinéma - The Runaways de Floria Sigismondi (2010)
 category: musique, cinema
 tags: Cinéma, hard-rock, metal, Musique, rock, 2010s, 1980s
 ---
-**La sortie d'un biopic sur le groupe The Runaways donne l'occasion de se replonger dans la carrière trop courte de ce groupe d'ados qui lancera la carrière de figures importantes du rock féminin. **
+**La sortie d'un biopic sur le groupe The Runaways donne l'occasion de se replonger dans la carrière trop courte de ce groupe d'ados qui lancera la carrière de figures importantes du rock féminin.**
 
 Le film retrace, à priori,  les deux premières années de l'histoire du groupe mais prend quelques raccourcis. A l'origine en 1975, nous retrouvons bien **Joan Jett** et **Sandy West** , respectivement guitariste et batteuse, qui rencontrent le producteur **Kim Fowley** (KISS, Alice Cooper...). Toujours à l'affut d'un bon coup, il décide de monter un groupe de rock féminin. Il s'adjoint les services de **Lita Ford** à la guitare et de **Micki Steele** à la basse. Si Joan chante, il manque un élément charme et c'est en la personne de **Cherie Currie** que Fowley trouve sa chanteuse. Le film axe son histoire sur Joan et Cherry et sur les relations avec le sulfureux Fowley. On peut y voir notamment la création du hit Cherry Bomb.
 
