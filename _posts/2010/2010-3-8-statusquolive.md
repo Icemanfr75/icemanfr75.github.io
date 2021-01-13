@@ -18,21 +18,22 @@ Ils enchainent certains morceaux sans pause, comme Little Lady et Most of the Ti
 
 Mais cet album clôt aussi une période où le groupe s'auto produisait. Ils vont maintenant faire appel à des intervenants extérieurs qui aussi prestigieux soient ils, vont modifier peu à peu le style du groupe. Ainsi en 1977, le hit Rockin' all over the world, de l'album du même nom, est l'oeuvre de **John Fogerty**. Le succès continue mais les tensions deviennent vives dans le groupe. C'est d'abord le départ de John Coghlan puis en 1983, lors de l'enregistrement de Bck to back, il devient clair pour Alan Lancaster et le reste du groupe que les divergences musicales sont trop présentes. Cela aboutit au départ de Lancaster en 1985 qui sera immortalisée dans un enregistrement du groupe live à l'émission Top of the Pop. Le dernier grand succès du groupe sera un In the Army Now, bien loin du style boogie rock et repris des **frères Bolland**. La fin des années 80 et les années 1990 sont un lent déclin du groupe commercialement parlant. Ils s'en tiennent même à des reprises de hits. Il faudra les années 2000 et un retour en grace du classic rock en Angleterre pour que le groupe revienne à son style de prédilection avec des nouveaux albums studios comme The Party ain't over ou In Search of the Fourth Chord en 2009. Avec la formation actuelle, c'est Rossi, Parfitt, Bown et Young qui composent les morceaux. Et les voilà toujours à parcourir les routes et nous offrir des prestations scéniques encore digne d'intérêt, 40 ans après, pour qui aime le rock'n roll.
 
-[La Video](https://www.youtube.com/watch?v=ulIqWIqzAaY)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=ulIqWIqzAaY)
 
 Membres : Francis Rossi, Richard Parfitt, Alan Lancaster, John Coghlan, Bob Young, Andy Bown
 
-1. JUNIOR'S WAILING 
-2. A) BACKWATER B) JUST TAKE ME 
-3. IS THERE A BETTER WAY 
-4. IN MY CHAIR 
-5. A) LITTLE LADY B) MOST OF THE TIME 
-6. FORTY-FIVE HUNDRED TIMES 
-7. ROLL OVER LAY DOWN 
-8. BIG FAT MAMA 
-9. A)CAROLINE B) BYE BYE JOHNNY 
-10. RAIN 11. DON'T WASTE MY TIME 
-12. ROADHOUSE BLUES
+1. Junior's Wailing
+2. A) Backwater B) Just take me
+3. Is there a better way
+4. In my chair
+5. A) A little lady B) Most of the time
+6. forty-five hundred times
+7. Roll over lay down
+8. Big fat mama
+9. A) Caroline B) Bye bye Johnny
+10. Rain
+11. Don't waste my time
+12. Roadhouse Blues
 
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/statusquo.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/statusquo.jpg)

@@ -18,7 +18,7 @@ Et dans le troisième mouvement, en molto vivace, c'est la vie trépidante de ce
 
 Cette oeuvre a une influence considérable car son style est à la fois complexe et accessible. Il y a une dimension très cinématographique qui fait que de grands compositeurs de musique de film semblent y emprunter couramment, comme **John Williams** par exemple ou encore **Hans Zimmer**. Un indispensable donc !
 
-[La Video](https://www.youtube.com/watch?v=WuqyfEyNXQo)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=WuqyfEyNXQo)
 
 1. Adagio - Allegro molto 
 2. Largo 
@@ -27,4 +27,4 @@ Cette oeuvre a une influence considérable car son style est à la fois complexe
 
 A noter que la chanson Initials B.B. de **Serge Gainsbourg** reprend le thème du premier mouvement.
 
-![photo](http://cheziceman.files.wordpress.com/2014/11/dvorakmonde.jpg)
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/dvorakmonde.jpg)

@@ -10,19 +10,17 @@ tags: Cinéma, Musique, pop, 1950s
 
 Trois générations de nos petits écureuils (ndS : Tamia !!! ) se sont succédées jusqu'à présent, pour le plus grand bonheur des petits et des grands à travers le monde. Mais plutôt que de faire l'article moi-même, je vais laisser la parole à Simon, l'ainé de nos trois amis.
 
-
-
 * Bonjour, je suis Simon, le plus malin des trois. Je suis né en 1958 aux Etats-Unis. Notre père est **Ross Bagdasarian** sr, acteur et compositeur. Il eut quelques succès mineurs dans la chanson dans les années 50 mais cela n'arrivait pas à le faire vivre. Un jour, il acheta avec ses derniers deniers un magnétophone à vitesse variable et s'amusa à s'enregistrer avec. C'est là qu'il découvrit les possibilités de l'engin et l'utilisa pour un premier succès : Witch Doctor. Sa voix était déformée en jouant sur la vitesse d'enregistrement. Et un jour qu'il se promenait dans le parc Yosemite, il croisa un petit cousin à nous, un Tamia et eut l'idée de faire parler et chanter ce petit animal. C'est ainsi que la Chipmunk's song (Christmas don't be late) est née.
 * Oui, Simon, mais tu oublies des choses. Moi c'est Alvin, le magnifique, le plus grand….Ok, ok, je continue. Donc la chanson parle de noël mais est sortie bien avant les fêtes, ce qui était une nouveauté pour l'époque. Elle a été un plus grand succès que les Beatles à l'époque, c'est dire. On a vendu 4 millions de disques en 7 semaines ! Nos noms viennent des trois patrons de la maison de disque sur laquelle était signée Papa.
 * ALVIIIIIIIIIN ! Laisse parler Simon et Théodore
 * Oui donc après ce succès, papa est apparu dans le **Ed Sullivan's show** avec 3 marionettes nous représentant. Puis il y a eu deux albums en 1959 et 1962. Mais c'est en 1959 que nous avons droit à notre propre show : le **Alvin Show** dans lequel nous apparaissons en dessin animé. Papa devient Dave Seville et nous dote chacun de notre personnalité. Le show ne dure que 2 ans et nous aurons un autre album en 1969.
 
-![affiche](http://cheziceman.files.wordpress.com/2014/11/chipmunks2.jpg)
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/chipmunks2.jpg)
 
 * Je reprends la parole pour vous dire que Ross Sr est décédé en 1972. Il faudra attendre 1981 pour le retour de nos trois amis. En effet, un DJ passe à la radio une chanson avec des voix similaires aux chipmunks et fait croire qu'il s'agit du nouveau titre des Chipmunks. Des milliers d'appels arrivent à la radio. Pendant ce temps, Ross Jr, le fils de Ross Sr, et sa compagne **Janice Karman** pensent à faire revivre les trois petits Tamias mais se voient rejetés par les maisons de disque. Avec cette demande qui se manifeste, les portes s'ouvrent enfin et ils sortent l'album Chipmunk Punk qui replace nos trois amis dans l'air du temps. Des reprises de **Blondie, Tom Petty** ou encore **Queen** composent l'album.
 * Bonjour, je m'appelle Theodore. Je suis le plus jeune des trois. Je me souviens bien de cette époque. Nous avons eu d'abord une émission produite par Chuck Jones puis un nouveau dessin animé de 1983 à 1990.
 
-![affiche](http://cheziceman.files.wordpress.com/2014/11/chipmunks3.jpg)
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/chipmunks3.jpg)
 
 
 * Oui, Et ça s'appelle Alvin …. Et les chipmunks car c'est moi le héros.
@@ -40,10 +38,10 @@ Trois générations de nos petits écureuils (ndS : Tamia !!! ) se sont succéd�
 ALVIIIIIIIIIIN… ! Bon je termine en disant que le deuxième film est encore meilleur que le premier avec une tonalité plus rock et des personnages plus travaillés. Certaines reprises sont presques meilleures que les originaux, comme Hot n Cold de **Katie Perry** ou encore You spin me round de **Dead or Alive**. Des acteurs et actrices connus se battent pour faire les voix de nos amis. C'est un plus grand succès que le premier et un troisième film est prévu. On remarquera qu'il y a quasiment une génération entre chaque come back des Chipmunks. Ainsi dans 20 ans, on verra probablement un retour d'Alvin, Simon et Théodore. Les pales copies que sont tous ces animaux de synthèse les plus farfelus ne font pas oublier l'original et Ross Jr reste garant de la qualité de la franchise.
 
 
-
-![affiche](http://cheziceman.files.wordpress.com/2014/11/chipmunks4.jpg)
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/chipmunks4.jpg)
 
 Les albums : 
+
 * 1959 : Let's All Sing with The Chipmunks 
 * 1960 : Sing Again with The Chipmunks 
 * 1960 : Around the World with The Chipmunks 
@@ -105,6 +103,7 @@ Film **Alvin et les Chipmunks**
 16. The Chipmunk Song (Christmas Don't Be Late)
 
 Film **Alvin et les Chipmunks 2**
+
 1. You Really Got Me 
 2. Hot N Cold - The Chipettes 
 3. So What 
@@ -122,4 +121,4 @@ Film **Alvin et les Chipmunks 2**
 15. I Gotta Feeling
 
 
-![affiche](http://cheziceman.files.wordpress.com/2014/11/chipmunks.jpg)
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/chipmunks.jpg)

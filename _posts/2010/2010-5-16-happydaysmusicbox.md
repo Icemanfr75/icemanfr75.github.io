@@ -24,10 +24,10 @@ Mais évidemment, beaucoup attendent la "Star" du jour qui doit chanter dans le 
 et pour les photos de l'évènement : <a class="spip_out" href="https://www.flickr.com/search/?sort=relevance&amp;text=happy%20days&amp;user_id=76217081%40N04">le diaporama</a>
 
 
-[La Video](https://www.youtube.com/watch?v=NsYiLMtAeTw)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=NsYiLMtAeTw)
 
 PS : faites gaffe à Pilou le canard, il ne pense qu'à draguer tout ce qui passe.
 
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/happydays.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/happydays.jpg)
 

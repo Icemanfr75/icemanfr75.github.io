@@ -15,7 +15,7 @@ A la production, on retrouve toujours Jerry Wexler. Et parmi les musiciens, nous
 
 Le succès se poursuit des années durant avec des Grammy Awards R&amp;B qui n'en finissent plus. C'est au rythme hallucinant de deux albums par an qu'elle poursuit sa carrière dans les années 70. Ce n'est qu'en 1976 que le déclin s'amorce, le genre passant de mode. Le Disco arrive et Aretha n'a aucune envie de suivre la mode. Elle enregistre moins et pourtant le film **The Blues Brothers**, gros succès du box office en 1980, la remet dans la lumière. Jump into It est un de ses plus gros succès en 1982, lorsqu'elle collabore avec **Luther Vandross**. Les années 80 la voient aussi enchainer les duos avec les stars du moment comme Eurythmics ou George Michael. Elle est surnommée la Queen of soul pour l'éternité. Elle peut se permettre d'enregistrer à son rythme ce qu'elle aime et ne s'en prive pas durant les années 90 et 2000. On la revoit dans la suite des Blues Brothers et en 2007 elle sort un album de duo. Mais c'est lors de l'élection de Barack Obama que l'on a pu la revoir chanter sur les écrans du monde entier. Si la voix a ses limites, elle n'a rien perdu de sa fougue et ne pourra jamais être détronée.
 
-[La Video](https://www.youtube.com/watch?v=n0POmdK18WU)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=n0POmdK18WU)
 
 1. "Think" 
 2. "I Say a Little Prayer" 
@@ -28,4 +28,4 @@ Le succès se poursuit des années durant avec des Grammy Awards R&amp;B qui n'e
 9. "A Change" 
 10. "I Can't See Myself Leaving You"
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/arethanow.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/arethanow.jpg)

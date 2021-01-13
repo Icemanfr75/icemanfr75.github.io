@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Blog - Mauvaises Résolutions
 category: reflexion
@@ -14,7 +14,7 @@ On a été **gavés d'images**, de messages, de publicités pour tout ça pendan
 
 **Est-ce pour me punir** que depuis quelques temps, mon dos (mes cervicales en fait) me fait affreusement souffrir ? En tout cas, le spécialiste que j'ai vu m'a dit que ce n'était pas si grave.... Mon Kiné me réparera comme il a su le faire avec ces vieilles épaules usées par quelques mouvements non prévus dans la notice. Je vais avoir des oreillers en trop si j'en change pour des modèles rectangulaires. Au passage, oubliez ces conneries d'oreillers ergonomiques, à mémoire de forme, à moins que vous dormiez comme un cadavre, totalement immobiles toute la nuit, sanglés par votre compagne/compagnon qui en a marre de vous voir bouger... ou pour toute autre raison. Un oreiller bien ferme, sans plume d'animal mort que l'on change régulièrement, ça sera très bien. Bref, ça, se répare encore à mon jeune age. Ça ne fera pas un beau vieux, c'est tout, si j'atteins cet age.
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sandro_Botticelli_-_La_Carte_de_l%27Enfer.jpg/800px-Sandro_Botticelli_-_La_Carte_de_l%27Enfer.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/mauvaisesresolutions.jpg)
 
 *La divine Comédie - Carte de l'enfer  1485 par Sandro Boticelli*
 
@@ -30,4 +30,4 @@ Alors pas de bonnes résolutions, **pas de plans sur la comète**. Même pas de 
 
 Vivement l'année prochaine qu'on en finisse. 
 
-[la video](https://www.youtube.com/watch?v=eYsqYPWzfrM)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=eYsqYPWzfrM)

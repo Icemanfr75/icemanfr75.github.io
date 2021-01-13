@@ -15,7 +15,7 @@ Le groupe a bien mérité une année sabbatique et c'est à l'issue que sort en 
 
 Le premier album solo de Sting, The Dream of the blue turtle sera dans le prolongement de cette fin de Police avec un style encore plus jazzy qu'il conservera quelques années avec bonheur. On le retrouve ensuite impliqué dans des causes humanitaires et écologiques. Ses albums deviennent à la fois plus pop tout en conservant son goût pour le jazz et les sonorités plus exotiques. De son coté Stewart Copeland signe régulièrement des musiques de films ou séries télé. On citera Wall Street d'Oliver Stone, Equalizer ou encore Raining Stones de Ken Loach. Andy Summers continue son activité de guitariste dans des domaines variés, tout en pratiquant la photographie ou l'écriture. On le retrouve au coté de **Robert Fripp** ou **Thelonious Monk**. En 2007, le groupe se reforme pour une tournée mondiale qui sent plus les dollars que l'envie de jouer ensemble sur scène. Tout cela est éphémère et les egos décidément trop forts. Chacun retourne à ses activités dès 2008 et Sting sort un nouvel album solo en 2009.
 
-[La Video](https://www.youtube.com/watch?v=o5FPPoLqkCk)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=o5FPPoLqkCk)
 
 Membres : Sting, Stewart Copeland, Andy Summers
 
@@ -32,4 +32,4 @@ Membres : Sting, Stewart Copeland, Andy Summers
 11. Murder by Numbers
 
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/policesynchronicity.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/policesynchronicity.jpg)

@@ -35,6 +35,6 @@ membres : 'O', Divine, Drag, Gash, Fake
 
 dernier album : Amerikkka Macht Frei, disponible dans les meilleures épiceries végétariennes.
 
-[La Video](http://www.youtube.com/watch?v=EzlNgo3O0qo&amp;w=480&amp;h=385)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=EzlNgo3O0qo&amp;w=480&amp;h=385)
 
-![photo](http://cheziceman.files.wordpress.com/2014/11/undercoverslut.jpg)
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/undercoverslut.jpg)

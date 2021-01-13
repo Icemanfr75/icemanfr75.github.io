@@ -14,7 +14,7 @@ Et d'entrée, il n'y a aucun doute avec le hit Movin' on où la voix de Baby Jea
 
 Il faudra attendre **Michael Jackson** pour que la fusion entre le funk et le rock blanc soit acceptée par tous et diffusée largement. Mais ce ne sera qu'un an plus tard avec Thriller que le virage sera définitivement tourné. Mother's finest n'aura pas la chance d'être reconnu à cette époque comme tel et ni les radios noires ne voudront diffuser ce qui est un album metal, ni les radios blanches qui ne passent pas de funk. Déçu par cela, le groupe retourne à son cher funk et à sa soul et le hard devient FM tandis que le funk s'harmonise avec la pop et le rock. Le groupe continue pourtant une prolifique carrière avec quelques réminiscences rock dans les années 90 ou même hip hop dans les années 2000. On retrouve Joyce Kennedy dans la tournée **Daughters of soul** aux cotés de filles de célèbres artistes soul.
 
-[La Video](https://www.youtube.com/watch?v=H4520hkB0vM)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=H4520hkB0vM)
 
 Membres : Joyce "Baby Jean" Kennedy, Glenn "Doc" Murdock, Gary "Moses Mo" Moore, Barry "B.B. Queen" Borden, Jerry "Wyzard" Seay, Mike Keck
 
@@ -29,5 +29,5 @@ Membres : Joyce "Baby Jean" Kennedy, Glenn "Doc" Murdock, Gary "Moses Mo" Moore,
 9. Gone With th' Rain 
 10. Earthling
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/mothersfinest.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/mothersfinest.jpg)
 

@@ -43,8 +43,8 @@ La soirée ne s'arrête pas là pour autant puisque nous sommes gentiment invit�
 
 Merci les Scorpions pour toute cette carrière.
 
-[La Video](https://www.youtube.com/watch?v=inWOi6zcwU0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=inWOi6zcwU0)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/scorpsolymp.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/scorpsolymp.jpg)
 
 
