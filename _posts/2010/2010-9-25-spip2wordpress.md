@@ -5,9 +5,10 @@ category: tuto
 tags: dotclear, migration, spip, tutoriel, tuto, wordpress
 ---
 **Abordons un peu de technique pour les webmaster et bloggeurs à travers la vie de ce blog et la migration d'un autre site entre 3 CMS ou moteurs de sites et blogs.**
+
 (tuto créé à l'époque où ce site était à une autre adresse en Wordpress...)
 
-A l'origine, ce blog était sous **Dotclear **1.x mais devant l'inertie de ce système, j'ai décidé de passer à **Wordpress**, alors en version 1.x également. L'interface du blog était assez sommaire et minimaliste tandis que le tableau d'admin comprenait tout ce qu'il fallait. Après une période de sommeil, j'ai fait la mise à jour en Wordpress 2.x pour en découvrir les nombreuses évolutions.
+A l'origine, ce blog était sous **Dotclear** 1.x mais devant l'inertie de ce système, j'ai décidé de passer à **Wordpress**, alors en version 1.x également. L'interface du blog était assez sommaire et minimaliste tandis que le tableau d'admin comprenait tout ce qu'il fallait. Après une période de sommeil, j'ai fait la mise à jour en Wordpress 2.x pour en découvrir les nombreuses évolutions.
 
 L'interface y est plus clair, avec de nombreuses possibilités et surtout la possibilité d'ajouter des plugins. Il est permis d'intervenir dans la mise en page et la config des templates directement sans passer par un logiciel de ftp et un éditeur texte. J'en ai donc été très satisfait. Parallèlement à ce blog, j'ai créé une page perso pour les tests de plugins, de templates, de design et de moteurs de site.
 

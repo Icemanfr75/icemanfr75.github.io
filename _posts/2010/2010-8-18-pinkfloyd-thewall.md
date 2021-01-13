@@ -22,7 +22,7 @@ Cette histoire nous est racontée à travers cet enchaînement de morceaux tant�
 
 Mais comment continuer après une oeuvre aussi majeure qui semble puiser dans le tréfond des membres du groupe. L'enregistrement de l'album laisse des traces. Waters a la main mise sur le groupe et en 1983, The Final Cut est plus un album solo. Waters quitte finalement le groupe en 85, qu'il pense ainsi dissoudre. Mais Mason et Gilmour continuent en enregistrant en 87 A Momentary Lapse of Reason, un album qui retrouve le style de Gilmour, à savoir une place importante donnée à la guitare et à la musique. Un dernier album, The Division Bell clotûre l'aventure Pink Floyd, en demi teinte certe mais avec une monumentale tournée comme adieu. Syd Barett décède en 2006 et Richard Wright en 2008.
 
-[la Video](https://www.youtube.com/watch?v=J8fFVOoqepc)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=J8fFVOoqepc)
 
 Disque 1 : 
 1. In the Flesh ? 
@@ -55,4 +55,4 @@ Disque 2 :
 13. Outside the Wall
 
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/pinkfloyd.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/pinkfloyd.jpg)

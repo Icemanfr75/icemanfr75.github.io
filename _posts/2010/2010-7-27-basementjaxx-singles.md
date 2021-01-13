@@ -15,7 +15,7 @@ Basement Jaxx a toujours été attiré par la soul et le jazz et ce troisième a
 
 Suivront deux albums en 2006 et 2009 avec autant de guests que d'habitude mais passés plus innaperçus dans l'hexagone, la mode de la House étant passée pour un retour vers une électro plus dancefloor. Le dernier, Scars continue d'exploiter ce mélange soul et hip hop qui leur est cher.
 
-[La Video](https://www.youtube.com/watch?v=x2wUbgAAydY)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=x2wUbgAAydY)
 
 1. Red Alert
 2. Good Luck 
@@ -33,4 +33,4 @@ Suivront deux albums en 2006 et 2009 avec autant de guests que d'habitude mais p
 14. Flylife 
 15. Samba Magic
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/basementjaxx.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/basementjaxx.jpg)

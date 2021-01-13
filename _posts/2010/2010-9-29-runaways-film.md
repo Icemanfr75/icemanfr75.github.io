@@ -21,6 +21,6 @@ Lita Ford, si elle n'a pas droit à beaucoup de place dans le film, a connu une 
 Le film prend donc quelques raccourcis mais reste fidèle à l'image que le groupe a donné. On y retrouve Kristen Stewart, vu dans l'adaptation de Twillight, qui reprend avec un certain bonheur le rôle de Joan Jett. Dakota Fanning joue quant à elle le rôle de Cherie Currie. Bien rythmé, musicalement bien filmé avec une photo conforme à l'époque, le film fait partie des très rares réussites dans la catégorie des biopics rock. Si ce n'est pas un chef d'oeuvre, il reste un bon témoignage de la fin des années 70 et de l'arrivée des groupes de rock féminins.
 
 
-[la Video](https://www.youtube.com/watch?v=uHpEJ749TRM)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=uHpEJ749TRM)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/runaways.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/runaways.jpg)

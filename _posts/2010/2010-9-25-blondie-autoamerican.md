@@ -15,7 +15,7 @@ Un album pas forcément indispensable mais particulièrement intéressant pour p
 Dans les années 90, le groupe se reforme un temps, avec le retour de la reconnaissance du groupe. Ils sortent même un album en 1999, subtilement intitulé No Exit. On les retrouve même en 2003 pour un nouvel album et il se dit qu'il y aurait un nouveau disque en 2011 malgré la retraite de Burke.
 
 
-[la Video](https://www.youtube.com/watch?v=pHCdS7O248g)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=pHCdS7O248g)
 
 1. Europa 
 2. Live it up
@@ -31,4 +31,4 @@ Dans les années 90, le groupe se reforme un temps, avec le retour de la reconna
 12. Walk Like Me
 13. Follow Me
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/blondie.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/blondie.jpg)

@@ -16,7 +16,7 @@ Mais le succès n'est pas du goût de tout le monde et l'omniprésence de Mark g
 
 Paradoxalement, l'album reste connu pour son single Money for Nothing, particulièrement rock dans la carrière du groupe. Et pourtant l'album a une tonalité toute différente. C'est aussi ce single qui sera le premier titre diffusé sur MTV en Angleterre alors que les paroles sont plutôt vindicative à l'égard de ce nouveau média et des "succès faciles" (**Sting** chante "I Want My MTV" comme choeur). Nous sommes en 1985, apogée des clips, des groupes de hard US. Mais en dehors de ce titre, l'album reste fidèle au son Dire Straits et à ses inspirations Country et blues. Ainsi l'album s'ouvre sur un So Far away ponctué de slide guitar, typique du style. Un style que l'on retrouve aussi sur Walk of life mais accompagné d'orgue Hammond. Mais, comme auparavant, Knopfler ne déteste pas les sonorités plus exotiques, comme on peut l'entendre sur Ride across the river, voir même sur le jazzy et un peu trop sirupeux Your latest Trick. C'est bien dans la country traditionnelle que nous emmène The man's too strong. Le rock de One World répond un peu à Money for Nothing mais finalement, le morceau éponyme est celui qui vaut à lui seul l'écoute de l'album. On y retrouve le talent de Knopfler à la guitare dans un style blues bien reconnaissable mais aussi suffisamment lent et pesant pour donner toute sa mesure au texte. La longue intro en solo de guitare est devenu légendaire. Tout cela fait de cet album le plus gros succès du groupe et pourtant l'album le plus hétérogène. La tournée devient monumentale et épuise le groupe qui mérite bien une pause. Knopfler se consacre à des projets solo dont l'album des **Notting hillbilies** qu'il forme avec des musiciens country et Chet Atkins. Ce n'est qu'en 1990 qu'un nouvel album est mis en route. Il s'appellera On Every Street et sera aussi le dernier du groupe. Seul un live poursuivra la discographie du groupe avant sa dissolution en 1995. Depuis Mark Knopfler sort des albums en solo entre blues et country rock et il est peu probable que le groupe originel se reforme.
 
-[la Video](https://www.youtube.com/watch?v=wTP2RUD_cL0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=wTP2RUD_cL0)
 
 1. So Far Away 
 2. Money For Nothing 
@@ -28,4 +28,4 @@ Paradoxalement, l'album reste connu pour son single Money for Nothing, particuli
 8. One World 
 9. Brothers In Arms
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/direstraits.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/direstraits.jpg)

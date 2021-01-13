@@ -14,7 +14,7 @@ C'est en Angleterre et en France qu'il enregistre son deuxième album toujours s
 
 La réelle fin de l'album "Deluxe" est constituée par les bonus : des remix et versions acoustiques. Cela ne rajoute pas forcément grand chose au morceau mais cela fait plaisir au fan. Au final, Christophe Willem sort un album atypique dans la pop française, bien que très imparfait. Cela lui permet d'installer son personnage tout en ne dénaturant pas sa voix. Ira-t-il encore plus clairement dans le trip hop, ou l'electro rock dans son troisième album. Le succès de celu- ci lui permet d'envisager l'avenir avec sérénité. Reste que dans le genre, on est encore loin des meilleures production britanniques car on a voulu trop en faire.
 
-[La Video](https://www.youtube.com/watch?v=5qccmHUjdIo)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=5qccmHUjdIo)
 
 01. Ouverture 
 02. L'homme en noir 
@@ -38,4 +38,4 @@ Bonus Deluxe
 4. Si je tombais 
 5. Walk away (duo avec Skye)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/willemcafeine.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/willemcafeine.jpg)

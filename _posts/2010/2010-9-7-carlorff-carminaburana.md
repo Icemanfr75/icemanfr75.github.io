@@ -14,7 +14,7 @@ Les deux premiers morceaux sont très proches l’un de l’autre, "O Fortuna" �
 
 Pourquoi l’oeuvre de Carl Orff a-t-elle rencontrée un tel succès, au point d’éclipser tout ce qu’il a fait ensuite ? Difficile à dire car il essaya de retrouver des recettes similaires, comme dans ses adaptations des contes de Grimm. Il complète son tryptique paien par "Catulli Carmina" en 1943 et "Trionfo di Afrodite", en 1953. Il écrit beaucoup moins ensuite et ouvre une école en 1961, à Salzbourg. Il s’éteint en 1982 et laisse en héritage cette oeuvre devenue intemporelle et que beaucoup croient plus ancienne.
 
-[la Video](https://www.youtube.com/watch?v=MPjy55Y6hWU)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=MPjy55Y6hWU)
 
 Fortuna Imperatrix Mundi
 * i : O Fortuna 
@@ -46,4 +46,4 @@ Fortuna Imperatrix Mundi
 * xxiv : Ave formosissima Fortuna Imperatrix Mundi ("Fortune, Empress of the World") 
 * xxv : O Fortuna (reprise)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/carminaburana.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/carminaburana.jpg)

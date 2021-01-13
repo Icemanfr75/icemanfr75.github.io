@@ -17,8 +17,8 @@ Mais alors c'est oublier les découvertes de **ABBA** en 1974, ce qui aura tenda
 Cette année c'est la Norvège qui organise. C'est en millions d'Euros que ce chiffre le coût de l'émission. Après une vague Eurodance à tendance folklorique venant des Balkans, le concours a retrouvé sa pluralité de style sans éviter l'écueil de la chanson classique avec chœur. Si la Biélorussie fait dans le kitsch qui se remarque avec des robes papillons, il y a de bonnes surprises avec **Juliana Pasha**, la candidate albanaise et un titre bien dans l'air du temps avec des relents disco.
 
 
-[La Video](http://www.youtube.com/watch?v=qgeklMIc6_k)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=qgeklMIc6_k)
 
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/eurovision1.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/eurovision1.jpg)
 

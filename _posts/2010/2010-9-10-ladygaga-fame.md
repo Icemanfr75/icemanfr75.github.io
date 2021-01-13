@@ -18,6 +18,6 @@ Revers de la médaille, il est finalement difficile de reconnaître la vraie voi
 
 Reste à savoir comment elle va faire survivre à la fois son personnage, le quitter peut-être un jour comme Bowie et passer habilement à travers les modes. Réponse en 2011 sans doute car l'album suivant, The Fame Monster, n'est qu'un mini-album dans le prolongement du précédent.
 
-[la Video](https://www.youtube.com/watch?v=1mB0tP1I-14)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=1mB0tP1I-14)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/ladygagafame.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2010/ladygagafame.jpg)
