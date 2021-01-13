@@ -9,21 +9,21 @@ tags: Automobile, qualité, industrie,
 
 Dans cet article, je vais évidemment traiter un cas général, les subtilités étant différentes selon les constructeurs automobiles. Mais commençons par la fabrication de la voiture que vous achetez.
 
-###La construction
+### La construction
 
 Au départ la voiture est un assemblage de pièces de divers fournisseurs, certaines étant fabriquée par le constructeur dans d’autres usines que celle de montage final. Toutes ces pièces viennent de partout dans le monde, mais on essaye de privilégier une  fabrication proche de l’usine terminale pour limiter les risques et coûts dûs au transport. Ce sont donc des pièces qui arrivent par lot dans l’usine avec des numéros de lot et toute une traçabilité propre au constructeur et à son sous-traitant. On sait donc dire pour chaque type de pièce combien sont arrivées par semaine, mois, année.
 
 Des contrôles sont effectués sur ces lots et au fil du processus de montage du véhicule et ce par échantillonnage. Des contrôles sont eux même imposés par les constructeurs auprès des fabricants de par le retour d’expérience. Un arrêt de fabrication peut donc avoir lieu lors de ces détections et faire l’objet de correction. Mais venons en à la fin du montage du véhicule.
 
-###La Livraison
+### La Livraison
 
 La voiture montée et répondant à la commande du client est embarquée sur le moyen de transport qui l’amènera jusqu’au vendeur du véhicule puis au client. Le transporteur est responsable de la voiture et de sa détérioration. Le vendeur fait la prise en main avec le client en lui expliquant le fonctionnement avec si possible les subtilités du véhicule (exemple, le régulateur de vitesse). Parfois le client est interrogé sur sa satisfaction à la livraison puis vient le moment de la première révision, l’occasion d’avoir des remontées de la clientèle. Et enfin vient la vie du véhicule avec ses aléas, ses usures. Le client mécontent vient à son garage et exprime son mécontentement, décrit sa panne.
 
-###L'Après Vente
+### L'Après Vente
 
 A ce moment, il peut y avoir divers cas de figures. Il ne faut pas oublier que le garage est souvent une société privée et indépendante du constructeur. Elle fait partie d’un réseau et se doit donc de respecter des standards, de connaître le véhicule et de remonter les problèmes au constructeur ce qui peut aboutir à des évolutions plus ou moins discrètes tout au long de la vie “série” du véhicule. Mais le client qui a une panne ne voit pas tout cela. Lorsqu’il a une panne, le garage essaye évidemment de réparer et de minimiser le coût pour lui par une intervention rapide et efficace. Les informations sont plus ou moins bien remontées au constructeur via les systèmes d’information après-vente. Pour faire intervenir la garantie, il y a un système de validation et de “crédit” qui peut être jugé trop long par le garage et aboutir à de mauvaises réparations s’il ne joue pas le jeu. Car c’est la garage qui va devoir engager des frais remboursés ensuite par le constructeur au titre de la garantie.
 
-###Gestion d'un problème qualité
+### Gestion d'un problème qualité
 
 Mais venons-en au cas d’un défaut sur le véhicule. Une usure anormale d’un organe de sécurité est détecté sur un, puis deux, trois….véhicules. Le seuil d’alerte est atteint et le service qualité du constructeur se met à enquêter. Il alerte le réseau pour avoir des remontées. Il cherche aussi à identifier le problème technique et comment y remédier. Ce remède a un coût C par véhicule. Il faut savoir combien de véhicules peuvent être touchés. Le constructeur va donc chercher à définir une fenêtre de temps pendant laquelle un nombre N de véhicule a été livré. Cela donne un coût global C x N.
 
