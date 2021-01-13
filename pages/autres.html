@@ -10,7 +10,7 @@ title: Autres sujets - Automobile, Géopolitique, Environnement
     {% for post in site.posts %}
     {% if post.category contains "automobile" %}
     <li>
-      <span class="date">{{ post.date | date: "%B %e, %Y" }} - </span>
+      <span class="date">{{ post.date | date: "%m/%d/%Y" }} - </span>
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
       <span class="category">{{ post.category | categorie : "%B" }}</span>
     </li>
@@ -25,7 +25,7 @@ title: Autres sujets - Automobile, Géopolitique, Environnement
     {% for post in site.posts %}
     {% if post.category contains "geopolitique" %}
     <li>
-      <span class="date">{{ post.date | date: "%B %e, %Y" }} - </span>
+      <span class="date">{{ post.date | date: "%m/%d/%Y" }} - </span>
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
       <span class="category">{{ post.category | categorie : "%B" }}</span>
     </li>
@@ -40,7 +40,7 @@ title: Autres sujets - Automobile, Géopolitique, Environnement
     {% for post in site.posts %}
     {% if post.category contains "environnement" %}
     <li>
-      <span class="date">{{ post.date | date: "%B %e, %Y" }} - </span>
+      <span class="date">{{ post.date | date: "%m/%d/%Y" }} - </span>
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
       <span class="category">{{ post.category | categorie : "%B" }}</span>
     </li>
@@ -55,7 +55,7 @@ title: Autres sujets - Automobile, Géopolitique, Environnement
     {% for post in site.posts %}
     {% if post.category contains "vegan" %}
     <li>
-      <span class="date">{{ post.date | date: "%B %e, %Y" }} - </span>
+      <span class="date">{{ post.date | date: "%m/%d/%Y" }} - </span>
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
       <span class="category">{{ post.category | categorie : "%B" }}</span>
     </li>
