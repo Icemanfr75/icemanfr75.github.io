@@ -1,5 +1,4 @@
 Ce blog est basé sur Jekyll Now de [Barry Clark](https://github.com/barryclark/jekyll-now)
-Attention, le bon fichier index.html est index_old.html, car le site est redirigé !
 
 Il consiste en un miroir des meilleurs articles de mon blog principal, [Cheziceman.wordpress.com](https://cheziceman.wordpress.com), pour ne plus avoir ni publicité, ni cookie.
 
