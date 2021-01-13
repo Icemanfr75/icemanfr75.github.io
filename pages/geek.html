@@ -9,7 +9,7 @@ title: Geekeries
     {% for post in site.posts %}
     {% if post.category contains "geek" %}
     <li>
-      <span class="date">{{ post.date | date: "%B %e, %Y" }} - </span>
+      <span class="date">{{ post.date | date: "%m/%d/%Y" }} - </span>
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
       <span class="category">{{ post.category | categorie : "%B" }}</span>
     </li>
