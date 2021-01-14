@@ -8,7 +8,7 @@ tags: culture, environnement, pollution, tourisme, vietnam
 
 En février 2011, lors de la période du Têt, le lac s’éveillait avec une curieuse brume. Ce n’est que l’habituelle pollution de la ville mais elle est particulièrement visible en ce lieu. Quelques vieux pédalos en forme de cygne sont encore utilisés mais les habitants et touristes sont plus attirés par la pagode qui est sur l’est du lac. Au sud, ce sont les ambassades qui jouxtent la rive. Entre les deux, ce sont des restaurants flottants attendant la belle saison pour reprendre de leur aura.
 
-![Lac](https://cheziceman.files.wordpress.com/2016/10/hanoihotay.jpg)
+![Lac](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2012/hanoihotay.jpg)
 
 Mais le visiteur attentif notera rapidement l’odeur qui se dégage du lieu, les nombreux déchets flottants et les poissons morts sur les rives. Car Hanoi souffre, comme sa rivale Saigon, du mal des grandes cités en fort développement : le manque d’égouts. Cela peut se voir aussi par les plantes qui prolifèrent dans l’eau jusqu’à l’étouffer parfois.
 

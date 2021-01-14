@@ -10,7 +10,6 @@ Pretexte car en effet, comme souvent dans l'exercice du spectacle musical réuni
 
 Pretexte aussi de réunir deux héros dans la grande tradition de la girl et du boy next door : Une voix claire, pas franchement de charisme et une histoire d'amour d'un classicime éprouvé pour ne pas dire éculé. Après tout, beaucoup de comédies musicales des années 40 n'ont pas beaucoup marqué par leurs scénarii. Mais le film vaut évidemment pour son alliance de numéros musicaux réunissant de grands hits de l'époque rock et hard FM. Le chorégraphe Adam Shankman se colle donc à la réalisation après Hairspray (autre adaptation de Broadway) et quelques épisodes de Glee. Hasard ou pas, l'hymne du film est le même que celui de cette série TV musicale : Don't stop Believin de **Journey**. Question hits, le film est riche avec de nombreux "Mash Up" (mélange de morceaux) dont voici la liste.
 
-
 * "Sister Christian" (Night Ranger)/ "Just Like Paradise"(David Lee Roth) / "Nothin' but a Good Time"(Poison)
 * "Juke Box Hero" (Foreigner) / "I Love Rock 'n' Roll" (Joan Jett)
 * "Hit Me with Your Best Shot" (Pat Benatar)
@@ -46,6 +45,6 @@ En dehors de Kiss ou de Motley Crue, il ne manque pas grand chose pour le bonheu
 
 Car ce film n'est surtout pas à prendre au premier degré, comme le hard FM ne l'était pas lui même. Il s'agit, comme l'univers musical qu'il dépeint, de prendre une bonne dose de fun, de délire et de musique pendant 2h. Et là, on en a pour son argent. On en oublie les faiblesses de l'histoire et autres défauts pour simplement "prendre son pied" avec ce voyage dans le temps, un temps où la musique devenait définitivement une industrie (voir la scène des grands pontes des maisons de disque), mais conservait encore de l'authenticité. Les fans de cette musique ressortiront avec un sourire, garanti ! Echec probable à sa sortie en France, ce film gagnera, sans nul doute, ses gallons au fil du temps, quand les acheteurs de vinyls des Tower Records et VirginMegastore ressentiront encore plus cette nostalgie de leur jeunesse et quand leurs enfants voudront comprendre ce qu'était cette époque charnière. So 'Cum on Feel the Noize of Rock'n Roll... Forever !
 
-[la video](https://www.youtube.com/watch?v=USxhXb5VC5E)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=USxhXb5VC5E)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/rockofages.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2012/rockofages.jpg)

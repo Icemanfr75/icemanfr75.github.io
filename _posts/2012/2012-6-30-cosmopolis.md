@@ -6,6 +6,8 @@ tags: Cinéma, finance, 2010s,
 ---
 **Un nouveau film de Cronenberg reste toujours un évènement pour une frange de cinéphiles. Pour ma part, j’ai toujours eu du mal avec ce cinéaste qui m’interpelle plus par les sujets de ses films que par la mise en scène souvent lente et pesante. Reconnaissons lui le fait d’avoir son style. Alors, Cosmopolis est-il plus proche d’un Existenz ou d’un Dead zone ou La Mouche ?**
 
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2012/cosmopolis.jpg)
+
 L’histoire a tout pour attirer le spectateur : Eric Packer, vingt-huit ans, multi-milliardaire de Wall Street, se rend chez le coiffeur en limousine le jour d’une visite présidentielle à Manhattan à New York et de l’enterrement d’une star du rap soufie. Il voit peu à peu son “monde” se détruire.
 
 Le déroulement est très conforme au style Cronenberg : un quasi huis clos froid et lent dans une limousine futuriste, des plans contemplatifs d’un manhattan en pleine émeute, des suites de dialogues dont on a des difficultés à trouver le lien. Ajoutons cependant que le livre dont est issu le film comprenait ces même dialogues repris presque mot pour mot. Mais Cronenberg s’attaque sans complexe à l’oeuvre que beaucoup jugeaient inadaptable. Si le film risque de faire fuir des spectateurs, on peut y voir un rapprochement avec son collègue David Lynch dans cette succession de plans à la compréhension ésotérique, entre rêve et réalité.

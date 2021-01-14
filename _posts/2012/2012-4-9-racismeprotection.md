@@ -5,7 +5,9 @@ category: reflexion, vegan
 tags:   politique, protection animale, racisme, spécisme
 ---
 
-**En fréquentant les forums et discussions sur les réseaux sociaux sur le sujet de la protection animale, ou même en discutant dans les manifestations, on rencontre de plus en plus de propos racistes qui visent les musulmans, les asiatiques, les noirs, etc…. A se demander si certains défenseurs de la cause animale mesurent la portée de leurs propos.** *(article retouché depuis sa première parution sur Iceblog)*
+**En fréquentant les forums et discussions sur les réseaux sociaux sur le sujet de la protection animale, ou même en discutant dans les manifestations, on rencontre de plus en plus de propos racistes qui visent les musulmans, les asiatiques, les noirs, etc…. A se demander si certains défenseurs de la cause animale mesurent la portée de leurs propos.** 
+
+*(article retouché depuis sa première parution sur Iceblog)*
 
 En effet, lorsque l’on protège les animaux, on se rapproche de l’anti-spécisme, une pensée qui n’est que le prolongement de l’antiracisme. Considérer les animaux comme des « frères » devrait normalement s’accompagner de la même pensée vis à vis des autres humains, qu’ils soient d’une religion différente, d’une race (pour ceux qui en sont encore à cette notion) différente, ….
 

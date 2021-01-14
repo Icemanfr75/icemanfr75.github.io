@@ -8,21 +8,21 @@ tags: Automobile, industrie, saab, suède, histoire
 
 Saab est issue de l'industrie aéronautique suédoise. Née au sortir de la guerre, la société SAAB Automobile se lance avec un premier modèle en 1949 : la Sabb 92, le 9 restant toujours un chiffre fétiche pour la marque.
 
-![photo1](https://cheziceman.files.wordpress.com/2016/01/800px-saab_92001.jpg)
+![photo1](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2012/saab92.jpg)
 
 Comme on peut le voir, le véhicule est atypique, extremement aérodynamique, compensant ainsi son petit moteur bicylindre de 800 cm3.
 
 Elle est remplacée en 1955 par la Saab 93, plus cossue et large mais encore sous motorisée par un 800 cm3 de seulement 33ch. En 1960 elle est remplacée par le Saab 96 et par le break Saab 95, une carosserie très prisée en Suède. Saab utilise alors un V4 d'origine Ford de 65ch ce qui transfigure le véhicule.
 
-![photo2](https://cheziceman.files.wordpress.com/2016/01/saab_96_1965.jpg)
+![photo2](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2012/saab96.jpg)
 
 La ligne reste encore aérodynamique et la calandre s'affirme. Entre temps, la marque s'est regroupée avec le fabricant de camion Scania. La marque produit un original coupé 97 alias Sonett et sort la mythique 99.
 
-![photo3](https://cheziceman.files.wordpress.com/2016/01/1974saab99ems-us.jpg)
+![photo3](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2012/saab99.jpg)
 
 Robuste, aérodynamique et performante, c'est LA Saab qui permet à la marque d'attaquer le marché nord-américain. Le style sera repris et modernisé par l'autre mythe de la marque : la 900. Moche pour les uns, adorée par les autres, la 900 ne laisse pas indifférent, chose si rare dans la production automobile.
 
-![photo4](https://cheziceman.files.wordpress.com/2016/01/saab900t16sfr.jpg)
+![photo4](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2012/saab900.jpg)
 
 A leur volants, une génération de pilotes de rallye suédois vont se faire la main sur les routes du pays avant de gagner sur tous les terrains du monde. Saab a une image à la fois sportive et robuste, trustant les palmares des crash test et de fiabilité pendant longtemps malgré la sophistication de leurs moteurs turbocompressée. Car Saab et Turbo ont une hisoire liée et les versions Aero sont synonymes de performances extrèmes, parfois même trop pour leur chassis.
 

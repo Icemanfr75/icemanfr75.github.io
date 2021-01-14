@@ -6,6 +6,8 @@ tags: cinéma, 1980s, cinematheque ideale, comedie, homosexualité
 ---
 **Connu pour sa « panthère rose », le cinéaste Blake Edwards l’est aussi pour ce petit chef d’oeuvre de comédie qu’est Victor, Victoria, sorti sur les écrans en 1982. En réalité, c’est un remake d’un méconnu film allemand de 1933, à l’époque où l’homosexualité avait encore cours à Berlin.**
 
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2012/victorvictoria.jpg)
+
 L’homosexualité est bien l’un des thèmes abordés dans ce film également musical :
 
 *Dans les années 1930 à Paris, Victoria Grant, une chanteuse classique, ne trouve plus aucun contrat pour subsister. Alors qu’elle touche le fond, elle rencontre un homosexuel quinquagénaire, Carroll Todd dit « Toddy », qui imagine de la faire passer pour un homme spécialisé dans les spectacles de travesti.Sous le nom de Victor Grezhinski, elle connaît dès lors un immense succès dans les cabarets parisiens, au point d’attirer l’attention de King Marchand, un producteur de spectacles américain en lien avec la pègre de Chicago, grand amateur de femmes et qui est extrêmement troublé de se sentir attiré par celle qu’il croit être un homme*
@@ -16,7 +18,7 @@ Si le film fonctionne, c’est tant pour ses acteurs que pour des dialogues d’
 
 Le film est disponible en DVD et dans les meilleures crèmeries.
 
-[la video](https://youtu.be/Jmg5g0eU560)
+En video : [![video](/images/youtube.png)](https://youtu.be/Jmg5g0eU560)
 
 
 

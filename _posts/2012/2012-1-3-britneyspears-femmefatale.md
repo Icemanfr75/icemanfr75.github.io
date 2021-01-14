@@ -12,6 +12,6 @@ Et c’est vraiment une transformation. Le « La » est donné par le premier ti
 
 Mais l'ensemble de l'opus permet à la chanteuse d'être au goût du jour sans totalement se perdre. Efficace est le mot mais ce genre d'album pose un problème : Comment retranscrire des morceaux surproduits en live? Et c'est bien le défi de la chanteuse qui semble en plus bégayer ses chorégraphies. Le prochain album risque donc d'être moins ambitieux coté production.
 
-[la video](https://www.youtube.com/watch?v=qzU9OrZlKb8)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=qzU9OrZlKb8)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/femmefatale.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2012/femmefatale.jpg)

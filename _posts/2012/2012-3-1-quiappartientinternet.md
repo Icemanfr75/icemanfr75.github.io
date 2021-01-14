@@ -12,7 +12,7 @@ C’est aussi à cette époque que l’Internet se structure avec la fondation d
 
 C’est justement l’un des objets de la réunion d’aujourd’hui de l’ITU, instance de l’ONU qui réunit 193 États membres. Toute la difficulté vient du fait que c’est Internet Society qui devrait décider du contrat avec l’ICANN. Or l’ITU souhaiterait aussi récupérer la gestion de l’Internet et ainsi prendre la succession de l’ISOC. Rappelons au passage que c’est l’ITU qui a standardisé certaines normes de télécommunication, mais que son manque de réactivité face aux nouvelles technologies lui a fait perdre de son aura face à l’ISOC et ses ramifications comme l’<em><a title="Internet Engineering Task Force" href="http://fr.wikipedia.org/wiki/Internet_Engineering_Task_Force">Internet Engineering Task Force</a> </em> (IETF). L’ICANN elle-même se plaint de son manque de budget et de pouvoir mondial pour gérer un Internet dont la liberté est attaquée. Il s’agit donc d’un problème géopolitique et qui trouverait toute sa place au sein de l’ONU, à certaines conditions. Et ce sont ces conditions précisément qui suscitent de fortes inquiétudes chez les États-Unis qui craignent que l’Internet n’échappe totalement à leur contrôle ou, du moins, à leur influence.
 
-![photo1](https://cheziceman.files.wordpress.com/2016/10/internetmap.png)
+![photo1](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2012/internetmap.png)
 
 Un autre problème de gestion est celui de l’infrastructure historiquement très centrée sur les États-Unis. Le lecteur consultera avec intérêt la <a href="http://www.cablemap.info/">carte</a> interactive qui lui est consacrée. Il en ressort clairement que cette centralisation pose des problèmes de saturation de débit. L’action contre Megaupload a d’ailleurs eu entre autres effets recherchés ou non d’éviter une congestion…
 
@@ -20,5 +20,5 @@ Là encore, des décisions doivent être prises sur la mise en place de nouvelle
 
 Au final, il semble que nous touchons aux limites du Net originel, lequel doit passer à une véritable phase de mondialisation. La carte ci-dessous montre les 3 grands pôles qui se disputent le débit : Asie (Inde et Chine essentiellement), Europe et États-Unis. Elle est à mettre en relation avec la carte des échanges entre continents :  Entre Asie et Europe, le trafic progresse, mais transite par les États-Unis ! Avec les possibilités de filtrage et espionnage, on imagine aisément l’intérêt géopolitique d’une telle structure et de l’appropriation d’internet. S’il est peu probable qu’une décision définitive sorte à l’issue de cette réunion, des tendances devraient se dessiner.
 
-![photo2](https://cheziceman.files.wordpress.com/2016/10/internetmap2.jpg)
+![photo2](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2012/internetmap2.jpg)
 

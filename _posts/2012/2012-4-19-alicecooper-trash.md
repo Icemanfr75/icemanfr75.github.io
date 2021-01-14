@@ -14,7 +14,7 @@ Alice Cooper quitte le son metal pour revenir un son Hard Fm plus vendeur et fé
 
 Et quoi de mieux qu'un hit aussi percutant que "Poison" pour commencer cela avec une intro qui reste immanquablement dans la tête. Alice y joue de son timbre et de ses intonations si particulières tandis que les choeurs, marque de fabrique de Child, appuient le refrain catchy du morceau. Mais Alice retrouve aussi avec bonheur ses racines hard rock'n roll sur "Spark in the Dark" aux envolées de guitare très symboliques également. Mais avec son intro en choeur, "House of Fire" s'éloigne clairement du rock psyché des débuts. Et que dire d'un "Why Trust You" qui n'aurait pas dépareiller sur un album de Kiss, même si son impact plus metal rappelle aussi les 2 précédents opus. Il fallait évidemment une balade comme Only my heart talkin', plutôt banal. "Bed of Nails" est également un hit en puissance à l'ambiance typique d'Alice Cooper avec l'utilisation d'un son d'orgue. "This Maniacs in love with you" utilise plus les claviers typiques du hard FM tandis que "Trash" bénéficie d'une intro très rock'n roll avec un coté "Aeromsith de l'époque". Le sirupeux "Hell is Living without you" allie le style de Cooper et de Child et l'album se termine sur un très rock "I'm your Gun" donnant une envie de se déchaîner. Efficace, ambiancé, léché, beaucoup de qualificatif conviennent à cet album symbole d'une époque qui marquera aussi durablement le style d'Alice Cooper. Un Alice Cooper qui continuera sa carrière habilement après ce retour dans les sommets des charts, surfant sur les modes et allant même au festival de Montreux. Mais pour la suite, nous en reparlerons bientôt....
 
-[La Video](https://www.youtube.com/watch?v=Qq4j1LtCdww)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Qq4j1LtCdww)
 
 1. Poison
 2. Spark in the Dark
@@ -31,4 +31,4 @@ Alice Cooper : Chant, John McCurry: guitare, Hugh McDonald: basse, Bobby Chouina
 
 Avec la participation de : Steven Tyler, Jon Bon Jovi, Kip Winger, Joe Perry, Richie Sambora, Steve Lukather, Kane Roberts, Guy Mann-Dude, Tom Hamilton, Joey Kramer, Jack Johnson, Paul Chiten, Steve Deutsch, Gregg Mangiafico,Myriam Valle, Maria Vidal, Diana Graselli, Desmond Child, Bernie Shanahan, Louie Merlino, Alan St. John, Tom Teeley, Michael Anthony, Stiv Bator, Hugh McDonald, Jango, Jamie Sever, Joe Turano.
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/alicecoopertrash.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2012/alicecoopertrash.jpg)
