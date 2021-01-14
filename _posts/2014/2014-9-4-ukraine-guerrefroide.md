@@ -4,13 +4,13 @@ title: Géopolitique - Ukraine, la guerre ne sera plus froide
 category: geopolitique, english
 tags: europe, Geopolitique, guerre, OTAN, russie, ukraine
 ---
-**Traduction de l'article paru sur <a style="color:#ff0000;" href="http://www.unidivers.fr/ukraine-la-guerre-froide-vladimir-poutine/">Unidivers</a>**
+**Traduction de l'article paru sur [Unidivers](http://www.unidivers.fr/ukraine-la-guerre-froide-vladimir-poutine/)**
 
 **In Ukraine, the government is preparing its opinion to a "great war" against the powerful Russian neighbor. Editorial writers often talk of a new Cold War between the West and a post-Soviet Russian empire led by Tsar Putin and composed of politically immature people and followers. Cold War? Has the former cold war been really finished? It seems that we are entering into an undeclared war full of uncertainties.**
 
 Warmongering of the American establishment has escalated in recent months. Hesitation and procrastination in the Middle East are competing to anti-Chinese statements and a european policy without any strategic direction.
 
-![photo](http://cheziceman.files.wordpress.com/2014/09/otan.jpg)
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/otan.jpg)
 
 During the Cold War, the position of defense batteries and troops in Europe was designed to deter any invasion of Soviet troops and to establish a front line. But since the collapse of the Eastern bloc, NATO is trying to nibble territorial space in the name of democracy and of the market economy while Russia and its federation (a quarter of the land on Earth) can not bring itself to abandon its empire or its expansionist policy. From the 19th century, long before the bloody Bolshevik adventure, Russia knows the internal conflicts in Chechnya and in the rest of the Caucasus. The harsh doctrine is there : fight any rebellion that could become a snowball into Russian territory and consolidate installing Russians in neighboring, Slavic or not, territories (here Ukraine and Estonia in the Baltics ). This strategy is more or less successful. If the Russian-speaking populations are often unappreciated native (or hated in Estonia where they are at the origin of the relative majority of offenses, crimes and antisocial behavior) in 1992, Abkhazia seceded from Georgia to be closer to Russia. To do this, it is still the old method of traitor and enemy who is summoned. Former Georgian President Shevardnadze (former foreign minister under Gorbachev) denounces American maneuvers (through USAID and the Open Society Foundation of George Soros) in Georgia (non-Slavic origin, but protocaucasian and original land of European man) who hesitated between the two poles of influence. The United States contended his rival Gamsakhurdia before leaving him, letting a country plagued by multiple movements disorganized or less rebellious and often mafia.<!--more-->
 

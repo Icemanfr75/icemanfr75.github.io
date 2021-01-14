@@ -14,6 +14,6 @@ Ne croyez pas que l'on va vous lâcher si facilement. Non, il faut se balancer e
 
 L'album rencontre déjà un succès autant critique que public cette fois. Et Tune-Yards sera en tournée en Europe. A ne pas rater, assurément. En attendant on peut s'évader avec ce magnifique album.
 
-[la video](http://www.youtube.com/watch?v=as91OCbbEsc)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=as91OCbbEsc)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/nikkinack.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/nikkinack.jpg)

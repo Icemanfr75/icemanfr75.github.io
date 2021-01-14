@@ -14,6 +14,6 @@ Boy George est donc de retour, avec un changement physique : Moins d'excentricit
 
 Boy George surprend et rassure à la fois. Par gout personnel, j'apprécierai de le voir continuer sur cette voix electro dub qui lui sied si bien et semble bien faire la synthèse d'une carrière si riche. 18 ans de silence qui finalement sont profitables !
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/boy-george-this-is-what-i-do-album-art.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/boygeorge.jpg)
 
-[la video](http://www.youtube.com/watch?v=DEuuGObqchs&amp;w=560&amp;h=315)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=DEuuGObqchs&amp;w=560&amp;h=315)

@@ -12,6 +12,6 @@ Christophe Miossec a commencé sa carrière sur la scène brestoise dans les ann
 
 "Répondez par oui ou par non" est l'exemple de ces questions qui reviennent sans cesse et restent sans réponse avec une ligne de piano qui rajoute à la dramatique de la situation. C'est aussi le moment où l'on s'appercoit qu'on a été "Bête, comme j'étais avant" (écrit avec **Stephan Eicher**). Le chanteur est poête et reste un amoureux et la similitude avec certains Gainsbourg de la première heure est flagrante, comme ce "A l'attaque". Le titre exprime si bien qu'il ne se laissera pas faire par la vie, même "en vrac". Car s'il a cotoyé les poisons ( "Le plaisir, les poisons"), il n'a heureusement rien perdu de l'acidité de sa plume pour se repencher sur les rêves perdus, ou les mirages que l'on suit. Un album de lucidité ? Il l'a toujours été, à sa manière, mais les thèmes sont ici plus larges. Comment mieux conclure que par "Des Touristes" où il clame que "Tout baigne" ? Une voix et des choeurs féminins le rejoignent. Un signe aussi que l'artiste n'est rien, seul... mais aussi un instant de joie partagée, la joie de continuer à nous émouvoir par ses textes et sa musique.
 
-[la video](http://www.youtube.com/watch?v=as1vAIqcqAk)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=as1vAIqcqAk)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/miossec2014.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/miossec2014.jpg)

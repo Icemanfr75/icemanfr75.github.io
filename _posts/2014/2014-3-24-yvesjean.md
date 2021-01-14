@@ -14,6 +14,6 @@ Ce don pour les refrains et le groove imparable sont la force de cet album qui n
 
 Un artiste et un album que l'on aimerait rencontrer enfin un succès plus large.
 
-[la video](http://www.youtube.com/watch?v=GUz8_CgzgXw)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=GUz8_CgzgXw)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/yvesjean.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/yvesjean.jpg)

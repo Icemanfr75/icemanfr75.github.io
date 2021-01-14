@@ -11,6 +11,6 @@ Le son de synthé introduisant le premier titre, Mountain King, donne tout de su
 
 Voilà donc un album très homogène, cohérent et volontairement rétro. Très bien produit, il crée la surprise pour ceux qui ont la nostalgie de cette période souvent injustement méprisée. Space March n'aura sans doute pas la carrière de ses modèles mais mérite bien un petit détour, avant, pourquoi pas, de se replonger dans cette période musicale.
 
-[la video](http://www.youtube.com/watch?v=oGtjZGkD-A0)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=oGtjZGkD-A0)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/spacemarch.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/spacemarch.jpg)

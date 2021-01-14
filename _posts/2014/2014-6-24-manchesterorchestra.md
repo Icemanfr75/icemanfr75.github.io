@@ -16,6 +16,6 @@ Disons que nous avons cloturé la face A....mais alors on s'endort vraiment trop
 
 Il est rare de voir un groupe, de nos jours, mettre 4 albums pour percer. Cela semble pourtant bien le cas avec Manchester Orchestra qui atteint sa plénitude. Un bon tiers de l'album mérite le détour et c'est si rare de nos jours que l'on a déjà envie d'écouter le prochain. La comparaison avec REM n'était pas innocente, tant la trajectoire de ce groupe a aussi mis du temps à sortir des Etats-Unis.
 
-[la video](http://www.youtube.com/watch?v=w7o6ZJ2GJzo)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=w7o6ZJ2GJzo)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/cope.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/cope.jpg)

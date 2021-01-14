@@ -14,6 +14,6 @@ Oh, serait-il fatigué avec l'intro synthétique de "An Eloquent" ? Pas vraiment
 
 Après tout ça, que peut on dire sinon un "Mission Accomplie". On aurait pu craindre un embourgeoisement, une dérive "branchouille" mais il n'en est rien. Le groupe reste le petit caillou rock dans notre paysage musical trop sage. A se demander pourquoi il se retrouve si seul aux sommets des charts dans ce créneau...Mais pour ça, on a les (à suivre...)
 
-[la video](http://www.youtube.com/watch?v=Bueh9v5XSrk&amp)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=Bueh9v5XSrk&amp)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/shaka-ponk-2014-white-pixel-ape.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/shakaponkwhite.jpg)

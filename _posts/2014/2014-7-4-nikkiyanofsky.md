@@ -14,7 +14,7 @@ Le plaisir d'entendre "On the sunny side of the street" dans une reprise aussi e
 
 Phil Ramone disparu, c'est maintenant avec un de ses compères qu'elle poursuit une carrière prometteuse. En 2013, elle signe avec Quincy Jones. Avec déjà une telle carte de visite, elle semble promise à une belle carrière, tant dans le jazz qu'ailleurs.
 
-[la video](http://www.youtube.com/watch?v=CaqCtiG16Vs)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=CaqCtiG16Vs)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/nikki-yanofsky-nikki.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/nikkiyanofsky.jpg)
 

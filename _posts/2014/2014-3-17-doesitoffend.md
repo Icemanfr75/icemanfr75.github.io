@@ -14,6 +14,6 @@ Là, l'album semble vraiment nous porter dans le big beat, bien gras à souhait.
 
 Que dire après tout ça? Que c'est très désorientant, parfois maladroit, jamais insipide. Le succès moindre s'explique mais montre aussi la richesse d'inspiration d'un trio qui ne peut rester dans un carcan musical. Atteindront ils pour autant leurs objectifs en solo ? Pas si sur.
 
-[la video](http://www.youtube.com/watch?v=wQ6mo5G6lFk)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=wQ6mo5G6lFk)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/dioyy.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/dioyy.jpg)

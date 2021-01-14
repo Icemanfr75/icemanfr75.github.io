@@ -16,8 +16,8 @@ Pour le reste, on a « Give me a sign » et ses guitares et ses choeurs rock'n
 
 Bref, ce "Shanghaied" est explosif et c'est un vrai retour gagnant pour Age Sten Nilsen  !
 
-[la video](https://www.youtube.com/watch?v=hlqE7VYRJD0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=hlqE7VYRJD0)
 
 Ps : A noter que le bonus track sur l'import Japon « Access Denied » est juste incontournable.
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/asnammunition-shangaied.gif)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/asnammunition.gif)

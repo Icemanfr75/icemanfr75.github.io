@@ -10,7 +10,7 @@ Yaaba Funk est de ceux là : Entre world, jazz, funk, dub et RnB, voilà un coll
 
 My Vote Dey Count est leur deuxième album pour ceux qui s'affichent comme un groupe d' Afro Funk. Leurs titres parlent aussi de métissage, de problèmes raciaux, de guerres, de leurs pays d'origines, comme le Ghana, par exemple. Des titres très Afrobeat qui groovent, qui embalent et qui fusent de partout entre cuivres, voix féminines et masculines et percussions. Il faudrait finalement peu de chose pour que leur musique traverse le channel.
 
-[la video](https://www.youtube.com/watch?v=2ObdchV8-oo)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=2ObdchV8-oo)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/yaabafunk.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/yaabafunk.jpg)
 

@@ -6,7 +6,7 @@ tags: écologie, environnement, pollution, recyclage,
 ---
 **Que sait-on de la vie et la mort des ordinateurs et autres gadgets électroniques ? Que fait-on réellement pour leur survie et leur recyclage ? Quel est le coût pour les ouvriers, la rentabilité pour les entreprises, l’impact environnemental ? Sans détailler chaque point, un simple exemple peut déjà éclairer notre lanterne.**
 
-![photo](https://cheziceman.files.wordpress.com/2016/01/recycle-610x225.jpg)
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/recylagepc.jpg)
 
 L’image ci-dessus montre les restes d’un PC portable âgé de seulement 7 ans. Il ne démarrait plus ; la panne ne pouvait être résolue sans un démontage complet. Ce n’était ni le disque dur, ni la mémoire, ni l’écran, ni le processeur, mais un petit composant à 10 pattes et quelques centimes d’euros qui avaient fini par brûler au fin fond de la carte mère.
 

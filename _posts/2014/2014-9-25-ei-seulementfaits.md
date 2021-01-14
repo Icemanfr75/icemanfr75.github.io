@@ -5,7 +5,8 @@ category: geopolitique, english
 tags: aqmi, EI, Geopolitique, irak, mali, moyen orient, yemen
 ---
 **Les récupérations politiques les plus détestables ont lieu après l'assassinat de l'otage français capturé dans le sud de l'Algérie. Mais avant de s'enflammer et de réclamer n'importe quoi, revenons aux faits.**
-(in english at the bottom)
+
+*(in english at the bottom)*
 
 L'égorgement et autres barbaries du genre n'est hélas pas une pratique réservée à ce groupe terroriste. Il faut se souvenir des barbaries commises dans des guerres récentes par des occidentaux (guerre d'Algérie, Vietnam par exemple). La guerre est une barbarie, tout simplement.
 
@@ -28,6 +29,8 @@ EI est maintenant en train de vendre du pétrole à partir des raffineries captu
 Serait-on intervenu aussi promptement si ces terroristes n'avaient pas investi une région riche en champs pétrolifères ? Actuellement, le Yemen (pays le plus pauvre du golfe persique) est en proie à une rébellion chiite rigoriste faisant des centaines de mort. Si un accord de paix a été signé, sous l'égide de l'ONU, qui sait ce que cette instabilité peut provoquer?
 
 Ces quelques faits énoncés devraient déjà nourrir les réflexions de nos dirigeants.
+
+
 
 **The most detestable political maneuvers occur after the assassination of the French hostage captured in southern Algeria. But before calling to war and claim anything, let's go back to the facts.**
 

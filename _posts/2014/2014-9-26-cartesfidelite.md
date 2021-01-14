@@ -6,11 +6,11 @@ tags: blog, commerce, consommation, Réflexion
 ---
 **À chaque fois que vous passez à la caisse du supermarché, on vous demande maintenant systématiquement « vous avez la carte du magasin ? ». La promesse de ces cartes de fidélité : bénéficier de réductions. Mais sont-elles si généreuses ? Ne sont elles pas orientées et orientantes ? Ne récoltent-elles pas trop d’informations sur vos comportements d’acheteurs ? une enquête durant… 1 an.**
 
-**La simplicité avant tout**
+### La simplicité avant tout
 
 Rien de plus simple pour demander sa carte : Sur le Web ou à la caisse centrale, on vous demande juste de donner son nom, son adresse, sa profession et, parfois, le nombre de personnes dans le foyer. La remise de la carte est immédiate. J'ai testé pour vous 6 enseignes différentes : **Système U, Simply Market (groupe Auchan), Carrefour, Leader Price (groupe Casino), Leclerc, Intermarché**. Et parmi ces 6 groupes, un seul n’utilise pas de carte, mais un système de bon d’achat. Tous ces systèmes fonctionnent à la fois en passant à la caisse, en « drive », en caisse automatique, voire même sur le net. Consultable sur internet également, le bilan des points. Même s’il est plus difficile de savoir comment ils sont comptabilisés.
 
-**Le gain, oui, mais pour qui ?**
+### Le gain, oui, mais pour qui ?
 
 Mais ce qui est intéressant, dans une carte de fidélité, c’est le gain proposé au client. La petite carte à tampon du commerçant de quartier est ici bien loin, et les étals des supermarchés sont constellés de messages offrant des points bonus pour tel article ou des remises en euros pour les détenteurs de la carte. Enfin, en euros, en centimes d’euros devrait-on dire. À travers cette démarche promotionnelle, la volonté est d’orienter le client sur certains produits plutôt que d’autres. Et, bien entendu, ce n’est pas sans contrepartie. Est-ce selon la marge, le stock, les accords passés avec le fournisseur ? Sans doute un peu de tout cela, mais c’est sur ce point que les différentes offres diffèrent.
 
@@ -20,7 +20,7 @@ On voit donc bien que ce système ne profite pas tant que cela au client, mais p
 
 Enfin, Leader Price est un cas à part, notamment dans le monde des hard-discounter. L’enseigne n’offre pas de carte de fidélité, mais propose de s’inscrire sur son site pour recevoir des bons d’achat hebdomadaires. S’ils ne sont valables que dans le magasin choisi, ils sont souvent très compétitifs, faisant baisser le ticket de près de 10%. Mais c’est à chaque magasin de gérer ces offres et selon la zone géographique, nous aurons de grosses variations.
 
-**Utilisation de nos données**
+### Utilisation de nos données
 
 À l’arrivée de ces cartes, de nombreuses personnes ont parlé de l’espionnage qu’elles constituaient sur nos pratiques de consommateurs. Elles permettent de mieux cibler des profils d’acheteurs, dans le type de produit acheté, dans les périodes d’achat, etc. Mieux encore, les enseignes ont maintenant mis en place les « scanneuses », ces petits boitiers qui permettent d’enregistrer ses achats pour passer plus vite à la caisse. L’avantage est considérable pour l’enseigne par rapport à la carte, car elles permettent de connaître l’ordre d’achat et le parcours du consommateur dans le magasin. Plus besoin de magasin-témoin et de consulter des cabinets de consultants spécialisés : les données arrivent directement au gérant qui peut ainsi choisir l’implantation des rayons pour orienter le client vers les zones les plus lucratives.
 

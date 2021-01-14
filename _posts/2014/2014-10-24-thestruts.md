@@ -12,6 +12,6 @@ Et avec ce premier album baptisé Everybody Wants, le mélange prend parfaitemen
 
 Si « She Makes me Feel » peut faire un bon single radio, pas sûr qu’il soit représentatif du talent du groupe avec cette mélodie sautillante et sirupeuse. On prend plus son pied sur « The Machine » où l’on retrouve une inspiration de **The Kinks**, définitivement classic Rock, version vitaminée.On ne pouvait éviter la ballade « You and I », et c’est bien dommage, car on confondrait presque avec un **Maroon 5** avec ces oh oh et cette mélodie pop banale. Rien à voir avec le « Dirty Sex Money » à l’intro stonienne où l’on retrouve un Luke Spiller inspiré. Ca groove, ça rock, et on a même droit à des cœurs à la Queen avant un refrain funky presque disco pour enflammer les dance floors. Et question rock, ces jeunots (ils ont à peine 20 ans), s’y connaissent pour donner quelques riffs de guitare bien efficaces comme dans « Let’s make this happen tonight » ou « Black Swan ». « Where did she go » pourrait bien être un classique rock’n roll tant on a envie de le reprendre en cœur. Et même ce « I Just Know » bien basique qui termine l’album à coup de grop riffs et de chœurs féminins, ne pourra laisser insensible le rocker qui sommeille sur la plage.Reste maintenant à transformer ce premier album en une carrière fructueuse. On a tant vu de météores anglais exploser en vol – Suede ou The Darkness, pour ne citer qu’eux…
 
-[la video](https://www.youtube.com/watch?v=zLN9WpE6jxY?rel=0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=zLN9WpE6jxY?rel=0)
 
-![image](http://cheziceman.files.wordpress.com/2014/12/struts.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/struts.jpg)

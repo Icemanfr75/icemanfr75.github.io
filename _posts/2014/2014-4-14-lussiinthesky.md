@@ -10,6 +10,6 @@ Pourtant sa personnalité reste intacte avec toujours une petite pointe rock pou
 
 L'album se révèle à la fois girly dans ses thèmes, mais vraiment pop-rock, bien plus que le single justement qui n'a rien d'un bon choix. On sent que le format est pensé pour passer en radios. En dehors de "Cargo", plus acoustique (quoique....mais on vous laisse la surprise, tant ce morceau en a ), tous sont autour des 3 minutes. On sent bien plus de travail sur les textes que ce que pourrait laisser présager la pochette acidulée de l'album. C'est bien là tout l'intérêt de cet album par rapport aux modèles qu'ont du façonnés les marketeurs de tous poils. Tout ceci est bien en phase avec la personnalité entrevue dans les années précédentes. Un premier essai solo transformé donc mais qu'on aimerait voir plus rock encore à l'avenir, tant cela lui colle à la peau, tout en gardant cet humour et ce décalage qu'on lui adore.
 
-[la video](http://www.youtube.com/watch?v=VZhqFdCZ6X0)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=VZhqFdCZ6X0)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/lussiincthesky.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/lussiincthesky.jpg)

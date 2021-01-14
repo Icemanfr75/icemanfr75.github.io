@@ -16,6 +16,6 @@ Les mélodies sont d'ailleurs le petit plus qui n'est pas toujours exploité à 
 
 Si l'artiste se cherche encore, il y a un véritable talent dans des arrangements et des choix mélodiques. Tout cela paraît parfois hésitant, maladroit mais captive par son ambiance. C'est peut être finalement la force de l'album : rendre une atmosphère. Et on attend impatiemment la suite, autant comme interprète que comme producteur.
 
-[la video](http://www.youtube.com/watch?v=BdQhoYczwdQ)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=BdQhoYczwdQ)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/thomas-azier.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/thomasazier.jpg)

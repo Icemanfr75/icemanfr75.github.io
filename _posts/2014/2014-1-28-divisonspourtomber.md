@@ -4,9 +4,11 @@ title: Géopolitique - Divisons pour mieux .... tomber
 category: geopolitique, english
 tags: énergie, gaz, Geopolitique, guerre, quatar, russie, syrie, turquie, ukraine
 ---
-**Décidément ce début d'année 2014 est plus qu'agité à travers le monde. Quand on disait que les libertés étaient menacées, cette semaine en est encore l'illustration. Jusqu'où ira-t-on dans l'obscurantisme et la manipulation ? (in english at tbe bottom)**
+**Décidément ce début d'année 2014 est plus qu'agité à travers le monde. Quand on disait que les libertés étaient menacées, cette semaine en est encore l'illustration. Jusqu'où ira-t-on dans l'obscurantisme et la manipulation ?**
 
-**A l'international**
+*(in english at tbe bottom)*
+
+### A l'international
 
 Commençons par l'international et l'**Ukraine** dont on nous présente les manifestations d'une façon tronquée. En effet, si le pays est en proie à nouveau à des luttes de pouvoir, ce n'est plus dans le calme de la révolution orange qui accoucha d'une souris à l'époque. Le pays n'arrive pas à se défaire de la pression du grand frère russe pour des raisons économiques et énergétiques. La corruption règne ce qui provoque l'exaspération légitime du peuple. Mais que propose-t-on à la place du pouvoir en place ? Un autre pouvoir tout aussi corrompu que l'on a déjà vu à l'oeuvre et qui voudrait verser du coté européen ? Ou bien l’extrême droite nationaliste ? Beau programme et on prendra le temps de réfléchir à la chronologie de cette révolution qui intervient juste après l’échec d'un accord avec l'UE portant sur le gaz russe transitant principalement par l'Ukraine. Il y a une réelle défiance de la population par rapport à ses parlementaires et le pays peut sombrer dans le chaos et les extrèmes. Ajoutons à cela le silence pesant qui entoure l'avenir de Tchernobyl dont l'enveloppe s'use peu à peu et l'Europe pourrait encore voir un conflit à ses portes. Rama Yade s'étonne de l'inaction de l'UE. Au contraire, c'est bien une lutte d'influence entre UE et Russie qui se joue là bas.<!--more-->
 
@@ -16,7 +18,7 @@ Et pendant ce temps, le monde s’apprête à tout oublier pour les jeux olympiq
 
 **Definitely the beginning of the year 2014 is more than agitated worldwide. When we said that freedom was threatened,  this week is still a proof of that. How far will we go in obscurantism and manipulation?**
 
-**Internationally**
+### Internationally
 
 Let's begin with the international and Ukraine which was presented in a truncated way . Indeed, if the country is plagued again to power struggles, it is no longer in the quiet of the Orange Revolution which gave birth to a nothing good. The country can not get rid of the pressure of the great Russian brother for economic and energy reasons . Corruption is causing legitimate exasperation of the people. But what do you propose instead of those in power ? Another power just as corrupt as we have already seen at work and wants to pay the European side ? Or the extreme right nationalists ? Nice program and take the time to think about chronology of the revolution that took place just after the failure of an agreement with the EU on Russian gas flowing mainly through Ukraine. Add to that the heavy silence that surrounds the future of Chernobyl whose envelope is used gradually and Europe could still see a conflict on its doorstep . former minister Rama Yade was surprised by the inaction of the EU. Instead , it is a struggle for influence between the EU and Russia that day there.
 

@@ -4,7 +4,7 @@ title: Géopolitique - Ukraine, ingérence financière et embargo
 category: english, geopolitique
 tags: Geopolitique, iran, russie, TAFTA, TTIP, ukraine, usa
 ---
-Version anglaise de l'article d'<a href="http://www.unidivers.fr/amende-bnp-paribas-ingerence-protectionnisme/">Unidivers</a>.
+Version anglaise de l'article d'[Unidivers](http://www.unidivers.fr/amende-bnp-paribas-ingerence-protectionnisme/).
 
 **We had dealt with the subject of the embargo and blockade as a diplomatic weapon. The case of BNP Paribas in the United States and the Ukrainian crisis highlighted another practice: The financial embargo.**
 

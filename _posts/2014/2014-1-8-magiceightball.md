@@ -12,7 +12,7 @@ Après une recherche Internet et la vision d'une vidéo du premier morceau dispo
 
 Le livret indique que le groupe était composé de Baz Francis à la voix et à la guitare, **Robbie J. Holland** à la basse et **Ryan Peacher** à la batterie. Mais je ne vous cache pas qu'aussitôt déposée le CD sur la platine, la magie a opéré :  Un envoûtement !
 
-* Envoûtement, envoûtement, n'exagérons pas. Une fascination étrange qu'il m'a fallu du temps pour m'expliquer....</li>
+* Envoûtement, envoûtement, n'exagérons pas. Une fascination étrange qu'il m'a fallu du temps pour m'expliquer....
 
 « Something better has come along » qui débute l'album est superbe. Un morceau Glam, Power pop, aux accents de « Beatles » et de  « Queen » comme **Enuff Z'nuff** sait si bien le faire. Ce premier titre est prenant et surprenant.
 
@@ -38,6 +38,6 @@ Magic Eight Ball nous délivre un album d'une grande sensibilité musicale, une 
 
 Vous pouvez commander l'album via le facebook du groupe ou celui de Baz Francis. L'album vous coutera dans les 10€ port compris, à ce prix, il est absolument impossible de s'en priver ! 
 
-[la video](https://www.youtube.com/watch?v=pT-4luUhYCo)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=pT-4luUhYCo)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/magiceightball.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/magiceightball.jpg)

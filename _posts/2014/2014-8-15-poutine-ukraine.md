@@ -5,7 +5,8 @@ category: geopolitique, english
 tags: europe, Geopolitique, poutine, russie
 ---
 **Non, ce n'est pas une envie de faire un régime qui me ferait me poser cette question lors d'un séjour dans la si accueillante belle province. Mais mon illustre collègue <a href="http://sarkofrance.wordpress.com/2014/08/14/lui-vladimir-poutine/">Juan</a> m'a donné envie de ce billet imprévu.**
-(in english at the bottom)
+
+*(in english at the bottom)*
 
 Comme lui, j'ai lu et entendu beaucoup de chose sur le dirigeant russe ces derniers temps. Comme pour la Chine, nous avons droit à une vision très binaire de la situation en Russie et dans la crise ukrainienne :
 
@@ -22,6 +23,8 @@ Mais on peut aussi avoir une position diplomatique plus indépendante et clairvo
 
 ndlr : il n'en est pas un dans la définition originelle.
 
+
+
 **No, it's not a desire to go on a diet that would make me ask myself this question during a stay in Quebec. But my illustrious colleague Juan gave me the will to write this unexpected post.**
 
 Like him, I've read and heard a lot about the Russian leader in recent times. As for China, we are entitled to a very binary view of the situation in Russia and the Ukraine crisis:
@@ -37,5 +40,5 @@ You can actually continue to idolize Putin or hate him and but it won't change m
 
 But we can also have a more independent and far-sighted diplomatic position,  using the support of Russia on key issues while arguing in opposition to the excesses of the "autocrat" *. To do this, we should build what everybody wants but does not dare to do: A European democracy. It is urgent because many issues can lead to a breakup of the union, existing for now only financial reasons.
 
-*he's not in the usual denomination
+*he's not in the usual denomination*
 

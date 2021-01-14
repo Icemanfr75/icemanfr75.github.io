@@ -16,6 +16,6 @@ La chanson donnant son titre à l'album explore même son coté "Rock" avec touj
 
 Tori Amos a cette particularité d'allier sens mélodique, talent vocal et intérêt du texte. C'est rare et cela explique qu'à son degré d'exigence, elle pensait avoir perdu l'envie. Elle a finalement bien fait de prendre son temps pour nous offrir un de ses tous meilleurs albums.
 
-[la video](http://www.youtube.com/watch?v=_EAVmVijVw4)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=_EAVmVijVw4)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/toriamos-unrepentant.jpeg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/toriamos-unrepentant.jpg)

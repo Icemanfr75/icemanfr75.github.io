@@ -27,4 +27,5 @@ tags: cuisine, Culture, vietnam, voyage, interview
 * Nous avons terminé le gros des tournages après avoir arpenté le pays du sud au nord. La phase actuelle est à la traduction et au montage. Et des contacts avec de possibles diffuseurs se précisent. À la fin du projet, nous prévoyons bien sûr une projection avec nos contributeurs pour les remercier. À la rentrée, nous sommes invités à Lyon pour une conférence afin de parler de VietMiam. Et l’année prochaine, nous repasserons peut-être à Hanoï pour une projection de nos vidéos. Mais nous restons ouverts à toutes propositions pour trouver la meilleure mise en valeur possible.
 * **Un prochain voyage/projet commun ?**
 * Pour le moment, il convient de terminer VietMiam avant de se relancer dans une nouvelle aventure. Certes, l’excitation du départ et du voyage nous animent toujours. Nous avons en tête plusieurs projets et destinations et d’idées. Les mois prochains seront consacrés à la promotion de notre travail à laisser reposer notre matériel qui a subi pas mal de péripéties durant ces mois vietnamiens…
-* (interview réalisée pour Unidivers)
+
+*(interview réalisée pour Unidivers)*

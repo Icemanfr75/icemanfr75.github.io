@@ -5,7 +5,8 @@ category: geopolitique, english
 tags: gaza, Geopolitique, israel, palestine
 ---
 **Dans le conflit qui court depuis des décénies en Israel et Palestine, les états ont différentes positions. Du soutien indéfectible  au gouvernement Israelien jusqu'au soutien aux groupes palestiniens extrèmistes, il reste peu de place pour la neutralité.... Cette neutralité qui devrait pourtant être de mise pour avoir un rôle de médiateur.**
-(in english at the bottom)
+
+*(in english at the bottom)*
 
 Si la Grande-Bretagne, de par son histoire au proche orient, peut difficilement intervenir dans ce conflit, d'autres états ont une posture plus appropriée. La France, bien qu'ancien occupant dans une histoire relativement lointaine (protectorat de 1920 à 1943 au Liban), garde une image diplomatique encore forte. On se souvient du voyage houleux du président Chirac en 1996, où il fut exaspéré par l'excès de la sécurité israelienne. On se souvient beaucoup moins des voyages de Sarkozy en 2008 et Hollande en 2013. Et pour cause, leurs positions étaient beaucoup moins réfléchies et beaucoup plus pro-israelienne.
 

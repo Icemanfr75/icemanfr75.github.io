@@ -8,7 +8,7 @@ tags: adoption, angleterre, Cinéma, Cinéma, irlande, social, 2010s
 
 Ce nouvel opus est une adaptation de The Lost Child of Philomena Lee de Martin Sixsmith. Lequel écrivain, interprété par Steve Coogan, est le personnage central du film. « Philomena, une Irlandaise ayant accouché adolescente dans un couvent, a perdu son petit garçon, adopté contre son gré et dont elle n’a plus jamais eu de nouvelles. Le jour des 50 ans de la naissance de son fils, en 2002, elle en parle pour la première fois à la fille qu’elle a eue plus tard. Avec un journaliste, elle part à la recherche de son fils. »
 
-[la video](https://www.youtube.com/watch?v=SSwM6H8lkGY)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=SSwM6H8lkGY)
 
 Cette femme d’âge mûr est interprétée magistralement par Judi Dench. Le duo entre cette dernière et Steve Coogan suffit à porter cette quête (« ce reportage d’aventure humaine ») durant 1h40 entre comédie et drame. Philomena est pieuse, forte et, en même temps, naïve comme une petite fille. On lui a enlevé sa jeunesse avec son fils. Judi Dench réussit avec talent à décliner un ensemble d’émotions contradictoires et les hésitations d’une mère meurtrie.
 
@@ -18,3 +18,4 @@ Mais ne déflorons pas plus avant cette histoire vraiment touchante. Frears y d�
 
 Frears ne verse pas dans l’anticléricalisme primaire. Certes, il interroge la conception de l’enfant, de sa dignité et de son devenir, dans certaines institutions relevant de l’Eglise romaine, mais préserve les différents points de vue possibles en laissant au spectateur le soin de forger son propre point de vue sur une réalité complexe. Et puis c’est toute la société britannique qui devient l’objet d’une critique subtile à travers ce douloureux problème de ces enfants « volés ». Une suite et une lecture différente du glaçant Magdalene Sistersdu Britannique Peter Mullan. Une réussite.
 
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/philomena.jpg)

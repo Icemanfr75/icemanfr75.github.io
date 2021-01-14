@@ -12,6 +12,6 @@ Première surprise, malgré la participation de Pharell Williams dans sa carriè
 
 RZA passe donc gentiment le témoin et en profite pour réunifier les deux côtes. "Whoa" en est l'illustration avec la patte du maître Tyler et l'utilisation de quelques notes de piano jazzy. Le flow lancinant d'Earl fait mouche. C'est cru, c'est percutant, comme une poésie moderne à l'image de ce LA qui nous engloutit. Beaucoup des titres ont été écrits avant le départ aux Samoa et on veut bien le croire. Cela en fait incontestablement l'un des albums les plus marquants de 2013. Reste maintenant à durer, ce qui n'a rien de facile, en rap comme ailleurs.
 
-[la video](http://www.youtube.com/watch?v=anRkutaPS9w)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=anRkutaPS9w)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/220px-earl_sweatshirt_doris.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/earlsweatshirt.jpg)

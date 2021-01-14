@@ -12,6 +12,6 @@ L'album commence par le hit "Oh la la". Tout de suite l'orientation dancefloor p
 
 Bien que l'ensemble soit varié, l'album conserve une unité sonore. Pourtant, Goldfrapp prendra le contrepied total de ce grand succès commercial en allant dans le downtempo et l'ambient pour **Seventh Tree**. Et pour ne rien faire comme tout le monde, ils reviendront à des sons pop et 80s pour **Head First**. Et un retour au source avec **Tales of Us**en 2013....
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/goldfrappsupernature.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/goldfrappsupernature.jpg)
 
-[la video](https://www.youtube.com/watch?v=uco-2V4ytYQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=uco-2V4ytYQ)

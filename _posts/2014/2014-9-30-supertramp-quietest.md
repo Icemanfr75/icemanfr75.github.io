@@ -14,6 +14,6 @@ Dur de se remettre de cela. Le "Downstream" de Rick Davies est bien plus classiq
 
 Nous pourrions passer des heures et des heures à disséquer un tel disque, à retrouver des sens à chaque morceau, chaque petite note et artifice de production. Il marque aussi un virage stylistique entre le progressif parfois excessif et la pop efficace. S'en suivront le retentissant "Breakfast in America" officialisant la nouvelle histoire du groupe aux USA. En 1982, c'est "Famous last words" qui marque aussi la fin de la collaboration d'Hodgson. Le groupe poursuit donc sans lui mais quelque chose est cassé. Deux albums passent, les concerts se font sans les morceaux d'Hodgson mais le groupe finit par se séparer en 1988. Le groupe se reformera en 96 et Hodgson retourne en solo sur les routes pour des concerts. Les deux entités semblent irréconciliables maintenant. Mais il reste cet album et quelques autres pour se souvenir de l'apogée de leur collaboration.
 
-[la video](https://www.youtube.com/watch?v=HMVBCE468Cc)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=HMVBCE468Cc)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/eveninthe.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/eveninthe.jpg)

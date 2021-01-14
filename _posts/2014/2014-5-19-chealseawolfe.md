@@ -12,6 +12,6 @@ Trois ans et déjà quatre albums : On peut dire qu'elle ne chôme pas à Sacram
 
 "We Hit a Wall"  ou bien encore "Destruction makes the world burn brighter" rappelleront du Neil Young avec les sonorités folk rock sombre et un style bien plus épuré. Finalement entre les deux, notre coeur balance. La chanteuse et son univers ont quelque chose de diablement fascinant et enlever un de ces éléments risquerait de faire tomber cette fragile cathédrale....gothique bien sur. Car elle ne semble pas vraiment dévier de son chemin déjà difficile à définir. C'est peut être en live qu'elle apporte le plus de présence, se rapprochant même de **Portishead**. Ce quatrième album s'avère peut être plus riche au niveau sonore ce qui peut autant lui attirer de nouveaux fans qu'en dérouter beaucoup. Une réussite donc mais bien malin celui qui devinera ce que sera le prochain.
 
-[la video](http://www.youtube.com/watch?v=49MYJkEazIg)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=49MYJkEazIg)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/chelsea-wolfe-pain-is-beauty.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/chelseawolfe.jpg)

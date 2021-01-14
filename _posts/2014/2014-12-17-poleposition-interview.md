@@ -18,7 +18,7 @@ Quand Kurt a commencer à créer le groupe, le nom n'était pas la priorité. A 
 
 * Le Plan est de faire 3 EP. Part 1, 2 et 3. Nous avons sorti le Part 1, le Part 2 sortira en Février 2015. Quand le Part 3 sera sorti (avant fin 2015), il y aura peut-être un nouveau mixage de ces trois EP qui pourra être sorti avec 3 nouvelles chansons : Un live d'un des titres auto-produit (qui sonne heureusement suffisamment bien en Live), et 2 autres titres studio. Alors, ces 12 titres seront réunis dans leur propre album. Ou peut être un collector avec un livret ? En tout cas, on trouvera ce qui va le mieux pour le futur, nous ne savons pas encore.<span lang="EN-US">
 
-![photo](http://cheziceman.files.wordpress.com/2014/12/poleposition2.jpg)
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/poleposition2.jpg)
 
 * **H : Une de vos grandes qualités est dans les refrains, toujours accrocheurs... Une qualité typique des groupes nordiques. C'est un don ?**
 
@@ -28,7 +28,7 @@ Quand Kurt a commencer à créer le groupe, le nom n'était pas la priorité. A 
 
 * PP : Oui, nous connaissons mais nous n'avons jamais joué là bas. Peut être avec vous des contact là bas ? )
 
-![cover](http://cheziceman.files.wordpress.com/2014/12/poleposition4.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/poleposition4.jpg)
 
 * **H : Ce n'est pas facile de vivre de la musique... Entre le streaming audio avec Spotify, le ITunes music store et autres grosses plateformes, et des plateformes indépendantes comme Bandcamp, comment voyez vous la partie business autour de la musique ?**
 
@@ -52,12 +52,12 @@ Sindre est membre du groupe américain/international de metal symphonique/épiqu
 
 **Merci Cécilie et à bientôt en France, peut être.** 
 
-[la video](https://www.youtube.com/watch?v=KHIViKm54zM)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=KHIViKm54zM)
 
-Le site du groupe : <a href="http://polepositionofficial.com/">http://polepositionofficial.com/</a>
+[Le site du groupe](https://polepositionofficial.com/)
 
 Membres : Torger Lodemel, Sindre Myskya, Cecilie Helle, John Gamlen, Kurty
 
 Photos avec l'accord de Pole Position.
 
-![cover](http://cheziceman.files.wordpress.com/2014/12/poleposition3.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2014/poleposition3.jpg)
