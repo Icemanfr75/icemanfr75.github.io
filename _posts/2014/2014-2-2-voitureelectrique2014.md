@@ -14,7 +14,7 @@ L'autonomie est souvent la donnée qui intéresse le plus les acheteurs de voitu
 
 Mais en réalité, ces véhicules sont encore très prisés des flottes d'entreprise plutôt que des particuliers. D'où l'arrivée de variantes électriques d'utilitaires (Kangoo ou NV200) qui recyclent le pack batterie de leurs cousines de la même marque.
 
-**La consommation, principe de mesure et de comparaison **
+### La consommation, principe de mesure et de comparaison
 
 La puissance en cheval vapeur, la donnée qui intéresse tant les amateurs de performance,  n'ayant pas de sens pour une voiture électrique, on l'exprime en Kilowatt. La capacité énergétique de la batterie est exprimée en kilowattheure (KWh).  On peut considérer l'approximation suivante :
 * **1 L de Gazole = 10KWh ou bien 1KWh = 0,10 l de gazole**
