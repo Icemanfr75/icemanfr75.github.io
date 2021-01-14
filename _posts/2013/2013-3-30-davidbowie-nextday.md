@@ -18,6 +18,6 @@ Toutefois, cet album n’est pas exempt de remplissage comme le très moyen « 
 
 Commercialement, cet album est un joli coup de marketing tout en donnant une furieuse envie d’aller explorer à nouveau les anciens albums de l’artiste. Car en évoquant subtilement chaque moment de sa carrière sans fournir de hit imparable, il montre que Bowie a encore tout compris à l’industrie musicale qui se replie sur elle même et ne veut plus fournir que des plaisirs éphémères. Cet album fera plaisir aux fans. Sans doute sans les rassasier. Mais que nous réserve encore Ziggy ?
 
-[la video](https://www.youtube.com/watch?v=7wL9NUZRZ4I)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=7wL9NUZRZ4I)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/thenextday.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/thenextday.jpg)

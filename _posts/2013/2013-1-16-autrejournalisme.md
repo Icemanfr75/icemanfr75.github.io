@@ -6,7 +6,7 @@ tags: blog, Culture, information, journalisme, média, presse, Réflexion
 ---
 **La revue XXI a publié récemment un manifeste pour un autre journalisme qui a fait grand bruit. Telerama a interrogé dans son édition du 9 janvier des figures du journalisme, avec la participation de « Libération », du « Monde », de Mediapart, de Slate et du Huffington Post. De quoi en tirer des enseignements et répondre nous-mêmes aux trois questions posées.**
 
-**La conversion numérique est-elle un piège mortel pour la presse ?**
+### La conversion numérique est-elle un piège mortel pour la presse ?
 
 La conversion au numérique oppose. D’un côté, il y a le Huffington Post qui parle de son succès en oubliant de parler du problème de rémunération de ses plumes. De l’autre, nous avons des positions plus prudentes qui parlent d’une nécessité d’aller chercher le lecteur où il se trouve, autrement dit… sur le net. Il y a une rapidité nécessaire de la production d’information par rapport à une ou deux éditions quotidiennes papier. Edwy Plenel (Mediapart) souligne que le piège serait dans la « gratuité publicitaire », que l’on vise des informations futiles et immédiates pour remplir ce gratuit en oubliant que l’information a un coût. L’exemple du Canard Enchainé, sans édition numérique ni publicité, est mis en avant au même titre que Mediapart.
 
@@ -15,7 +15,7 @@ Difficile de faire le tour du sujet, pourtant, en 5 intervenants. Le numérique 
 * Les dépêches provenant des agences de presse et recopiées pour leur plus grande part pour alimenter les flux des sites. Elles sont complétées par des informations glanées par les contacts des journalistes de la rédaction. C’est un peu la tête de gondole du journal, ce qui se retrouve aussi dans les moteurs de recherche comme Google et dans les agrégateurs d’information que sont Flipboard, Taptu ou NewsRepublic.
 * Les articles de fond, voir d’opinion, dans un esprit plus magazine que quotidien et qui visent plus à fidéliser le lectorat. Ce sont eux qui devraient être le cœur du journal dans un format payant ou au moins payé par une source de revenus (voir la deuxième question). Ils doivent dépasser l’exercice de synthèse d’informations pour aller vers une véritable enquête (voir la troisième question), ceci dans le but de valoriser la profession de journaliste par rapport à celle de blogueur ou de « journaliste citoyen ».
 
-**La publicité est-elle synonyme d’une information low cost ?**
+### La publicité est-elle synonyme d’une information low cost ?
 
 Pour beaucoup des intervenants, la publicité appelle un compromis marketing qui ne permet pas toujours d’exercer librement son métier de journaliste. Il y a évidemment le conflit d’intérêts avec l’annonceur, mais la plupart sont aussi d’accord pour rejeter cette vision simpliste. Il y a autant d’exemples de mauvaise presse sans publicité que de bonne presse avec publicité. Edwy Plenel souligne le fait que la publicité n’a pas la même valeur en numérique qu’en papier. En effet, la lecture sur un écran est tout à fait différente et les « clics » ou « hits » n’ont pas la même valeur qu’un positionnement dans une pagination. Johan Hufnagel (Slate) souligne pour sa part que pour les médias d’audience, il y a un besoin de rapidité et, qui dit audience, dit publicité.
 
@@ -23,7 +23,7 @@ Mais la dépendance de la presse à cette manne financière est en question. Pou
 
 Si le sujet de la publicité est montré du doigt, celui des subventions et du plan presse lancé par Sarkozy (1,2 milliard par an) ne l’est pas. Sujet tabou ?
 
-**Un journaliste assis est-il un mauvais journaliste ?**
+### Un journaliste assis est-il un mauvais journaliste ?
 
 Cette question a été au cœur des débats sur Twitter entre Jean-Michel Aphatie et Mediapart montrant une opposition dans une profession que l’on croyait solidaire. Edwy Plenel est d’ailleurs le premier à souligner l’importance de l’esprit de synthèse et de tri d’information que doit avoir le journaliste. Serge Michel souligne la qualité d’un blog traitant du « printemps arabe » tout en étant éloigné du terrain. Il y a bien complémentarité entre ces deux visions du journalisme. Johan Hufnagel met le « critique cinéma » dans le journalisme, car il s’agit ici d’un journalisme « assis » qui donne une opinion. Encore une catégorie, donc, au même titre que les éditorialistes comme Jean-Michel Aphatie.
 

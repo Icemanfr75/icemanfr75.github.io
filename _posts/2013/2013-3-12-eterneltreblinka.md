@@ -6,7 +6,7 @@ tags: alimentation, histoire, littérature, protection animale, végétarien, v�
 ---
 **Non, Un Eternel Treblinka n’est pas un énième ouvrage sur la Shoah de Charles Paterson qui a déjà consacré plusieurs ouvrages à ce macabre thème. Cet ouvrage opère un parallèle entre deux génocides : celui des juifs et celui des animaux. Le titre s’inspire d’une nouvelle de l’auteur polonais et prix Nobel de littérature 1978, Isaac Bashevis Singer.**
 
-![cover](https://cheziceman.files.wordpress.com/2016/10/treblinka.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/treblinka.jpg)
 
 Couverture sombre, lettres blanches et rouges : le ton est donné. Les premières pages sont plutôt ardues tant la somme bibliographique réunie paraît dense. L’auteur est un historien (ses travaux sont centrés, notamment, sur le mouvement des droits civiques, Thomas Jefferson, le génocide juif) et traite dans ce esprit son sujet. Il s’attache d’abord à contextualiser son récit en rappelant la place des animaux dans l’histoire de l’humanité, en convoquant l’esclavage et la notion de dominant-dominé. Les religions sont aussi présentes, en particulier le christianisme, le judaïsme et l’islam. Bien que complexe, le discours prend peu à peu forme : les éléments s’imbriquent au profit d’un développement descriptif de l’exploitation parallèle des hommes et des animaux.
 

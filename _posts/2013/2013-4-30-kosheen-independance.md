@@ -12,6 +12,6 @@ A l'écoute de cet album, c'est effectivement ce qui vient en premier à l'espri
 
 Kosheen explore, se renouvelle et le fait avec intelligence prouvant que l'electro n'est pas un truc commercial et bas de gamme mélé à de la variété niaise comme trop souvent nous entendons sur nos ondes.
 
-[la video](https://www.youtube.com/watch?v=RyNiOidWSqQzJ1k)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=RyNiOidWSqQzJ1k)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/kosheen2.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/kosheen2.jpg)

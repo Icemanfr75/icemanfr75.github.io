@@ -12,7 +12,7 @@ Ghosn a succédé à Louis Schweitzer en 2005 à la tête de Renault. Schweitzer
 
 Résultat : la progression de Renault n’apparait pas si catastrophique et Nissan semble florissant. Mais il faut aller un peu plus loin et considérer la part du marché mondial :
 
-![image](https://cheziceman.files.wordpress.com/2016/01/ghosn1.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/ghosn1.jpg)
 
 Apparaît clairement que Renault s’érode et que Nissan plafonne, bien que 2010 ait été une excellente année. En effet, Nissan est très en retard sur les marchés émergents par rapport à ses concurrents asiatiques et ne doit son embellie qu’à un marché américain retrouvant le moral et à de bonnes surprises sur les marchés nord-européens et indiens, plus récemment. En effet, coté produit, Nissan brille surtout par des modèles de niche que des modèles de masse, mais avec une bonne adaptation aux goûts du moment : le SUV Quashquai, le Juke ou encore les X-Terra et autres SUV moyens US. Seule exception, le bon accueil de la grosse berline Altima sur le marché US dont une version hybride très performante existe ou la petite March/Micra, conçue maintenant pour l’Inde et l’Asie du Sud est plutôt que pour l’Europe et le Japon.
 

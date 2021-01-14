@@ -12,6 +12,6 @@ Une chose est sûre : Il n'a pas perdu la main en étant à la composition de ce
 
 Pas sur que cet album leur fasse reconquérir les sommets des charts mais il apportera de la satisfaction à tous ceux qui aiment le rock progressif et les groupes qui sortent du moule.
 
-[la video](https://www.youtube.com/watch?v=ZXSyatjWo1E)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=ZXSyatjWo1E)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/coheedafterman.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/coheedafterman.jpg)

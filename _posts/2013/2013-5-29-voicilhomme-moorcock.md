@@ -15,5 +15,4 @@ Il ne faut pas voir dans Voici l’Hommeune tentative de réécriture de l’hi
 
 Ce court ouvrage se révèle une introduction intéressante à l’œuvre de Moorcock, notamment sa dimension intérieure. Malheureusement, la traduction française de l’ouvrage, signée Pierre Versins et Martine Renaud en 1972, manque de précision et gomme le lyrisme propre à Moorcock. Réédité en 2001 par les éditions l’Atalante, Voici l’Hommemériterait un meilleur traitement en français.
 
-
-
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/voicilhomme.jpg)

@@ -12,7 +12,7 @@ Si Baloup s’était associé au dessinateur Jiro dans d’autres œuvres (La Co
 
 Il s’agit bien de souvenirs d’enfance et d’adolescence qui dépeignent un Vietnam colonisé par les Français ou envahi par les Américains ou les Japonais. Baloup montre la vie actuelle de ces Vietkieus tantôt nostalgiques, tantôt résignés. Il montre les dérives de ces « libérateurs » qui emprisonneront et tortureront les leurs dans des camps de rééducation, les promesses non tenues des colonisateurs… Mais dans ce récit sensible et coloré, ce qui frappe est la rupture violente de l’insouciance de l’enfance, les sacrifices des parents pour protéger leurs enfants. Souvent en vain.
 
-![cover](https://cheziceman.files.wordpress.com/2016/10/quittersaigon2-gif.png)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/quittersaigon2.png)
 
 Un livre petit format et un témoignage-clé pour des millions d’hommes et de femmes qui un jour ont quitté leur pays. Ces 4 témoignages en appellent évidemment d’autres. À venir dans un second volume, mais aussi dans une collection de ce petit éditeur atypique. La bande dessinée y montre, une fois de plus, sa richesse, autant dans le style que dans les sujets.
 

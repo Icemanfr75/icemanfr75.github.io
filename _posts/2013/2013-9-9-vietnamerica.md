@@ -10,7 +10,7 @@ Direction : le Vietnam. Les parents du dessinateur de GB Tran décident un jo
 
 De manière parfois désordonnée, cet épais volume aborde ainsi plusieurs thèmes. Il se veut un témoignage de l’histoire de la famille de Tran, déchirée par la guerre d’indépendance. Mais aussi un témoignage d’un retour au pays. Également de l’évolution du Vietnam pendant près de 60 ans. Tout comme l’apprentissage de ses racines par un jeune adulte.
 
-![image](https://cheziceman.files.wordpress.com/2016/10/vietnamerica.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/vietnamerica.jpg)
 
 Quant au dessin, il est assez typique des comics, tantôt fouillé et parfois simpliste. Rapporté au travail du français **Clément Baloup**, c’est un mélange entre les récits de « Un automne à Hanoi » et « Little Saigon, mémoire de Viet Kieu ». GB Tran y ajoute un témoignage sur le parcours d’intégration de sa famille dans le mode de vie américain, ce déracinement qui aboutit à un étrange comportement de l’adolescent au début du récit…
 

@@ -45,7 +45,7 @@ Avec « The open sea » et « The king of dead » on change de dimension pou
 
 **I :** J'ai toujours du mal à être aussi dithyrambique et enthousiaste mais pour le coup, ça risque bien d'être mon album de l'année.
 
-[la video](https://www.youtube.com/watch?v=2YYCjR2dgsc)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=2YYCjR2dgsc)
 
 Edité chez Napalm Records et disponible chez tous les bons revendeurs numériques ou pas.
 
@@ -55,4 +55,4 @@ Edité chez Napalm Records et disponible chez tous les bons revendeurs numériqu
 * Kjetil Greve - Batterie
 * Espen Lien - Basse
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/audreyyoungblood.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/audreyyoungblood.jpg)

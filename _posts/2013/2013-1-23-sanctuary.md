@@ -9,7 +9,7 @@ tags: bd, japon, seinen, manga, politique, 1990s
 
 L’histoire de cette série en 12 volumes (ou 4 dans certains coffrets) nous entraîne dans le Japon des années 90, en proie à une crise politique et identitaire. Le lecteur va suivre en parallèle la carrière d’un jeune politicien ambitieux et d’un jeune yakuza aussi séducteur que provocateur. Qu’est-ce qui peut lier ces deux personnages que tout oppose ? Comment chacun va-t-il se faire une place dans un pays où traditions et conservatisme semblent si pesants ?
 
-![image](https://cheziceman.files.wordpress.com/2016/10/sanctuary.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/sanctuary.jpg)
 
 Avec son habituel dessin précis et détaillé, Ikegami livre avec Sanctuary un véritable film de genre. L’apport du scénariste se traduit par dessin à dimension encore plus adulte que ne l’était Crying Freeman avec son tueur au grand coeur. Le lecteur occidental en apprendra beaucoup sur le système politique japonais : la place du PLD, la corruption, la hiérarchisation de la société. L’ensemble est décrit avec moult détails.
 

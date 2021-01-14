@@ -14,6 +14,6 @@ Est-on encore dans un album de Morcheeba ou dans une expérimentation des frère
 
 Alors déception ? Interrogation ? Un peu de tout ça même s'il reste encore 2 ou 3 bons titres pour sauver l'ensemble. Espérons juste que les disputes sur les orientations du groupe qui avaient amenées le départ de Skye il y a quelques années, ne se reproduiront pas. Morcheeba cherche un nouveau souffle mais c'est finalement bien normal au bout de 8 albums.
 
-[la video](https://www.youtube.com/watch?v=qKFMK2eDWeQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=qKFMK2eDWeQ)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/head-up-high-by-morcheeba.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/head-up-high-by-morcheeba.jpg)

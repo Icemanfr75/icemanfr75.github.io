@@ -12,6 +12,6 @@ En effet, elle s'inscrit dans un mélange de dance, electro avec des inspiration
 
 Mais au delà de cet aspect de production, il y a un réel talent de composition (comme dans Crystalize ou le refrain du hit Moon Trance) et d'interprétation qui peut très bien se muer peu à peu avec d'autres arrangements dans l'avenir. Il y a pourtant de grandes chances que cela reste un "One Shot", un effet de mode éphémère comme il y en a tant sur le web et dans la musique populaire de la dernière décénie. Ce (à suivre...) vise justement  à ne pas oublier de s'interesser à cette violoniste, une fois le "buzz" passé.
 
-[la video](https://www.youtube.com/watch?v=jvipPYFebWc)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=jvipPYFebWc)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/lindseystirling.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/lindseystirling.jpg)

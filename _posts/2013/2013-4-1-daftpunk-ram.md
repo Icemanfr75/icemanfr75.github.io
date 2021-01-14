@@ -14,6 +14,6 @@ Alors la musique aime se réinventer et utiliser des recettes du passé, mais ic
 
 J’attendais un sursaut du duo et c’est l’inverse qui se produit avec l’un des plus gros ratés de ce début d’année. Un album qui finira à caler une table ou prendra la poussière après 2 écoutes. Le matraquage de Get Lucky ne changera rien au problème d’un duo qui, à force de réécouter ses classiques, a fini par imiter et ne plus créer et inventer.
 
-[la video](https://www.youtube.com/watch?v=a5uQMwRMHcs)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=a5uQMwRMHcs)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/daftpunk.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/daftpunk.jpg)

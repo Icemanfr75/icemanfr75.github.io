@@ -8,7 +8,7 @@ tags: eugenisme, littérature, Réflexion, religion, science fiction
 
 En Italie, plongé dans une atmosphère aussi opaque que mystérieuse, le héros de Dan Brown, Robert Langdon, professeur de symbologie à Harvard va devoir affronter un adversaire diabolique sorti des limbes de l’Enfer et déchiffrer l’énigme la plus complexe de sa carrière. Elle le fait plonger dans un monde où l’art et la science de pointe tissent un écheveau qui exige de sa part toute son érudition et son courage pour le démêler. S’inspirant du poème épique de Dante, Langdon se lance dans une course contre la montre pour trouver des réponses et découvrir en traversant les Cercles de l’Enfer ceux qui détiennent la vérité… avant que le monde ne soit irrévocablement changé.
 
-![cover](https://cheziceman.files.wordpress.com/2016/10/inferno.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/inferno.jpg)
 
 Sans dévoiler l’intrigue du livre, Inferno de Dan Brown opère un parallèle entre l’Enfer de Dante et une question essentielle et tracassante : et si nous étions déjà aux portes de l’enfer ? Si oui, que faire pour ne pas y entrer ? De cette question découle une course poursuite finalement très similaire au Da Vinci Code. Avec une société secrète, des tueurs, une charmante aventurière qui s’inscrit dans les pas de notre héros et, surtout, une jolie épopée touristique.
 

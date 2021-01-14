@@ -16,6 +16,6 @@ C'est avec une guitare saturée et une voix plus grave que "How you come you're 
 
 Il est donc bien difficile de classer Pink dans une case ou dans un style. Et c'est justement toute sa force et son talent. En surfant sur plusieurs tyles, elle traverse les époques et les générations. Elle a en plus le talent de savoir s'entourer et le succès de cet album vient le confirmer. Qui sait alors vers quoi elle ira ensuite ?
 
-[la video](https://www.youtube.com/watch?v=zsmUOdmm02A)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=zsmUOdmm02A)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/the_truth_about_love.png)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/thetruthaboutlove.png)

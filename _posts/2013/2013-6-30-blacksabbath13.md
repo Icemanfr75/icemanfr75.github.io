@@ -12,6 +12,6 @@ Aussitôt le « End of the Beginning » débuté avec son rythme lent et appuy
 
 Mais comme souvent avec les anciens groupes, il n’y a guère de surprise. Les morceaux font plaisir mais n’apportent pas plus que cela à une carrière bien remplie. Il manque forcément un hit du niveau de Paranoid, War Pigs, Iron Man ou …. d’une période moins Ozziesque. D’autres, moins fans des productions plus minimalistes des débuts, n’apprécieront pas ce mélange entre retour au source et production plus actuelle. Ne boudons pourtant pas notre plaisir d’un bon album de heavy metal classique, sans fioritures, sans artifices, remettant un mythe dans la lumière. Il ne peut être que l’occasion de se replonger dans leur discographie à coup de riffs percutants et de rythmiques tonitruantes. Pour ma part, je retiendrais le moins immédiat « Dear Father » et ses 7 minutes 21 pour en justifier l’achat, titre dont le texte ne peut que toucher bon nombre d’auditeurs. Car au delà des clichés persistants sur le heavy metal, il y a des textes intéressants dans cet album sur lesquels il est bon de prèter une oreille attentive. Bref, un achat pas indispensable mais une excellente surprise à ne pas réserver qu'aux fans du genre.
 
-[la video](https://www.youtube.com/watch?v=OhhOU5FUPBE)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=OhhOU5FUPBE)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/black-sabbath-13.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/black-sabbath13.jpg)

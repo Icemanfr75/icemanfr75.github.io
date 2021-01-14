@@ -8,7 +8,7 @@ tags: Automobile, compétition, course, google, voiture autonome
 
 Il faut se souvenir que la voiture sans conducteur est une réalité depuis quelques années. Il y eut d’abord un challenge dans le désert des Mojaves : le DARPA Grand Challenge. Organisé par la défense américaine, il offrait une forte prime à la voiture qui arrivait à traverser le désert. En 2004, personne n’avait réussi, mais en 2005 il y eut 5 vainqueurs.
 
-![photo](https://cheziceman.files.wordpress.com/2013/09/2956a-sergeyblog.jpg)
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/nascarauto.jpg)
 
 Depuis le challenge a eu lieu en ville. C’est aussi l’objectif que s’est donné Google avec des Prius modifiées : la google car permettait aussi à Google d’alimenter automatiquement son service maps et streetview.
 

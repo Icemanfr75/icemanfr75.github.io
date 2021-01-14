@@ -8,7 +8,7 @@ tags: bande dessinée, bd, japon, manga, religion, 2000s
 
 La jeune mangaka Nakamura Hikaru offre à ses lecteurs depuis 2007 une seconde série dans le style Seinen (manga pour jeunes hommes) qui aborde le thème de la religion avec humour et dérision. Après avoir oeuvré au bien de l’humanité pendant deux millénaires, Jésus et Bouddha, amis de longue date, décident de prendre des vacances bien méritées et louent un petit appartement à Tokyo. L’un compte chaque sou, l’autre est un acheteur compulsif… Dans son édition japonaise, la série compte 8 volumes, l’éditeur Kurokawa en France en a déjà publié 4 volumes.
 
-![image](https://cheziceman.files.wordpress.com/2013/01/jesusbouddha1.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/jesusbouddha1.jpg)
 
 Hikaru nous entraine en compagnie de ces deux personnages illustres dans la vie trépidante de Tokyo. Ils y découvrent un mode de vie bien éloigné du paradis… Colocataires dans un petit appartement, ils découvrent la vie moderne, la société de consommation, le monde du travail. Autant d’occasions de faire des gags, de mettre en exergue la philosophie des religions bouddhiste et chrétienne.
 

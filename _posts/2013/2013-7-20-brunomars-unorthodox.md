@@ -12,8 +12,8 @@ Pourtant, on aurait pu croire à un enième « one shot », un artiste éphém
 
 Aucun titre ne va au delà de 4 minutes, plutôt dans le format standard de 3 minutes 30 (ce qui en fait un album très court de 34 minutes). Mais c’est le fait de bénéficier encore de hits en puissance qui surprend : Après Locked out of Heaven, il peut encore présenter ‘Young Girls », « Treasure », « Natalie » ou « Moonshine » sur les ondes. C’est suffisamment rare de nos jours pour être souligné. Le style est plus homogène et le rend reconnaissable alors que justement son timbre n’a rien de si remarquable, en dehors de rappeler très clairement son maître Michael Jackson dont il parvient même à singer la voix criée. Il s’est attaché, en plus de ses amis des Smeezingtons, les services des derniers producteurs du moment, comme pour affirmer un peu plus son image dans ce milieu. Pourtant, si la recette paraît efficace, elle commence à réclamer un renouvellement. Si Jackson avait lui aussi réalisé un mix entre différents mondes musicaux, il y apportait un touche novatrice qui ne transparaît pas assez ici. L’écoute de cet album est agréable avec ses refrains catchy et dansant, son groove très naturel et son impression de facilité dans le chant. Pour marquer durablement la musique comme il entend le faire, il devra se détacher encore un peu plus de ses pères spirituels et trouver une autre voix dans son prochain album.
 
-[la video](https://www.youtube.com/watch?v=e-fA-gBCkj0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=e-fA-gBCkj0)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/unorthodoxjukebox.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/unorthodoxjukebox.jpg)
 
 

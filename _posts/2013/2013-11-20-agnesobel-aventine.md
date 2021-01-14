@@ -14,6 +14,6 @@ Le style s'épure à l'extrème parfois comme "Tokka" et ses notes de pianos bru
 
 De tels moments de grâce sont rares. Ils en appellent d’autres comme l’écoute de la voix de **Lisa Gerrard** (Dead Can Dance),   pourtant éloignée de celle d’Agnes Obel, dans Duality ou bien encore celle de la française Cécile Corbel. Il y a, dans cette recherche, de pureté musicale et d’épure, un parallèle à faire avec le travail qu’avait produit **Steven Wilson** sur le Hindsight d’**Anathema.** En effet, ces albums laissent des marques profondes dans la mémoire et produisent une distorsion du temps qu’il est difficile de comprendre. Ce hasard d’une rencontre, Unidivers vous souhaite ardemment de le retrouver à votre tour avec cet album et, pourquoi pas, de nous en faire partager vos impressions qui ont souvent un rapport profond avec notre sensibilité.
 
-[la video](https://www.youtube.com/watch?v=vjncyiuwwXQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=vjncyiuwwXQ)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/agnes_obel_aventine.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/agnesobelaventine.jpg)

@@ -10,7 +10,7 @@ Né en 1880, Gabriel Voisin s’intéresse à l’aéronautique dès 1905 avec u
 
 Après des balbutiements, les automobiles Voisin reconnaissables à leurs calandres surmontées de deux ailes verticales se différencièrent par leur inspiration aéronautique. Dans les années 20, Voisin fut un des premiers à imposer sa propre carrosserie contrairement aux usages qui étaient de sous-traiter à un carrossier de renom.
 
-![photo](https://cheziceman.files.wordpress.com/2016/01/voisinaerodyne.jpg)
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/voisinaerodyne.jpg)
 
 Mais les Voisins n’étaient pas des véhicules de grande série comme les leaders de l’époque, Renault et Citroen. Voisin visait le prestige, l’innovation et le haut de gamme, fournissant d’ailleurs la présidence. La carrosserie en aluminium fut utilisée dès 1930 pour des raisons de légèreté et pour compenser un mal de la marque : La faiblesse de ses moteurs. Car au contraire de Bugatti qui se penchait plus volontiers sur la mécanique Voisin se passionnait plus sur la carrosserie et les autres éléments techniques du véhicule comme les boites de vitesse (une séquentielle avant l’heure) ou sur la souplesse et l’élégance de fonctionnement. L’aérodynamisme de ses véhicules était prépondérant, leur donnant une allure unique qui trouve son chez d’oeuvre dans l’Aerodyne C25 de 1934. On doit aussi à Voisin l’arrivée des carrosseries dites « ponton » en 1935, un style qui sera généralisé après 1945 dans toute la production mondiale. L’ingénieur André Lefebvre y fera ses débuts et il y a un peu de l’esprit voisin dans la Traction Avant et dans la DS qu’il contribua à concevoir.
 

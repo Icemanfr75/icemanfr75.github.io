@@ -14,4 +14,6 @@ Voilà qui explique ce scénario futuriste mais aussi la forme très soignée du
 
 Un film que l’on peut voir maintenant dans une version plus proche de l’original, malheureusement disparu. Giorgio Moroder avait également produit un montage plus court accompagné de musique New Wave dans les années 80 et qu’il n’est pas inutile de comparer.
 
-Mais grace à Archive.org, on peut le voir gratuitement : https://archive.org/details/MetropolisFritzLang1927Remastered
+Mais grace à [Archive.org](https://archive.org/details/MetropolisFritzLang1927Remastered), on peut le voir gratuitement !
+
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/metropolislang.jpg)

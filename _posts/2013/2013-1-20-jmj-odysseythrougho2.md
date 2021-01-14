@@ -15,6 +15,7 @@ Est-ce due à sa vie personnelle compliquée mais son inspiration semble s’ét
 L’album avait la particularité d’être doté d’une partie CD-Rom assez développée pour faire des mix des morceaux. Cette partie montre l’intérêt de l’artiste pour les nouvelles technologies multimédia puis l’internet. L’album réunit des artistes internationaux comme le français DJ Cam, les allemands de Resistance D, les anglais d’Apollo Four Forty, le japonais Takkyu Ishino, le très house Claude Monnet ou encore l’américain Hani. Il y en a pour tous les goûts de l’époque en matière de musique électronique, montrant la versatilité de l’artiste. On y trouve ainsi de la trance assez hardcore comme des atmosphères plus éthérées ou des sonorités house lounge. Mais l’album conserve toutefois une cohérence et une ligne « pop ». Si après l’ouverture, on part dans des sonorités indiennes, la rupture est douce pour passer à la house de DJ Cam ou basculer aux sonorités plus répétitives et dansantes d’Hani avant d’évoluer vers plus mélodieux encore. On aborde la trance lentement avec le très dance Oxygene 10 de Resistance D qui se poursuit par un survitaminé transmix d’oxygene 8.  La version de Sunday Club apparaît extrèmement fidèle à l’original en apportant de la modernité rendant le morceau inoubliable avec l’apport de quelques lignes de piano. La rupture se fait pourtant plus brutalement avec le son londonien des Apollo 440 dont le Rendez vous 98 paraît impeccablement intégré à l’ensemble. D’autres remix de ces même morceaux seront d’ailleurs intégrés plus tard dans d’autres compilations. Les morceaux Odyssey du maître servent habilement de transition à l’ensemble et montrent qu’en 1997, il était encore totalement au goût du jour avant de se faire avaler par ses propres spectacles.
 
 Après 15 ans, les morceaux restent totalement actuels, la musique électronique ayant connu une régression dans son approche « mainstream ». L’album paraît dont une introduction parfaite à l’œuvre de Jean-Michel Jarre ou même plus largement à son héritage dans ce qu’on appelle maintenant pompeusement « electro », histoire de ne pas faire peur et de flatter le marketing.
+
 * Odyssey Overture
 * Oxygene 10 Transcengenics (Loop Guru at the Shrine Remix)
 * Oxygene 7 (Dj Cam Remix)
@@ -33,6 +34,6 @@ Après 15 ans, les morceaux restent totalement actuels, la musique électronique
 * Rendez-Vous 98 (@ 440 Remix)
 * Oxygène 13 (TK Remix)
 
-[la video](https://www.youtube.com/watch?v=cLgMr1bskBk)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=cLgMr1bskBk)
 
-![cover](http://cheziceman.files.wordpress.com/2014/11/jmj-odisseyjpg.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2013/jmjodisseyjpg.jpg)
