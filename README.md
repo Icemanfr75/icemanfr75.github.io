@@ -20,6 +20,7 @@ Les commentaires sont desactivés avec Disqus
 * Des menus thématiques basés sur "category" ont été créés dans les Pages
 * la limitation de 1000 articles a été contournée en créant des répertoires par année.
 * suppression des svg icons pour ne garder que des icones w3c et Cc plus icone spyfree.
+* suppression de disqus remplacé par un formatage de mail(changer l'adresse dans le layout post) ou par un appel à mastodon (là aussi changer l'adresse dans le layout post)
 
 ## Credits
 
