@@ -26,7 +26,7 @@ La plus grande avancée dans le domaine de la voiture autonome a été faite par
 
 Les informations remontées par les capteurs présents dans une voiture sont nombreuses. Si PSA savait "conduire automatiquement" un véhicule sur une piste d'essai aux trajectoires connues dans les années 80, la vitesse de traitement des données rend la tache plus facile. Ainsi, dans une voiture vendue aujourd'hui, on sait détecter la vitesse limite, s'ajuster à la vitesse des véhicules devant nous, détecter les voitures qui nous doublent, voir la nuit, détecter les piétons et les obstacles, freiner automatiquement, éviter de patiner, de bloquer ses freins, se garer tout seul ou presque. Le réseau véhicule a été adapté pour faire face à cet afflux de données, qui d'ailleurs seront enregistrées dans des boites noires. Toutes les pièces du puzzle semblent enfin là mais il reste des blocages législatifs concernant la sécurité de ces dispositifs, mais rien d'insurmontable lorsque l'on regarde ce qui se fait en aéronautique.
 
-![photo][https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/volvoautonom-1.jpg)
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/volvoautonom-1.jpg)
 
 ### La Sécurité
 
