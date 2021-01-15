@@ -7,6 +7,7 @@ tags: android, blog, développement, geek, Geekeries, informatique, mise à jour
 **Je connais beaucoup de collègues blogueurs qui sont pour la mise à jour à outrance, notamment en ce qui concerne windows. Je suis plus nuancé sur cela et je vais tenter de montrer pourquoi ...**
 
 Je ne vais pas sombrer dans le "c'était mieux avant" mais je suis un partisan du "Un Hardware, Un OS idéal". En maintenancier, je ne suis pas pour modifier un matériel qui fonctionne. Seul un mode dégradé me pousserait à agir, ou alors un apport majeur dans les fonctionnalités. Ainsi, pour un ordinateur sous un Windows 8 bancale, je vois un intérêt à Windows 10 qui en est le prolongement réussi. Mais pour la plupart de la génération des Windows XP et 7, non tactiles, c'est à bannir pour plusieurs raisons :
+
 * L'interface n'est plus cohérente.
 * L'utilisation mémoire et CPU est trop importante sur des machines à 40 ou 50% de ce qui se fait aujourd'hui d'une entrée de gamme.
 * Les pilotes intégrés ne sont pas très bien optimisés et ceux des constructeurs baclés pour pousser au rachat.

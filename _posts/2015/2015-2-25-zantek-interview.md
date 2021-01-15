@@ -42,4 +42,4 @@ Le cadre trouvé - j'aime les jeux de mots - les métaphores s'enchainaient. Je 
 * Nico : Fresques sur les parois secrètes du crâne de Cheval De Frise, parce qu'elle aime bien la guitare classique et qu'il y en a plein dedans.
 * **H : Et bien nous, en attendant la suite, on vous conseille de faire tourner en boucle le premier single et son clip ! Promis, on vous tient au courant de la suite, comme on l'a fait pour d'autres interviewés.**
 
-[la video](https://www.youtube.com/watch?v=V5mFk7i5Hh8)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=V5mFk7i5Hh8)

@@ -14,6 +14,6 @@ Et c'est bien à une vitesse "Supersonic" que le groupe arrive dans ces années 
 
 Mais tout a une fin et cet album aussi. On a maintenant l'impression que les frangins jetteront toute leur énergie dans leurs premiers albums, Definitely Maybe et Morning Glory, avant s'enfoncer peu à peu dans une routine plus banale. Le succès montera aussi surement à la tête de ce groupe qui se perdra dans des frasques plus que dans la musique. En 2009, Noel part....et le groupe disparaît avec les espoirs des fans. Si ce n'est le sursaut de "Don't Believe the Truth", on se demande si les frangins se retrouveront pour avoir à nouveau quelque chose à se dire, à nous dire... En tout cas, ne boudons pas notre plaisir de pouvoir revenir dans cette époque grace à eux.
 
-[la video](https://www.youtube.com/watch?v=p29MG7wn4F8)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=p29MG7wn4F8)
 
-![cover](http://cheziceman.files.wordpress.com/2015/08/definitelymaybeoasis.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/definitelymaybeoasis.jpg)

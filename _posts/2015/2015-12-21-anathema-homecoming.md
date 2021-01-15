@@ -4,7 +4,7 @@ title: Musique - Anathema - A sort of Homecoming (2015)
 category: musique
 tags: 2010s, Musique, Pop, Rock
 ---
-**Anathema nous avait laissé un bon souvenir avec son album accoustique <span style="text-decoration:underline;"><a href="http://histozic.fr/2008/12/02/anathema-hindsight/">Hindsight</a>. Les voilà maintenant avec un live très particulier....**
+**Anathema nous avait laissé un bon souvenir avec son album accoustique [Hindsight](https://www.cheziceman.fr/2008/anathema-hindsight/). Les voilà maintenant avec un live très particulier....**
 
 Il a été enregistré dans une église, la Cathédrale de Liverpool,  avec un son semi-acoustique. On y retrouve dans ce double CD, des morceaux anciens comme des titres du dernier album, Distant Satellites.  On retrouve toujours les frères Cavanagh aux commandes avec l'ajout de **David Wesling** au violoncelle et d'**Anna Phoebe** au violon. L’ambiance du concert rappelle les concerts classiques mais bascule vite dans un concert acoustique avec la magnifique partie 2 de The Lost Song. La voix de **Lee Douglas** s’impose au coté de celle de Vincent Cavanagh. On entend le public applaudir sur des titres pourtant loin d'être des hits pour live. Mais il faut dire que ce concert est un ensemble, installant une ambiance avec sobriété. Il n'y a qu'à écouter par exemple l'introduction de "Untouchable" pour en être convaincu.
 
@@ -14,7 +14,7 @@ C'est un double album, live de surcroit. C'est donc un long moment que l'on est 
 
 Anathema continue d'évoluer musicalement, revenant presque aux sources de la musique. Que nous réservent-ils à l'avenir ? Laissons leur la joie de nous en faire la suprise.
 
-[la video](https://youtu.be/C_6vNJcaPEc)
+En video : [![video](/images/youtube.png)](https://youtu.be/C_6vNJcaPEc)
 
-![cover](http://cheziceman.files.wordpress.com/2015/12/anathema2015b.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/anathema2015.jpg)
 
