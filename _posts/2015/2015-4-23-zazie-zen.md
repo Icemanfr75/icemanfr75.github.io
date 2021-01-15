@@ -12,6 +12,6 @@ Mais le style Zazie s'installe véritablement dans son second album, sobrement i
 
 Le succès est au rendez-vous et se confirme avec tour à tour "Made in love" en 1998 puis "La zizanie" en 2001. Le très bon "Rodéo" poursuit l'aventure musicale avec le public français en 2004. Elle conserve ce rythme d'un album tous les 3 ans, comme un métronome. Malgré tout, les ventes baissent, plutôt parce que Zazie tente des expérimentations plus osées et conceptuelles que par une baisse de qualité des compositions. Mais elle reste toujours parmi les artistes qui comptent en France.  Elle compose aussi beaucoup pour d'autres, comme Christophe Willem par exemple. Son style a peu à peu intégré des sons plus électroniques tout en restant dans la droite ligné mélodique et textuelle de ce zen. Après "Cyclo" en 2013, on s'attend donc à un album fin 2015 début 2016.
 
-[la video](https://www.youtube.com/watch?v=2swzd1Cpqc4)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=2swzd1Cpqc4)
 
-![cover](http://cheziceman.files.wordpress.com/2015/04/zaziezen.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/zaziezen.jpg)

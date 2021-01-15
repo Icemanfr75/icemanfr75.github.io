@@ -8,11 +8,11 @@ tags: android, chiffrement, clé, cryptage, email, gpg, K9mail, pgp, thunderbird
 
 A lire maintenant sur : Tout d'abord, il vaut mieux commencer à créer sa clé GPG sur un PC...Mais je vais en venir d'abord aux notions pour la compréhension du principe.
 
-**les notions de base**
+### les notions de base
 
 Signer un message revient à prouver l'authenticité de l'expéditeur à son destinataire. Chiffrer un message revient à le glisser dans une enveloppe ouverte uniquement par son destinataire. Pour faire cela avec un email donné, il faut créer des clés avec le logiciel GPG. La clé publique est celle que l'on diffuse à ses destinataires. La clé privée est celle que l'on garde pour chiffrer et/ou signer ses messages. Elle est sous la forme d'une suite de lettres ou de chiffres et peut (et doit) être sauvée dans un fichier ASCII. Il faut évidemment éviter d'utiliser GPG sur des comptes mail de sociétés qui n'hésitent pas utiliser les données de nos mails (Google, Microsoft, etc...)
 
-**Configurer GPG sous Windows**
+### Configurer GPG sous Windows
 
 En ce qui concerne les PC **sous windows**, inutile que je fasse un tutoriel car le Hollandais Volant en a un très bon : <a title="https://lehollandaisvolant.net/tuto/gpg/" href="https://lehollandaisvolant.net/tuto/gpg/">https://lehollandaisvolant.net/tuto/gpg/</a> . Il vous faudra donc deux logiciels : <a title="GPG4Win" href="http://www.gpg4win.org/">GPG4Win</a> et <a title="Thunderbird" href="https://www.mozilla.org/fr/thunderbird/">Thunderbird</a> avec son extension <a title="enigmail" href="https://addons.mozilla.org/en-US/thunderbird/addon/enigmail/">enigmail</a> (ou Clawsmail éventuellement).
 
@@ -26,11 +26,11 @@ Mais en ce qui concerne Android, GPG est un parent pauvre. Je propose de passer 
 
 Vous aurez bien sur envoyé auparavant votre clé publique à vos correspondants, soit par fichier, soit en copiant le contenu du fichier ascii. Et donc il faut avoir le fichier de clé privée sur votre smartphone android.
 
-**Configurer APG sous Android**
+### Configurer APG sous Android
 
 Donc ouvrez APG (Qu'il faut installer impérativement AVANT K9-mail) dans votre android et accédez au menu en haut à gauche pour sélectionner "Importer les clefs". A la place de "serveur de clefs", sélectionnez "importer depuis un fichier" puis ouvrir et cherchez votre fichier. Normalement vous devez voir s'afficher une ligne avec "clef secrète : ...." avec votre pseudo, votre adresse mail et l'empreinte de la clé, une suite de 10 blocs de 4 caractère qui sert à vérifier l'authenticité. Il ne vous reste qu'à appuyer "importer les clefs choisies".
 
-**Ou Configurer OpenKeyChain sous Android**
+### Ou Configurer OpenKeyChain sous Android
 
 Ouvrez OpenKeyChain et faites "import key from file", puis ouvrir pour aller chercher le fichier. Après validation, une ligne s'affiche avec le mail concerné et l'empreinte de la clé. Vous pouvez alors "importez les clés choisies".
 
@@ -38,7 +38,7 @@ Maintenant vous pourrez envoyer avec cette adresse sur votre smartphone. Mais vo
 
 >-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-**Une appli Mail adaptée**
+### Une appli Mail adaptée
 
 Pour un même compte mail (configuré en IMAP), vous pouvez donc chiffrer et signer vos mails avec la même clé et la diffuser avec vos correspondant. Pour cela, grace au client mail K9-Mail, il faudra évidemment installer le bon compte mail et le relier à APG. Normalement, K9 détecte automatiquement la présence d'APG mais il y a un bug qui fait apparaître 2 fois APG dans le menu Paramètres/Paramètres du compte/Cryptographie/Fournisseur OpenPGP. Il faut laisser sélectionné le APG sans clé dorée devant. Pour OpenKeyChain, il n'y a pas de souci.
 

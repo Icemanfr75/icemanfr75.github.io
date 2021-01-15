@@ -14,4 +14,4 @@ Il y a du blues, de l'electro-nostalgique, comme dans le titre qui donne son nom
 
 Comme quoi, il n'y a parfois pas besoin d'en faire des tonnes en production quand tout est là. Reste maintenant à l'accueillir chez nous avec autant de chaleur que celle qui se dégage de <span style="text-decoration:underline;"><a href="https://mariepierrearthur.bandcamp.com/album/si-laurore">sa musique.</a>
 
-![cover](http://cheziceman.files.wordpress.com/2015/02/mariepierrearthur.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/mariepierrearthur.jpg)

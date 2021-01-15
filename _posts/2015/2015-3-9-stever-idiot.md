@@ -18,5 +18,5 @@ Un troisième clip viendra illustrer cet album prochainement et Karen est très 
 
 Album en vente directe : <a href="http://www.karenstever.com/">http://www.karenstever.com/</a>
 
-![cover](http://cheziceman.files.wordpress.com/2014/12/karen-stever-03.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/karenstever.jpg)
 

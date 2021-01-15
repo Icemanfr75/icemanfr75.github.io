@@ -14,6 +14,6 @@ Qu'on se le dise, Cabrel n'est pas de ces vieux chanteurs qui parlent du passé,
 
 Qu'il est réjouissant de retrouver un Francis Cabrel a ce niveau après tant d'années et quelques projets parallèles où l'on aurait pu le perdre. Il reste l'incontestable valeur sûre de la musique française mettant autant en valeur mots que mélodies. Un talent rare, si rare.... Et qu'est ce qui rime mieux avec "In Extremis" que Merci?
 
-[la video](https://www.youtube.com/watch?v=_60XPu79_ec)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=_60XPu79_ec)
 
-![cover](http://cheziceman.files.wordpress.com/2015/09/cabrel2015.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/cabrel2015.jpg)

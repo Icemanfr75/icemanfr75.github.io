@@ -16,6 +16,6 @@ Le bonheur d'un musical de Broadway, c'est bien l'effet de groupe, la troupe, la
 
 On ressort de tout cela avec un sourire grand comme ...chat. Et pour ne pas trop en dévoiler, vous n'aurez droit qu'à cette chanson intemporelle, qui est encore plus belle sur scène. Il est réjouissant de voir un tel classique du musical traverser les années sans prendre trop de rides et toucher une nouvelle génération de spectateurs. Dommage qu'il faille venir jusqu'à Paris...
 
-[la video](https://www.youtube.com/watch?v=yR9Ld6JQ7Kk)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=yR9Ld6JQ7Kk)
 
-![cover](http://cheziceman.files.wordpress.com/2015/10/catsparis.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/catsparis.jpg)

@@ -13,6 +13,7 @@ Le Yémen devient à cette date une République. Avec une main mise des musulm
 Si le coup d’État de mai 1994 par le parti socialiste yémenite ne fonctionne pas, le pays est depuis gangréné par les luttes de pouvoir ; le pays voit son niveau de vie graduellement diminuer, devenant le plus pauvre du golfe. Le président Saleh durcit son régime tout en aplanissant les relations avec l’Arabie Saoudite. Au nord-ouest du pays, les chiites Houthis de la région de Saada se sentent marginalisés et stigmatisés par les mouvements salafistes de plus en plus influents. Ils se révoltent en 2000 ; une guerre civile faisant des milliers de morts jusqu’en 2010. L’insurrection couve toujours au sud. Durant le printemps arabe, une nouvelle période de révolte trouve son apogée dans un attentat contre le président Saleh. Blessé, exilé, il finit par céder le pouvoir sous la pression internationale et les monarchies du golfe. Il laisse sa place au vice-président Abd Rab Mansour Hadi. Mais ce changement ne règle pas le problème de la minorité Houthi (30% de la population environ), laquelle se révolte à nouveau, dans un contexte où Arabie Saoudite et Iran s’affrontent déjà à distance en Syrie et Irak.
 
 Pour approfondir le sujet :
-* <h4><a href="http://www.monde-diplomatique.fr/2015/02/EL_ALAOUI/52642" target="_blank">article du Monde diplomatique</a></h4>
-* <h4><a href="http://www.diploweb.com/Le-Yemen-en-crise-Essai-d-analyse.html" target="_blank">article de Diploweb</a></h4>
+
+* http://www.monde-diplomatique.fr/2015/02/EL_ALAOUI/52642
+* http://www.diploweb.com/Le-Yemen-en-crise-Essai-d-analyse.html
 

@@ -14,7 +14,7 @@ L'apport de la cornemuse et de la flute est considérable dans cette homogénéi
 
 Comme souvent, les métissages musicaux donnent des disques réussis et avec les Dorpkick Murphys, il y a de quoi faire tant la richesse culturelle transparait. Vous serez donc bien inspirés de piocher dans d'autres opus de leur discographie. Et surtout les voir en live.... (ils étaient au Hellfest en 2012)
 
-[la video](https://www.youtube.com/watch?v=-LQbPVmkNao)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=-LQbPVmkNao)
 
 PS : Pour ceux qui seraient inquiet du coté Oi! du groupe, sachez qu'ils se sont déjà illustrés à faire le coup de poing face à un fan ayant fait le salut nazi dans un de leur concert... histoire de remettre les choses en place ;-)
 
@@ -22,4 +22,4 @@ Membres : Ken Casey,  James Lynch, Spicy McHaggis, Ryan Foltz, Marc Orrell, Al
 
 Titres : "For Boston" (T.J. Hurley), "The Legend of Finn MacCumhail" , "Which Side Are You On?" (Florence Reece) , "The Rocky Road to Dublin" (Traditional) , "Heroes from Our Past" , "Forever" , "The Gauntlet" , "Good Rats" , "The New American Way" , "The Torch" , "The Fortunes of War" , "A Few Good Men", "Ramble and Roll" , "Caps and Bottles" (Casey) , "The Wild Rover" (Traditional) , "The Spicy McHaggis Jig"
 
-![cover](http://cheziceman.files.wordpress.com/2014/12/dropkick.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/dropkick.jpg)

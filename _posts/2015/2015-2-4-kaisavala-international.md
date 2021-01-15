@@ -14,7 +14,7 @@ Et les amoureux du piano voix ne pourront que craquer devant la mise en valeur d
 
 Il ne reste maintenant qu'à attendre la confirmation de ce premier album dans un second qu'on espère au moins aussi réussi.
 
-[la video](https://www.youtube.com/watch?v=kWX2ADB0DJk)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=kWX2ADB0DJk)
 
 Membres : Kaisa Vala, Eeka Mäkynen, Juha Aalto, Juha Perälä
 
@@ -31,6 +31,6 @@ Membres : Kaisa Vala, Eeka Mäkynen, Juha Aalto, Juha Perälä
 11. Holding My Breath
 12. Die, Die, Die
 
-![cover](http://cheziceman.files.wordpress.com/2014/12/kaisa_vala.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/kaisavala2.jpg)
 
 

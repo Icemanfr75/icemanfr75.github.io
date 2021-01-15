@@ -14,6 +14,6 @@ Mais Eurythmics, ce fut aussi une image, celle d'Annie et son look androgyne, sa
 
 S'en suivent Touch et 1984, puis Be Yourself Tonight. Le groupe quitte peu à peu les instruments électroniques pour un son plus traditionnel. Et finalement, la créativité se dilue, Dave Stewart produisant en plus pour d'autres, tandis qu'Annie est attirée aussi par le cinéma. Mais la mode a aussi changé et les ventes déclinent. Chacun se marie de son coté et l'inévitable arrive : Une séparation officieuse avec les albums solos d'Annie Lennox (Diva) et de Dave Stewart et ses Spiritual Cowboys. En 99, sortira la dernière production conjointe du duo : Peace. La paix a été sans lendemain. Dave Stewart continue son travail de <a title="(à suivre…) Hollie Stephenson" href="http://histozic.fr/2014/05/11/a-suivre-hollie-stephenson/">producteur</a> tout en explorant le <a title="Dave Stewart – The Blackbird Diaries" href="http://histozic.fr/2011/08/02/dave-stewart-the-blackbird-diaries/">blues</a>. Annie conserve une certaine aura sans avoir pu convertir cela par un succès monumental. Elle obtiendra pourtant de multiples récompenses pour sa chanson "Into The West" qui apparaît dans la trilogie du Seigneur des Anneaux de Peter Jackson.
 
- [la video](https://www.youtube.com/watch?v=qeMFqkcPYcg)
+ En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=qeMFqkcPYcg)
 
-![cover](http://cheziceman.files.wordpress.com/2015/03/sweetdreams.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/sweetdreams.jpg)

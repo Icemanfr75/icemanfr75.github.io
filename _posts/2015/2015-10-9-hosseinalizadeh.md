@@ -22,6 +22,6 @@ Cet enregistrement semble finalement construit avec une certaine chronologie qui
 
 A noter que depuis 1983, d'autres enregistrements ont été effectués, notamment lors d'une tournée en 2006.
 
-[la video](https://www.youtube.com/watch?v=AgMneqQClUw)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=AgMneqQClUw)
 
-![cover](http://cheziceman.files.wordpress.com/2015/06/ney-nava.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/neynava.jpg)

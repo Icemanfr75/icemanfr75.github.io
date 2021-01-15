@@ -14,6 +14,6 @@ Ce qui ressort avant toute chose c'est le choix de la faire chanter dans les gra
 
 Car avec une telle équipe de production, Marina Kaye semble bien programmée pour le succès. Mais parviendra-t-elle à ne pas être que le jouet de producteurs dans un monde musical où on devient très vite démodé à moins d'entretenir le buzz. Les effets, parfois trop nombreux, n'entament en rien le talent flagrant lors de ses performances live. Ce serait dommage car cette jeune femme a sans doute beaucoup de choses à dire dans de futures chansons que sa voix fabuleuse ne pourra que mettre en valeur. A suivre, donc.
 
-[la video](https://www.youtube.com/watch?v=pwKkjLOHd7s)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=pwKkjLOHd7s)
 
-![cover](http://cheziceman.files.wordpress.com/2015/06/marinakaye.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/marinakaye.jpg)

@@ -20,6 +20,6 @@ Désormais à la tête de son propre label, Elton John poursuit sur son succès.
 
 Finalement, ce "Goodbye Yellow Brick Road" peut servir d'introduction à la carrière de ce grand monsieur de la musique mais ne peut se suffir à lui même. Et qui sait s'il ne nous réserve pas encore quelques grands moments, finalement ?
 
-[la video](https://www.youtube.com/watch?v=RZ3Bb4UsXhU)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=RZ3Bb4UsXhU)
 
-![cover](http://cheziceman.files.wordpress.com/2015/06/elton_john_gybr.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/eltonjohn.jpg)

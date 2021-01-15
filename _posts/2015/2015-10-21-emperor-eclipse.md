@@ -16,6 +16,6 @@ Car Samoth est emprisonné 2 ans en 1994 pour des incendies d'église. Bård Fau
 
 Ce "Nightside Eclipse" reste comme le graal du Black Metal, dans ce que certains appelle un sous-genre symphonique. Mais ne serait-il pas finalement l'aboutissement du genre ?
 
-[la video](https://www.youtube.com/watch?v=tccZs_veliA)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=tccZs_veliA)
 
-![cover](http://cheziceman.files.wordpress.com/2015/06/emperor-in_the_nightside_eclipse.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/emperor.jpg)

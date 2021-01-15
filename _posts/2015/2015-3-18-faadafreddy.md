@@ -14,6 +14,6 @@ L’intérêt ne s'arrête pas à ces simples sonorités humaines. Faada Freddy 
 
 Cette solarité du chanteur transparaît plus que jamais dans Gospel Journey. Étant donné la réputation scénique de Daara J, nous ne pouvons que vous conseiller de réserver vos places…
 
-[la video](https://www.youtube.com/watch?v=DN0-Ute1ocE)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=DN0-Ute1ocE)
 
-![cover](http://cheziceman.files.wordpress.com/2015/02/faada-freddy.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/faada-freddy.jpg)

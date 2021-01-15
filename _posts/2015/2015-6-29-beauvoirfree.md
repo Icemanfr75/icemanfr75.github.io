@@ -12,6 +12,6 @@ Notre fantasque chanteur à crête iroquoise a toujours pour lui l'art de trouve
 
 Pourtant, l'ensemble reste sympathique, autant que le personnage et on préfère retenir les bons moments. Il y en a pour tous les gouts mais cela reste plus AOR que Hard-Rock, malgré de gros riffs bien heavy. Après plusieurs écoutes, on se surprend même à chanter sur les morceaux que l'on disaient passables et à aimer revenir sur cet ensemble cohérent. C'est peut-être ça la magie Jean Beauvoir, faire croire que composer un hit est facile. Et celle de Micki Free doit être d'être totalement complémentaire en apportant une note vintage et bluesy au son très groovy de son camarade. En résumé, un album qui ne marquera pas la carrière de notre duo mais qui accompagnera volontiers un été plein de nostalgie.
 
-[la video](https://www.youtube.com/watch?v=7viESizCubM)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=7viESizCubM)
 
-![cover](http://cheziceman.files.wordpress.com/2015/06/beauvoirfreea.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/beauvoirfreea.jpg)

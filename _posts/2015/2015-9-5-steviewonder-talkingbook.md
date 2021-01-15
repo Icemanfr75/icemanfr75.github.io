@@ -14,8 +14,8 @@ Et cet album commence par la douceur de "You are the Sunshine of my life", chans
 
 Si la période des 70s constitue l'age d'or du Rythm'n Blues, elle permet aussi à Stevie Wonder d'en être une figure indiscutable. Les années 80 lui apportent une "démocratisation", dans le sens où il sort de ce style pour aller vers la pop musique, à l'image de Michael Jackson dont il partagera des titres. Les hits continuent à s'empiler, comme "Master Blaster" ou le "Happy Birthday", chanson dédiée à Martin Luther King. Il milite toujours pour la cause noire, tout autant que pour l'Afrique comme en 1985 avec "USA for Africa". Mais la période des années 90 constitue un relatif déclin musical, fait plus d'apparitions et de duos que de création, jusqu'à une période 2000 où il vit sur ses acquis, ce qu'on lui pardonne volontiers. Il continue à tourner dans des salles toujours combles et laisse déjà un héritage considérable dans la musique contemporaine, bien au delà du RnB, de la soul et de la funk.
 
-[la video](https://www.youtube.com/watch?v=AjsVWSHw5fQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=AjsVWSHw5fQ)
 
 Avec : Stevie Wonder : fond vocal, piano, batterie, harmonica, fender rhodes, clavinet, keyboards,  synthetiseur - Scott Edwards: basse - Gloria Barley : chœurs - Jeff Beck : guitare - Shirley Brewer : chœurs - Malcolm Cecil : synthétiseurs - Howard « Buzz » Feiten : guitare - Jim Gilstrap : chœurs - Lani Groves : chœurs  - Loris Harvin : chœurs - Trevor Laurence : saxophone - Steve Madaio : trompette - Robert Margouleff : synthétiseurs - Ray Parker Jr. : guitare - David Sanborn : saxophone - Deniece Williams : chœurs - Debra Wilson : chœurs - Daniel Ben Zebulon : percussions, congas
 
-![cover](http://cheziceman.files.wordpress.com/2015/04/talking_book.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/talking_book.jpg)

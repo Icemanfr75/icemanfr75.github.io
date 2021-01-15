@@ -4,7 +4,7 @@ title: Web - Anonymat, Pseudonymat, et caetera
 category: geek
 tags: anonymat, chiffrement, cryptage, geek, Geekeries, internet, sécurité, web
 ---
-**Le débat <a href="http://genma.free.fr/?Pseudonymat-et-officialiser-mon-projet">est continuel</a> sur le pourquoi de l'utilisation d'un pseudo au lieu de son propre nom dans une activité numérique. Ayant utilisé les deux, je trouve opportun d'exprimer un avis sur la question.**
+**Le débat est continuelsur le pourquoi de l'utilisation d'un pseudo au lieu de son propre nom dans une activité numérique. Ayant utilisé les deux, je trouve opportun d'exprimer un avis sur la question.**
 
 Si j'ai utilisé les deux modes d'expression, c'est parce qu'il ne s'agissait pas de la même activité. Entre écrire des articles culturels et généralistes, faire de l'activisme et parler dans son domaine professionnel, il y a plusieurs approches.
 

@@ -12,6 +12,6 @@ Si cet album est emblématique, c’est aussi pour un titre cher aux défenseurs
 
 Ce sera l’album le plus vendu de Cabrel avec 4 Millions d’exemplaires, et le deuxième plus vendu en France après le D’Eux de **Céline Dion**. Après un tel album, Cabrel ne peut répéter la même recette, même si « Hors Saison » reste un succès. Albums live et participations à des œuvres collectives (Le Soldat Rose) continuent de le maintenir dans l’actualité jusqu’à un dernier album personnel, « Des Roses et des Orties » en 2008. Il se fait également plaisir avec un album de reprises de Dylan, « Vise le Ciel ». Mais on attend impatiemment son retour pour un album qui s’annonce dans la lignée folk des précédents.
 
-[la video](https://www.youtube.com/watch?v=lkWqQfdv86o)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=lkWqQfdv86o)
 
-![cover](http://cheziceman.files.wordpress.com/2015/03/cabrelsamedi.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/cabrelsamedi.jpg)

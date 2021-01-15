@@ -9,7 +9,7 @@ tags: Automobile, énergie, diesel, environnement, pollution, voiture électriqu
 
 Le tableau de l'évolution des ventes sur les 10 dernières années nous fait tirer un premier enseignement : **On a tué l'Ethanol et le GPL**. De 3,5% en 2010, ces deux énergies sont passées à moins de 0,1% du marché. Il faut dire que les rejets de CO2 ne sont pas meilleurs que Diesel ou Essence, voir supérieurs et que la taxation mise en place, le surcoût à l'achat et la rareté des pompes a suffit pour éteindre ce marché.
 
-<img class="alignnone size-full wp-image-149" src="https://cheziceman.files.wordpress.com/2016/01/energieargus.jpg" alt="energieargus" width="640" height="290" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/energieargus.jpg)
 
 L'autre enseignement et le **décollage progressif de l'électrique **mais qui reste extrèmement timide. La France est pourtant, à l'exception de la Norvège, le plus gros marché européen sur cette énergie, le coût de l'énergie électrique jouant aussi un rôle. En réalité, il faut tempérer cela car en 2013, nous étions sur un volume de 0,5% du marché contre 0,8% aujourd'hui. On ne peut donc pas parler d'explosion. La baisse des prix du pétrole, donc du carburant, joue évidemment un rôle. L'hybridation, quant à elle, poursuit sa lente progression jusqu'à presque 3% marché. Dans ce chiffre, il faut aussi compter les "plugin hybrides" ou hybrides rechargeables qui restent encore très minoritaires. Les meilleures ventes sont réalisées par le groupe VW avec son A3 E-Tron et sa Golf GTE, et bientôt Passat. Tous les constructeurs devraient proposer un modèle de ce type dans moins de 5 ans, si l'on en croit les plans produits présentés et les prototypes de salon.
 
