@@ -22,4 +22,4 @@ Le groupe continue de bosser sur Amiga, d'ailleurs, et voici une des dernières 
 
 En video : [![video](/images/youtube.png)](https://youtu.be/qqnse4jZcvo)
 
-Je vous conseille la lecture du site <a href="http://ada.untergrund.net/">ADA</span></a>, par exemple, pour vous replonger dans l'ambiance de l'époque, ou bien encore <a href="https://www.scenemusic.net">scenemusic</a></span>. Et de relire l'article sur <a href="https://cheziceman.wordpress.com/2016/01/28/la-scene-demo-future-crew/">Future crew</a></span>, pendant qu'on y est.
+Je vous conseille la lecture du site <a href="http://ada.untergrund.net/">ADA</a>, par exemple, pour vous replonger dans l'ambiance de l'époque, ou bien encore <a href="https://www.scenemusic.net">scenemusic</a>. Et de relire l'article sur <a href="https://cheziceman.wordpress.com/2016/01/28/la-scene-demo-future-crew/">Future crew</a>, pendant qu'on y est.
