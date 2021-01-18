@@ -10,6 +10,6 @@ Passons rapidement sur l'enfance de Renaud, né à Paris 14ème, dans une famill
 
 Il faudra attendre en effet "Boucan d'Enfer" en 2002 pur revoir un Renaud inspiré, notamment avec "Manhattan Kaboul", qui est même reprise par une autre de ses idoles folk en concert, <a href="http://histozic.fr/2011/03/30/joan-baez-paris-2011/">Joan Baez</a>. Il se remet peu à peu de son alcoolisme auprès d'une nouvelle compagne mais après un album de ballade irlandaise, il dit perdre l'inspiration et sombre à nouveau. 2016 pourrait-être l'année d'une nouvelle résurrection. Pourtant, on ne peut être et avoir été et c'est bien le Renaud 1975-1995 qui a construit le Renaud d'aujourd'hui et demain. Son vieux démon de l'identité semble toujours le ronger et cette compilation aide à mieux comprendre qui est Renaud, au fond.
 
-[la video](https://www.youtube.com/watch?v=2aRakmBRukQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=2aRakmBRukQ)
 
-![cover](http://cheziceman.files.wordpress.com/2016/03/renaud.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/renaud.jpg)

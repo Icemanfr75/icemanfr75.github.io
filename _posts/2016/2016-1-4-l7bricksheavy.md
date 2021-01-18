@@ -14,7 +14,7 @@ Dans cet album, on retrouve toute l'énergie punk du groupe mélé à un son plu
 
 Si les années 90 et le succès achèveront le groupe qui se disloquera, elles vont continuer à apporter leur influence dans le rock feminin. Car avec leur feminisme assumé et leur musique efficace, elles ont tracé la route à bien des Riot Grrrls ! De quoi se rappeler "One more thing" sur sa "Shitlist": Que contrairement à ce qu'elles disent, there is pleasure !
 
-[la video](https://www.youtube.com/watch?v=hFm00qpVX34)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=hFm00qpVX34)
 
-![cover](http://cheziceman.files.wordpress.com/2015/08/l7bricks.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/l7bricks.jpg)
 

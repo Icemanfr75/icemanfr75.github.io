@@ -18,6 +18,6 @@ Paradoxalement, CCTV met en  partage ce spectacle sur le YouTube de Google, alo
 
 Allez, comme cadeau pour l'année du singe, je vous mets la 3ème partie du spectacle.
 
-[la video](https://www.youtube.com/watch?v=v_QNJ2EuIkQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=v_QNJ2EuIkQ)
 
 Coté Vietnam, on a aussi un spectacle à vocation plus domestique, d'environ 3h, même si la télé nationale d'état (VTV4 pour la France) a aussi l'habitude de démultiplier les spectacles musicaux et les rediffusions. C'est moins spectaculaire, parfois daté mais ça a son charme aussi. Coté Corée du sud avec Arirang, je n'ai rien trouvé de spécial mais la chaine a l'habitude de faire la promotion de la culture coréenne. La NHK japonaise est plus austère et orientée économie. Bref, entre youtube et le chaines étrangères de votre box, c'est le moment de voir autre chose et de se faire sa propre idée.

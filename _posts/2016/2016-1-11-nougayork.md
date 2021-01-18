@@ -16,5 +16,5 @@ Si cet album remet Claude Nougaro dans la modernité, lui fait rejoindre la têt
 
 producteurs : Mick Linaro, Mark Egan, avec Markus Miller à la basse, Trilok Gurtu aux percussions, Nile Rodgers à la guitare, Philippe Saisse aux arrangements, Maurice Vander : Piano et arrangements, Pierre Michelot : Contrebasse, Francis Lassus : Batterie
 
-[la video](https://www.youtube.com/watch?v=MoFqnbQtxVk)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=MoFqnbQtxVk)
 

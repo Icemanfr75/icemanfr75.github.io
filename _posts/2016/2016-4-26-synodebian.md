@@ -9,8 +9,7 @@ tags: debian, linux, logiciel libre, nas, synology, tutoriel,
 
 L'objectif est d'avoir **les répertoires usuels du NAS accessible directement sur le bureau** ou dans son gestionnaire de fichier. C'est une demande souvent faite par des utilisateurs néophytes qui ne comprennent pas le principe du "montage" avec leurs habitudes de Windows. Evidemment, ils ne seront pas root/admin mais seulement utilisateurs.
 
-Au préalable, il est nécessaire d'avoir défini **une adresse IP fixe** sur le réseau domestique pour le NAS. Chaque box a son interface mais il vous faudra trouver l'adresse MAC inscrite sur le NAS ou dans son interface. Dans mon exemple, le XX sera à changer par le numéro choisi pour votre NAS. Ensuite, il faut aller dans l'interface du NAS, dans mon cas c'est un Synology et ça ressemble à ça : <a href="https://www.synology.com/fr-fr/knowledgebase/DSM/tutorial/File_Sharing/How_to_access_files_on_Synology_NAS_within_the_local_network_NFS"><span style="text-decoration:underline;">TutoSyno.</span></a>
-
+Au préalable, il est nécessaire d'avoir défini **une adresse IP fixe** sur le réseau domestique pour le NAS. Chaque box a son interface mais il vous faudra trouver l'adresse MAC inscrite sur le NAS ou dans son interface. Dans mon exemple, le XX sera à changer par le numéro choisi pour votre NAS. Ensuite, il faut aller dans l'interface du NAS, dans mon cas c'est un Synology et ça ressemble à ça : <a href="https://www.synology.com/fr-fr/knowledgebase/DSM/tutorial/File_Sharing/How_to_access_files_on_Synology_NAS_within_the_local_network_NFS">TutoSyno.</a>
 
 Ouvrez ensuite **un terminal** et tapez
 >sudo mousepad /etc/fstab

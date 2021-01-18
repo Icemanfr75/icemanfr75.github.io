@@ -12,6 +12,6 @@ Il n'est pas aisé de caler les rythmiques africaines avec un orchestre symphoni
 
 Si vous ne connaissez pas encore Angélique Kidjo, c'est l'occasion ou jamais de la découvrir. Car ce type d'albums est aussi fait pour cela, pour aller chercher un public qui n'aurait pas la curiosité d'écouter une des plus grandes chanteuses actuelles. On regrette presque le début un peu timide où l'orchestre prend trop de place. C'est aussi pour accompagner une montée en émotion crescendo. Et après avoir fait défiler le fil de cette vie incroyable, que peut-on souhaiter maintenant à Angélique Kidjo, sinon de nous surprendre encore.
 
-[la video](https://www.youtube.com/watch?v=-SeOEnflWYs)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=-SeOEnflWYs)
 
-![cover](http://cheziceman.files.wordpress.com/2016/01/angelique-kidjo.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/angelique-kidjo.jpg)

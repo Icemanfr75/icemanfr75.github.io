@@ -14,7 +14,7 @@ Alors évidemment, certains trouveront cela trop grand, trop épique, trop grand
 
 Au final, Myrath nous offre un grand album, sans atteindre encore le chef d'oeuvre. Peut-être faudra-t-il trouver la synthèse entre toutes ces voies entrevues ici. Reste que c'est aujourd'hui un des groupes les plus passionnant à suivre, en France ou au Maghreb. Ce n'est pas pour rien qu'on les retrouvera à Istanbul au coté de Epica et Children of Bodom en mai, ou au coté de Symphony X ailleurs en Europe.
 
-[la video](https://www.youtube.com/watch?v=z2lztdrfrcw)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=z2lztdrfrcw)
 
-![cover](http://cheziceman.files.wordpress.com/2016/03/myrathlegacy.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/myrathlegacy.jpg)
 

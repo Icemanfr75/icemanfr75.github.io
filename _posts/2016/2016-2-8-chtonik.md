@@ -12,8 +12,8 @@ L'ambiance chinoise est de mise dès l'introduction symphonique qui utilise des 
 
 J'entends déjà des puristes trouver l'enveloppe de cet album trop commerciale. Mais on ne s'ennuie pas une seconde et on ne tombe jamais dans la facilité. C'est efficace, prenant, rageur à souhait et c'est bien ce qui compte. La machine Chthonic nous gratifie de plus de quelques clips à la dimension aussi épique que ce que l'on ressent dans l'album. C'est visuel comme ce qu'on sait faire au japon, accrocheur comme un clip US, et avec une esthétique parfaitement adapté à l'Europe. Bref, ils ont vraiment tout compris. Reste à savoir maintenant, après ce coup de maître, comment le groupe va supporter la vocation politique de son leader.
 
-[la video](https://www.youtube.com/watch?v=4jYsu5-TJQ8)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=4jYsu5-TJQ8)
 
-![cover](http://cheziceman.files.wordpress.com/2016/02/chthonic.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/chthonic.jpg)
 
 

@@ -14,7 +14,7 @@ Pas de bulles, mais des petites flèches pour se défendre des méchants soldats
 
 Contrairement à beaucoup d'autres titres de l'époque, il n'a pas été réédité sur des compilations. Il a juste eu une version Nintendo DS, baptisé New Zealand Story Revolution mais qui n'arrive pas vraiment à rendre la magie du titre original. Et pourtant, depuis, j'y ai rejoué en émulation. J'accroche toujours à cet univers kawai qui n'est pas sans rappeler aussi un certain <a href="https://en.wikipedia.org/wiki/Kirby_%28character%29">Kirby</a>, créé en 1992. J'avais du parcourir à l'époque les deux premiers niveaux. Dommage, les suivants changent un peu de couleurs. Allez, je m'y remets !
 
-[la video](https://www.youtube.com/watch?v=5wD0VFu1ttw)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=5wD0VFu1ttw)
 
 (on voit très bien des passages secrets dans cette vidéo)
 

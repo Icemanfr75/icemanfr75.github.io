@@ -18,6 +18,6 @@ Il faudra attendre OK Computer en 1997 pour que le groupe atteigne les sommets d
 
 En fin de contrat avec EMI, ils décident de continuer seuls, vendant leur album à prix libre"In Rainbows" sur leur site, même gratuitement. En 2007, l'album sortira quand même de manière plus classique. La musique de Radiohead devient de plus en plus expérimental, sous l'impulsion du producteur **Nigel Godrich**. En 2012, un accident mortel intervient pendant la tournée du groupe ce qui semble marquer le groupe. Yorke et Goodrich continuent d'expérimenter de leur coté et le groupe se fait plus rare ensemble. Pourtant un nouvel album est prévu... Avec encore une évolution, à n'en pas douter.
 
-[la video](https://www.youtube.com/watch?v=LCJblaUkkfc)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=LCJblaUkkfc)
 
-![cover](http://cheziceman.files.wordpress.com/2016/01/radioheandbends.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/radioheandbends.jpg)

@@ -29,6 +29,7 @@ On pense peu aussi aux richesses des villes japonaises de Nagasaki et Hiroshima,
 A Jerusalem, aujourd'hui, l'esplanade des mosquées et celle d'Al Aqsa sont des exemples de ces destructions perpétuelles. Le temple de Salomon s'est élevé là, dit-on. Les chrétiens détruisirent le lieu, puis les musulmans y bâtirent une mosquée. Le lieu est revendiqué par des membres de ces trois religions, pourtant si proches. Et l'on pourrait continuer longtemps la litanie de cette utilisation des merveilles architecturales dans les guerres. Elles représentent des cultures, des peuples et en les détruisant, on croire détruire la mémoire, ce qui soude le camp adverse. Parfois elles ont justes été au mauvais endroit au mauvais moment.
 
 <img class="" src="http://kirkmillerblog.files.wordpress.com/2014/05/south-wall-significant-muslim-mosque.jpg?w=665" alt="" width="665" height="499" />
-Mur sud de la Mosquée par Kirk Miller
+
+*Mur sud de la Mosquée par Kirk Miller*
 
 Alors on pleure aujourd'hui le Palmyre déjà en ruine depuis des siècles. On ne parle pas des pillages des ruines antiques dans les siècles passés non plus, mais Palmyre a la chance d'avoir des témoignages de son état passé. Comme les temples Khmers que l'on tente de rebâtir comme des puzzles, il viendra un jour où l'on reconstruira cette splendeur. Mais je ne peux m'empêcher de penser à toutes les splendeurs détruites par la main de l'homme, celui là même qui est capable de construire ces merveilles et que nous ne reverrons pas.

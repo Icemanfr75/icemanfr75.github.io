@@ -12,6 +12,6 @@ Un classique qui démarre sur les chapeaux de roue avec ce "C'mon let's go" qui 
 
 En 1982, elles enchainent sur le plus sage "Screaming blue Murder". La conquète du marché US où elles ont tourné avec Iron Maiden et Motörhead les fait s'assagir visuellement, et musicalement dans un registre plus mainstream, AOR. Kelly Johnson quitte le groupe (remplacée par **Cris Bonacci** et **Jackie Bodimead**) qui perd aussi sa maison de disque. Signées par Mercury en 1985, elles tentent de se relancer dans cette période de doute. Si l'album qui en ressort s'appelle "Running Wild", il n'y a plus la sauvagerie des débuts. Echec commercial cuisant qui les laisse sans contrat en 1986. C'est l'heure de revenir aux basiques en Angleterre pour l'album "Nightmare at Maple Cross". La mode a changé et les filles ont du mal à retrouver leur public. Elles tournent avec Gary Glitter, Dio mais la foi n'est plus là. Les années 90 marquent un repli musical même si le groupe continue de tourner avec un line-up un peu différent. En 2007, Kelly Johnson décède d'un cancer et le groupe enregistre l'album Legacy. pour boucler la boucle, elles réenregistrent ce Hit and Run en 2011, pour les 30 ans de l'album.
 
-[la video](https://www.youtube.com/watch?v=Lk68ZsOdS7U)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Lk68ZsOdS7U)
 
-![cover](http://cheziceman.files.wordpress.com/2015/08/girlschool_hit_and_run.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/girlschool.jpg)

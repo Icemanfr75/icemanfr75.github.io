@@ -10,10 +10,10 @@ Le groupe est grec et a commencé l'activité démo dans les années 90. Mais c'
 
 Oui, ce n'est plus vraiment le même esprit que les démos d'autrefois, qui paraissent sans doutes démodées pour des yeux d'aujourd'hui. Mais le fond reste avec la production en temps réel, d'un spectacle visuel et auditif où l'image et la musique sont parfaitement liées. Chez ASD, on retrouve bien un codeur (Navis... ou d'autres par le passé), deux musiciens (aMusic et Leviathan) et des graphistes 2D et 3D. Musicalement, là aussi on a évolué vers des sons moins électroniques, chose que l'on voyait déjà dans les productions de trackers de la fin des années 90/début 2000. ASD va justement chercher des sons plus familiers du Rock et Hard rock. Le style visuel mèle souvent des éléments du réel avec des éléments calculés ce qui peut faire passer les démos pour des trucages vidéos.
 
-[la video](https://www.youtube.com/watch?v=LGm33hsXP9w)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=LGm33hsXP9w)
 
-D'autres de leurs productions sont de belles oeuvres d'art à part entière comme l'hommage à <span style="text-decoration:underline;"><a href="https://fr.wikipedia.org/wiki/Maurits_Cornelis_Escher">Escher</a></span> ci dessous :
+D'autres de leurs productions sont de belles oeuvres d'art à part entière comme l'hommage à <a href="https://fr.wikipedia.org/wiki/Maurits_Cornelis_Escher">Escher</a> ci dessous :
 
-[la video](https://www.youtube.com/watch?v=G7dpLcIaUTs)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=G7dpLcIaUTs)
 
 La scène demo a pris donc une autre dimension mais reste toujours foisonnante. A suivre...

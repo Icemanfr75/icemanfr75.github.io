@@ -8,7 +8,7 @@ tags: communication, cuba, Geopolitique, Geopolitique, obama, politique, raul ca
 
 Si Raul Castro n'a pas apprécié les attaques de la presse vis à vis des prisonniers politiques, l'image qui a fait jaser est celle du bras levé bizarrement d'Obama :
 
-<img class="alignnone size-full wp-image-18359" src="http://cheziceman.files.wordpress.com/2016/03/obamacastro.jpg" alt="obamacastro" width="286" height="256" />
+![obama](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/obamacastro.jpg)
 
 Les médias américains trouvent cela plutôt comique. Les médias cubains n'en font que peu état. Mais en France, on trouve des interprétations diverses, la pire étant le délire de l'UPR, ce parti devenu le repère des conspirationnistes de tous bords. Pour eux c'est "Raoul Castro (qui) vient de déjouer la  gestuelle dominatrice habituelle des présidents américains". Oui, vous ne rêvez pas... surtout si vous lisez l'article. Non, je ne mettrai pas le lien, ça serait trop d'honneur.
 

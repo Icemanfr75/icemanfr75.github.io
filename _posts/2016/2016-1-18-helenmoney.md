@@ -12,8 +12,8 @@ Le son grave du violoncelle plonge rapidement dans l'ambiance sombre de ce "Arri
 
 La batterie se déchaine avec une double pédale sur "Radio recorders" mais Helen manie aussi l'archet avec douceur comme dans "Midwestern night's dream", pause délicate dans l'album. Les sonorités industrielles reviennent graduellement dans une progression distordue dans un "Arriving Angels" qui donne son nom à l'album. La rythmique peut se faire aussi lourde et basique comme pour un"Schrapnel" presque martial. On imaginerait presque ce que ça pourrait donner avec un groupe comme **Rammstein**. Mais avec l'apport de quelques notes de piano, la musique d'Helen Money peut nous emmener ailleurs, dans ce "Runout", qui n'a pas l'air d'un morceau final mais d'un "Au revoir", un rendez vous pour un prochain album, avec ce goût d'inachevé.
 
-Voilà un album qui ne laisse pas indifférent. Atypique et fascinant, il n'est pas d'un accès si facile mais montre toute la modernité que l'on peut tirer d'instruments classiques. Le jeu scénique de cette musicienne expérimentée montre le coté rock'n roll de l'instrument  .Le seul défaut, si c'en est un, est l'exclusivité du prix sur <span style="text-decoration:underline;"><a href="https://helenmoney.bandcamp.com/">Bandcamp</a></span>.
+Voilà un album qui ne laisse pas indifférent. Atypique et fascinant, il n'est pas d'un accès si facile mais montre toute la modernité que l'on peut tirer d'instruments classiques. Le jeu scénique de cette musicienne expérimentée montre le coté rock'n roll de l'instrument  .Le seul défaut, si c'en est un, est l'exclusivité du prix sur <a href="https://helenmoney.bandcamp.com/">Bandcamp</a>.
 
-[la video](https://www.youtube.com/watch?v=2mBqV5YBx1s)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=2mBqV5YBx1s)
 
-![cover](http://cheziceman.files.wordpress.com/2015/12/helenmoney.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/helenmoney.jpg)

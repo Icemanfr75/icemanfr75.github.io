@@ -14,7 +14,7 @@ Si il reste du "rock" chez La Grande Sophie, on ressent surtout mélancolie et n
 
 On comprend alors le succès de cette artiste à part, fidèle à elle même. Et paradoxalement, on n'en attend rien de particulier, juste être là encore demain pour bercer notre quotidien de mots et de notes. A bientôt, Sophie...
 
-[la video](https://www.youtube.com/watch?v=ggEfvsgr-ok)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=ggEfvsgr-ok)
 
-![cover](http://cheziceman.files.wordpress.com/2016/01/grandesophie-noshistoires.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/grandesophie.jpg)
 

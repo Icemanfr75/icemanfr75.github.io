@@ -8,7 +8,7 @@ tags: Geopolitique, iran, kurdistan, moyen orient, Réflexion, syrie, turquie
 
 Voici un document qui présente la complexité du Kurdistan.
 
-<img class="alignnone size-full wp-image-18351" src="http://cheziceman.files.wordpress.com/2016/03/kurds.jpg" alt="kurds" width="700" height="419" />
+![kurds](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/kurds.jpg)
 
 Outre les assyriens et les Yazidis, on y voit toute la complexité entre les différentes régions du kurdistan, partagé entre Syrie, Iran, Irak et Turquie. Entre entités politiques et groupes terroristes, il y a beaucoup de variantes et autant d'orientations politiques qui ont momentanément fait front contre un seul ennemi : l'EI. Mais demain, lorsque l'EI aura vu son influence diminuer, qu'en sera-t-il ? Que deviendront les soutiens russes et occidentaux ? Quelle sera la position iranienne face aux revendications kurdes? L'Irak déjà disloqué acceptera-t-il une sécession ? Autant de questions sans réponses aujourd'hui.
 

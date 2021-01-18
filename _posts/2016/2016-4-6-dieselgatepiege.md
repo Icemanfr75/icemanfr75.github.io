@@ -4,15 +4,15 @@ title: Automobile - Le Dieselgate dévoile un autre piège
 category: automobile, environnement
 tags: Automobile, diesel, environnement, pollution
 ---
-**Les premiers résultats <span style="text-decoration:underline;"><a href="http://www.developpement-durable.gouv.fr/IMG/pdf/2016-04-07_-_DP_Resultats_Commission_UTAC.pdf">des tests français(PDF) </a></span>après l'affaire Volkswagen (donc Audi, Skoda, Porsche, Seat....) sortent peu à peu et le premier enseignement concerne le traitement des NOx.**
+**Les premiers résultats <a href="http://www.developpement-durable.gouv.fr/IMG/pdf/2016-04-07_-_DP_Resultats_Commission_UTAC.pdf">des tests français(PDF) </a>après l'affaire Volkswagen (donc Audi, Skoda, Porsche, Seat....) sortent peu à peu et le premier enseignement concerne le traitement des NOx.**
 
 Il faut déjà rappeler** ce que sont les NOx**, ou NO et NO2, soit oxyde d'Azote et dioxyde d'Azote. Ces gazs sont émis à 54% par le transport routier (source ministère de l'environnement) et leur action est irritante pour les poumons, accentue les maladies cardio-vasculaires. La réglementation sur les NOx étant de plus en plus drastique, elle a obligé les constructeurs à trouver des solutions pour les limiter. On les regroupe en deux catégories baptisées NOxTrap (ou piège à NOx) et SCR ( ou réduction catalytique sélective). Les tests ont justement montré les limites de ces technologies.
 
-<img class="alignnone size-large wp-image-1239" src="https://cheziceman.files.wordpress.com/2016/04/noxlimit.jpg?w=730" alt="NOXlimit" width="730" height="437" />
+![noxlimit](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/noxlimit.jpg)
 
 Dans ces tests, on a les moins mauvais élèves (PSA Peugeot Citroen, BMW à 2 fois la norme) et les mauvais voir très mauvais (Renault, Opel  à plus de 5 fois la norme, voir 10 fois). Cela tient à la différence de choix technologique. En effet le SCR, qui est à la fois plus lourd et plus cher, permet une meilleure filtration des NOx et une meilleure optimisation de la consommation. Le tableau suivant le montre. Je mettrai tout de même de coté les marques Dacia, BMW, Fiat, Kia, qui n'ont eu qu'un seul véhicule testé ce qui ne donne qu'une vague indication.
 
-<img class="alignnone size-full wp-image-1240" src="https://cheziceman.files.wordpress.com/2016/04/etuderesult.jpg" alt="etuderesult" width="623" height="319" />
+![etude](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/etuderesult.jpg)
 
 Pour bien comprendre, il faut rappeler ce que signifient les essais : D1 et D2 sont des tests sur banc avec de quoi tromper un calculateur programmé pour détecter le cycle normatif. Le D2 a une modification du début de cycle qui peut avoir une influence. Le D3 est un cycle normatif (donc quand même peu représentatif d'une utilisation normale dans les valeurs d'accélération) mais réalisé sur route/circuit. On y a donc des influences de température, frottement, vent. Il apparait très clairement que la fonction NOXTrap n'est pas efficace tandis que le système SCR est plus performant, sans suffir à passer la norme. Les véhicules utilisés étaient rodés, avec suffisamment de kilométrage, soit différents de ceux qui passent les homologations qui sont "préparés" avec une pression des pneux, une charge en énergie optimale, etc... Mais surtout la température de fonctionnement moteur est dans sa meilleure zone.
 
