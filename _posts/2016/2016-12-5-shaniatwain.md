@@ -14,6 +14,6 @@ Avec déjà 9 titre, elle aurait pu s'arrêter là mais elle nous sort une magni
 
 Shania Twain devient une star internationale et tourne beaucoup. Elle prend une pause bien méritée de 2 ans, et a son premier enfant. Ce n'est qu'en 2002 qu'elle reprend les chemins des studios pour "Up!". L'album confirme son succès et la maintient en tête des charts partout dans le monde. On comprend moins la sortie d'un Best of en 2005, sinon pour repousser un peu un nouvel album, sans cesse repoussé. Elle préfère céder aux sirènes de Las Vegas en 2011. Depuis on attend encore l'album, malgré quelques singles depuis ces 14 années. Il faut dire qu'en 2008, elle se sépare de Lange qui l'a trompé avec sa meilleure amie. Est-ce à dire qu'il fallait réunir ces deux éléments pour un succès? On le saura enfin si cette arlésienne sort un jour.
 
-[la video](https://www.youtube.com/watch?v=ZJL4UGSbeFg)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=ZJL4UGSbeFg)
 
-![cover](http://cheziceman.files.wordpress.com/2016/09/shania_twain_-_come_on_over_alternate_cover.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/shaniatwain.jpg)

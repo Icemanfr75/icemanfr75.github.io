@@ -14,6 +14,6 @@ Initialement, "Virginia Plain" n'était pas dans le premier pressage, sortant en
 
 Si aujourd'hui le son paraît daté, il faut reconnaître l'avant-gardisme et le génie de sortir un tel disque à l'époque. Je me souviens encore aujourd'hui de ma première écoute, bien des années plus tard, qui m'avait d'abord laissé sans voix. Et il faut bien plusieurs sessions avant d'appréhender cette oeuvre. Roxy Music dans cette formation, aura une carrière météorique. Eno quitte le groupe en 1973 après deux albums et on connaît sa carrière solo faite d'expériences et de productions pour les plus grands. Ferry devient le seul maître à bord, désormais et cela se ressentira de plus en plus dans le style, avec l'apport d'**Eddie Jobson** pour remplacer Eno. Les albums restent hautement recommandables en 73 et 74. Ferry se disperse, se grise de son succès et sort un album solo. Si le succès ne se dément pas dans les années 80, il ne reste que McKay et Manzanera autour de Ferry et le groupe devient plus consensuel. "Avalon" sera un autre sommet de leur carrière, montrant à la fois le talent d'interprète de Ferry, tout autant que celui de mélodiste génial. Séparés en 1983, ils reviennent dans les années 2000, sans Eno. Il participera tout de même à quelques enregistrements de nouveaux titres. Mais il faut bien avouer qu'aujourd'hui, le groupe reste la créature de Brian Ferry. Reste une carrière sans pareil, dont le premier album reste la meilleure introduction.
 
-[la video](https://www.youtube.com/watch?v=slr7cg3mcOU)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=slr7cg3mcOU)
 
-![cover](http://cheziceman.files.wordpress.com/2016/09/kari-ann-outtake-4.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/roxymusic.jpg)

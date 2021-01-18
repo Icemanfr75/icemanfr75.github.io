@@ -14,14 +14,14 @@ Le film vaut à la fois pour ces moments de comédies, très réussis, mais pour
 
 Il y a le "Make 'em Laugh" de Donald O'Connor, qui est un des plus grands numéros du genre, repris dans les années 80 pour une pub de matelas. Je ne résiste pas à en mettre la vidéo ci dessous :
 
-[la video](https://www.youtube.com/watch?v=SND3v0i9uhE)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=SND3v0i9uhE)
 
-Le trio O'Connor, Reynolds, Kelly nous gratifie aussi d'un magnifique "Good Morning" qui devrait être ma musique de réveil, tant ce numéro inspire de la bonne humeur. Le traveling avec le canapé est une trouvaille géniale, par exemple. Je ne peux oublier aussi le "Broadway Melody Ballet", un numéro à tiroir qui vaut à lui seul le détour. Moi qui suis plutôt Astaire que Kelly, je ne peux que m'incliner devant le talent de Gene. C'est évidemment un autre hommage au classique Broadway Melodyde 1929. On y retrouve Cyd Charisse dans une robe verte et une scène qui fera beaucoup pour sa réputation de plus grande danseuse d'Hollywood. Elle aura une sorte de réponse à cette scène dans <span style="text-decoration:underline;"><a href="https://cheziceman.wordpress.com/2008/08/31/the-band-wagon-tous-en-scene/">Tous en Scène</a>, l'année suivant au côté d'Astaire, dans le "Girl Hunt Ballet".
+Le trio O'Connor, Reynolds, Kelly nous gratifie aussi d'un magnifique "Good Morning" qui devrait être ma musique de réveil, tant ce numéro inspire de la bonne humeur. Le traveling avec le canapé est une trouvaille géniale, par exemple. Je ne peux oublier aussi le "Broadway Melody Ballet", un numéro à tiroir qui vaut à lui seul le détour. Moi qui suis plutôt Astaire que Kelly, je ne peux que m'incliner devant le talent de Gene. C'est évidemment un autre hommage au classique Broadway Melodyde 1929. On y retrouve Cyd Charisse dans une robe verte et une scène qui fera beaucoup pour sa réputation de plus grande danseuse d'Hollywood. Elle aura une sorte de réponse à cette scène dans [Tous en Scène](https://www.cheziceman.fr/2008/bandwagon/), l'année suivant au côté d'Astaire, dans le "Girl Hunt Ballet".
 
-[la video](https://www.youtube.com/watch?v=w40ushYAaYA)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=w40ushYAaYA)
 
 Et bien sur, il y a le mythique "Singin in the Rain" où Gene danse dans les flaques d'eau, joue du parapluie, non sans humour, et tout cela en chantant magnifiquement. Car si Debbie Reynolds a passé des jours sous la torture de Gene Kelly pour être à la hauteur en danse, elle sera doublée pour le chant. Ce n'est pas le cas pour Jean Hagen, la délicieuse idiote qu'on oublie trop souvent dans les réussites du film. Mais pour revenir à cette scène, elle a tellement marqué le cinéma que même le grand patineur Kurt Browning en fera un remake en roller.
 
 Aujourd'hui, je revois sans cesse avec le même plaisir ce film qui donne un sentiment de joie indescriptible. C'est un tout, car il vaut pour la danse, la qualité du scénario, des partitions musicales, comme pour le casting. Le technicolor et ses couleurs rajoutent à cette magnificence intemporelle. Oserai-je dire qu'il ne faut pas avoir de coeur pour ne pas aimer ce film ? C'est à me faire aimer les jours de pluies... Et je préfère finalement garder l'image de cette Debbie Reynolds avec ses deux amis Donald et Gene à ses bras.
 
-<img class="alignleft size-medium wp-image-8517" src="https://cheziceman.files.wordpress.com/2016/12/singing.jpg?w=198" alt="singing" width="198" height="300" />
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/singing.jpg)
