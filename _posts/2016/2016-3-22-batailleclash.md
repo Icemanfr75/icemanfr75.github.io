@@ -8,7 +8,7 @@ tags: android, geek, Geekeries, jeu video, stratégie, 2010s
 
 Comme dans tous les jeux de stratégie temps réel, on part d'un village, on exploite des ressources, on batit une armée, on recherche de la technologie pour faire monter en compétences ces différents éléments pour plus de puissance, fortifier son village... Mais si des Ages of Empire ou Civilization misaient sur un contenu vaguement historique, de larges territoires, ici on se concentre sur un petit carré qu'il va falloir aménager en place forte pour se défendre d'agresseurs extérieurs. Ces agresseurs sont d'autres joueurs en ligne, définis par une échelle de compétence pour qu'il n'y ait pas trop de disproportion. Il faut donc penser, dès le départ, à protéger ses ressources, qui sont de deux sortes : pièces d'or et magie (le nom différe selon le jeu mais le système est identique). Le joueur peut se regrouper avec d'autres, lorsqu'il atteint un certain niveau, pour fonder un clan, une guilde, bref, un groupe d'armées. L'union fait la force mais c'est surtout le temps de jeu qui fait la force, et ... l'argent que l'on dépense pour gagner du temps. On rajoutera un troisième larron qui empreinte la mécanique des deux autres en l'améliorant par plus de détails et de réalisme : DomiNations. Mais vous remarquerez le manque d'imagination de certains dans le positionnement des boutons et affichages !
 
-![clan](https://pcdn-filedn.pcloud.com/img/icons/32/1.png)
+![clan](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/rts1.png)
 
 ### Gratuit ?
 
