@@ -14,19 +14,19 @@ J'ai dans la tête de convaincre une windowsienne invétérée de passer à Ubun
 
 Sauf que là, Thunar, le gestionnaire de fichier de XFCE n'a pas de fonction de recherche. Catfish,un outil de recherche, ne permet pas ensuite de supprimer les fichiers trouvés mais on peut l'intégrer à Thunar en menu contextuel. Encore faut-il installer catfish d'abord qui n'a pas été prévu dans le package de base! Je n'aurais pas ce problème dans un environnement Gnome, évidemment...
 
-A ce moment, je me pose vraiment la question de savoir si on marche sur la tête. J'ai trouvé par ailleurs une autre solution en passant par un vrai gestionnaire de fichier, comme double commander, un clone de <span style="text-decoration:underline;"><a href="http://frederic.bezies.free.fr/blog/?p=14858">T</a><a href="http://frederic.bezies.free.fr/blog/?p=14858">otal Commander,</a></span> soit donc un clone de norton commander, outil datant de ... 1986, soit 30 ans! En 30 ans, il n'est pas venu à l'idée des mecs derrière XFCE et Thunar qu'on pourrait simplement chercher des fichiers et vouloir les supprimer, un truc basique qu'on peut aussi faire par ligne de commande, comme il y a 40 ans. Mais franchement, dans quel monde vivent ces gens?
+A ce moment, je me pose vraiment la question de savoir si on marche sur la tête. J'ai trouvé par ailleurs une autre solution en passant par un vrai gestionnaire de fichier, comme double commander, un clone de <a href="http://frederic.bezies.free.fr/blog/?p=14858">T</a><a href="http://frederic.bezies.free.fr/blog/?p=14858">otal Commander,</a></span> soit donc un clone de norton commander, outil datant de ... 1986, soit 30 ans! En 30 ans, il n'est pas venu à l'idée des mecs derrière XFCE et Thunar qu'on pourrait simplement chercher des fichiers et vouloir les supprimer, un truc basique qu'on peut aussi faire par ligne de commande, comme il y a 40 ans. Mais franchement, dans quel monde vivent ces gens?
 
 Bilan, je peux aussi utiliser le gnome-search-tool, ou bien encore mettre carrément gnome, ce qui revient à mettre à genou une vieille machine pour juste avoir une fonction de base d'un OS. Même mon vieux BeOS en R5 avait cette fonction, et je ne parle même pas de Directory Opus sur Amiga ! Ah mais par contre, pour grogner sur systemd et autres conneries dont 99% des usagers normaux se foutent, il y a du monde, et pour faire des forks inutiles aussi. Je ne suis pas le seul à le penser si j'en crois le forum XFCE ou un magazine sur le logiciel libre :
 
-<img class="alignnone size-large wp-image-7329" src="https://cheziceman.files.wordpress.com/2016/08/xfceforum1.jpg?w=730" alt="xfceforum1" width="730" height="69" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/xfceforum1.jpg)
 
-<img class="alignnone size-full wp-image-7333" src="https://cheziceman.files.wordpress.com/2016/08/xfce2.jpg" alt="xfce2" width="652" height="132" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/xfce2.jpg)
 
 Je ne compte pas le nombre de sujets sur les forums anglais sur cette fonctionnalité avec l'ajout de plugin à Thunar mais qui ne vont pas au bout du sujet, à savoir dire si on peut ou pas manipuler les fichiers du résultat. Des demandes d'évolutions trainent depuis au moins 4 ans, chacun se renvoyant la balle entre catfish, thunar, gtk, ...
 
 Donc je m'en vais expliquer maintenant comment rajouter une fonctionnalité  à sa Debian XFCE qui devrait être en standard et ne l'est pas parce que ça appartient à la chapelle d'à coté (Gnome en l'occurence)
 
-<img class="alignnone size-full wp-image-7343" src="https://cheziceman.files.wordpress.com/2016/08/thunarsearch-e1471383048434.jpg" alt="thunarsearch" width="600" height="328" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/thunarsearch.jpg)
 
 Donc au préalable, dans synaptic, vous pouvez installer **gnome-search-tool** (ou bien la ligne de commande mais bon c'est pas le but). Ensuite, dans le gestionnaire de fichier (donc Thunar), il faut faire &lt;Editer&gt; et &lt;Configurer les actions personnalisées...&gt;, puis appuyer sur le bouton &lt;+&gt; avant de renseigner comme ce qui suit :
 
@@ -42,7 +42,7 @@ icone: /usr/share/icons/Tango/scalable/actions/search.svg
 
 Ne reste plus qu'à aller dans l'autre onglet de la boite de dialogue et cocher Dossier en laissant le champs à *. Ainsi une fenêtre de recherche s'ouvre et donne un résultat possible à exploiter en suppression et ....c'est tout. Un peu léger.
 
-La seule autre solution est de passer par Double Commander, installable avec les commandes suivantes (pour une debian 7.0, <span style="text-decoration:underline;"><a href="http://software.opensuse.org/download.html?project=home%3AAlexx2000&amp;package=doublecmd-gtk">source avec autres cas</a></span> )
+La seule autre solution est de passer par Double Commander, installable avec les commandes suivantes (pour une debian 7.0, <a href="http://software.opensuse.org/download.html?project=home%3AAlexx2000&amp;package=doublecmd-gtk">source avec autres cas</a></span> )
 
 <pre>echo 'deb http://download.opensuse.org/repositories/home:/Alexx2000/Debian_7.0/ /' &gt;&gt; /etc/apt/sources.list.d/doublecmd-gtk.list
 
@@ -52,7 +52,7 @@ apt-get install doublecmd-gtk</pre>
 
 Et ça donnera ça au final :
 
-<img class="alignnone size-full wp-image-7346" src="https://cheziceman.files.wordpress.com/2016/08/doublecommander-e1471384161552.jpg" alt="doublecommander" width="600" height="328" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/doublecommander.jpg)
 
 A noter qu'une fois le résultat afficher, il faut "l'exporter" vers un onglet, pour pouvoir effectuer toutes les manipulations souhaitées. C'est un peu rébarbatif pour les adeptes de la modernité et du drag and drop, mais ça marche.
 

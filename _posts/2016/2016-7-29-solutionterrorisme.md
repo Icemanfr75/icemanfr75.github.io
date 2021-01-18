@@ -22,7 +22,7 @@ A la lecture des dépêches comme des commentaires des articles, on trouve de to
   * assassinat avec viol, tortures ou acte de barbarie d'un mineur de moins de quinze ans ;
 
 
-<p style="padding-left:120px;">C'est au tribunal d'application des peines de statuer au bout de 30 ans sur la poursuite de la peine.
+C'est au tribunal d'application des peines de statuer au bout de 30 ans sur la poursuite de la peine.
 
 * **Assigner tous les fichés S à résidence avec bracelet électronique ?** Rappelons que ce dispositif transmet des signaux fréquents à un récepteur, lequel est placé dans le lieu d’assignation. Ce récepteur envoie à un centre de surveillance diverses informations (messages relatifs au fonctionnement du dispositif et à la présence de la personne placée dans le lieu d’assignation). Lors de l'émission d'une alerte, il convient alors d'avoir une géolocalisation du prévenu. Dans la réalité, les systèmes manquent de fiabilité et aucun moyen n'a été débloqué pour fiabiliser ces systèmes, notamment informatiquement.
 * **Rétention administrative des Français qui reviennent de Syrie ?** Cela revient finalement à mettre en détention les fichés S, mais dans des lieux qui ne sont pas des prisons mais des centres comparables à ceux accueillant les étrangers auxquels l'administration ne reconnaît pas le droit de séjourner sur le territoire français. On joue sur les mots mais la France ne dispose pas non plus de suffisamment de ces lieux.
@@ -43,4 +43,6 @@ La **tentation de la violence dans les mots**, nous l'avons vu déjà après Nic
 
 On se souviendra donc, en vain,  du premier <a href="https://www.nrk.no/video/PS*42790">ministre norvégien</a> (qui fut balayé lors des élections suivantes!) après l'attentat de Breivik et qui demandait plus de démocratie.
 
-<blockquote><span class="citation">« J’ai un message pour celui qui nous a attaqué et pour ceux qui sont derrière tout ça : vous ne nous détruirez pas. Vous ne détruirez pas la démocratie et notre travail pour rendre le monde meilleur. Nous allons répondre à la terreur par plus de démocratie, plus d’ouverture et de tolérance<sup id="cite_ref-4" class="reference"></sup>. » Jens</span> Stoltenberg</blockquote>
+> « J’ai un message pour celui qui nous a attaqué et pour ceux qui sont derrière tout ça : vous ne nous détruirez pas. Vous ne détruirez pas la démocratie et notre travail pour rendre le monde meilleur. Nous allons répondre à la terreur par plus de démocratie, plus d’ouverture et de tolérance. »
+
+*Jens Stoltenberg*

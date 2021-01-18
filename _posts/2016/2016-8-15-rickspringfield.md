@@ -14,6 +14,6 @@ Mais on va changer curieusement de continent (avec un abus de Oh oh....) dans l'
 
 On est déjà dans un rock plus moderne avec "We connect" et dans une pop presque RnB dans "Concrete Heart" qui s'inscrit aussi dans la vague country récente. Mais la cornemuse revient encore avec "Earth to Angel" avec un mélange avec une rythmique plus rock et country. C'est le morceau qu'on aime se passer tranquilement à cruiser sur une highway, celui qui nous fait voyager. L'album est fini....mais il y a des bonus, enfin un "Beautiful Inside" oubliable. Au final on se dit que l'album pourrait être raccourci d'un bon tiers mais on n'est quand même pas volé. Comme d'habitude, l'ensemble paraît facile, déjà entendu et pourtant il y a de sacrés bons refrains et la voix de Springfield reste efficace sans trop d'artifices de production.  Les fans apprécieront, notamment ceux d'AOR efficace. Mais ceux qui abhorrent le rock commercial US passeront leur chemin. Ce Rocket Science n'est sans doute pas un chef d'oeuvre, mais il a toute sa place dans la longue carrière du chanteur.... acteur.
 
-[la video](https://www.youtube.com/watch?v=SDYjY-9aLB0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=SDYjY-9aLB0)
 
-![cover](http://cheziceman.files.wordpress.com/2016/04/rickspringfield.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/rickspringfield.jpg)

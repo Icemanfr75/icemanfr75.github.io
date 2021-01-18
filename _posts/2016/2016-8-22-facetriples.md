@@ -14,6 +14,6 @@ Ainsi on est pris par l'efficacité du "Run for Cover" d'intro ou du son syncop�
 
 Mais F.A.C.E. ne voudrait pas rester comme un projet sans avenir ou une récréation. Notre trio le prouve avec une création encore éthérée nommée "Constatine". On imagine plus "Let Go" dans une bande originale de film, alors que "Full Force" a tout du single en puissance. La production est péchue, et les quelques années passées depuis la création du morceau s'évanouissent très vite, encore en 2016. Et pour terminer, on a un petit chef d'oeuvre de délicatesse avec "Bring Me Burdens". C'est sans doute là où tout le travail du groupe transparaît dans des harmonies ciselées avec précision, des effets distilés là où il faut. On en redemande, vite, très vite....
 
-[la video](https://www.youtube.com/watch?v=AvEA4EUOgec)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=AvEA4EUOgec)
 
-![cover](http://cheziceman.files.wordpress.com/2016/02/triplets.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/triplets.jpg)

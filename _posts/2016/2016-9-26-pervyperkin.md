@@ -6,7 +6,7 @@ tags: electro, hard-rock, metal, Musique, Musique, 2010s, progressif, Rock
 ---
 **"Urgent, groupe cherche producteur". Si cette chronique avait du avoir un sous-titre, il aurait été celui là. Vous vous demandez pourquoi ?**
 
-Il suffit d'écouter les deux dernières productions de ce jeune groupe espagnol. Non pas que nous puissions vous les conseiller, mais il serait dommage de gâcher ce potentiel entrevue déjà par notre <a href="http://alias.codiferes.net/wordpress/index.php/pervy-perkin-ink/">collaborateur Alias</a> sur le précédent opus sorti.
+Il suffit d'écouter les deux dernières productions de ce jeune groupe espagnol. Non pas que nous puissions vous les conseiller, mais il serait dommage de gâcher ce potentiel entrevue déjà par Alias sur le précédent opus sorti.
 
 Ainsi sur cet album baptisé Totem, on a de jolis moments comme ce refrain sur "I Believe", après une intro plutôt insipide. Mais sur un morceau progressif de près de 16 minutes, on a hélas du grand n'importe quoi, comme un cuisinier qui essaierai de rallonger une sauce réussie pour avoir plus de convives. Ce n'est vraiment pas la peine de partir dans tous les sens, de rajouter des sonorités world, des chœurs religieux, du synthé et des voix synthétiques, des envolées symphoniques. Je veux bien que le style progressif soit grandiloquent par nature mais il faut qu'il soit surtout cohérent.
 
@@ -14,8 +14,8 @@ Car avec Pervy Perkin, on a aussi droit à du Growl pour des titres flirtant ave
 
 Donc, on ne félicitera pas Adrian Hidalgo, mais Dante, Aks, Alejandro, Carly, Alvaro, on a compris que vous êtes compétents musicalement dans beaucoup de style. Alors maintenant, posez vous, trouvez quelqu'un qui vous comprendra et vous guidera et sortez nous un album à la hauteur de votre talent !
 
-[la video](https://www.youtube.com/watch?v=BVdV9tpKTKw)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=BVdV9tpKTKw)
 
 PS : oui, le groupe est généreux et offre l'écoute intégrale...
 
-![cover](http://cheziceman.files.wordpress.com/2016/07/pervytotem.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/pervytotem.jpg)

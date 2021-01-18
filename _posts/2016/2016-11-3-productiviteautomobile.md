@@ -6,7 +6,7 @@ tags: Automobile, économie, industrie
 ---
 **Non, ce billet n'est pas politique, même si les politiques usent allègrement de ce terme de productivité pour faire croire qu'un pays n'est pas assez "compétitif".**
 
-<img class="size-full wp-image-7313 alignleft" src="https://cheziceman.files.wordpress.com/2016/08/autoproductivity.jpg" alt="autoproductivity" width="530" height="517" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/autoproductivity.jpg)
 
 Car si l'on observe le graphique ci-contre, montrant le nombre de véhicules produits par travailleur dans les pays d'Europe, on tombe inévitablement sur des surprises. La France est en effet au dessus de la moyenne, devant l'Allemagne ou la République Tchèque, mais derrière l'Espagne, la Belgique ou la Slovaquie. En queue de ce classement, on retrouve les pays nordiques mais aussi la Roumanie, terre natale de Dacia, la marque low-cost du groupe Renault-Nissan. L'italie semble bien loin, comme la Pologne dont certaines usines sont pourtant des modèles de robotisation avec les productions coréennes.
 
@@ -14,7 +14,7 @@ Mais pour être exact, il faudrait aussi rajouter le coût horaire de la main d'
 
 Mais il est intéressant de constater que l'on élève en modèle des pays qui n'en sont plus vraiment... Pour rappel, le palmares de la production européenne a largement évolué en 34 ans :
 
-<img class="wp-image-7952 size-full aligncenter" src="https://cheziceman.files.wordpress.com/2016/10/prodauto.jpg" alt="prodauto" width="640" height="400" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/prodauto.jpg)
 
 Mais si la part de l'Allemagne a augmenté (grâce aussi à la gentrification de ses marques), et l'Italie sombré dans le néant, le mouvement de délocalisation commence déjà à toucher nos voisins d'outre-rhin avec des fermetures programmées et un marché qui se déplace vers l'Asie. L'arrêt du marché russe a aussi eu une part dans l'évolution. La productivité de la Chine est aujourd'hui assez comparable à la Roumanie, tandis que la Corée a un coût horaire approchant déjà la moitié de celui de l'UE, la Chine étant encore plus basse dans ce domaine que la Roumanie de 30% (chiffre évoluant très rapidement à la hausse chaque année tout de même). Et comme la Production en Europe stagne depuis 15 ans, voir baisse jusqu'au niveau des années 80, il y a de quoi se dire que la productivité reste une donnée anecdotique par rapport à la demande et l'obsolescence.
 

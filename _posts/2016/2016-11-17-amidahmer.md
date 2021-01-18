@@ -6,7 +6,7 @@ tags: 1990s, 2010s, adolescence, bd, geek, Littérature et BD, solitude, tueur e
 ---
 **Il arrive qu'on croise des personnages étonnants dans sa vie, et dans son enfance, dont on ne se doute pas alors qu'ils passeront à la postérité. C'est le cas de Derf Backderf qui dessine ici sa rencontre avec un certain Jeffrey Dahmer.**
 
-<img class="alignleft wp-image-7595 size-medium" src="https://cheziceman.files.wordpress.com/2016/10/dahmer.jpg?w=199" alt="dahmer" width="199" height="300">
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/dahmer.jpg)
 
 Dans cette petite ville de l'Ohia, Derf n'est pas vraiment un garçon populaire mais sans doute plus que ce Jeffrey Dahmer, adolescent solitaire et secret. Les deux se lient d'amitié et font les 400 coups ensemble. Quelques années plus tard, Jeffrey Dahmer deviendra l'un des pires <span style="text-decoration:underline;"><a href="https://fr.wikipedia.org/wiki/Jeffrey_Dahmer">serial Killers </a>de l'histoire. Le dessinateur explore dans ce long récit, paru en feuilletons, ce qui a pu conduire à ce terrible personnage.
 

@@ -6,7 +6,7 @@ tags: flux rss, photographie, Tutoriel, instagram
 ---
 **Aujourd'hui, beaucoup de photographes professionnels se servent d'Instagram comme "carte de visite", ou point d'entrée. Mais Instagram, c'est une application mobile intrusive appartenant à Facebook et beaucoup d'utilisateurs égocentriques. Alors comment concilier tout cela ?**
 
-Et bien il suffit tout simplement de passer par notre bon vieux <span style="text-decoration:underline;"><a href="https://fr.wikipedia.org/wiki/RSS">flux RSS</a>. Si ce n'est pas fait, il est temps d'installer un lecteur de flux sur votre mobile, ou pourquoi pas passer par <span style="text-decoration:underline;"><a href="https://framanews.org/">Framanews</a>, le service de Framasoft basé sur Tiny Tiny RSS. Personnellement, je ne conseillerai pas Feedly qui manque d'ouverture.
+Et bien il suffit tout simplement de passer par notre bon vieux <a href="https://fr.wikipedia.org/wiki/RSS">flux RSS</a>. Si ce n'est pas fait, il est temps d'installer un lecteur de flux sur votre mobile, ou pourquoi pas passer par Framanews, le service de Framasoft basé sur Tiny Tiny RSS. Personnellement, je ne conseillerai pas Feedly qui manque d'ouverture.
 
 Ensuite, il va falloir trouver les comptes à suivre. Et là, pas de chance, on ne peut pas parcourir les profils à partir d'un PC sur sa page d'accueil. Il faut soit connaître le profil, soit faire un peu au pifomètre par des tags. Par exemple, ça sera une adresse de la forme :
 

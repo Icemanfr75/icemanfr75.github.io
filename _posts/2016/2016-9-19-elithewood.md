@@ -18,7 +18,7 @@ E : Bon alors à défaut d’avoir une explication d’un truc super réfléchi 
 
 E : Très franchement je me pose la question quotidiennement , sans y avoir apporté de réponse pour le moment. Etant fan de video, de films, de culture pop etc, faire des videos du groupe tombe sous le sens. Ce qui finalement est assez en adéquation avec la consommation de musique actuellement via des plates-forme comme youtube. Mais pas que,... J’aime beaucoup l’idée de livrer un son EP une image, de donner un peu plus, et de créer l’univers visuel qui convient (enfin qui nous convient) .. ce qui rejoint aussi le coté « tenue de scene.. »
 
-<a href="http://cheziceman.files.wordpress.com/2016/09/elithewoodscene.jpg"><img class="wp-image-7183 size-large aligncenter" src="http://cheziceman.files.wordpress.com/2016/09/elithewoodscene.jpg?w=616" alt="elithewoodscene" width="616" height="465" /></a>
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/elithewood2.jpg)
 
 Concernant l’EP il viendra. On y pense, mais il sera dans un premier temps comme tout le reste fait à la maison, et sûrement distribué contre un partage de photos live sur les réseaux sociaux lors des concerts. Concernant la video je suis aussi dans un duo A2 qui est pour le coup exclusivement sur youtube avec des adaptations de titre connus, le tout en s’incrustant dans des <a href="https://www.youtube.com/watch?v=AL85yZ8j6r0&amp;spfreload=10">scenes de films cultes</a>
 
@@ -26,7 +26,7 @@ Concernant l’EP il viendra. On y pense, mais il sera dans un premier temps com
 
 E : Alors on va dire que lors de la création d’Elithewood j’ai découvert ou plutôt redécouvert mes influences… pour ma part, bizarrement,  je me suis raccroché à ce que j’écoutais longtemps avant avec une base très blues et très rock .. un guitare simple, qui j’espère est efficace lol.. le tout mélangé avec une idée de la musique plus pop. Jean et Jeff on apporté aux compos des teintes différentes, parfois des teintes plus disco sur le section rythmique, parfois plus calme.. au final je crois que ça se rapproche autant de Nick Cave que du <a href="https://www.youtube.com/watch?v=rGoMBi7WaKM">electric6</a> (que j’ai découvert que l’an dernier )
 
-<a href="http://cheziceman.files.wordpress.com/2016/09/elithewood3.jpg"><img class="aligncenter wp-image-7188 size-large" src="http://cheziceman.files.wordpress.com/2016/09/elithewood3.jpg?w=616" alt="elithewood3" width="616" height="410" /></a>
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/elithewood3.jpg)
 
 **H : Internet est incontournable maintenant. Pourtant on ne retrouve le groupe que sur Facebook, youtube et sur Soundcloud, mais pas sur les plateformes de diffusion "directe" comme Bandcamp par exemple. Des projets dans ce domaine**?
 
@@ -35,7 +35,7 @@ E : héhé .. hé oui … hum… tout est question de temps, et finalement quand
 
 Et sinon, on vous voit où en action ? Car avec de tels titres, ça doit envoyer en live ? Aujourd’hui surtout dans le sud ouest !!! nous avons la chance de ne pas avoir à trop démarcher pour jouer, et à choisir dans les propositions faites :) mais je confirme ça envoi en live !! (huhuhu) on va dire qu’à chaque année son projet, nous avait fait une année tremplin et salles de concert, on vise les autres salles de concert et les festivals pour la saison à venir.
 
-<a href="http://cheziceman.files.wordpress.com/2016/09/elithewood2.jpg"><img class="aligncenter wp-image-7187 size-large" src="http://cheziceman.files.wordpress.com/2016/09/elithewood2.jpg?w=616" alt="elithewood2" width="616" height="427" /></a>
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/elithewoodscene.jpg)
 
 **H:  Et avant le questionnaire traditionnel, une question hautement technique : Vous l'écoutez sur quoi la musique ? Matos, …**
 
@@ -43,7 +43,7 @@ E : Je me rend compte que ma réponse aurait radicalement été différente il y
 
 **Donc le questionnaire traditionnel :** 
 
- * **Le disque que vous emporteriez sur une ile déserte** : .. hum un seul… j’hésiterai entre Let There Be Rock d’acdc…,et Captured Live! de Johnny Winter - mais finalement je prendrai L’album UFO 1 du groupe <span style="text-decoration:underline;"><a href="https://www.youtube.com/watch?v=RT5JgHb-zqI&amp;spfreload=10">UFO (1970)</a>  … pas très connu mais que c’est bon !
+ * **Le disque que vous emporteriez sur une ile déserte** : .. hum un seul… j’hésiterai entre Let There Be Rock d’acdc…,et Captured Live! de Johnny Winter - mais finalement je prendrai L’album UFO 1 du groupe <a href="https://www.youtube.com/watch?v=RT5JgHb-zqI&amp;spfreload=10">UFO (1970)</a>  … pas très connu mais que c’est bon !
  * **Le dernier artiste/groupe découvert** : .. sur un plan international, <a href="https://www.youtube.com/watch?v=u_gvaB1E1ts&amp;spfreload=10">Creature</a> , et au niveau local (parce que la musique c’est pas que sur nrj12) les bordelais de <a href="https://www.youtube.com/watch?v=3IzwadrAfQI">Duende</a> (groupe salsa ce qui a priori ne me branche pas trop mais ils m’ont littéralement scotché en live par leur présence la diversité etc..)
  * **Le disque à offrir à votre mère**: sans hesitation une compile réunissant un des premiers album de Van Halen avec David Lee Roth au chant, et le sud de Nino Ferrer (mais je sais qu’elle y rajouterai des chanson d’Elithewood lol)
 
@@ -52,5 +52,4 @@ H : Merci pour ce moment riche en liens (auxquels nous  avons rajouté un ou de
 membres : arnaud prat, jean-francois samacoits, jean levrero... Photos aimablement fournies par Elithewood
 
 
-
-[la video](https://www.youtube.com/watch?v=PiEWYI4tClQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=PiEWYI4tClQ)
