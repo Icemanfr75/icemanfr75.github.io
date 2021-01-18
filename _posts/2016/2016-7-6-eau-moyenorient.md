@@ -22,15 +22,13 @@ On voit que les zones de conflits sont en Israel et Jordanie, au Soudan, ou au P
 
 **Les régions agricoles sont alors directement impactées** par cette capacité à maîtriser l'irrigation. Si le régime Syrien a été remis en cause par des rébellions, c'est aussi fortement par une sécheresse et son
 
-<img class="alignright" src="https://sitesmedia.s3.amazonaws.com/ericpallant/files/2011/01/MENA_aridity_zoning.jpg" width="239" height="220" />
-
 incapacité à assurer des réserves en eau aux régions agricoles. On peut pourtant voir ci dessous, que les précipitations permettraient aussi une meilleure maîtrise, si les installations de stockage étaient optimisées.
 
 Les sécheresses s'accentuent ces dernières années. Les cartes ci dessous (source NCAR) représentent les tendances à venir dans le monde.
 
 Outre les conditions qui se dégraderont fortement en Europe, on voit que la tendance est à l'accentuation des sécheresses dans des zones déjà en stress. Ainsi on peut voir que l'utilisation agricole de l'eau n'est pas égale à la ressource en eau, selon le développement de l'économie. C'est le cas au proche-orient si l'on compare Israel et territoires palestiniens, par exemple.
 
-<img class="size-full wp-image-18462" src="http://cheziceman.files.wordpress.com/2016/04/agriculturwater.jpg" alt="source FAO" width="450" height="461" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/agriculturwater.jpg)
 
 L'Egypte et Israel sont parmi les pays les mieux irrigués dans la région. La Turquie a encore de gros aménagements à faire et cela risque de jouer dans la répartition à venir. Le barrage d'Ilisu, par exemple, situé sur le Tigre, peut avoir un gros impact sur les vallées irakiennes et kurdes (dont la ville d'Hasankeyf disparaîtrait sous les eaux). Il existe un projet de 22 barrages dans cette zone de l'Anatolie qui est en cours de complément. Voilà encore de quoi alimenter des conflits régionaux pour de nombreuses années.
 

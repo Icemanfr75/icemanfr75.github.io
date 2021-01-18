@@ -6,7 +6,7 @@ tags: Automobile, industrie
 ---
 **Parce qu’on mélange souvent partenariat et prises de participation, un petit panorama synthétique n’est pas inutile, les traits représentants les partenariats :**
 
-<img class="alignnone size-large wp-image-1569" src="https://cheziceman.files.wordpress.com/2016/06/groupesauto20161.jpg?w=730" alt="groupesauto2016" width="730" height="487" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/groupesauto20161.jpg)
 
 Lorsque les rectangles se chevauchent, il y a prise de participations d’un groupe vers un autre et parfois unilatéralement. Cela est devenu plus rare en dehors des véritables fusions. Il subsiste :
 
@@ -41,4 +41,3 @@ Pour rappels, les groupes représentent les marques suivantes :
 
 A noter que le groupe Great Wall n'apparaît pas ici car n'ayant pas d'accords avec d'autres constructeurs,  mais sera intégré dans les prochaines versions, vu son développement conséquent, de la même manière que des groupes malaisiens comme Proton et Perodua.
 
-</section>

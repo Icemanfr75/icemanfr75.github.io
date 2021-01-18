@@ -14,4 +14,6 @@ Immédiatement on est happé par cette ambiance Klezmer moderne qui mèle des di
 
 Voilà donc un album totalement déroutant mais très cohérent qui montre la richesse des métissages musicaux. David Krakauer ne cesse de surprendre et a trouvé avec Anakronic les partenaires idéaux pour prolonger le Klezmer mais aussi faire vivre la musique, tout simplement.
 
-[la video](https://www.youtube.com/watch?v=DKLxHhpqh-U)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=DKLxHhpqh-U)
+
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/anakronickrakauer.jpg)

@@ -10,7 +10,7 @@ C'est le développeur américain Vector Unit qui nous propose ce Beach Buggy Rac
 
 Evidemment, les personnages et les buggys sont totalement originaux mais on les identifie vite sur les 15 pistes disponibles. Il y a des passages secrets comme dans l'original qui permettent, au prix d'une prise de risque, de gagner du temps. On regrette juste l'absence de multijoueur en ligne (mais il y a possibilité de jouer en écran partagé avec des manettes pour les box android), et quelques personnages un peu trop performants, une fois maitrisés. Un jeu en freemium mais on peut supprimer les publicités pour seulement 4 euros. Si vous aimez le genre, ça les vaut largement. Il y a en effet 4 niveaux à débloquer, des épreuves assez délirantes comme le "buffle" ou des contre-la-montre.
 
-[la video](https://www.youtube.com/watch?v=pkxE_3WqUR8)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=pkxE_3WqUR8)
 
 Evidemment, ce jeu est disponible sur iOS, Windows Phone et on peut partager ses temps sur les réseaux sociaux. On peut aussi y jouer sur PS4 et XBox One, ce qui ne gache rien pour un jeu fun par définition. Le développeur s'y connait dans ce créneau puisqu'il avait réalisé l'excellent Hydro Thunder Hurricane sur XBOX360, et une sorte de portage mobile avec RiptideGP.
 

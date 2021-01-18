@@ -16,6 +16,6 @@ Pourtant après ce succès, ils quittent Def Jam Records en 87 pour partir chez 
 
 Mais le cancer emportera Adam Yauch en 2012, mettant un point d'arrêt au groupe qui refuse de rejouer sous le nom Beastie Boys désormais. Reste cet album fondateur d'un style, inspirateur de bien des groupes.
 
-[la video](https://www.youtube.com/watch?v=eBShN8qT4lk)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=eBShN8qT4lk)
 
-![cover](http://cheziceman.files.wordpress.com/2015/08/beastie.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2015/beastie.jpg)
