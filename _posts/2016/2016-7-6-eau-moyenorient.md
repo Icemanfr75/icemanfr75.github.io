@@ -10,9 +10,7 @@ Les ressources en eau de la région sont représentées sur la carte suivante :
 
 On voit par exemple que l'Arabie Saoudite utilise des usines de désalinisation, n'ayant pas de grands fleuves et de régions très fertiles. Au contraire, l'Irak bénéficie de fleuves et de barrages ce qui offre des possibilités. Pour Israel, c'est sur la bande cotière que l'on a des nappes d'eau ainsi qu'en Cisjordanie et la vallée du Jourdain, tandis que la Turquie bénéficie de sources de fleuves dans sa partie orientale. La Syrie a l'Euphrate dans une partie de son territoire, celui-là même qui a été touché par la sécheresse. Sachant que la Turquie a des barages en amont, on imagine le pouvoir de régulation qu'elle a sur les pays en aval. Idem pour l'Iran pour une moindre part. Quant au Liban, il a aussi des sources, notamment celle du Jourdain qui fixe la frontière entre Israel et la Jordanie.
 
-Pour bien comprendre les enjeux, il faut aussi regarder une carte de **prospective de la consommation d'eau**.
-
-<img class="alignnone" src="http://kanat.jsc.vsc.edu/student/conant/water_stress.jpg" width="792" height="612" />
+Pour bien comprendre les enjeux, il faut aussi regarder une carte de prospective de la consommation d'eau.
 
 On voit que les zones de conflits sont en Israel et Jordanie, au Soudan, ou au Pakistan, voir au Turkmenistan, mais aussi en ....Arménie et Azerbajian. Ces pays sont justement des lieux de conflits en ce moment. Le Turkmenistan conserve une relative stabilité du fait de sa dictature mais aussi d'une production de gaz qui lui permet d'avoir des ressources. Mais sa production de coton a aussi besoin d'eau et pourrait être contrariée dans l'avenir. La mer caspienne, fermée, n'aide pas non plus à améliorer la situation. Ne parlons même pas de la catastrophe de la mer d'Aral, qui tarde à se remettre des aménagements hydroélectriques en amont.
 
