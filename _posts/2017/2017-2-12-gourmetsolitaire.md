@@ -10,9 +10,9 @@ J'ai déjà parlé de cet auteur pour l'Homme qui marche. Il est certainement l'
 
 Nous sommes en effet loin du guide touristique avec les lieux emblématiques du pays. Nous sommes aussi loin d'un guide Michelin. Le héros recherche des plaisirs gustatifs simples, des plats quotidiens qui vont le surprendre autant que des particularités régionales. Il ne cherche pas le Graal culinaire mais parfois un plaisir d'enfance enfoui dans sa mémoire. Il y a des déceptions et des surprises mais toujours sur ce rythme contemplatif qui sied si bien à l'auteur. En tant que lecteur, et malgré mon veganisme, il ne manque que les odeurs pour parfaire cette expérience sensorielle. J'aurais presqu'envie, parfois, de partir au Japon pour un voyage sur les traces de ce solitaire.
 
-<img class="alignleft size-medium wp-image-8894" src="https://cheziceman.files.wordpress.com/2017/02/le-gourmet-solitaire.jpg?w=300" alt="le-gourmet-solitaire" width="300" height="300">Car comme un guide, il nous explique ce qu'il mange, détaille ce qu'il a devant les yeux, juge, réagit. Dans une sorte de feuilleton (qui correspond aussi à des publications hebdomadaires de ces histoires), on suit notre héros pour qui chaque plat est une invitation à des souvenirs qui amènent à d'autres envies. Le dessin est précis, et il ne faudrait juste qu'un mise en couleur pour que l'on ait envie de déguster un peu plus chaque page de l'ouvrage.
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/le-gourmet-solitaire.jpg)
 
 Et pour en avoir un peu plus, un autre tome est sorti sous le titre "Les Rêveries d'un gourmet solitaire". Je le trouve moins réussi, ce qui n'est pas forcément étonnant quand on sait que ce sont des épisodes pensés indépendamment de l'histoire initiale, voir rejetés du projet de départ. Mais ça reste tout de même un moyen de prolonger un peu le voyage. Un voyage qui est donc terminé avec le décès du dessinateur qui s'en va rejoindre les grands mangakas et dessinateurs de BD. J'aurais sûrement l'occasion d'en parler à nouveau pour de prochains ouvrages, vu que j'en ai un dans ma pile à lire.
 
-<img class="alignleft wp-image-8897 size-full" src="https://cheziceman.files.wordpress.com/2017/02/gourmetpage.jpg" alt="gourmetpage" width="482" height="450">
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/gourmetpage.jpg)
 

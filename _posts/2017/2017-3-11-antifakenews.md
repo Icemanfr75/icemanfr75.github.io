@@ -20,5 +20,5 @@ La seule alternative possible, mais qui aujourd'hui est totalement absente, rest
 
 A nous d'être nos propres héros....
 
-[la video](https://www.youtube.com/watch?v=AGOx0ZpMrrU)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=AGOx0ZpMrrU)
 

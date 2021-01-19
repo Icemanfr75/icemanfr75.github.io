@@ -32,4 +32,4 @@ Invités :  yanaginagi, nikiie, lasah, Shaylee &amp; Devendra Banhart
 14. A Map 
 15. Imagery
 
-![cover](https://cheziceman.files.wordpress.com/2017/02/momentary.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/momentary.jpg)

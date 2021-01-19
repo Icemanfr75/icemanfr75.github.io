@@ -20,4 +20,4 @@ Bon, j'ai passé pas mal d'autres <a href="http://mobile.francetvinfo.fr/sante/
 
 A me relire, cet article me paraît un peu vain, c'est vrai, n'apportant pas de solutions, ne faisant qu'un panorama de quelques situations, une peinture un brin catastrophiste...mais non en fait. Les commentaires n'ajouteront peut-être rien de plus non plus. Il faut savoir chacun <a href="http://www.familles-enfance-droitsdesfemmes.gouv.fr/harcelement-transports/">élever la voix et dénoncer </a>individuellement, pas à pas, toutes ces petites choses qui font une société sexiste, sinon demain on risque de se réveiller comme si nous étions un siècle ou deux plus tôt. Ca fait un peu incantatoire je sais... Mais si au moins on essayait.
 
-[la video](https://www.youtube.com/watch?v=GypkmEUhHvQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=GypkmEUhHvQ)

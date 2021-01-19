@@ -6,7 +6,7 @@ tags: 2010s, bd, Littérature et BD, politique, uchronie
 ---
 **J'ai hésité à faire cette chronique de BD. D'une part, il s'agit d'un sujet politique, et de l'autre je ne suis pas totalement satisfait de certains aspects. Mais dans cette sorte uchronie (on l'espère...ou pas), il y a aussi des questions intéressantes.**
 
-<img class="alignleft size-medium wp-image-7901" src="https://cheziceman.files.wordpress.com/2016/10/presidente.jpg?w=215" alt="presidente" width="215" height="300" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/presidente.jpg)
 
 L'historien François Durpaire, qu'on voit souvent sur les plateaux de télévision parler des Etats-Unis, s'est chargé de ce scénario uchronique : Imaginez que Marine Le Pen a été élue présidente en Mai 2017. Que se passe-t-il ? Il a utilisé le programme du Front National pour envisager les premières mesures des fameux "100 jours", s'appuyant aussi sur des analyses économiques et géopolitiques de spécialistes et journalistes. Pour le dessin, c'est à Farid Boudjellal (Petit Polio) qu'il a fait appel.
 
