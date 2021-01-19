@@ -9,6 +9,7 @@ tags:  2010s, bd, caritatif, environnement, fantastique, politique, science-fict
 **Cette série de BD en 3 tomes, pour l’instant, nous emmène dans un futur relativement proche (2084) quand une civilisation extra-terrestre décide de sauver la terre de son autodestruction.**
 
 
+
 *« 2084, les pires scénarios prédisant la funeste destinée de la Terre se sont réalisés. La Fédération des Intelligences Mammifères décide d’engager une intervention sur cette planète en voie d’extinction. Swänn, jeune extraterrestre droit et ouvert, se porte volontaire. Originaire d’une planète apparaissant comme une version réussie de notre monde, il souhaite contribuer à pacifier la Terre et empêcher son anéantissement. Sa rencontre avec Liz, au Texas, marque le début du choc des deux mondes… »* Pendant ce temps, sa femme Sätie, médecin extra-terrestre, est envoyée en France pour soigner une mystérieuse fièvre.
 
 ![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2021/renaissance1.jpg)
