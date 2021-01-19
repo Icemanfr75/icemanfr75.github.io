@@ -16,7 +16,7 @@ Ah, je n'ai rien dit non plus de la pochette, qui a aussi participé à l'envie.
 
 Alors c'est vrai qu'à coté des autres albums que j'ai abordés ici, ça détonne, ça n'est pas aussi facile d'accès. Mais pour qui veut vraiment un moment musical, un voyage par le son, c'est un incontournable. Moderne et classique à la fois, fusion et presque funky, c'est un petit plaisir que je ne regrette absolument pas pour me donner un peu de chaleur musicale cet hiver.
 
-[la video](https://www.youtube.com/watch?v=x_mIO-hP48I)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=x_mIO-hP48I)
 
-![cover](https://cheziceman.files.wordpress.com/2017/11/saboteuse.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/saboteuse.jpg)
 

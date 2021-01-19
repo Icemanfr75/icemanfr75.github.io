@@ -18,8 +18,8 @@ Cet album est une véritable redécouverte du répertoire mais aussi une découv
 
 Qu'il est touchant, Pierre Perret dans "Fillette le bonheur c'est toujours pour demain", un titre de 1994 qu'il chante avec quelques uns des chanteurs de cette troupe. Quel texte ! Quelle émotion.... Je ne m'en lasse toujours pas. Cela aurait pu terminer l'album mais il y a encore un quinzième titre : "Au café du canal. " Il donne le titre de l'album, d'ailleurs. Ce titre de 2002 a un coté très nostalgique, et pourtant il réunit parfaitement tous ces beaux artistes. C'est comme un grand final et je devais donc terminer par ce clip.
 
-[la video](https://www.youtube.com/watch?v=sSfaigXONMw)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=sSfaigXONMw)
 
 C'est là qu'on remarque que j'ai oublié de citer d'autres chanteurs et groupes comme La Tordue, Moriarty...Voilà c'est déjà fini, se dit-on. Quel bel hommage! C'est à la fois inattendu, touchant et encore, il en manque, des titres majeurs de notre chanteur. C'est dire à quel point il a marqué la chanson française, qui pourtant avait tendance à l'oublier ces dernières années. Si sa voix est aujourd'hui plus fragile et l'a éloigné des scènes, ce n'est pas une raison pour bouder ce plaisir des retrouvailles, à travers ce bel album. Les grands sont éternels.
 
-![cover](https://cheziceman.files.wordpress.com/2017/11/tribuperret.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/tribuperret.jpg)

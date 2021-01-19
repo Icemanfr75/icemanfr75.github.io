@@ -6,7 +6,7 @@ tags: 1970s, action, geek, Geekeries, jeu video, retrogaming, tir
 ---
 **Parmi les premiers jeux vidéo auxquels j'ai joué, il y a Asteroids d'Atari. Et cette fois, c'est bien sur une vieille borne d'arcade que je l'ai découvert, avant de m'essayer à des clones...**
 
-<img class="alignleft wp-image-20876 size-medium" src="https://cheziceman.files.wordpress.com/2017/08/screenshot_2017-08-08-14-01-13.png?w=169" alt="" width="169" height="300" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/asteroids.png)
 
 Et c'est en voyant la vidéo d'enfants d'aujourd'hui essayer d'y jouer et trouver ça dur que j'ai eu l'idée de réeessayer.  Comme je suis un peu fou, j'ai essayé d'abord la version MAME sur mon téléphone, ce qui est loin d'être simple. Et bien pourtant, en l'espace de quelques secondes j'ai repris mes marques, utilisé l'inertie du vaisseau, fait pivoter le tir pour détruire les grosses météorites et les soucoupes volantes. Franchement, ils ont du prendre des enfants particulièrement stupides pour trouver ça difficile.
 
@@ -16,4 +16,4 @@ Sur Android, j'ai donc cherché les meilleurs clones. J'en ai sélectionné deux
 
 sinon, pas besoin d'en montrer des heures non plus de la version d'origine, pour comprendre.
 
-[la video](https://www.youtube.com/watch?v=cZfsnA7dAHI)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=cZfsnA7dAHI)

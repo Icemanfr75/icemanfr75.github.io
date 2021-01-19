@@ -12,6 +12,6 @@ Composition: Huile de colza désodorisée*, eau, 10% Dulse fraîche*, 9% jus de 
 
 On se doutait bien que la betterave était pour quelque chose dans la couleur... Mais au goût, c'est très fumé, très salé et un peu citronné. Pas de surprise, c'est écrit sur la boite. Pas de lait, donc mais la chapelure de riz remplace la mie de pain. Franchement, c'est très bon et ça complètera bien les produits Ikea que j'avais cité ou le faux saumon fumé de Making Waves (au goût et à la texture éloignée du modèle...) pour un repas de noël vegan et ludique (il y a évidemment d'autres choix). Marinoe a fait un bon choix et merci à ce couple breton d'avoir pensé à ce produit. (accessoirement c'est sans gluten)
 
-<img class="aligncenter size-medium wp-image-21465" src="https://cheziceman.files.wordpress.com/2017/10/taramalg-e1509122799153.jpg?w=300" alt="" width="300" height="225">
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/taramalg.jpg)
 
-Enfin je profite de cet article vegan pour saluer la mémoire de&nbsp;Jean-Pierre Garrigues,&nbsp; décédé d'un cancer et qui n'a jamais compté ses efforts pour lutter contre la corrida. Je l'avais croisé la dernière fois à Alès et sa force de caractère me restera toujours en mémoire.&nbsp;
+Enfin je profite de cet article vegan pour saluer la mémoire de Jean-Pierre Garrigues,  décédé d'un cancer et qui n'a jamais compté ses efforts pour lutter contre la corrida. Je l'avais croisé la dernière fois à Alès et sa force de caractère me restera toujours en mémoire. 

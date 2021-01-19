@@ -10,13 +10,13 @@ Dois-je commencer par **un peu d'histoire**? Dois-je rappeler les origines paien
 
 Je suis chaque fois effaré quand j'entends les chiffres pour le chocolat mais surtout le foie gras, la dinde (avec Thanksgiving aussi), les huîtres, les saumons et maintenant tous les animaux les plus exotiques que l'on trouve malin d'abattre pour ça. Certains font 30% de leur chiffre d'affaire en 1 mois, c'est dire. Je suis bien obligé de faire mes courses et j'en vois des caddies qui dégueulent, avant que ça soit les proprios dans quelques jours. Je joue un peu le jeu bien sûr et avec madame, on se fait plaisir... en mode vegan, évidemment. Mais je ne suis plus autant dans **la surconsommation** comme j'ai pu l'être. Déjà mes parents ont longtemps offert utile, même pour les jouets. Je n'ai pas eu les trucs à la mode, mais des jouets plus "intellos", moins que d'autres de mes camarades. Je ne m'en plains pas et j'avais largement de quoi m'occuper... <a href="https://cheziceman.wordpress.com/2017/12/16/blog-la-peur-de-lecriture/">lecture</a> comprise. Oh, bien sûr, on regrette plus tard quelques "cadeaux" demandés, quelques gadgets électroniques qu'on eut la faiblesse d'accepter mais ce qui comptait surtout, c'était l'aspect surprise.
 
-![image](https://cheziceman.files.wordpress.com/2017/12/100_3662-hcmc-leloy.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/hcmcleloy.jpg)
 
 *Ho Chi Minh Ville illuminé : Tout est fabriqué et monté sur place!*
 
 Mes **meilleurs souvenirs** de Noël furent ceux où je croyais encore en quelque chose, où j'attendais le jour J, où je découvrais quelque chose inattendu. J'ai pourtant assez vite compris ce qui se cachait derrière mais le fait d'attendre, de "mériter", ça avait quelque chose de magique qu'on perd au fil du temps, en vieillissant. Je n'ai jamais veillé près de la cheminée, pourtant, ni eu d'insomnies (quoique) mais aller dans le salon au petit matin, ouvrir la lumière et déballer les paquets, c'est un souvenir éternel. Il y a des choses d'apparence anodine que j'ai toujours en mémoire, des cadeaux qui m'ont été chers et dont je regrette la disparition. Mais aujourd'hui, avec le marketing, les publicités qui commencent 3 mois avant, les modes, c'est un véritable harcèlement que subissent les enfants. Même si j'aimais feuilleter les catalogues de jouets, je n'avais pas forcément envie des "gros cadeaux" mis en avant. Et peut-être aussi qu'on m'a inculqué la valeur des choses. Je ne sais pas ce qu'il en serait si j'étais enfant aujourd'hui.
 
-<img class="aligncenter size-full wp-image-21797" src="https://cheziceman.files.wordpress.com/2017/12/maidenoel.jpg" alt="" width="284" height="354" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/maidenoel.jpg)
 
 Et puis Noël, c'est le repas de **famille**. Quand on a les parents et les grands parents au même endroit, c'est simple. Mais aujourd'hui, il faut composer avec tout le monde disséminé, trouver chez qui on passera le réveillon, qui pour le midi, etc... Ca ne paraît pas mais ça rajoute au stress et ça donne d'éventuelles disputes et jalousies. Ah l'humain.... Enfin ça c'est pour ceux qui ont la chance d'avoir une famille proche. Noël, c'est aussi une des périodes où les gens sont les plus dépressifs, où l'on a des suicides par solitude, mais pas forcément plus qu'à d'autres moments, dixit une étude<a href="https://www.rts.ch/info/sciences-tech/1021145-moins-de-suicides-durant-les-fetes-de-noel.html"> suisse</a>. Dans nos grandes villes où plus personne ne se connaît ou ne se dit bonjour, c'est terrible. Mais même dans mon patelin, j'ai du mal à croiser mes voisins avec mes horaires. Il faut provoquer la rencontre, aller aux nouvelles de la petite mamie d'en face ou du coin de la rue plus bas.
 
@@ -26,7 +26,7 @@ Aujourd'hui, Nous avons droit à des palanquées de téléfilms américains, sou
 
 Ah, sinon, il y en a qui ont eu un beau cadeau de Noël en avance, ce sont les fournisseurs d'accès internet(FAI) américains à qui on a supprimé la "**neutralité du net**". En quelques mots, il s'agit de ne plus être obligé de fournir un accès à tout internet sans différence de débit, sans tarif différencié. D'un coté je comprends que les FAI grognent par rapport à la bande passante qui se retrouve monopolisée par Netflix et Youtube. Free a déjà bridé ça discrètement pour obtenir compensation, par le passé. Mais ça veut dire aussi qu'on peut censurer ce qu'on veut, faire payer tout en option et c'est là qu'il y a problème. Le problème de fond est aussi sur la gouvernance du réseau et de son infrastructure. Cela va au delà même de l'économie et touche à la <a href="https://cheziceman.wordpress.com/2012/03/01/internet-a-qui-appartient-et-appartiendra-le-reseau/">géopolitique</a> (cf mon <a href="http://www.twitter.com/chez_iceman/">compte twitter</a> pour ce sujet) puisqu'il y a aussi une volonté des BRICS d'avoir plus la main sur les décisions. Et pendant ce temps, la Chine ne fait pas dans la neutralité non plus puisqu'après Apple, elle veut faire plier Facebook et Google pour leur imposer ses règles. Avec tout ça, pas sur que le papa Noël reçoive la liste par email (oui, il est moderne mais je ne vous donne pas l'adresse, il a déjà du spam ....)
 
-![image](https://cheziceman.files.wordpress.com/2017/12/careyxmas.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/careyxmas.jpg)
 
 *On vous ment, on vous spolie, c'est Mariah qui livre les cadeaux !*
 
@@ -34,4 +34,4 @@ Et pour **le cadeau empoisonné,** ce sont les catalans, à qui on a essayé de 
 
 Allez, on termine en musique avec un ancien chat rayé.
 
-[la video](https://www.youtube.com/watch?v=cCSmWLLzcHY)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=cCSmWLLzcHY)
