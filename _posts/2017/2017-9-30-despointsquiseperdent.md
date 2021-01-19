@@ -26,4 +26,4 @@ Ah tiens, en parlant de comportement, demain c'est la **journée sans voiture** 
 
 Allez, pour se remettre, on se fait une petite reprise d'Hendrix par les Red Hot? Et pour les gens pressés, il faudra justement attendre un peu l'intro du titre, ha ha.
 
-[la video](http://www.youtube.com/watch?v=0-xyGFI_Nq8)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=0-xyGFI_Nq8)

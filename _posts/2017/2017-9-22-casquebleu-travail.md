@@ -12,7 +12,7 @@ La géopolitique montre que **sortir d'une dictature** est très complexe. C'est
 
 Alors tu saisis** le sujet clivant du moment**, celui qui déchaîne les passions et sans demander la permission, tu t'en empares après une période de réflexion. Il ne faut pas rêver, aucun ne veut travailler avec "ceux de l'autre camp" et j'imagine aussi avec ceux de mon service. Il faut aller voir les uns, discuter, les laisser vomir leur bile, prendre ce qui en sort de bon, aller voir les autres, faire de même, expliquer les intérêts techniques, ne pas afficher que ça vient d'untel mais de plusieurs. Pour un sujet qui devrait prendre 10 minutes, on passe déjà par 3h de palabres puis 1 réunion d'1h30 après avoir laissé murir le sujet. Ca me désespère mais peut-être qu'à force de grignoter les efforts de chaque coté, on va réussir un truc. Dans ces moments, on se dit que l'humain est vraiment un cas. Là, je sais que ce petit sujet de rien du tout n'est qu'une étape, qu'il faut le faire vivre, puis le faire oublier surtout, pour ne pas refaire surgir l'origine. Il pourra être utile pour montrer d'où on est parti. Mais surtout, il va falloir que certains se rachètent une virginité. A se demander si ce n'est pas comme après une "libération" ou une révolution dans un pays.
 
-![image](https://cheziceman.files.wordpress.com/2017/09/casquebleu.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/casquebleu.jpg)
 
 *un navire en perdition (casque bleu, le film)*
 
@@ -22,4 +22,4 @@ Après, il y a aussi une hiérarchie au dessus, qui tiens aussi ses discours, ch
 
 Allez, je parlais d'hommes (et de femmes évidemment mais humain ça ne marchait pas pour le jeu de mots) au travail, justement, et de gens qui sont hors du temps :
 
-[la video](https://www.youtube.com/watch?v=XfR9iY5y94s)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=XfR9iY5y94s)

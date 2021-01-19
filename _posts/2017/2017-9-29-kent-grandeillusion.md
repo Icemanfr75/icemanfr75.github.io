@@ -12,6 +12,6 @@ J'aime ses mélodies simples ("L'heure des adieux") mais j'avoue que ça ne suff
 
 Bilan, j'ai repris aussi sec mes autres albums pour reprendre tout ça dans le désordre. Honnêtement, il faudra être réceptif et un peu fan pour accrocher, peut-être. Dans un monde musical où l'on cherche à capter l'attention en quelques secondes, ça fait du bien des albums "à l'ancienne", qui prennent le temps de séduire l'auditeur. Bref, à vous de voir.
 
-[la video](https://www.youtube.com/watch?v=swPRsFY-59U)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=swPRsFY-59U)
 
-![cover](https://cheziceman.files.wordpress.com/2017/04/kent-la-grande-illusion.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/kent-la-grande-illusion.jpg)

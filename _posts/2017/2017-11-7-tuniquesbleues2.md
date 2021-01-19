@@ -6,7 +6,7 @@ tags: 1970s, bd, franco-belge, guerre, histoire, humour, Littérature et BD, usa
 ---
 **Après avoir abordé le premier épisode de cette longue saga, il était normal de parler du véritable démarrage de la série dans ce volume 2. On y trouve en effet tous les éléments qui en feront le succès.**
 
-<img class="alignleft size-full wp-image-20393" src="https://cheziceman.files.wordpress.com/2017/06/tuniquebleues02.jpg" alt="" width="400" height="566" />
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/tuniquebleues02.jpg)
 
 A commencer par le sujet puisque l'album commence à la déclaration de guerre entre le nord et le sud. Cauvin ne rajoute pas d'éléments historiques, pour l'instant, afin d'expliquer au lecteur le contexte. Nous retrouvons donc Chesterfield et Blutch, du 22ème de cavalerie, qui vont rejoindre le général Grant en train de combattre les sudistes du général Lee. Et évidemment, Chesterfield entame par une gaffe en prenant le général qui se rase pour un simple soldat. Blutch ne demande qu'un chose : Déserter. Mais les officiers vont l'entendre autrement.
 

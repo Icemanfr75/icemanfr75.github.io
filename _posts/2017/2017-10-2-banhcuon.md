@@ -10,7 +10,7 @@ Parlons de l'original, d'abord, c'est à dire la version avec viande. Il s'agit 
 
 A Hanoi, on trouve des boutiques ambulantes ou fixes qui en ont fait leur spécialité. Cela se prépare traditionnellement à la vapeur sur un linge mais il faut vraiment avoir le coup de main
 
-[la video](https://www.youtube.com/watch?v=2cgHZYvJQV0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=2cgHZYvJQV0)
 
 Attention, la version "chay" peut parfois devenir une version sans farce. Alors j'ai essayé d'en trouver un remplacement avec une technique plus facile pour les préparer, que j'ai vu sur divers blogs et vidéos spécialisés.
 
@@ -55,11 +55,11 @@ Dans une grande poêle huilée, faire revenir oignon et échalote, déglacer lé
 
 Passons à la crêpe. Mettre à feu moyen/fort la poêle à crêpes bien huilée. Sur la planche, disposer une feuille d'aluminium bien huilée. Prendre une louche de pâte et la verser sur la poêle chaude qu'on maintient au dessus du saladier pour enlever le trop plein. Mettre sur le feu, recouvrir du couvercle 15 à 20 s. Enlever le couvercle et retourner la poêle d'un coup sec sur la feuille d'aluminium.
 
-<img class="wp-image-108 alignnone size-full" src="https://cheziceman.files.wordpress.com/2017/05/dsc_6509_wm.jpg" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/bancuon2.jpg)
 
 Disposer deux petites cuillères à soupe de farce comme ci-dessus pour la version roulée, ou une bonne cuillère au centre pour la version pliée. Rouler ou plier puis partager en 2 si vous avez roulé.
 
-![image](https://cheziceman.files.wordpress.com/2017/05/20170523_202509_wm.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/bancuon1.jpg)
 
 *A gauche, c'est raté car trop épais. A droite c'est mieux car translucide.*
 
@@ -67,7 +67,7 @@ Voilà normalement vos premiers raviolis. Il se peut que la pâte soit cassante 
 
 Normalement, ce plat se mange avec des tranches du pâté de porc (en viêtnammien : chả lụa) soit pâté de porc grillé saveur de cannelle (en viêtnamien : chả quế) ou pâté de porc frite (en viêtnamien : chả chiên). On trouve justement une version végétarienne de ce plat en boutique asiatique à Paris, comme ci dessous.
 
-<img class="wp-image-110 alignnone size-full" src="https://cheziceman.files.wordpress.com/2017/05/dsc_6511_wm.jpg" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/giao.jpg)
 
 Cela se sert avec des oignons frits et une sauce nuoc mam (à défaut une sauce soja préparée peut s'en rapprocher), ainsi que des germes de soja et des feuilles de coriandre fraiches.
 

@@ -12,6 +12,6 @@ Alors l'album sonne très 70s à certains égard mais pourtant ce sont des hits 
 
 Après cet album, je pourrais parler de ses années 80, sa carrière étant moins prolifique dans les années 90. Son dernier album date de 2003 mais on peut la voir épisodiquement sur scène. A noter aussi qu'elle a toujours gardé la même maison de disques.  Cet album m'accompagne encore partout grâce aux merveilles de la dématérialisation et parce que j'ai du mal à ne garder que les hits. Alors imaginez pour choisir une vidéo... ah si, une récente pour montrer qu'à part pour quelques aigus, elle garde la forme!
 
-[la video](https://www.youtube.com/watch?v=Un35T2TQ0EY)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Un35T2TQ0EY)
 
-![cover](https://cheziceman.files.wordpress.com/2017/09/benaheat.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/benaheat.jpg)

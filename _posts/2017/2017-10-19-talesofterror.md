@@ -6,11 +6,11 @@ tags: 1950s, comics, EC Comics, horreur, Littérature et BD, policier, suspens
 ---
 **E.C. Comics est un éditeur culte pour les amateurs de Comics. C'est évidemment l'éditeur du magazine MAD, mais aussi des fameuses Tales from the crypt, réédités de nombreuses fois après la fin de parution en 1954. Terror Illustrated est une sorte d'avatar éphémère de cette série, mais ne dura que 2 volumes.**
 
-<img class="alignleft size-medium wp-image-20566" src="https://cheziceman.files.wordpress.com/2017/07/screenshot_2017-07-02-15-39-35.png?w=300" alt="" width="300" height="169" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/terror01.png)
 
 Pour le coup,<a href="https://fr.wikipedia.org/wiki/EC_Comics"> l'article Wikipedia</a> sur E.C. Comics est très complet, pour comprendre l'impact de cette société sur la BD US mais aussi sur le cinéma. Je possède une réédition des Tales from the crypt en français, mais j'ai découvert récemment qu'Archive.org avait mis en ligne un paquet de publications d'E.C.<a href="https://archive.org/details/HorrorComics"> ici</a> (jeu de mot involontaire...). Et j'ai donc découvert cette sorte de "suite" aux fameux contes.... dans le style Picto fiction. Pour vous donner une idée, voici ce que cela donne sur un écran de tablette/smartphone.
 
-<img class="aligncenter size-large wp-image-20565" src="https://cheziceman.files.wordpress.com/2017/07/screenshot_2017-07-02-15-35-13.png?w=672" alt="" width="672" height="378" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/terror2.png)
 
 On pourrait rapprocher ça du Roman/Nouvelle graphique puisque l'on n'a pas de bulles mais un texte et une illustration dans un style monochrome et photoréaliste. La parentée avec les autres parutions d'E.C. est claire car on est dans des histoires courtes (environ 12 pages pour des volumes de 61 pages), extrèmement bien scénarisées et qui installe une ambiance sombre, morbide sans sombrer dans le gore.
 

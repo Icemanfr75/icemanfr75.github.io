@@ -16,13 +16,12 @@ Mais au passage, j'ai eu droit à **des messages systèmes** qu'un individu norm
 
 Dans ces moments là, t'as franchement envie de virer les gens qui font ce genre de conneries, qui se foutent des utilisateurs à ce point en allant vers la facilité. Ah et puis je voyais des journaleux automobiles s'extasier sur le design des concepts cars du salon de Francfort, sur la nouvelle barre de feux arrière de chez Porsche, qui reprend en fait un design qui avait cours dans les années 90 chez américains et japonais notamment...ou Porsche. Que dire aussi de tous les prototypes singeant des modèles du passé : le degré zéro du design et de la créativité, comme pour les remakes de films et suites de suites... Et on est toujours bloqué à 500 km d'autonomie théorique sur les électriques, qui fera au mieux 300km en conditions réelles, vu que c'est encore sur le vieux cycle NEDC qui c'est calculé. Mais la fainéantise de ces gens pour donnes les informations complètes et leur manque de culture m'exaspère.
 
-![image2](https://cheziceman.files.wordpress.com/2017/09/dodgestealth.jpg)
+![image2](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/dodgestealth.jpg)
 
 *ouah le modernisme de cette barre de feux qu'on va voir chez tout le monde....Ah non, Dodge/Mitsubishi en 1991, ou encore on a la Porsche 911 type 993 de 1994.*
-
 
 Bon, j'attends impatiemment la panne de mon lave-linge, dont la peinture s'écaille aussi comme au meilleur des tôles des années 70. J'ai regardé les lieux de fabrication de ces matériels aujourd'hui : Malaisie, Chine....pour les micro-ondes. Là, j'avoue que j'hésite sur l'adolescent à nourrir en premier. Pour le reste ça sera un pays de l'est, en attendant qu'il soit trop cher lui aussi. Non, vraiment, je pense qu'**on le mérite bien notre monde de merde**. Chacun bosse dans son coin, sans penser ni au besoin, ni à l'image de marque, ni à la satisfaction du client, ni aux déchets que tout cela produit. Et si encore j'avais le choix.... Même plus, et dans quelque temps, on sera obligé d'en passer par des smartphones ou cartes connectées pour payer, que les éléments les plus simples pour réparer nos produits seront faits à des milliers de kilomètres d'ici pour être le moins durable possible. On se moque encore de ceux qui parlent de décroissance mais parfois, j'en ai vraiment envie... Mais pour beaucoup de ces appareils, ça veut dire faire carrément une croix dessus. Après tout "on faisait comment avant".... une phrase dangereuse, quand on y réfléchit un peu, quand même
 
 Allez, Claude a un truc à vous dire...
 
-[la video](https://www.youtube.com/watch?v=bhCQn5fEiTs)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=bhCQn5fEiTs)

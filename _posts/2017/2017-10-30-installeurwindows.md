@@ -17,7 +17,7 @@ Je vais donc détailler le principe pour l'installeur qui est plutôt prévu pou
 
 2°) quand vous lancer Inno Setup pour la première fois, vous avez un Script Wizard qui vous aide pour l'essentiel... il est en anglais mais permet de faire des installeurs dans beaucoup de langues. Mais comme on des warriors, on va en faire un vide  (create a new empty script).
 
-<img class="aligncenter wp-image-20895 size-full" src="https://cheziceman.files.wordpress.com/2017/08/inno1-e1502356900407.jpg" alt="" width="401" height="162" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/inno1.jpg)
 
 On se retrouve alors avec une grande fenêtre bien vide. Je vous propose de copier dedans les lignes suivantes :
 >[Setup]
@@ -57,7 +57,7 @@ On se retrouve alors avec une grande fenêtre bien vide. Je vous propose de copi
 
 Sauvegardez le script où vous voulez avec un nom qui vous parle, genre portail.iss
 
-**Maintenant détaillons un peu :**
+### Maintenant détaillons un peu :
 
 Le [Setup] concerne l'installeur proprement dit.
 
@@ -82,7 +82,7 @@ Vous allez me dire après... **Mais si on n'est pas sous windows?**
 
 Je n'ai pas de Mac dans mon parc mais si j'avais un PC Linux, je me contenterai d'une simple archive car l'utilisateur est souvent un peu plus apte à gérer ça que ceux que j'ai sous Windows. A savoir que 7Zip permet aussi de faire une archive autoextractible (SFX) pour Windows, pour ceux que ça rebute.
 
-**Et après?**
+### Et après?
 
 La mise à jour peut se faire par un simple lien pointant sur l'Executable ou l'envoi du .EXE, le programme reconnaissant l'emplacement défini après installation et écrasant par défaut les fichiers. Mais vous pouvez recommander la désinstallation avant si des raccourcis ont changé de nom, par exemple, ou si vous avez supprimé des fichiers.
 

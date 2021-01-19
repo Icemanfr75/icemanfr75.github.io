@@ -28,4 +28,4 @@ Aujourd'hui, je suis fasciné par la masse de connaissance à laquelle j'ai acc�
 
 Terminons en musique avec Cat Stevens, pardon, Yusuf Islam dans une version toute personnelle (notez les rires à l'annonce.... hum) :
 
-[la video](https://youtu.be/gJe6J1VD0EQ)
+En video : [![video](/images/youtube.png)](https://youtu.be/gJe6J1VD0EQ)

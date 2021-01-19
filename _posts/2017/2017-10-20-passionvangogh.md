@@ -18,6 +18,6 @@ Et voilà le spectateur embarqué dans cette enquête tout en étant extasié pa
 
 Pourtant, j'ai été emporté dans ce tourbillon de couleurs, ce tour de force technique où justement la technique se fait oublier pour laisser place à la beauté et la poésie. Pour que ça soit regardable plus que 5 minutes, il fallait quand même un scénario qui tienne la route. Le spectateur doute, croit à un coupable comme dans tout bon thriller mais en plus il rêve! Et en même temps, on rappelle l'oeuvre prodigieuse du peintre (800 oeuvres en seulement 8 ans de carrière). La conclusion est d'ailleurs plus documentaire pour situer les protagonistes...Et rappeler que pour beaucoup Van Gogh est le père de l'art moderne pour aller au delà de la simple représentation du réel. Pas mal pour un type qui n'a vendu qu'une toile de son vivant!
 
-[la video](https://www.youtube.com/watch?v=9kWQJzqOZzQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=9kWQJzqOZzQ)
 
 Un moment de cinéma d'animation assez époustouflant qui aura sans doute des suites, quand l'IA saura peindre à la manière de.
