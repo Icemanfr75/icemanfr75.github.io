@@ -5,6 +5,7 @@ category: bd
 tags:  2010s, bd, caritatif, environnement, fantastique, politique, science-fiction, space opera
 ---
 
+
 **Cette série de BD en 3 tomes, pour l’instant, nous emmène dans un futur relativement proche (2084) quand une civilisation extra-terrestre décide de sauver la terre de son autodestruction.**
 
 
