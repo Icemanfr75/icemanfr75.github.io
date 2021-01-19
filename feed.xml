@@ -16,7 +16,7 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}
-          Cet article est d'abord paru sur <a href="{{ site.url }}">{{ site.url }}</a>
+          Cet article est d'abord paru sur {{ site.url }}
 </description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
