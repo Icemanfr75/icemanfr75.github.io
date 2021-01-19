@@ -10,17 +10,17 @@ J'avais promis à un certain prof de math de raconter de ce qu'était devenu ce 
 
 Il y a donc bien longtemps que je n'ai plus mes entrées chez le moindre vendeur. Je me souviens des 4U Computer, des aAC, des 3F, LCDI, car en plus de la Rue Montgallet, il y avait une bonne partie de la rue de Charenton. Une sorte de triangle d'or de l'informatique, en somme avec l'avenue Daumesnil. Cette vidéo allemande restranscrit bien l'ambiance :
 
-[la video](https://www.youtube.com/watch?v=kWfoai5CIbI)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=kWfoai5CIbI)
 
 **Mais aujourd'hui alors, c'est comment ?**
 
 Un peu comme Akihabara à Tokyo qui n'est plus comme avant à cause du jeu vidéo qui a changé, ce quartier a évolué. Aujourd'hui, plus personne n'achète des pièces en boutique pour monter sa "tour" sur mesure. Les grandes marques de carte mère vendent du PC portable, de la tablette et le passionné va se fournir au moins cher sur internet ou près de chez lui. Donc les boutiques ont changé d'activité. Je pense que près de 50% des boutiques ont disparu mais le quartier reste encore marqué par cette activité. Sauf qu'il n'y a plus aucune ambiance. C'est aussi mort que ce que peuvent l'être aujourd'hui Pigalle ou Barbes pour ceux qui ont connus ces quartiers dans les années 80. C'est bien simple, aux moments où je suis passé, je n'ai vu aucune file d'attente, aucune livraison, rien. Les affiches d'aujourd'hui sont des prix de PC portables, parfois d'occasion. Il y a encore quelques tours dans l'entrée mais elles prennent la poussière.
 
-<img class="aligncenter size-full wp-image-20540" src="https://cheziceman.files.wordpress.com/2017/06/capture2.png" alt="" width="529" height="195" />
+![cap](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/capture2.png)
 
 Et puis l'autre activité concerne aujourd'hui la réparation des ordinateurs. Je n'ai pas vu beaucoup de clients avec leurs joujous sous le bras mais quelques petites boutiques de Daumesnil ont l'air de se résumer à cela. J'ai eu un petit problème avec mon smartphone et je n'ai donc pas fait de photos mais un petit tour sur le streetview de google rend l'ambiance : Glauque, morte, sinistre... ça m'a rendu triste de voir ce quartier autrefois vivant et bordélique, totalement éteint aujourd'hui.
 
-<img class="aligncenter size-full wp-image-20539" src="https://cheziceman.files.wordpress.com/2017/06/capture1.png" alt="" width="552" height="193" />
+![cap](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/capture1.png)
 
 Bref, ça ressemble au Montgallet du passé, mais ça n'en a plus aucune saveur. Mais les fautifs sont les clients, et certainement aussi un peu les habitants du coin qui ne devaient pas trop aimer l'afflux de camionnettes et les klaxons qui vont avec. On ne consomme plus l'informatique pareil et j'en suis le premier exemple. Ma tour a fini à la benne et je n'ai pas démarré l'Optiplex qui prend la poussière au sous sol depuis 2 ans. Même à mon boulot, les centrales d'acquisition ne ressemblent plus à des PC durcis mais à des racks branchables sur des zordiportables. Je m'attendais même à voir des revendeurs de tablettes chinoises ou de smartphones. Il y en a mais très peu. La dernière fois que j'ai retrouvé l'ambiance du passé, c'était dans le quartier informatique .... d'Hanoi au Vietnam. Forcément, on leur refourgue nos Optiplex et autres Thinkstation.
 

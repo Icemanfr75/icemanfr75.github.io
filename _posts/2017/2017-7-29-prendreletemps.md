@@ -28,5 +28,5 @@ Et puis prendre le temps, c'est simplement** oublier Internet, le smartphone, re
 
 A l'heure où j'écris ce billet, j'entends un criquet qui chante à la nuit tombante. Chaque soir, il vient au même endroit, sans que je puisse le distinguer. Il rompt le silence propice au sommeil et pourtant me fait partir un peu plus loin, vers le sud, vers des souvenirs d'enfance, de vacances. Là aussi, je prends le temps de l'écouter, tout simplement...
 
-[la video](https://www.youtube.com/watch?v=Z-OytmtYoOI)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Z-OytmtYoOI)
 

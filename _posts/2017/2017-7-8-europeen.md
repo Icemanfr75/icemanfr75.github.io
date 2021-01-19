@@ -16,12 +16,13 @@ J'ai appris** l'Allemand** et forcément, ça aide pas mal ensuite à comprendre
 
 L'Europe,  j'ai eu aussi la chance de la découvrir ailleurs....par **les pays limitrophes**. Et en France, on est gaté pour ça. Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne, Angleterre....Et par extension on peut pousser jusqu'au Portugal, l'Autriche, la Hollande. Sur ces pays, j'en ai bien visité les 3/4 ce qui forge aussi un sentiment d'appartenance européenne. Je n'ai pas fait Erasmus, par contre mais les correspondants, ça aide aussi. Là encore, ils furent plutôt allemands....Notamment un que j'avais rencontré juste après la chute du mur de Berlin. Hasard, je passais l'été en Forêt noire et Bavière et je voyais débarquer les allemands de l'est avec leurs Wartburgs et Trabants. J'ai sympathisé avec un jeune allemand de mon age qui venait de Dresde. On a correspondu quelques temps ensuite par courrier et puis ça s'est arrêté je ne sais plus trop pour quoi...L'Europe s'agrandissait alors avec de l'espoir. Et pour quelqu'un qui vient d'une "<a href="https://fr.wikipedia.org/wiki/Ceinture_rouge">Banlieue rouge</a>", l'Europe c'était aussi des jumelages avec des villes du bloc de l'est. Je n'ai pas fait de voyage à <a href="https://fr.wikipedia.org/wiki/Dessau_(Saxe-Anhalt)">Dessau</a> à cette époque, mais il y a eu quelques uns de mes camarades de classe. Je me souviens juste d'avoir vu le rideau de fer un an et demi avant sa chute.
 
-<img class="wp-image-20575" src="https://cheziceman.files.wordpress.com/2017/07/rra.jpg" alt="" width="400" height="275" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/rra.jpg)
+
 Il est pas beau le lycée? Du pailleron pur jus!
 
 L'Europe, c'est aussi des **cours de géographie et d'histoire** au lycée. Nous avons eu l'honneur de décortiquer le traité de **Maastricht** l'année où il fut voté par référendum. Mon premier vote d'ailleurs... Preuve que la prof avait bien fait son boulot, l'écueil que je voyais par moi même au traité (pas d'uniformisation du social...) s'est révélé justement ce qui met en péril aujourd'hui la construction européenne. Les profs que j'ai eues, ont eu l'intelligence de ne pas nous orienter politiquement mais nous apprendre à réfléchir par nous même. Je ne pense pas que ça a marché pour tout le monde, si j'en crois ce que sont devenus certains :D Mais bon, je leur en suis reconnaissant. Plus qu'une Europe politique telle qu'on la voit uniquement aujourd'hui, elles parlaient aussi de toute la conception économique, les interactions, les flux migratoires et logistiques....Avec le recul, j'ai l'impression que ça durait plus que les autres cours.
 
-<img class="alignleft size-full wp-image-20574" src="https://cheziceman.files.wordpress.com/2017/07/timbre.jpg" alt="" width="299" height="179" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/timbre.jpg)
 
 Comme je collectionnais **les timbres**, j'ai aussi découvert l'Europe à travers cela. Mine de rien, quand on sort un timbre sur Adenauer et de Gaulle, on s'intéresse au sujet. On essaye aussi de comprendre et connaître les timbres des autres pays, les symboles, les fêtes, les grands personnages. Bon, d'accord, les timbres de Monaco et du Lichtenstein, c'est pas hyper européen. Mais pour le reste, ça m'a passionné, autant que la découverte de la peinture à travers le <a href="http://www.phil-ouest.com/Timbres.php?Cas=Theme&amp;ListeMots=Musee_Imaginaire&amp;Debut=200&amp;EtOu=AND&amp;NoPg=6&amp;Ordre=DateVente&amp;SVF=&amp;V_F=&amp;TitreListe=Liste%20de%20timbres">Musée imaginaire</a>. Aujourd'hui, c'est un peu loin mais je pense que les années d'enfance et d'adolescence participent grandement à forger nos idéaux. Mon père ne parlait pas politique mais il aimait me faire découvrir cela, parler de qui étaient ces personnages. Alors cet ensemble de choses a sûrement façonné ce que je suis, vis à vis de l'Europe.
 
@@ -31,5 +32,5 @@ Bon, maintenant, l'Europe, c'est un truc lointain, une grosse machine qui sert d
 
 Allez, terminons sur une note d'espoir venant de Suède...
 
-[la video](https://www.youtube.com/watch?v=9jK-NcRmVcw)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=9jK-NcRmVcw)
 

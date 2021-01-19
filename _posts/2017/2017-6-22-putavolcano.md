@@ -8,7 +8,7 @@ tags: 2010s, hard-rock, Musique, Rock, Stoner
 
 Qui dit Stoner, dit rythmique appuyée, morceau répétitif et incantatoire et ce Harmony of Spheres est bien dans cet esprit. Il possède aussi un style un peu rétro qui n'est pas sans me rappeler les regrettés <a href="https://cheziceman.wordpress.com/2010/10/28/a-suivre-the-devils-blood-2/">Devil's Blood</a>. Mais la comparaison s'arrête vite, tant le groove nous attrape pour ne plus nous lâcher. A réécouterSun, le premier album, on est toujours dans le désert mais cette fois, la cavalerie est arrivée. Luna, la chanteuse, qui faisait déjà montre d'une belle maîtrise, a cette fois passé la surmultipliée. La batterie est très profonde et ajoutée à la  ligne de basse, cela devient tonitruant. Un peu trop même sur quelques morceaux qui mériteraient plus de finesse.
 
-[la video](https://www.youtube.com/watch?v=Pwor96-32Z4)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Pwor96-32Z4)
 
 Un extrait du précédent album
 
@@ -16,4 +16,4 @@ Il faut dire que Puta Volcano cultive un son un peu granuleux et une culture du 
 
 Pour ma part, je craque volontiers sur Jovian Winds, même si le surpuissant Birdfait son effet ou bien encore le moins radiophonique Neon. Bref, si vous adhérez ou genre ou si vous voulez y gouter, ne vous gênez pas. Maintenant j'attend déjà impatiemment de savoir ce que nous réserve ce groupe qui a déjà beaucoup évoluer en 2 albums. Celui-ci venant de sortir (Avril 2017), il faudra attendre un petit peu.
 
-![cover](https://cheziceman.files.wordpress.com/2017/05/putavolcano.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/putavolcano.jpg)

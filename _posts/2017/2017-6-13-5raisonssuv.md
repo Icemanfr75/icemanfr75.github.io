@@ -65,7 +65,6 @@ La démonstration est implacable avec de** 10 à 20% de plus en consommation**. 
 <img class="alignnone size-medium" src="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1206x679+0+0/resize/800x450!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/6b93f2bc3a936a331fb895dbaa6a143a/205246211/umtri.png" width="800" height="450" />
 
  
-
 **Le SUV prend de la place au sol** et donc est aussi plus difficile à garer.
 
  * monospace BMW Active tourer 218d : 455x180

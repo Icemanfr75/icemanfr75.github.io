@@ -19,11 +19,11 @@ Et puis, il y a aussi ce besoin que l'on ressent parfois de "**retrouver ses rac
 
 Car il ne faut pas non plus sombrer dans le sempiternel **"c'était mieux avant". **Evidemment, dans l'enfance, on manque de points de comparaison et tout ce qui est nouveau paraît beau. Les premiers jeux sur console/ordinateur ont ce petit plus mais il faut bien avouer aujourd'hui qu'il est difficile de rejouer à tout. Quand <a href="https://www.parigotmanchot.fr/2017/08/01/jouer-sous-linux-1-jeux-aventure/">Gilles </a>parle des premiers jeux d'aventure sur Amstrad CPC, j'aurais du mal à en conseiller beaucoup aujourd'hui.  Cela m'évoquera la nostalgie mais c'est vraiment trop limité.Et je ne parle même pas des consoles foireuses d'Amstrad, sortis au moment des consoles 16bits, hein Fred. A la limite, un<a href="https://fr.wikipedia.org/wiki/Livre-jeu"> livre dont vous êtes le héros</a>, ça marcherait presque mieux. La créativité en jeu vidéo a eu des périodes de creux aussi, quand on se tapait du Beat'em all, du Shoot'em up et du jeu de plateforme à longueur de semaines. Le clonage est une invention humaine assez ancienne, en fait... ou pas. Le retour à l'enfance et l'insouciance n'empêche pas d'y pencher les yeux d'un adulte qui n'a pas perdu sa part d'enfance, celle que nous devrions toujours conserver en tout instant.... ou l'inverse comme ci dessous ou l'on voit que la difficulté des jeux a baissé, gnark gnark
 
-[la video](http://www.youtube.com/watch?v=d7zM3qWXOto)
+En video : [![video](/images/youtube.png)](http://www.youtube.com/watch?v=d7zM3qWXOto)
 
 Alors c'est vrai qu'ici, j'use et j'abuse parfois de ces souvenirs, de ces petits moments qui me reviennent par bribe. J'y vois parfois un refus de vieillir ou un refuge face aux épreuves de la vie, mais c'est souvent juste un petit moment de bonheur à partager, sans même y réfléchir, comme ceux qu'ont partagé avant mes parents et grands parents avec moi, avec d'autres outils, bien plus directs... Des moments d'insouciance, c'est sur, ce qui n'a rien de péjoratif.
 
 Et comment terminer autrement que par cette chanson intemporelle qui me tire toujours des larmes :
 
-[la video](https://www.youtube.com/watch?v=MWoQW-b6Ph8)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=MWoQW-b6Ph8)
 

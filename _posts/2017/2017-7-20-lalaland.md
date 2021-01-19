@@ -10,7 +10,7 @@ Je n'ai lu aucune autre critique, mais j'arrivais avec l'idée d'un film surcot�
 
 L'histoire : Une serveuse voulant devenir actrice et un pianiste de jazz voulant ouvrir son club, se rencontrent autour de quelques notes de musique, après des désillusions. Un couple se forme avec une volonté partager de réussir pour leur art. La première se lance dans un one woman show, le second se corrompt dans une tournée lucrative. Mais le couple peut-il tenir avec l'éloignement ?
 
-[la video](https://www.youtube.com/watch?v=oyBl7WpSch0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=oyBl7WpSch0)
 
 Dès l'introduction, on sait qu'on va avoir un film musical. La scène de danse dans l'embouteillage est joliement filmée, mais il me manque déjà la folie, qui arrive seulement avec l'orchestre. Le chant manque de punch, la danse aussi, pour moi qui suit habitué aux films de Minelli, Donen, pour ne citer qu'eux. Et lorsque je vois que Chazelle cite les films de Demy (les parapluies de Cherbourg, les Demoiselles de Rochefort), je comprends alors. Effectivement, la découpe des chansons se rapproche de ce qu'a fait Michel Legrand. Il n'y a pas vraiment de refrain, mais un joli thème autour duquel on raconte une histoire. C'est aussi déroutant que l'original mais ça passe mieux en anglais, mais comme il cite aussi le Top Hat de Mark Sandrich, je me dis que je devrais y trouver mon compte.
 

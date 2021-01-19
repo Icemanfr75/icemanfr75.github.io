@@ -13,9 +13,6 @@ J'ai trouvé mon maître en émulation (ok, c'est pas dur).... Le gars est telle
 
 Dans mon article sur les émulateurs sur Android, je n'avais justement pas parlé de cette console emblématique d'une génération de joueurs :** La Playstation**. Déjà parce que je n'avais pas trouvé d'émulateur performant et "libre" ou gratuit. Qu'à cela ne tienne, je me suis fendu de quelques euros et j'ai mis en concurrence ePSXe et FPse (je n'ai pas encore décidé lequel est le mieux...) qui nécessitent tous les deux de récupérer un fichier de bios scph1001.bin. Une simple recherche vous amènera vers le fichier qui va bien, parce que je ne me vois pas récupérer ça dans ma console qui prend la poussière.... Pas plus que numériser mes ISO correctement d'ailleurs à partir de tous les CD originaux que j'ai gardés. Et me voilà donc à démarrer Gran Turismo d'un coté et Final Fantasy VII de l'autre. Pour le premier, il faut s'accrocher pour diriger avec précision une voiture en tactile sur un téléphone, même si j'ai passé la licence B et gagné une course après plusieurs essais. Mais pour le second, aucun problème et rien que la cinématique du début m'a donné des frissons avec la musique de Uematsu.
 
-<img class="size-large wp-image-20670" src="https://cheziceman.files.wordpress.com/2017/07/screenshot_2017-07-18-20-01-53.png?w=672" alt="" width="672" height="378" />
-La première séquence de jeu de FFVII....sur mon mobile!
-
 Ce n'est pas que de la nostalgie car c'est là qu'on remarque que ce qu'on vit dans** son adolescence** et sa vie de jeune adulte, marque durablement. Parfois c'est le grand frère qui refile sa vieille console et qui contamine le plus jeune. Idem pour la musique, les BD, les livres... On oublie comment cette transmission entre générations peut se faire. J'ai été surpris récemment par un gamin en apprentissage qui écoutait de vieux groupes et connaissait bien ses classiques, tout en écoutant la dernière merde chiée par NRJ. Ou bien on parle de Pokemon, les premiers épisodes pas le Go, un jeu dont l'age d'or a été il y a 15 ans.... C'est là aussi qu'on voit que le jeu vidéo s'est banalisé. Si ma génération a été **la génération des gamers**, ensuite on a une période plus casual, et maintenant plus mobile, avec des manières de jouer différentes. Si j'entreprends de parler de vieux jeux, avec quelques parallèles sur ce qui sort sur Mobile, c'est aussi parce qu'il y a des passerelles entre générations. Pas sur qu'on parlera avec autant de passion du temps passé sur Snapchat, Facebook, Twitter.... mais ce sont aussi des passerelles entre générations.
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Unico_Anello.png/800px-Unico_Anello.png" alt="" width="230" height="471" />
@@ -26,6 +23,6 @@ Je lisais une interview de <a href="https://fr.wikipedia.org/wiki/Matmatah">Matm
 
 Et il est temps de conclure, justement...Et dans transmission, il y a Trance (oui, elle est capilotractée, celle là)
 
-[la video](https://www.youtube.com/watch?v=x9N6gFhdLFk)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=x9N6gFhdLFk)
 
 *: Admission post bac, le bouc émissaire qui fait oublier qu'on n'a pas investi dans les universités pour créer des places, que les parents et les enfants sont souvent irréalistes et mal conseillés dans leur demande, allant dans des filières sans avenir ou débouchés suffisants et que les critères sont d'une hypocrisie crasse...

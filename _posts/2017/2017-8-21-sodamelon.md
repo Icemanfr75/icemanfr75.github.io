@@ -8,7 +8,7 @@ tags: alimentation, boisson, Culture, japon, lifestyle, soda, vegan, veganisme
 
 En dehors d'un sirop de melon dans un Sodaclub, je vous défie de me trouver ce parfum dans un supermarché.
 
-<img class="alignleft wp-image-20810 size-medium" src="https://cheziceman.files.wordpress.com/2017/08/20170804_220230.jpg?w=181" alt="" width="181" height="300" />
+[image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/melonspark.jpg)
 
 Même la bouteille a un coté amusant en imitant la peau du melon sur l'étiquette. C'est une bouteille en verre et vous aurez deviné que ça vient du japon.... donc ça se recycle. J'ai trouvé ça encore une fois dans une balade dans le quartier japonais de Paris, dans une des épiceries du coin. Mais je suis sûr qu'on peut aussi trouver ça par correspondance.
 
@@ -18,4 +18,4 @@ Je ne dis pas que je boirais ça tous les jours mais c'est plutôt une bonne sur
 
 La composition est ci-dessous et ça reste comparable aux sodas habituels. Par la même occasion, je vous donne une piste : C'est distribué par Kioko.fr l'épicerie ayant un site internet. Malheureusement c'est épuisé, à l'heure où j'écris ce billet. Peut être pas définitivement? La marque Tomomasu Inryo a l'air spécialisée dans ce type de soda au goût de fruit...
 
-<img class="alignleft size-large wp-image-20811" src="https://cheziceman.files.wordpress.com/2017/08/dsc_65861.jpg?w=672" alt="" width="672" height="378" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/melonspark2.jpg)

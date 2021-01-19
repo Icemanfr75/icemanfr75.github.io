@@ -6,7 +6,7 @@ tags: 1980s, bd, canada, comics, Littérature et BD, superhéros, usa
 ---
 **1985, Montréal... Un certain Bernie E. Mireault publie les premiers exemplaires de The Jam.... elle changera x fois d'éditeur mais est un marqueur dans le petit monde de la BD indépendante nord-américaine.**
 
-<img class="alignleft size-medium wp-image-19774" src="https://cheziceman.files.wordpress.com/2017/05/berniemireaultthejam.jpg?w=222" alt="" width="222" height="300" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/berniemireaultthejam.jpg)
 
 Mireault (BEM pour sa signature) nous propose de suivre Gordon Kirby, un antihéros qui se prend pour un superhéros. C'est l'américain/canadien moyen qui essaye de faire justice et bien pour meubler sa petite vie. Chaque volume comprend des suites de petites histoires, en noir et blanc dans un style très symbolique de la BD indé US. Bien que le sujet s'en rapproche, nous ne sommes pas dans un trait caractéristique des Marvel ou DC Comics, et pas plus encore que l'histoire, Kirby n'ayant aucun superpouvoir.
 

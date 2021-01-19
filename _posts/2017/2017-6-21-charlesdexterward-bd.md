@@ -14,6 +14,6 @@ Ca c'est le début de la nouvelle et Culbard y reste relativement fidèle. Le pr
 
 INJ Culbard est pourtant anglais, et surtout fan de l'auteur. Mais il dessine comme beaucoup d'auteurs moderne à la tablette graphique. J'ai du mal avec ce style de ligne claire "numérique" et sans savoir ce détail à la lecture, je l'ai tout de suite identifié. Il semble mieux avoir réussi son adaptation des "montagnes hallucinés", autre grande oeuvre de Lovecraft, mais je ne l'ai pas lu. Je ne peux que constater le problème de découpage de l'histoire en plus d'un style qui ne s'adapte pleinement à l'histoire que dans la seconde moitié de l'ouvrage. On s'y concentre sur Culwen, sur le Docteur, sur Ward et on y explore les bas-fonds.
 
-<img class="alignleft size-medium wp-image-8905" src="https://cheziceman.files.wordpress.com/2017/02/charlesdexter.jpg?w=207" alt="charlesdexter" width="207" height="300" />
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/charlesdexter.jpg)
 
 Alors finalement, pourquoi parler de cet ouvrage que je n'ai pas vraiment apprécié ? Parce qu'il a réussi une chose : Donner envie de relire la nouvelle de Lovecraft. Je pense qu'au fond, c'est la mission que s'est donnée Culbard en faisant des adaptations de Lovecraft mais aussi de Conan-Doyle et autres auteurs. C'est une sorte d'avant goût qu'il nous offre et si je n'avais pas en mémoire la nouvelle servant de base, j'aurais sûrement apprécié autrement cet ouvrage.
