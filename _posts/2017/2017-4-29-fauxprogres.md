@@ -26,6 +26,6 @@ Le futur vu par Virgilio Marchi en 1924 ...
 
 **Demain sera robotisé** avec des aides à notre image et à notre service, dit-on. La finance sera aussi robotisée (c'est déjà le cas), dictant ses prix par algorithmes, et ça c'est un peu moins drôle. Nos voitures iront là où on les a programmé, évitant soigneusement les chemins de traverse. Nos courses arriveront directement chez nous à l'heure programmée, nous inscrivant aussi dans des routines. Et ce temps qu'on nous fera gagner par ces nouveautés, à quoi allons nous le consacrer? Notre nature nous poussera à l'oisiveté, ou sinon à la drogue du travail, sans prendre simplement le temps de penser au chemin tracé par ces "nouveautés". Je laisse la fin à <a href="https://cheziceman.wordpress.com/2010/10/10/billy-idol-cyberpunk/">Billy Idol</a>
 
-[la video](https://www.youtube.com/watch?v=lx2fZU5USus)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=lx2fZU5USus)
 
 PS : si tu trouves qu'il y a trop de liens hypertextes dans cet article, c'est que tu n'as rien compris à internet et/ou que t'es trop vieux :p

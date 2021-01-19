@@ -20,6 +20,6 @@ Bon, voilà, je ne devais pas faire la chronique du bouquin mais j'en ai quand m
 
 En général, je termine en musique, ce type de billet. Et je me dis justement qu'en musique on peut plus facilement prendre le temps de "rentrer" dans un album. Je ne pense pas, par exemple, que j'aurais pu apprécier certains albums Metal à des moments de ma vie, ou même certains albums d'Ambient. Et c'est donc par un titre fétiche que je vais conclure :
 
-[la video](https://www.youtube.com/watch?v=h-9UvrLyj3k)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=h-9UvrLyj3k)
 
 

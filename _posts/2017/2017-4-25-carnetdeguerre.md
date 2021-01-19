@@ -14,7 +14,7 @@ L'ouvrage compile tous les croquis que Jacques Martin a réalisé en Allemagne q
 
 Le volontariat a mobilisé peu de "collabos" mais a créé un amalgame donnera naissance à un tabou autour du STO. Il faut que les Allemands mettent la pression sur Laval, au pouvoir à ce moment, pour qu'une loi soit passée en 1942. Jacques Martin verra la gendarmerie venir le chercher à son travail pour l'envoyer prendre un train direction Paris puis l'Allemagne. Casterman a fait appel à Julie Maeck pour retracer l'historique en introduction de ce livre au format italien. L'ouvrage est complété par une interview de l'auteur par Patrick Weber.
 
-<img class="alignnone size-full wp-image-19202" src="https://cheziceman.files.wordpress.com/2017/04/9782203015548_pg.jpg" alt="9782203015548_pg" width="600" height="489" />
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/jacquesmartin.jpg)
 
 Les dessins sont ceux d'un jeune homme qui n'est pas encore vraiment illustrateur ou dessinateur, sinon de dessin technique dans des bureaux d'étude. Ils sont donc très académiques avec un style parfois un peu plus dans ce qui se faisait dans les années 30. Ils illustrent la vie quotidienne, l'Allemagne vue de l'intérieur par des français. On y voit la vie des allemands à des milliers de kilomètres du front mais peu à peu sous les bombardements aveugles des américains. Car en étant dans les usines, les travailleurs du STO sont les premières victimes.
 

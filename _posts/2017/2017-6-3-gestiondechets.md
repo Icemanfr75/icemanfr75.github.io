@@ -8,7 +8,7 @@ tags: écologie, économie, blog, climat, consommation, environnement, pollution
 
 La réponse est oui, si on regarde l<a href="https://fr.wikipedia.org/wiki/%C3%8Ele_Henderson_(%C3%8Eles_Pitcairn)">'île Henderson</a> qui possède la densité de déchets la plus importante au monde. Si on rajoute le fait qu'elle soit inhabitée et inhabitable, on voit bien que le problème vient bien d'ailleurs. On en dira de même pour cette île artificielle constituée d'un tourbillon de déchets dans <a href="http://www.lemonde.fr/planete/article/2010/03/05/un-continent-de-dechets-plastiques-a-ete-decouvert-dans-l-atlantique-nord_1314831_3244.html">l'Atlantique nord</a> (les océans ont d'ailleurs été les grands oubliés de l'accord de Paris pendant la COP21). Le problème vient en premier lieu du comportement dans le rejet nos déchets, ce qu'on laisse sur les plages ou sur la route, ce que l'on jette par la fenêtre d'une voiture, etc... Mais en dehors du cas de cette île, on rencontre aussi des lieux devenus **des décharges sauvages**.
 
-[la video](https://www.youtube.com/watch?v=oF4UxP9J-Zs)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=oF4UxP9J-Zs)
 
 Meubles usagés, déchets de chantier, on trouve un peu de tout en pleine nature, dans des "coins tranquilles", car entre le travail au noir et le coût des déchetteries, il y a toujours une bonne excuse pour ne pas suivre la filière de "recyclage" de ces déchets. Au point que des associations ont mis en place des outils pour signaler ces lieux (par exemple <a href="http://sentinelle-environnement.fr/">ici </a>). Les mairies tentent bien de lutter contre cela mais manquent de moyens, quand ce n'est pas d'expertise légale. Pas très loin de chez moi, je connais un rond point près d'une ancienne usine d'amiante en démolition qui devient le lieu privilégié de dépôt d'ordures. Évidemment, cela a lieu quand il n'y a personne aux alentours.
 
@@ -37,6 +37,6 @@ Rien que ça, ça va m'occuper pendant les 6 mois qui viennent, sachant que j'en
 
 PS : Parce que, lorsque j'ai écrit le billet, Donald Trump n'avait pas pris de décision. Il faut rappeler quand même que ça ne changera pas forcément grand chose dans la plupart des gros états US, déja engagés dans les énergies renouvelables. Le fond vert destiné au pays pauvres n'existait pas encore, de toute façon, faute de signature réelle sur le financement. Donc il faudra bien trouver des "sponsors", prêts à se verdir... Et la décision de Trump n'est qu'une décision de politique intérieure, histoire de montrer qu'il applique ce qu'il disait. L'effort est bien ailleurs, ne serait-ce que de peser dans notre consommation face aux<a href="https://cheziceman.wordpress.com/2015/12/07/cop21-alimentation-et-rechauffement-climatique/"> lobbies</a> climato-sceptiques.
 
-[la video](https://www.youtube.com/watch?v=MjemOB9ILrs)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=MjemOB9ILrs)
 
 

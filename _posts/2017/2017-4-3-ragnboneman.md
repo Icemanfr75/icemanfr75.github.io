@@ -4,11 +4,11 @@ title: Musique - Rag'N'Bone Man - Human (2016)
 category: musique
 tags: 2010s, hip hop, Musique, Pop, soul
 ---
-**La musique dite commerciale réserve parfois des surprises. &nbsp;Il y a quelques mois je tombe sur le clip Human de ce grand et corpulent barbu. Je me dis qu'il a un truc et que ça va cartonner mais qu'il est en dedans.&nbsp;**
+**La musique dite commerciale réserve parfois des surprises.  Il y a quelques mois je tombe sur le clip Human de ce grand et corpulent barbu. Je me dis qu'il a un truc et que ça va cartonner mais qu'il est en dedans. **
 
 Oui, j'ai cette impression de profondeur dans la voix, de puissance contenue et ça me dérange. Mais Bingo, ça cartonne et je me décide à écouter son album et regarder sa chaîne youtube. Je tombe sur un autre titre: Hard came the rain
 
-[la video](https://youtu.be/h7YZtPIzdtM)
+En video : [![video](/images/youtube.png)](https://youtu.be/h7YZtPIzdtM)
 
 Et là je me dis que c'est vraiment bon. Je retrouve bien ce que j'avais senti dans son hit, à savoir une voix plus bluesy, s'adaptant autant au rock qu'à la soul ou à cette sorte de pop-hiphop encore trop édulcorée à mon gout. Mais coté album, alors? Déjà je ne comprends pas l'absence du titre ci dessus qui fait l'objet d'un EP. Mais je me dis qu'il risque d'être victime du syndrome Adèle: beaucoup de talent mais des albums mous et consensuels qui cherchent à bouffer à tous les rateliers, à force d'être formatés par des marketeux sans culture sortis d'écoles de commerce.
 
@@ -16,4 +16,4 @@ Je ne dis pas que tout est à jeter, mais je me suis quand même bien ennuyé, e
 
 Oui, d'habitude je ne chronique pas ce que je n'aime pas. Mais si je n'ai pas forcément aimé l'album, j'ai aimé le chanteur. A lui maintenant de faire le reste pour le prochain album, s'il parvient à s'imposer.
 
-![cover](https://cheziceman.files.wordpress.com/2017/03/ragnboneman-human.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/ragnboneman-human.jpg)
