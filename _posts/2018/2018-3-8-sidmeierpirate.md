@@ -8,7 +8,7 @@ tags: 1980s, 2000s, aventure, combat naval, geek, Geekeries, jeu video, pirate, 
 
 C'est certainement un de mes jeux préférés de l'époque Amstrad CPC, où je l'ai découvert. C'est grace à ce jeu que je connaissais bon nombre des petites îles des Caraîbes, tristement endeuillées cette année par les ouragans. Et même aujourd'hui, à travers les multiples versions, j'ai encore beaucoup d'affection pour ce jeu d'aventure et de combat naval en temps réel. C'était un sentiment de liberté assez unique, à part chez <a href="https://cheziceman.wordpress.com/2016/04/19/souvenir-de-gamer-elite/">Frontier Elite</a>.
 
-![capture](https://cheziceman.files.wordpress.com/2017/08/screenshot_2017-08-26-17-05-46.png)
+![capture](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/meierpirate.png)
 
 *la version PSP de 2007!*
 
@@ -22,6 +22,6 @@ Pour les versions du jeu, j'ai donc commencé par celle de l'Amstrad CPC, plutô
 
 Dans le longplay suivant, je vous conseille d'aller à 6 minutes pour bien comprendre les stratégies de combat naval :
 
-[la video](https://www.youtube.com/watch?v=H7i6MHFPkdQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=H7i6MHFPkdQ)
 
 &nbsp;

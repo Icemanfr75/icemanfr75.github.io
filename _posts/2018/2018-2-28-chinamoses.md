@@ -12,6 +12,6 @@ Mais même sans cette notion du rythme bluffante, il y a vraiment un feeling, un
 
 Pour les amateurs de grandes voix, de jazz, c'est un incontournable. Et ma versatilité me fait dire que j'aimerai l'entendre dans d'autres choses, puisqu'elle a déjà fait plus pop. A suivre... attentivement.
 
-[la video](https://www.youtube.com/watch?v=kzV7iWCJpA8)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=kzV7iWCJpA8)
 
-![cover](https://cheziceman.files.wordpress.com/2017/11/china-moses.png)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/china-moses.png)

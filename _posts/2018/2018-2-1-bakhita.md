@@ -6,7 +6,7 @@ tags: 2010s, biographie, esclavage, littérature, Littérature et BD, roman
 ---
 **Quelque chose m'a attiré mystérieusement vers ce livre, auréolé d'un prix du Roman Fnac 2017. Ce n'est justement pas ce prix, car j'aurai plutôt tendance à me méfier de la mafia des prix. C'est plus la couverture et la vie de Joséphine Bakhita, l'esclave devenue religieuse et canonisée par le pape Jean-Paul II.**
 
-<img class="alignleft size-medium wp-image-21591" src="https://cheziceman.files.wordpress.com/2017/11/bakhita.jpg?w=207" alt="" width="207" height="300" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/bakhita.jpg)
 
 Il y a déjà eu d'autres ouvrages sur la vie de cette femme mais je n'en avais pas lu. Je n'ai pas lu non plus <a href="https://fr.wikipedia.org/wiki/Joséphine_Bakhita">son histoire</a> retranscrite avec l'aide de Maria Luisa Dagnino mais c'était l'occasion d'en connaître plus sur l'esclavage, la traite des esclaves au 19ème siècle, dans la corne de l'Afrique. Je me suis emparé de cette biographie sans à priori, curieux surtout de la première partie de sa vie, celle qui la mena de l'enfance innocente au Darfour jusqu'à un couvent en Italie.
 

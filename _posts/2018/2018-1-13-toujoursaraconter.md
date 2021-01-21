@@ -12,7 +12,7 @@ Et dire qu'il y a quelques jours je me disais : Oh tiens si je me remettais à u
 
 J'ai toujours mon <a href="https://fr.wikipedia.org/wiki/Haruki_Murakami">Murakami</a> en cours et je n'arrive pas à me concentrer pour le finir malgré l'envie d'en connaître plus sur cette histoire. Même une BD un peu touffue a du mal à passer en ce moment. J'essaie de trouver une solution technique pour mesurer l'immesurable avec des fonds de tiroir (car les grands groupes n'investissent plus, hélas) et j'attends impatiemment mes vacances pour... m'occuper aussi de ce que je n'ai pas pu faire avant. Mais ça, ce n'est que la vie en fait. Ce n'est aussi qu'une source d'inspiration, de divagations plus ou moins poétiques, ou même en dessin. Je suis pour l'instant plus à l'aise avec les mots qu'avec le crayon. Mais ça revient peu à peu. Comme beaucoup, ce sont les mains qui me posent problème alors je trouve des artifices pour éviter ça. J'ai souvent lu ça d'ailleurs chez les dessinateurs. Il y a des points de blocage. La bouche aussi, m'a longtemps posé problème... Mais **raconter une histoire en image**, c'est un métier comme en photo. Mais curieusement, quand je (re)mets les pieds à nouveau sur instagram, je n'ai plus vraiment ça avec les hashtags d'actualité. Comme si Instagram était un monde à part, un monde de l'égo, un monde voulu joyeux.&nbsp; Il n'y a pas de #iranprotests ou de #francegall mis en avant. Et pourtant il y a toujours d'excellents photographes, photojournalistes et pas seulement des comptes de copieurs et de robots.
 
-![photo](https://cheziceman.files.wordpress.com/2018/01/bisounours.png)
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/bisounours.jpg)
 
 *Mais où est Iceman?*
 
@@ -27,4 +27,4 @@ C'est comme quand on "récupère" celui dont personne ne veut, dans une équipe.
 
 Non, tout n'arrive pas tout cuit et ce n'est pas seulement une histoire de travail. Il y a des hasards, des histoires qui nourrissent des souvenirs, pour qu'un jour on se dise, évidemment...
 
-[la video](https://www.youtube.com/watch?v=eXsox2-70VE)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=eXsox2-70VE)

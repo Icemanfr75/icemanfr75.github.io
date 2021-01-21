@@ -12,6 +12,6 @@ Mais ce grandiose, on le retrouve aussi dans des titres non chantés comme le Pa
 
 Maintenant, j'ai hâte de voir vers quel projet Thomas Roussel va nous emmener.
 
-[la video](https://www.youtube.com/watch?v=dtvuWAbB6_E)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=dtvuWAbB6_E)
 
-![cover](https://cheziceman.files.wordpress.com/2018/01/prequell.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/prequell.jpg)

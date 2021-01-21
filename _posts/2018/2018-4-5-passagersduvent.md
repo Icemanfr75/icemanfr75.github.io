@@ -7,13 +7,13 @@ tags: 1970s, 1980s, aventure, bd, esclavage, féminisme,
 ---
 **C'est l'histoire d'un rendez-vous manqué, le mien avec cet auteur. J'ai tout fait à l'envers et j'aurai certainement dû commencer par ce qui l'a rendu célèbre : Les Passagers du vent..**
 
-<img class="size-large wp-image-21817 alignleft" src="https://cheziceman.files.wordpress.com/2017/12/passagers1.jpg?w=192" alt="" width="192" height="262" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/passagers1.jpg)
 
 Pour ma petite histoire à moi, j'ai découvert Bourgeon avec la parution du cycle de Cyann dans (A suivre..). J'ai moyennement accroché à l'histoire mais beaucoup au dessin. Et puis j'ai lu les 3 tomes des Compagnons du crépuscule, qui correspondent à ma période plus Heroic Fantasy. Dans cette histoire prometteuse, j'ai eu le sentiment que Bourgeon avait bâclé la fin pour remplir un contrat. Il est vrai aussi qu'il a des histoires houleuses avec les éditeurs. Et puis j'ai emprunté à ma bibliothèque, il y a très longtemps, le premier opus des Passagers du vent. J'avais apprécié mais je n'avais pas pu lire immédiatement la suite et ça s'est arrêté là. Je suis retombé sur des exemplaires de la suite, écrite dans les années 2010, et je me suis dit alors qu'il fallait que je lise enfin ce qu'on considère comme son chef d'oeuvre. Avant ça, j'ai fini le cycle de Cyann que je trouve encore très inégal pour son incursion dans la science fiction, le space-opera, tout en reconnaissant de vrais moments de grâce, un univers très riche. Mais passons à ce qui nous intéresse...
 
 Les Passagers du vent est une saga en 5 épisodes qui emmène la belle Isabeau (Isa) sur un bateau vers les caraïbes, en Angleterre, puis en Afrique sur un navire négrier, le tout au 18ème siècle. Elle est suivie par son "amoureux", Hoel, un gabier rencontré sur le premier tome, puis croise d'autres personnages qui l'accompagnent dans son destin rocambolesque. C'est donc une aventure historique, maritime essentiellement, qui n'est pas dans l'apogée de la piraterie, d'ailleurs mais qui est très documentée justement pour rendre crédible la vie de cette époque.
 
-<img class="aligncenter size-large wp-image-21818" src="https://cheziceman.files.wordpress.com/2017/12/passagers2.jpg?w=739" alt="" width="739" height="558" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/passagers2.jpg)
 
 Il y a des constantes chez Bourgeon :
 

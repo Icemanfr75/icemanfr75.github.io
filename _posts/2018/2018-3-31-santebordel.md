@@ -10,7 +10,7 @@ Ah, c'est malin de me souhaiter chaque année "une bonne santé, pour ta famille
 
 C'est qu'on ne se rend pas vraiment compte des choses, à force d'avoir des cartes vitales, des CMU, des mutuelles, des caisses complémentaires. **On ne paye plus la santé** alors tout nous paraît dû, ou pas si mal. Sauf que quand je suis à l'hôpital pour une consultation, je m'acquitte de pas grand chose. Quand je sors d'une opération, les frais sont aussi négligeables par rapport à ce que je sais d'engagé comme matériel et comme personnel. Nous ne sommes pourtant pas seuls à avoir de tels avantages en Europe, du moins en Europe du nord, mais si je commence les comparaisons, ça va parler régime de la sécu, lit par habitant, moyenne, médiane... Je ne suis pas sorti... de l'hôpital psychiatrique. Je me suis amusé pourtant à regarder les tarifs dans mon hôpital public :
 
-<img class="aligncenter wp-image-22651 size-large" src="https://cheziceman.files.wordpress.com/2018/03/img_20180327_085540-01.jpeg?w=739" alt="" width="739" height="942" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/fraishopital.jpg)
 
 Pas donné, tout ça, non? J'étais justement dans le service de chirurgie ambulatoire pour un acte de précision, le truc qui te donne une seconde jeunesse, qui te rend la vie plus... normale. La première patiente était accueillie à 7h du matin, ce qui vous laisse imaginer à quelle heure le personnel a commencé. Et je voyais les infirmier(e)s jongler entre l'accueil des patients, les préparations pour le bloc, les paperasses, et ... les médicaments manquants parce que l'approvisionnement se fait au compte-goutte. Avec humour l'infirmier parlait de "flux tendu". L'hôpital est en travaux, la climatisation déconne et alors qu'il faisait 15°c dehors, on avait un bon 25°c à l'intérieur avec des fenêtres ouvertes pour réguler la température, quand elles fonctionnent encore. Je connais ça aussi à mon travail, car on sous-traite à des gens qui ne connaissent pas bien le métier sur des installations non renouvelées depuis 25 ans au moins. Les chambres ont encore les traces de leur rôle passé. Et même pour les piles des matériels pour prendre les constantes, c'est un problème avec zéro stock, l'appel à un ami. Dans peu de temps, ils iront au Relais H flambant neuf pour en chercher. Je ne vous parle même pas des cas critiques comme <a href="https://www.francetvinfo.fr/sante/hopital/hopital-de-pointe-a-pitre-des-deces-suspects_2676956.html">Point-à-pitre</a>.
 
@@ -24,7 +24,7 @@ Je connais aussi la version américaine de la santé, où là on sait très rapi
 
 Et puis **les médicaments**... Ah, s'il y a une profession que je déteste, c'est bien celle là. Entre les fabricants aux tests opaques et bidonnés, la rareté organisée et les pharmaciens qui t'affichent des prix en tout petit derrière eux et jouent sur les divers packaging pour t'arnaquer, il y a de quoi en dire. Faites le test sur une simple boîte de Paracetamol : On va vous filer du Doliprane, du générique en plaquettes de 12, 24... parfois au même prix et ça peut changer comme le temps qu'il fait dehors. Et comme il paraît qu'on <a href="https://www.sciencesetavenir.fr/sante/anti-douleurs-les-francais-consomment-plus-de-paracetamol-a-forte-dose-et-plus-d-opiaces-forts_122259">surdose</a>...  Moi, ça va, j'ai de bonnes relations avec une pharmacie un peu plus loin, la centrale dans mon patelin. On déroge un peu plus des règles quand on connaît la personne.
 
-[la video](https://www.youtube.com/watch?v=hmUVo0xVAqE)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=hmUVo0xVAqE)
 
 On considère que la santé doit être **une activité rentable.** On joue sur les prix des médicaments, on spécule selon les pays. L'hôpital est vu maintenant comme une entreprise comme une autre et le client doit être une "denrée" rentable. On doit faire de la valeur ajoutée. Oh là, je vais finir par parler du management de l'agilité...Non, stop ! Ce n'est pas ça la santé. Je sais qu'il paraît complètement oublié, le serment d'Hippocrate, souvent plus hypocrite...
 
@@ -45,6 +45,6 @@ J'ai vu circuler <a href="http://www.atoute.org/n/article366.html">une pétition
 
 En tout cas, ces dernières années, si j'avais une carte vitale fidélité, j'aurais de sacrées ristournes. Je veux la Duo, comme pour le cinéma ! Mais vu que la gestion de cette carte est déjà ubuesque, je ne voudrais pas compliquer cela avec de la big-data dessus et de la revente de données. Imaginez si Facebook gérait la santé dans un partenariat public-privé ! Là j'entre dans un cauchemar et je n'ai pas de médicament pour ça. Docteur, occupez vous d'abord de la santé, là ! Elle est restée dans le couloir depuis trop longtemps.
 
-On termine par un titre de <a href="https://cheziceman.wordpress.com/2015/11/12/ufo-malemort-vaureal-2015/">UFO</a> mais avec un ex du groupe...
+On termine par un titre de UFO mais avec un ex du groupe...
 
-[la video](https://www.youtube.com/watch?v=QU4eN3adgfE)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=QU4eN3adgfE)

@@ -27,7 +27,7 @@ Le problème de ce jeu, maintenant, c'est qu'on en a fait des remakes ou presque
 
 Allez, on en reprend une tranche?
 
-[la video](https://www.youtube.com/watch?v=PYa0W9dSht0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=PYa0W9dSht0)
 
 On voit bien que l'Amstrad était bien supérieur à la NES sur ce coup là, ne serait-ce que pour la cérémonie d'introduction et les couleurs. Le plus fou est que j'ai l'impression que je pourrais chanter encore ces musiques intermédiaires. Alors je me demande si ce jeu ne reste pas quelque part un must du genre, ce genre toujours décrié par les magazines parce qu'inégal. C'est peut être dû à la nostalgie qui l'entoure, aux premiers JO d'hiver dont je me souviens à la télévision (Sarajevo). Mais rien que pour voir, j'ai encore envie de savoir si je pourrais battre les records du jeu sur Amstrad.
 

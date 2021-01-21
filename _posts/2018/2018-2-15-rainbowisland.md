@@ -12,17 +12,17 @@ Comme souvent, j'ai découvert le jeu avec une compilation sur Amstrad CPC... Ma
 
 Je n'ai jamais retrouvé cette particularité ailleurs, même s'il y a eu de nombreux jeux de plateforme depuis. En plus, le design était très japonais et Kawai, plein de couleurs vives. Pour changer un peu, j'ai pris la version NES :
 
-<img class="aligncenter wp-image-20693 size-full" src="https://cheziceman.files.wordpress.com/2017/07/1500469186057.png" alt="" width="256" height="232" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/rainbowisland.png)
 
 On remarque tout de suite qu'il y a moins de couleurs, du fait de la machine. J'imagine ce qu'il en serait sur ZX Spectrum. Mais la jouabilité est là. Le jeu ressemble presque à son ainé Bubble Bobble.
 
 Et puis ensuite je suis passé sur la version Megadrive :
 
-<img class="size-medium wp-image-20692 aligncenter" src="https://cheziceman.files.wordpress.com/2017/07/screenshot_2017-07-19-15-01-08.png?w=300" alt="" width="300" height="169" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2017/rainbowisland2.png)
 
 Bon, là, j'ai plus de mal avec le coté sombre du jeu. Les ennemis sont bizarres et les couleurs joyeuses du monde avec les iles(non présentes sur la version NES) laissent plance à ce truc sur fond noir, des ennemis gris. Etrange ! Finalement, on peut passer sur la GBC qui  a plus de couleurs mais un focus plus étroit sur le héros.
 
-[la video](https://www.youtube.com/watch?v=rgOf-HtDxaM)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=rgOf-HtDxaM)
 
 Au moins, là, vous avez une bonne idée de ce que donne le jeu... Et ça vous donnera envie de lancer des arcs-en-ciel. Parfois on aurait bien envie d'en voir plus dans sa vie?!
 

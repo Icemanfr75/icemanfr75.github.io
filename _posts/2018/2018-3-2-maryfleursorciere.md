@@ -6,7 +6,7 @@ tags: animation, Cinéma, dessin animé, génétique, japanimation, magie, sorce
 ---
 **Qu'on se le dise : Si Miyazaki et le Studio Ghibli cessent leur activité, il y aura toujours le Studio Ponoc pour produire de beaux films d'animation. A commencer par ce premier long métrage d'un disciple du maître...**
 
-Car Hiromasa Yonebayashi a été lancé par le film<a href="https://cheziceman.wordpress.com/2011/02/25/cecile-corbel-arrietty/"> Arrietty</a>, du studio Ghibli et a confirmé avec<a href="https://cheziceman.wordpress.com/2015/01/21/cinema-souvenirs-de-marnie-de-souvenirs-de-marnie-2015/"> Souvenirs de Marnie</a>. Cette fois, il s'attaque à une autre adaptation, celle du roman "The Little Bromstick"(le Petit Balai) de l'écrivaine anglaise Mary Stewart. Il fait partie de l'oeuvre pour enfant de cette auteure.
+Car Hiromasa Yonebayashi a été lancé par le film Arrietty, du studio Ghibli et a confirmé avec [Souvenirs de Marnie](https://www.cheziceman.fr/2015/souvenirsmarnie/). Cette fois, il s'attaque à une autre adaptation, celle du roman "The Little Bromstick"(le Petit Balai) de l'écrivaine anglaise Mary Stewart. Il fait partie de l'oeuvre pour enfant de cette auteure.
 
 Mary, 11 ans, vient de déménager à Redmanor, chez sa grande tante Charlotte, en attendant le retour de ses parents qui travaillent. Elle est moquée pour sa maladresse et sa chevelure rousse. En se promenant dans la forêt, elle découvre « la fleur de la sorcière » qui ne pousse que tous les 7 ans et qui lui permet, pour une nuit, de posséder des pouvoirs magiques et d'accéder à l'école de magie Endor. Avec son "petit balai" magique et sa chevelure rousse, la directrice la prend pour une sorcière. Mais ce lieu cache de lourds secrets...
 
@@ -16,4 +16,4 @@ Il n'y a pas vraiment d'originalité dans le traitement et on sent encore beauco
 
 La relève est assurée mais il manque à la fois le côté onirique de Ghibli et un style qui s'écarte de l'héritage du vénérable studio de Tokyo. Il faut se souvenir que ce n'est que le premier long de Ponoc donc il reste de la marge. Dommage qu'il faille attendre plus de 6 mois après la sortie japonaise (en Juillet) pour bénéficier de la diffusion en France. Fort heureusement, le film sort pour les vacances de Février et réunit les spectateurs de tous les ages, notamment les adultes fans de japanimation de qualité.
 
-[la video](https://www.youtube.com/watch?v=dktWSPQdwo)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=dktWSPQdwo)

@@ -14,6 +14,6 @@ Aujourd'hui, s'il est possible de l'émuler, c'est sur ordinateur que ça se jou
 
 Ce que l'on sait moins, c'est que Rick (Richard) est le père de Lara Croft, justement. Car le développeur, Core Design est le même pour l'épisode 2. D'où finalement un thème et un système de jeu très similaire.
 
-[la video](https://www.youtube.com/watch?v=Qk3OI3um2jA)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Qk3OI3um2jA)
 
 *Sorti par Core Design sur Amiga, Amstrad CPC, Atari ST, C64, ZX Spectrum, MS-DOS* 

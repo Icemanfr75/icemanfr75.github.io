@@ -10,7 +10,7 @@ C'est en effet ce qui m'a longtemps retenu après quelques essais infructueux. A
 
 Trouver son style, c'est quelque chose que l'on fait** tous les jours**. On le fait pour s'habiller, pour vivre tout simplement, en composant avec des contraintes extérieures que sont le boulot, la famille, la santé... Je ne vis certainement pas de la manière dont je vivais il y a 10 ans. Je ne lis pas ou ne regarde pas les mêmes choses. Je n'écoute pas la même musique et je me force justement à reprendre le temps et le recul nécessaire. En vieillissant, les priorités changent, le style de vie aussi. C'est aussi vouloir partager des savoirs et des idées autrement. Et là, le style est dicté par celui qui lira/regardera en face. En ce moment, mon problème est plus dans mon activité professionnelle avec des gens qui ne lisent plus, qui font par habitude. Mon questionnement est plus général : Comment forcer des gens persuadés qu'ils font bien à changer d'habitude? J'y reviendrai sûrement.
 
-![image](https://cheziceman.files.wordpress.com/2018/01/685px-fashions.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/modeancienne.jpg)
 
 *Le style, ce n'est pas d'hier*
 
@@ -20,7 +20,7 @@ Trouver son style, c'est , par exemple, ce que l'on fait dans **son utilisation 
 
 Oui, c'est ce qui ressortait d'une étude de 2014. Entre temps, ça n'a pas du s'améliorer pour la calculatrice, les appels. Ca veut dire aussi qu'en cette période de voeux, il y a des choses à ne pas faire sur les SMS/Email, par exemple, comme les envois de masse ou les réponses de masse. Mais ça dépend beaucoup des applications pré-installées...donc des marques. La plupart des utilisateurs vont rentrer leur compte google comme demandé à l'initialisation et immédiatement, tout ira chez Google. Gmail sera configuré, Drive, Youtube, etc...C'est facile, c'est sûr. Se passer de google sur un smartphone android c'est forcément des problèmes sur certaines applications qu'on juge indispensable. Je n'utilise pas les applications google dans la grande majorité en les désactivant, en empêchant leur démarrage sinon. Mais j'utilise Gmail (sans appli) comme boite poubelle. Je suis passé à K9-Mail sur mon Xiaomi, j'ai fait du ménage en attendant d'être plus radical en sortie de garantie. Je sais que je perds quelques facilités mais c'est mon choix. Comme celui de ne pas installer Twitter, et encore moins facebook, instagram (on peut envoyer des photos via le navigateur!), whatsapp... Ou de me déconnecter du réseau. Sans aller dans la "degafamisation" radicale, on peut choisir un "style de vie", sans être dupe de la possibilité d'espionnage que représente le smartphone. J'ai un abonnement chez un FAI et donc déjà je suis géolocalisé sans arrêt. Quand je basculerai dans la clandestinité pour renverser un état, évidemment, je ferai différemment, mais ce n'est pas vraiment dans mes plans. (ndlr : le pouvoir aux chats !!! ) . Et si je choisis de virer les cookies, d'avoir un filtre antipub, de ne pas avoir de flash, c'est aussi un style de vie que je m'impose.
 
-![image2](https://cheziceman.files.wordpress.com/2018/01/pub01net.jpg)
+![image2](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/pub01net.jpg)
 
 *capture de @davidlgd : En haut à droite, ce que vous avez comme pubs et scripts ...*
 
@@ -28,4 +28,4 @@ Oui, c'est ce qui ressortait d'une étude de 2014. Entre temps, ça n'a pas du s
 
 Alors toi, lecteur, collègue, trouve ton style si tu ne l'as pas fait. Même dans les commentaires, ou les tweets si tu préfères ( ndlr : private joke ;-) ). Mais surtout crée ! Ce n'est pas le contenu qui fait le style, mais son auteur... Hein David!
 
-[la video](https://www.youtube.com/watch?v=BUsWiIN-LfE)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=BUsWiIN-LfE)
