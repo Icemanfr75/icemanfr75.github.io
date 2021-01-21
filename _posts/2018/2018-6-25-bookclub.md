@@ -6,7 +6,7 @@ tags: 2010s, Cinéma, comédie, comédie romantique, Film
 ---
 **Je suis un très bon client des comédies romantiques et un fan des comédies classiques américaines. Alors forcément, ce premier film du producteur Bill Holderman était fait pour moi...**
 
-<img class="alignleft size-full wp-image-23360" src="https://cheziceman.files.wordpress.com/2018/06/bookclub.jpg" alt="" width="193" height="261">
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/bookclub.jpg)
 
 Sur le papier, ce film s'adresse plutôt à la gent féminine d'un certain âge : "Quatre femmes mûres, amies de longue date, se retrouvent fréquemment dans leur club de lecture. Un jour, leur quotidien est bouleversé par la lecture du roman érotique Cinquante nuances de Grey..."
 
@@ -16,4 +16,4 @@ Comme toute comédie romantique, on se doute de la fin mais qu'importe. Ici on a
 
 Bref, je resigne pour une autre séance.
 
-[la video](https://www.youtube.com/watch?v=cNBPqf6EoR0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=cNBPqf6EoR0)

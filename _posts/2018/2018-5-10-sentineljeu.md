@@ -4,7 +4,7 @@ title: Souvenir de Gamer - The Sentinel (1986)
 category: geek
 tags: 1980s, geek, Geekeries, infiltration, jeu video, retrogaming, stratégie
 ---
-**Ce jeu m'a toujours impressionné. Il a passionné une génération de stratèges (articles dans <a href="https://cheziceman.wordpress.com/2016/11/25/presse-du-passe-jeux-et-strategie/">Jeux et Stratégie</a>) tout en participant à forger l'aura de son créateur : Geoff Crammond.**
+**Ce jeu m'a toujours impressionné. Il a passionné une génération de stratèges (articles dans [Jeux et Stratégie](https://www.cheziceman.fr/2016/jeuxetstrategie/)) tout en participant à forger l'aura de son créateur : Geoff Crammond.**
 
 Son principe est unique  "Dans un environnement en vue subjective se déroulant dans des paysages surréalistes en forme d'échiquiers vallonnés, le joueur incarne un  synthoïde, un robot qui doit se téléporter de case en case, en partant du plus bas, afin d'absorber la Sentinelle qui trône sur la plus haute case.La Sentinelle, quant à elle, tourne petit à petit sur elle-même et peut absorber l'énergie du joueur si elle aperçoit la case sur laquelle il se tient."<sup id="cite_ref-1001-JV_1-0" class="reference"></sup>
 

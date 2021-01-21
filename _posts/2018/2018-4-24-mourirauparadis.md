@@ -6,7 +6,7 @@ tags: 2000s, armes, bd, Littérature et BD, société, violence
 ---
 **Il y a des couvertures qui intriguent parfois. Ce fut le cas pour celle là avec le nom de Pierre Christin en plus. Oui, le Pierre Christin de Valérian, entre autres...**
 
-<img class="alignleft size-medium wp-image-21932" src="https://cheziceman.files.wordpress.com/2018/01/mourir-au-paradis.jpg?w=224" alt="" width="224" height="300" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/mourir-au-paradis.jpg)
 
 Mais dans ce récit, nous sommes loin de l'espace. Nous voilà aux Etats-unis dans les années 2000 dans un de ces nombreux complexes sécurisés où se réfugient les riches. Nous y suivons d'abord un livreur latino dont le vigile se fiche bien du nom. Pour lui, tous les latinos s'appellent Pancho, et on n'ose pas imaginer comment les riches appellent leurs vigiles noirs. Et ce "pancho" nous guide dans ce dédale de rues privées et de grandes propriétés à la découverte des protagonistes de cette histoire : Des gosses de riches.
 
@@ -16,4 +16,4 @@ Le twist final est plus qu'intéressant. Et depuis la sortie de cet album, on vo
 
 Un album qui m'a bien surpris avec un dessin agréable et classique d'Alain Mounier pour bien servir le scénario.
 
-<img class="aligncenter size-full wp-image-22931" src="https://cheziceman.files.wordpress.com/2018/04/mourirauparadis2.jpg" alt="" width="500" height="660" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/mourirauparadis2.jpg)

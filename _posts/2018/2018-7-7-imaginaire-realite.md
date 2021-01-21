@@ -8,13 +8,13 @@ tags: éducation, blog, futur, imaginaire, lecture, Réflexion, travail
 
 Pourtant, il y a quelques semaines de cela, mes parents (dont mon père qui a connu la 2ème guerre mondiale) ont réalisé un des leurs. Il a fallu que j'insiste lourdement pendant des années mais ils l'ont fait et sont revenus ravis. **Pour les miens, j'ai rayé (car réalisé)** déjà quelques lignes de ma liste mais j'en trouve toujours d'autres. J'ai le temps ....hum, pas si sûr quand on voit des collègues et amis partir prématurément. Nous avions décidé avec madame de profiter de ce que nous pouvions faire avant d'être infirmes, séniles, ruinés, ou que sais-je encore et nous avons bien fait. J'ai connu des personnes qui ne sont pas allés au bout d'un rêve et la vie peut aller très vite pour changer les choses. J'ai donc tendance à penser que dans la trentaine, t'as intérêt à y penser, surtout si tu n'as pas encore d'enfants.
 
-![image1](https://cheziceman.files.wordpress.com/2018/07/illustration-de-jules-verne.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/illustration-de-jules-verne.jpg)
 
 *Le futur que j'ai vu très petit, c'était Jules Verne*
 
 Mais en parlant d'enfants, cette semaine il y a eu tout **un scandale autour du bac**. Il se trouve qu'une de mes nièces le passait justement dans <a href="http://www.lepoint.fr/bac/bac-2018-l-epreuve-de-maths-des-series-s-trop-difficile-vraiment-25-06-2018-2230349_3585.php">la section S</a> sur Paris, là d'où est partie la bronca de parents d'élèves et de leur progéniture. Je connais pas mal de profs de math qui rigolent (jaunes?) à voir cela et ça se réglera à l'amiable par rapport à la moyenne des notes en ré-haussant de quelques points pour ne pas faire chuter le sacro-saint taux de réussite, officieusement. Le tonton, qui verse dans les maths et le calcul scientifique, rigole aussi car le coeur du problème est dans l'interprétation d'un énoncé et le guidage dont les élèves ont l'habitude. J'ai vu des vidéos youtube de bacheliers et j'avais plutôt envie de leur filer une bonne baffe dans la gueule : Plutôt que de passer du temps à faire une vidéo, révise mieux... Car entre les sections Math sup et la fac, il va falloir apprendre à travailler autrement et à se prendre parfois des notes bien pires. Ce fut mon problème, mais j'ai aussi eu la chance d'avoir un prof de math de Terminale qui nous préparait à la suite (avec des moyennes bien salées), au point que le bac a paru facile. Le problème de fond, c'est qu'à force de préparer à un schéma d'exercices types, on ne sait plus faire dès qu'on sort d'un iota du schéma (certains terminales S ne savent pas leurs tables de multiplication, aujourd'hui...) Et dans les maths ou ailleurs, il faut développer aussi l'imaginaire et la créativité.
 
-![image2](https://cheziceman.files.wordpress.com/2018/07/chiharu-shiota-insilence.jpg)
+![image2](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/chiharu-shiota-insilence.jpg)
 
 *L'imaginaire de ©Chiharu Shiota, In Silence*
 
@@ -28,4 +28,4 @@ C'est bien terre-à-terre mais pour en revenir à mes apprentis BTS, j'aime leur
 
 Bonnes vacances aux juillettistes, ici, il n'y en a pas! Mais il y aura du rêve.
 
-[la video](https://www.youtube.com/watch?v=Yam5uK6e-bQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Yam5uK6e-bQ)

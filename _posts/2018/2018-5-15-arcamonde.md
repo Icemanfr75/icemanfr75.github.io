@@ -6,7 +6,7 @@ tags: 2000s, enquête, fantastique, littérature, thriller
 ---
 **Premier épisode d'une saga de 12 romans, ce livre a essayé de réunir tous les ingrédients d'un genre qui a perdu de sa superbe, le Roman feuilleton.**
 
-<img class="alignleft size-full wp-image-22835" src="https://cheziceman.files.wordpress.com/2018/04/arcamonde.jpg" alt="" width="181" height="278" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/arcamonde.jpg)
 
 Pourtant, ce n'en est pas un dans le sens où chaque chapitre ne paraît pas dans un périodique quelconque. Mais le style est beaucoup empreint de cela avec l'usage du suspens en fin de chapitre, l'attente d'une réponse à une question. Mais avant toute chose, il faut parler de l'auteur : Hervé Picart. Il s'agit bien de l'ancien rédacteur du magazine rock Best, célèbre dans les années 70-80 face à son concurrent Rock'n Folk. C'était une époque où l'on savait un peu plus ce qu'était le rock en France, l'époque des Eudeline, Blum à la rédaction , où l'on découvrait le progressif avec un de ses fans, Picart qui sera aussi musicien. Mais l'homme est aussi et surtout un professeur de latin et grec, ce qui nous amène naturellement à parler du style de cet ouvrage.
 

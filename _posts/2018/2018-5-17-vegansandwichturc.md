@@ -6,7 +6,7 @@ tags: cuisine, Culture, lifestyle, turquie, végétarien, végétarisme, vegan, 
 ---
 **On croit à tort que le Sandwich grec/turc est un petit pain avec une sauce au choix, salade-tomates-oignons et des bouts de viande grillée, le tout accompagné de frites. Mais ce qu'on devrait appeler Döner, est plus souvent servi dans un galette et sans frites.**
 
-<img class="size-full wp-image-22439 alignleft" src="https://cheziceman.files.wordpress.com/2018/03/eminces-vegan-soy-bio-201x300.png" alt="" width="201" height="300" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/eminces-vegan-soy.jpg)
 
 Pour en faire une version vegane, il restait à trouver un équivalent de cette viande grillée (Kebab/Kebap selon la langue). Je l'ai trouvé dans la gamme Soy avec les émincés vegan soy. Une poêle, un peu d'huile, un feu vif et on fait revenir le tout.
 

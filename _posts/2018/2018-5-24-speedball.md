@@ -20,7 +20,7 @@ Ca va vite, mais le fait d'avoir une vision plus proche du terrain pouvait être
 
 La rapidité du jeu peut laisser croire qu'il est difficile de jouer stratégique. Mais avec l'habitude, on apprend les bonnes techniques de jeu pour tromper l'ordinateur. Enfin... à l'époque. Car aujourd'hui, quand j'y rejoue en émulation, j'ai vraiment du mal à m'y faire. J'ai même essayé sur mon smartphone sur la version GBA du 2.
 
-<img class="aligncenter size-large wp-image-22603" src="https://cheziceman.files.wordpress.com/2018/03/screenshot_2018-03-21-17-59-41-967_com-fastemulator-gba.png?w=576" alt="" width="576" height="1024" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/speedball.jpg)
 
 Sans manette, c'est injouable et c'est particulièrement difficile de bien viser. Il faut des heures et des heures d'entrainement pour remaîtriser la bête. Et comme le jeu était sorti bien trop tard sur la portable de Nintendo, il n'a pas marché et a renvoyé les Bitmap Brothers à la retraite. Il faut bien avouer que le jeu a vieilli et qu'en simulation de sport, on a aujourd'hui tellement mieux. Mais il reste ce charme suranné des jeux des années 80, qui nous permettent de constater que l'évolution, ça a aussi du bon.
 

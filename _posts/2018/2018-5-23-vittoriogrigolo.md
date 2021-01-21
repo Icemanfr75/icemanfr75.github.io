@@ -31,6 +31,6 @@ Ce disque a donc deux usages ici : Faire découvrir un interprète parmi les plu
 * 11. Le Cid, Acte II, scène 3: "Ah! Tout est bien fini... Oh Souverain, o Juge, o Père"
 * 12. Romeo et Juliette, Acte V: "C'est là! Salut! Tombeau! Sombre et silencieux"
 
-[la video](https://www.youtube.com/watch?v=7eeOlqr8sA0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=7eeOlqr8sA0)
 
-![cover](https://cheziceman.files.wordpress.com/2018/03/grigoloramontic.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/grigoloramontic.jpg)

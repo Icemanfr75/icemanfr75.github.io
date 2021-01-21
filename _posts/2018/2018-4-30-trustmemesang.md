@@ -16,6 +16,6 @@ Mais il y a aussi des titres moins énervés, du moins en apparence, où Bernie 
 
 Je ne sais pas si c'est le fait de retrouver un Trust en forme, toujours aussi hard-rock, mais un peu plus blues-rock, qui me donne cette impression. Mais je l'aime bien cet album. Il faudra voir ce que ça donnera avec le temps. Mais souvent les Hiatus sont profitables. Celui de Trust avait été long et "13 à table" était imparfait. C'est donc avec plaisir que je fais tourner ça sur ... mon player et que je ressors les classiques de leurs pochettes.
 
-[la video](https://www.youtube.com/watch?v=yRoKKbqLI2I)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=yRoKKbqLI2I)
 
-![cover](https://cheziceman.files.wordpress.com/2018/04/memesang.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/memesang.jpg)

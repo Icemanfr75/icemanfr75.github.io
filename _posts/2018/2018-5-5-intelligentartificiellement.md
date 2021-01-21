@@ -12,7 +12,7 @@ Cela fait des années que j'améliore petit à petit tous mes outils de dépouil
 
 Mais attention à ne pas tomber dans l'excès de zèle. Car plus on a de données, plus on veut faire de tableaux de bord et bilans que l'on mettra aussi du temps à compiler  et exploiter. Le but est bien d'**avoir une valeur ajoutée immédiate**. Si je reprends l'exemple des comptes bancaires, le but premier est de savoir si on dépense trop et sur quel poste. On peut donc se contenter de la visualisation du top des dépenses, par exemple et pas des graphiques dans tous les sens. On peut aussi rechercher les périodes critiques de l'année si on a déjà prévu les dépenses périodiques. Là encore, une petite réflexion préalable et après l'outil devient invisible...L'autre souci est de savoir comment on obtient les données. S'il fallait une heure pour récupérer correctement les données de mon compte bancaire, je ne le ferai pas. Mais il ne me faut que 2 minutes, donc ça va. Je connais d'autres outils qui demandent la participation de centaines de personnes avec un temps important pris dans la charge de travail. C'est de la connerie artificielle, à ce moment... voire réelle.
 
-![image](https://cheziceman.files.wordpress.com/2018/04/applewatch.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/applewatch.jpg)
 
 *Intelligence superflue?*
 

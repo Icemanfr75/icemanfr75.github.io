@@ -6,7 +6,7 @@ tags: ésotérisme, japon, littérature,
 ---
 **Voilà un livre qui m'avait été conseillé mais que j'ai mis un peu de temps à finir. Non pas qu'il ne me plaise pas mais parfois, le temps manque pour pourvoir apprécier à sa juste valeur un ouvrage. De valeur, il n'en manque pas.**
 
-<img class="alignleft size-medium wp-image-22352" src="https://cheziceman.files.wordpress.com/2018/02/murakamioiseau.jpg?w=182" alt="" width="182" height="300" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/murakamioiseau.jpg)
 
 Le problème est qu'à l'origine, ce sont 3 volumes qui sont sortis, édités ensuite en un seul chez Seuil...Alors c'est proprement énorme : 741 pages ! Mais heureusement, ça n'a rien du pavé indigeste comme j'ai eu parfois l'occasion d'en lire. Comment résumer l'histoire? Dire que c'est celle de Toru Okada, un trentenaire au chômage, au carrefour de sa vie, qui perd d'abord son chat dans une ville qui l'effraie et le fascine à la fois. Et puis sa femme disparaît aussi. En quête perpétuelle, il croise une galerie de personnages qui lui racontent leur histoire.
 

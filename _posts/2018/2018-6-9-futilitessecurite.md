@@ -34,4 +34,4 @@ Cela marche aussi avec le **veganisme** d'ailleurs. Dire qu'on est vegan et que 
 
 Et au delà des réseaux sociaux, il y a aussi **les blogs et ce que l'on y met**. Parmi mes plus de 1000 articles ici, il y a de la futilité, j'en suis sûr, et pas plus tard que cette semaine. Je pourrais me passer (et je vais le faire ...) de certaines rubriques. Il y en a qui ont été des défis personnels, juste pour flatter mon égo, au fond. Il y a des coups de cœur, des coups de gueule. Le format permet de développer un peu plus qu'un trait d'humeur, c'est tout. Il y a des tranches de vie. Mais je me demande, aujourd'hui, ce qu'il restera de tout cela dans 20, 30, 40 ans....ou même 6 mois, car on est si peu de chose. Il faut avoir la modestie de le reconnaître, sans pessimisme, aucun. Comme celle de reconnaître qu'on ne saura jamais tout faire bien et que l'entraide,"c'est ça que c'est bien !!!" comme on dit par chez moi. Mais quand même l'informaticien ne sait plus où mettre son (open) source, on pourrait presque croire que ...
 
-[la video](https://www.youtube.com/watch?v=Z0GFRcFm-aY)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Z0GFRcFm-aY)

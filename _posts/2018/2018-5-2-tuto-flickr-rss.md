@@ -16,12 +16,12 @@ rajoutez tout simplement ?details=1 à l'adresse de votre galerie et tout en bas
 
 Un clic droit sur l'icone vous donnera l'adresse du flux à inclure. Oh surprise, vous devez retrouver votre ID Flickr dedans :
 
-https://api.flickr.com/services/feeds/photos_public.gne?id=**<span style="color:#ff0000;">IDFLICKR**&amp;lang=fr-fr&amp;format=rss_200
+https://api.flickr.com/services/feeds/photos_public.gne?id=**IDFLICKR**&amp;lang=fr-fr&amp;format=rss_200
 
 Pour le mien, ça donnera par exemple, https://api.flickr.com/services/feeds/photos_public.gne?id=76217081@N04&amp;lang=fr-fr&amp;format=rss_200
 
 Pour info pour les utilisateurs de #flickr, vous pouvez obtenir le flux ATOM/RSS de vos favoris avec une adresse du type :
 
-https://www.flickr.com/services/feeds/photos_faves.gne?id=<span style="color:#ff0000;">**IDFLICKR**&amp;lang=en-us&amp;format=atom
+https://www.flickr.com/services/feeds/photos_faves.gne?id=**IDFLICKR**&amp;lang=en-us&amp;format=atom
 
 Le format peut être changé en ATOM comme vous pouvez le voir dans la balise format, ci dessus. Je vous laisse deviner maintenant quelles photos je sélectionne...
