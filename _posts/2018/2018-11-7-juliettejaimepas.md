@@ -20,6 +20,6 @@ Et on retrouve tout son humour dans son personnage de « Juliette Binocle » q
 
 Et ainsi ce termine assez abruptement ce bel album d'une artiste qui n'a pas besoin, finalement, de vendre son âme pour assurer son succès. C'est certain que les chanteuses à texte sont en décalage aujourd'hui, surtout avec autant de talent d'auteure. Mais un jour, peut-être, lui rendra-t-on un vibrant hommage avec des mots aussi bien choisis que les siens.
 
-[la video](https://www.youtube.com/watch?v=pBgq3CCr16c)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=pBgq3CCr16c)
 
-![coverr](https://cheziceman.files.wordpress.com/2018/06/juliettejaimepas.jpg)
+![coverr](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/juliettejaimepas.jpg)

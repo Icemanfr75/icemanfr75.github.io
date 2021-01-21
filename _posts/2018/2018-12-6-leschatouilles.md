@@ -6,7 +6,7 @@ tags: Cinéma, drame, enfance, Film, pédocriminalité, 2010s
 ---
 **Je n'irai pas par 4 chemins, ce film me marquera durablement. Avec le sujet abordé, on pourrait penser que c'est normal mais c'est la puissance qu'il dégage qui frappe. De quoi en faire mon film de l'année...**
 
-<img src="https://cheziceman.files.wordpress.com/2018/12/chatouilles.jpg" alt="" class="wp-image-24827" width="225" height="225" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/chatouilles.jpg)
 
 Présenté comme une fiction, c'est pourtant l'auto-biographie d'Andréa Bescond, danseuse-chorégraphe-actrice et maintenant co-réalisatrice, qui est mise à l'écran après une pièce de théatre récompensée aux Molières : "Odette a huit ans. Elle est passionnée de danse. Mais un jour, un ami de la famille la viole, ce qui change le cours de sa vie. " Odette (Andréa Bescond  / Cyrille Mairesse ) c'est "le cygne qui meurt dans le Lac des cygnes, et elle le clame comme si elle y était prédestinée...prédestinée à être danseuse mais aussi à vivre un drame, à voir son plumage immaculé souillé à jamais. Et la mise en scène n'épargne pas le spectateur : Le violeur (Pierre Deladonchamps) apparaît dans les 10 premières minutes et commet le premier viol derrière la porte rose et fleurie de la salle de bain de la petite Odette, une symbolique qui sert de fil rouge. On a la nausée, on est en colère, révolté, impuissant... surtout que cela va se reproduire.
 
@@ -16,6 +16,6 @@ Mais surtout, ces viols ont détruit profondément Odette vis à vis de l'amour,
 
 Je comprends que l'on n'aille pas voir ce film pour se distraire de la vie réelle, comme on va voir une comédie ou un film fantastique. Mais ce film est un témoignage de victime, qui retourne le spectateur. Souvent on a envie de rentrer dans l'image, intervenir, prévenir mais on se sent comme figé sur le siège, impuissant face à la violence des mots et de l'image. C'est là que pour moi une vision chez soi en streaming est moins adaptée car on peut "s'échapper". La plus grande réussite du film est d'avoir su rendre ce sujet grave regardable et explicable. J'espère que, comme Andréa Bescond le souhaite, cela aidera aussi des victimes, des parents, des proches à aborder ces drames.
 
-[la video](https://www.youtube.com/watch?v=yUH9uzAh_wc)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=yUH9uzAh_wc)
 
 

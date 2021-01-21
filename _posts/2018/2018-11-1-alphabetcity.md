@@ -10,7 +10,7 @@ Même s'il ne s'agit pas d'une biographie, l'auteure a su trouver un moyen de re
 
 Vermont, années 1980. Jude Keffy-Horn, fils adoptif d’un couple de hippies, est élevé par sa mère qui, pour subsister, vend des bangs artisanaux. Livré à lui-même, l’adolescent passe ses journées à tromper l’ennui en fumant de l’herbe avec son meilleur ami Teddy en rêvant à une vie plus palpitante. Après un terrible drame, Jude va rejoindre son père, dealer de marijuana à New York. Là, il découvre une ville violente et dépressive, loin du Flower Power, celle de l’ère Reagan, des junkies de Tompkins Square Park, des débuts du sida, mais aussi une ville plus vivante et excessive que jamais, qui voit naître l’explosion du punk hardcore au CBGB.
 
-<img class="alignleft size-medium wp-image-23663" src="https://cheziceman.files.wordpress.com/2018/07/alphabetcity.jpg?w=180" alt="" width="180" height="300">
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/alphabetcity.jpg)
 
 Mais plus que du punk hardcore, c'est le Straight Edge qui est dépeint, une mouvance qui refuse l'alcool, la drogue, la viande, voir même le sexe...En faisant la rencontre du demi-frère de son ami Teddy, Jude plonge corps et bien dans ce mouvement, essayant de trouver la rédemption et de passer aussi à l'age adulte. S'il est le fil rouge du récit, Eleanor Henderson nous fait la peinture très sombre de cette époque violente.
 

@@ -6,7 +6,7 @@ tags: 1980s, bd, dictature, franco-belge, Littérature et BD, orwell
 ---
 **Des <a href="https://fr.wikipedia.org/wiki/Dystopie">dystopies</a> en BD, ça ne manque pas, surtout quand il s'agit d'imaginer un futur lointain. Mais quand c'est presqu'aujourd'hui, on pense plus à des séries tv récentes comme <a href="https://fr.wikipedia.org/wiki/Black_Mirror_(série_télévisée)">BlackMirror</a>.**
 
-<img class="alignleft size-medium wp-image-22698" src="https://cheziceman.files.wordpress.com/2018/04/sosbonheur.jpg?w=229" alt="" width="229" height="300" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/sosbonheur.jpg)
 
 Et justement, les premiers épisodes de cette série belge, parue dès 1984 dans Spirou Magazine, étaient prévus par le scénariste Jean Van Hamme, pour devenir une série de télévision. Ce n'est qu'en 1988 qu'une première édition paraît indépendamment en 3 tomes avant d'être réunie en 2001 et d'avoir une suite l'année dernière. Je ne traite ici que de la série originelle.
 
@@ -16,6 +16,6 @@ Le monde décrit par le prolifique <a href="https://fr.wikipedia.org/wiki/Jean_V
 
 Cette recherche du bonheur poussée à l'extrême et ce pessimisme ambiant est presque annonciateur de la déprime des années 90 après le No Future punk. On y croise d'ailleurs des punks, des anarchistes et le discours devient vraiment très politique. Au point que l'on comprend le refus de produire ça en télévision... Mais c'était aussi gonflé de sortir ça dans un magazine comme Spirou qui voulait aussi changer son lectorat. Van Hamme a particulièrement bien soigné son scénario avec un épisode final qui comprend aussi son lot de surprise. Griffo est toujours aussi habile avec son trait réaliste, si réaliste qu'un des personnages n'est ni plus ni moins qu'un clone de Lino Ventura.
 
-<img class="aligncenter size-full wp-image-22700" src="https://cheziceman.files.wordpress.com/2018/04/sosbonheur21.jpg" alt="" width="340" height="340" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/sosbonheur21.jpg)
 
 La série n'a pas autant vieilli qu'on pourrait le penser et l'histoire est d'actualité sur bien des points. Ainsi on pense au système de notation des citoyens qui est pensé par le gouvernement Chinois, à un monde Google/Facebook, ... La conclusion ne pouvait parler d'un monde connecté, à cette époque et je suis assez curieux d'en lire la suite, finalement. Réussie ou pas, elle aura le mérite de remettre dans la lumière cette série passionnante.

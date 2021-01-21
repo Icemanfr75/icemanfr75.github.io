@@ -6,7 +6,7 @@ tags: 1950s, classique, littérature, usa
 ---
 **Classique de la littérature américaine, c'est un bien curieux livre que voilà sur 3 jours de la vie d'un adolescent dans les années 50.**
 
-<img class="alignleft size-medium wp-image-24664" src="https://cheziceman.files.wordpress.com/2018/11/lattrape-coeurs.jpeg?w=200" alt="" width="200" height="300" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/lattrape-coeurs.jpg)
 
 Holden Caulfield est dans un pensionnat mais en est renvoyé juste avant Noël. Turbulent, associal, il va errer dans New-york avant de retourner chez ses parents. Et c'est lui qui va se raconter à la première personne dans ce singulier roman. C'est à travers la deuxième traduction française que je l'ai découvert et c'est important de le signaler. Car il est très compliqué de trouver les mots équivalents dans un anglais parlé, adolescent, approximatif et bourré de fautes. C'est ce qui déroute le plus au premier abord.
 

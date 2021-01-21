@@ -14,6 +14,6 @@ On est dans un mélange de jazz et de néo-classique avec une rythmique très fo
 
 Une parfaite réussite dans ce mélange des genres. Je ne résiste pas à revenir constamment à l'écoute de ce petit bijou exigeant autant que surprenant.
 
-[la video](https://www.youtube.com/watch?v=8nD9rUxtv8k)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=8nD9rUxtv8k)
 
-![cover](https://cheziceman.files.wordpress.com/2018/05/metropolorkest.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/metropolorkest.jpg)

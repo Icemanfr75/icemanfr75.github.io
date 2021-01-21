@@ -12,8 +12,8 @@ Toujours dans les classiques, on a le "Tea for Two" d'Irving Caesar et Vincent Y
 
 Ce n'est pas le meilleur album de Jane Monheit, c'est sur mais avec cette alliance de classiques, de rythmes brésiliens suaves et chauds, ça me paraît des plus accessibles. Alors bien sûr, il faut apprécier les classiques du jazz, le easy-listening, les ballades lentes et ce type de voix. Certains s'y ennuieront mais je reviens toujours avec délice sur cet album.
 
-[la video](https://www.youtube.com/watch?v=Pva3T0F5yWk)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Pva3T0F5yWk)
 
-![cover](https://cheziceman.files.wordpress.com/2018/07/monheitsun.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/monheitsun.jpg)
 
  

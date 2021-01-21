@@ -6,7 +6,7 @@ tags: 2010s, animation, Cinéma, dessin animé, féminisme, Film, racisme
 ---
 **Quand le créateur de Kirikou nous emmène dans le Paris de la Belle époque, ce ne peut-être qu'un ravissement...**
 
-<img src="https://cheziceman.files.wordpress.com/2018/10/dilili.jpg" alt="" class="wp-image-24417" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/dilili.jpg)
 
 Cette fois, je ne ménage pas le suspens dans cette critique cinéma. Michel Ocelot est un véritable auteur dans l'animation et on retrouve à chaque long métrage sa patte. Pourtant ici, il va encore un peu plus loin dans la technique en mélangeant encore plus la réalité d'un Paris du début du 20ème siècle avec une animation informatisée entre 3D et Cellshading. Comme souvent, c'est une jeune héroïne que l'on va suivre, Dilili. 
 
@@ -18,9 +18,7 @@ Le jeu, c'est de reconnaître ici Renoir, là Ravel, Debussy, Eiffel, Aristide B
 
 En fait, j'aurais adoré voir ce film lorsque j'étais jeune adolescent. C'est typiquement le genre de film à voir en famille, à revoir et rerevoir tant à chaque plan il y a des éléments  découvrir. L'histoire nous tient en haleine et au rayon critique, on pourra discuter de certaines représentations, qui ne m'ont pas dérangées, pour ma part. Car le film parle de racisme, de féminisme, des thèmes tellement actuels.  Il est fort possible qu'il y ait une suite et j'ai hâte... Car il n'est plus tout jeune ce réalisateur mais il parvient toujours à me surprendre et à représenter l'animation française internationalement.  A bientôt petite princesse... 
 
-[la video](https://www.youtube.com/watch?v=1NSMtkfw29k)
-
-
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=1NSMtkfw29k)
 
 
 P.s. : à voir aussi, Regardez comme on danse, la suite d'Embrassez qui vous voudrez de Michel Blanc, même si on n'a pas vu le premier car il  est plus réussi que le premier. 

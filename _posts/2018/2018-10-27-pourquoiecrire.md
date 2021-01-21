@@ -28,4 +28,4 @@ Car pendant l'acte d'écriture, je me retrouve seul face à un écran, souvent d
 
 Et là, vient le moment fatidique de tout texte écrit : La conclusion. Ici, je ne résumerai pas les quelques raisons énoncées avant. Ca sera plus à mes lecteurs et collègues de répondre (ou pas) à ces interrogations et hypothèses. Mais là aussi, répondre trop rapidement est parfois dommageable. Je le fais malheureusement trop moi même. Il va vraiment falloir ralentir...(à suivre)
 
-[la video](https://www.youtube.com/watch?v=HIWY8UyW9bw)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=HIWY8UyW9bw)

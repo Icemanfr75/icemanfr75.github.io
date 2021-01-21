@@ -6,7 +6,7 @@ tags: 2010s, documentaire, geek, Geekeries, hacker, hacking, livre
 ---
 **J'avais presque oublié ce livre que la journaliste Amaelle Guiton avait consacré aux "Hackers", ce terme qui est souvent mal compris du grand public. Sous titré "Au coeur de la résistance numérique", c'est un livre qui tente de faire de la vulgarisation tout en s'intéressant au milieu "Hacktiviste".**
 
-<img class="alignleft size-medium wp-image-24713" src="https://cheziceman.files.wordpress.com/2018/11/hackersguiton.jpg?w=276" alt="" width="276" height="300" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/hackersguiton.jpg)
 
 De la vulgarisation car la journaliste, aujourd'hui chez Libé, revient aux sources de ce terme, reprend d'une manière parfois désordonnée les grandes figures internationales de ce "mouvement" hétéroclyte. Elle essaie d'en faire une définition à partir de ce que lui rapportent les interlocuteurs, qu'ils viennent du MIT, du Chaos Computer Club ou de la Quadrature du net. Et forcément, il faut aborder brièvement le logiciel libre, l'origine d'internet, le piratage, le cracker... Tant de termes avec lesquels je suis familier mais ce n'est pas le cas de tout le monde. Combien de fois traduit-on faussement Hacker en pirate ?
 

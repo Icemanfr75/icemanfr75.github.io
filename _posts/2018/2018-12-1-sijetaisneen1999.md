@@ -10,7 +10,9 @@ Je ne me souviendrais certainement pas de ce passage à l'an 2000. Je n'aurais m
 
 J'aurais connu secret story, les anges de la **téléréalité** et toutes ces merveilleuses émissions enrichissantes (si si, pour les producteurs) sans pouvoir voir les primes.... ouf. Je me serais passionné pour un ou une candidate de The Voice. Pour moi les dimanches, ça n'aurait pas été Jacques Martin mais Michel Drucker. Ca n'aurait pas été Stade2, 7 sur 7 ou <a href="https://fr.wikipedia.org/wiki/Les_Animaux_du_monde">les animaux du monde</a> non plus. Et pourtant j'aurais voulu regarder le dessous des cartes sur Arte ou E=M6 ou bien des <a href="https://www.tf1.fr/tf1/sans-collier">émissions animalières</a> documentaires ou parlant des soins dans les zoo. Je n'aurais pas raté un numéro de TPMP ou Quotidien pour en parler le lendemain avec mes potes où ceux que je croyais l'être. J'aurais peu à peu basculé d'une culture télé à une culture web...
 
-<img src="https://cheziceman.files.wordpress.com/2018/11/millenials.jpg" alt="" class="wp-image-24750" /><figcaption>Une bonne description ? </figcaption></figure>
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/millenials.jpg)
+
+*Une bonne description ?*
 
 J'aurais toujours bénéficié de l'excellente bibliothèque municipale de mon ex-banlieue rouge. Mine de rien, ça aide **dans les études, dans la culture générale**. Mais la dégradation de la situation dans le collège et le lycée le plus proche aurait peut-être poussé mes parents à me mettre dans le privé. Allez savoir ce que j'aurais fait comme étude derrière tout ça ? Je crois que je n'aurais pas pu me spécialiser et que j'aurais fini quand même dans une filière très généraliste, scientifique, ... Sachant ce que je sais maintenant, évidemment je verrai ça autrement mais j'aurais certainement fait les même conneries avec ces années d'écart. On ne se refait pas totalement. Pourtant des profs auraient quand même su me donner des passions, marquant à jamais ma vie. Mais j'aurais mis encore quelques années à le réaliser. La masse de données et de distractions à portée de clic aurait été un bien et un mal car...
 
@@ -20,7 +22,9 @@ Je serai **né avec Internet** et pourtant mes parents auraient mis un peu de te
 
 Mais avec tout ça, à 19 ans, bac ou pas en poche, **qu'est-ce que j'aurais envie de faire, aujourd'hui **? Est-ce que j'aurais envie de croire en quelque chose, de m'investir vraiment ? C'est là que l'exercice a des limites. On me dirait de faire des études, de devenir ingénieur peut-être ou bien de faire de l'alternance, du technique, de travailler et apprendre dans un secteur porteur qui pourtant ne m'amènerait pas de passion. Impossible à deviner, comme il m'était impossible de deviner ce que j'ai fait ensuite en naissant bien plut tôt. Si je repense à mes réponses de métier futur en primaire, cela n'a rien à voir. Il y a très peu de gens qui font ce qu'ils imaginaient enfant. C'est dommage et pourtant j'ai eu une certaine chance, celle d'être dans une passion de jeunesse même si je ne suis pas à travailler sur le produit final complet. Mais en naissant en 1999, j'aurais sans doute une autre envie, pas forcément guidée par mes parents.  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Toulouse-Lautrec_Justine_Dieuhl_1891.jpg" alt="" /><figcaption>Justine Dieuhl par Henri de Toulouse-Lautrec (1891)... pour le lien avec l'article, lisez un peu sur ce peintre.</figcaption></figure>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Toulouse-Lautrec_Justine_Dieuhl_1891.jpg" alt="" />
+
+*Justine Dieuhl par Henri de Toulouse-Lautrec (1891)... pour le lien avec l'article, lisez un peu sur ce peintre.*
 
 **Et si justement j'était le père de cet enfant né en 1999,** qu'est-ce que je lui dirais ou aurais dit? Je lui dirais sûrement d'être curieux de tout, de voir le monde dans sa globalité mais aussi tout près de soi, de ne pas oublier ce que l'on est. Et peut être que ce moi de 1999 aurait simplement envie de le voir ce monde, de faire tout l'inverse du moi que je suis, sinon. Peut-être qu'il n'écrirait pas, qu'il dessinerait, allant au bout de ce qu'on aurait pu lui promettre dans sa plus tendre enfance. Il le ferait non plus avec des crayons, des stylos, mais avec l'ordinateur, une tablette graphique, un scanner et tant d'autres choses. Il n'y aurait plus de limite que l'imagination mais en ai-je eu malgré le manque de moyens techniques ? Comme j'ai tendance à penser que de la contrainte née l'imaginaire, j'aurais gardé des contraintes.
 
@@ -30,4 +34,4 @@ Mon plus gros doute dans toute cette fiction, c'est de savoir **si j'aurais rés
 
 Qu'importe finalement toutes ces hypothèses. En fait, ce qui importerait le plus, c'est qu'on me laisse être moi même, librement. Je vois chaque année des jeunes qui arrivent avec des rêves et d'autres sans. J'en vois qui font des études sans y croire, par obligation ou dépit. D'autres pour qui ce n'est qu'un tremplin, qui ne sont pas toujours les plus doués mais qui ont cette petite étincelle en eux. D'autres courront après toute leur vie, la perdront de vue. J'ai mis un peu de temps à la rattraper quand je me suis perdu dans un labyrinthe. Si j'étais né en 1999, j'aimerais surtout être moi... en m'apercevant que l'article que je viens d'écrire n'est pas du tout ce que je pensais en faire au début.  
 
-[la video](https://www.youtube.com/watch?v=w87A5ZYEUJM)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=w87A5ZYEUJM)

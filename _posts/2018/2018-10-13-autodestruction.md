@@ -24,9 +24,7 @@ L'autodestruction est bien **présente à tous niveaux** et en pro de l'autodest
 
 L'autodestruction c'est un peu être **son propre dieu dans son petit monde**. Je parlais du <a href="https://cheziceman.wordpress.com/2018/09/29/blog-liberez-delivrez-ou-pas/">dictateur éclairé</a> dans un précédent billet, mais certains vont plus loin et préfèrent risquer la destruction si ça ne va pas dans leur sens. Évidemment, l'importance n'est pas si grande pour un simple logiciel, un site web où il n'y a pas mort d'homme/d'animaux. Mais parfois on ne se rend pas forcément compte de l'impact de ce que l'on fait/produit. C'est aussi là qu'il faut penser que l'on n'est pas immortel, car "on va tous mourir". Une forme d'autodestruction programmée ?
 
-[la video](https://www.youtube.com/watch?v=jsJVmiqf8VA)
-
-
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=jsJVmiqf8VA)
 
 
 

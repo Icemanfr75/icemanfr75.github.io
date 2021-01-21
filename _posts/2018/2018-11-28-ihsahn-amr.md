@@ -12,6 +12,6 @@ C'est bien plus sombre dans "One less enemy" avec une longue introduction très 
 
 C'est une oeuvre complexe, presqu'un concept en soi. Rien qu'un morceau comme "Twin black angels" ne peut se résumer à ce refrain accrocheur et pop. J'y entends tellement de choses. Et ce réveil final avec "Wake" et sa rythmique météorique est comme une apothéose...On est vraiment parti dans le monde d'Ihsahn pendant une heure et ça me donne envie d'y revenir encore. Je sais que c'est difficile pour une oreille non habituée mais pour ceux qui aiment ce genre, il n'y aura pas de regret. Avec <a href="https://fr.wikipedia.org/wiki/Devin_Townsend">Devin Townsend</a>, c'est un des artistes qui parvient à me surprendre à chaque fois.
 
-[la video](https://www.youtube.com/watch?v=7Ou6oGFBJsg)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=7Ou6oGFBJsg)
 
-![cover](https://cheziceman.files.wordpress.com/2018/07/amrihsahn.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/amrihsahn.jpg)
