@@ -30,7 +30,7 @@ La situation de ce continent s'envenime en 2018. Le **Venezuela**est en quasi gu
 
 La Guerre Civile au **Mexique**, liée à la drogue fait toujours plus de 10000 morts par an.
 
-###Arctique
+### Arctique
 
 Des conflits teritoriaux liés à l'exploitation des gisements offshore se sont faits jour avec la fonte de la calotte glaciaire, surtout entre Russie et USA, mais aussi Norvège et Canada.
 
