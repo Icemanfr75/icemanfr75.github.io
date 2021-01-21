@@ -12,7 +12,7 @@ Sauf qu'évidemment, AOC oblige, le nom ne peut pas être utilisé pour cette pr
 
 J'ai trouvé le mien dans une nouvelle boutique parisienne, <a href="https://monepicerieparis.fr">Mon épicerie Paris</a>, au nord du Marais. Ce n'est pas très loin d'une autre célèbre boutique parisienne, Un monde Vegan. Je n'ai aucune confiance dans les livraisons de frais en cette saison donc j'ai évité de commander en direct chez le fabricant.
 
-![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/camenvert2.jpg
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/camenvert2.jpg)
 
 Au déballage, c'est bluffant, on dirait un vrai camembert. Au tranchage, la magie se poursuit un peu mais on remarque quand même que c'est un peu plus moussé, presque comme une pâte à tartiner. J'ai tellement vu de mauvais camembert de nos jours dans les supermarchés que ma comparaison est entachée de cela. Très honnêtement, cela ne convaincra pas un amateur de fromage. Mais c'est agréable en bouche, pour la texture, sur une bonne baguette de pain croustillante. Ca manque un peu de sel mais surtout de parfum d'un camembert au lait cru bien fait, ceux que l'on ne trouve plus nulle part. Au moins, il n'est pas farineux comme les parpaings vendus par Président et autres escrocs de laitiers. Mais je ne pourrais pas en prendre un entier et en faire mon ordinaire.
 
