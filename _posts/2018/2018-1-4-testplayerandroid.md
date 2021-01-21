@@ -4,7 +4,7 @@ title: Tuto/test - Le meilleur player musical Android
 category: tuto, geek
 tags: android, flac, Geekeries, mp3, Musique, ogg, player, test
 ---
-**Depuis l'abandon de l'appli Walkman/musique sur mon Sony Z1Compact, j'étais à la recherche du player musical ultime, que ça soit pour un petit téléphone comme le Moto E, ou un truc plus large comme mon actuel Xiaomi Redmi 4A. Je suis exigeant aussi coté son et je ne veux pas perdre en fonctionnalités. **
+**Depuis l'abandon de l'appli Walkman/musique sur mon Sony Z1Compact, j'étais à la recherche du player musical ultime, que ça soit pour un petit téléphone comme le Moto E, ou un truc plus large comme mon actuel Xiaomi Redmi 4A. Je suis exigeant aussi coté son et je ne veux pas perdre en fonctionnalités.**
 
 ### Mon cahier des charges
 
