@@ -18,7 +18,7 @@ Je range, je trie, je rationalise, je n'éparpille pas façon puzzle. Maintenant
 
 Je pourrais résumer cela par "L'instant c'est la passion, le temps long c'est la raison" et c'est bien la <a href="https://fr.wikipedia.org/wiki/Passion_(philosophie)">passion, dans le sens philosophique</a> du terme qui domine les réseaux sociaux. Par contre je vois encore des blogueurs supprimer ou sinon centraliser ou vouloir centraliser les commentaires dans un outil connecté genre Disqus mais avec <a href="https://fr.m.wikipedia.org/wiki/ActivityPub">Activitypub</a>. Niet pour moi ... ca sera "décentralisé" chez moi ( quoiqu'ici c'est centralisé chez un tiers) et sans interconnexion si possible et surtout modéré par moi même. Ce qui là aussi nécessite le temps long et pas l'instantané. Je ne parlerai pas ici de Stoïcisme, de Bouddhisme etc... Mais il y a toujours à apprendre dans d'autres types de pensée que celle qui domine, que celle qui nous fait suivre aveuglément des modes.
 
-![image1](https://cheziceman.files.wordpress.com/2018/07/buddha.jpg)
+![image1](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/buddha.jpg)
 
 *Buddha, peinture de la dynastie Joseon, Corée, 1703*
 
@@ -26,7 +26,7 @@ Faire table rase, c'est aussi **le rangement à la maison**, toutes ces choses q
 
 **Je reviens souvent au temps,** la pierre angulaire de la quarantaine. Je limite les rubriques ou j'ai des idées pour les prochaines. Je m'étonne pourtant d'avoir encore de nombreux sujets, films, livres, musiques à aborder. Il y a tant de sujets que finalement, je me dis que ce blog pourrait bien survivre à toutes les modes du net. Mon choix d'avoir pris une plateforme hébergée, bien qu'il contrevienne à la liberté, n'est pas si stupide. J'ai le backup et la possibilité d'exporter bien sûr et si quelqu'un fait un import-export sur un nouveau gestionnaire de contenu (CMS en anglais), sûr qu'il pensera d'abord à du wordpress plutôt qu'un autre format de moteur de blog. C'est là aussi que je comprends que Cyrille quitte l'alternatif pour la masse, tout en restant libre dans sa tête comme Diego (ndr : pensez un peu à la phrase....vous allez trouver l'allusion).
 
-![image2](https://cheziceman.files.wordpress.com/2018/07/img_20180717_185919-01.jpeg)
+![image2](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/humain.jpg)
 
 *L'humain 2018? (par ...moi même)*
 
@@ -42,4 +42,4 @@ Car l'été, la grande manœuvre, c'est **la grande transhumance des humains** v
 
 Mais si on fait table rase du passé, il ne faut pas faire n'importe quoi, comme Maitre Gims avec une <a href="https://fr.wikipedia.org/wiki/Bella_ciao_(chant)">chanson militante</a> transformée en mièvrerie (et une appropriation coupable du domaine public, au passage)... Je préfère largement quand la Bretagne rencontre l'Italie :
 
-[la video](https://www.youtube.com/watch?v=JheXNnOYakE)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=JheXNnOYakE)

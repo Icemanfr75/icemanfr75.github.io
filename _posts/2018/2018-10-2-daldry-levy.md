@@ -6,7 +6,7 @@ tags: 1950s, 2000s, comédie dramatique, littérature, roman, romance
 ---
 **Je ne suis pas spécialement fan de cet auteur de best-sellers puisque ma première tentative (le voleur d'ombres) s'était révélée mitigée. Mais il ne faut pas rester sur un échec...**
 
-<img class="alignleft size-full wp-image-23293" src="https://cheziceman.files.wordpress.com/2018/06/daldry.jpg" alt="" width="264" height="417">
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/daldry.jpg)
 
 Le thème du livre m'a interpelé et c'est ma chère et tendre qui me l'a conseillé. Il s'agit d'une sorte de quête romantique dans les années 50, nous emmenant de Londres à Istanbul en passant par Vienne.
 

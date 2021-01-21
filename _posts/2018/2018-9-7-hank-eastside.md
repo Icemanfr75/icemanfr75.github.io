@@ -10,7 +10,7 @@ On associe souvent le veganisme à un mode de vie plus sain et pourtant, ce qu'o
 
 **Le <a href="https://www.hankrestaurant.com">Hank</a>,** ici celui de la Rue Rochechouart (il y en a aussi à Lyon), mise sur une variété de Burgers avec de la sauce, de la salade, des desserts et du pain maison ou presque. En effet, le pain n'est pas fait sur place mais réalisé en exclu pour eux, si j'ai bien compris. Pas de frites ou Potatoes fraiches par contre. Avec madame, nous avons testé 2 burgers à 8,5€ : La Rockeuse (sauce crémeuse aux figues et roquette) et le Touriste (selon arrivage, ici avec une sauce bearnaise, du chou rouge...). Nous les avons accompagné de Potatoes Wedges (3€ le petit modèle) ainsi que de salade Coleslaw pour l'entrée et d'un Carrot cake pour le dessert.
 
-![photo](https://cheziceman.files.wordpress.com/2018/08/hank1.jpg)
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/hank1.jpg)
 
 *photo gentiment volée à ceux à qui j'ai donné des chroniques*
 
@@ -18,7 +18,7 @@ Bonne surprise pour la salade qui est fraiche, suffisamment copieuse, pas trop s
 
 Le **<a href="http://www.eastsideburgers.fr"> East Side Burgers</a>**, mise plus souvent sur un burger en série limitée. Il y a peu de choix le jour J mais si on y revient, il y a peu de chance de tomber sur les 3 mêmes variétés. Là, c'est de la frite fraîche, du dessert et de l'entrée maison. Attention, cette adresse est végétarienne et donc certains des plats contiennent du vrai fromage. Il faut bien préciser la version vegane. J'avais un excellent souvenir de ma première visite avec des frites à tomber. Un peu moins d'originalité sur les hot-dogs et sur la taille du restaurant avec sa salle en bas (escalier très raide) et sa chaleur qui n'est pas dûe qu'au sympathique personnel mais à sa cuisine ouverte. Nous avons pris une quiche maison à 3,9€, deux burgers à 8euros : Le Provencal (précédemment, nous avions testé le Marius, sa variante) avec son aioli et l'iconique East-side, le tout accompagné de frites à 3,4€ et d'onion rings, et avec des tartes façon cheesecake à 5,3€.
 
-![photo2](https://cheziceman.files.wordpress.com/2018/08/provencal-e1535211115380.jpg)
+![photo2](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/esb_provencal.jpg)
 
 *photo gentiment volée à ceux à qui jai donné des chroniques*
 

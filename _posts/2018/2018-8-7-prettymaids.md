@@ -16,8 +16,8 @@ Et c'est une tuerie sur "One world one truth" avec un coté purement Metal méla
 
 En 2010, Pretty Maids revenait donc en forme avec 30 ans de carrière et ça continue avec d'autres très bons albums. On ne peut pas vraiment dire qu'ils aient de mauvais albums malgré tous ces changements de styles et de formations. Alors n'hésitez pas à (re)découvrir ce groupe.
 
-Membres : <span class="role">Guitare – Ken Hammer, <span class="role">Voix – Ronnie Atkins, <span class="role">Basse – Kenn Jackson, <span class="role">Batterie – Allan Tschicaja
+Membres : Guitare – Ken Hammer, Voix – Ronnie Atkins, Basse – Kenn Jackson, Batterie – Allan Tschicaja
 
-[la video](https://www.youtube.com/watch?v=HbD-ODYQ0f0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=HbD-ODYQ0f0)
 
-![cover](https://cheziceman.files.wordpress.com/2018/03/pandemonium.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/pandemonium.jpg)

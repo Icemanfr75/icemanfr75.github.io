@@ -6,7 +6,7 @@ tags: 2010s, biopic, Cinéma, Film, policier, racisme, usa
 ---
 **Spike Lee laisse rarement indifférent avec ses films. Il n'a jamais caché son militantisme, même quand il aborde des sujets éloignés de la cause afro-américaine (Inside Man). Du génial "Do the right Thing" au plus moyen "Malcom X", il y avait déjà de quoi faire sur le sujet, mais avec ce film, il faut avouer qu'il tenait une histoire en or.**
 
-<img class="alignleft size-full wp-image-24089" src="https://cheziceman.files.wordpress.com/2018/08/blackkklansman.jpg" alt="" width="215" height="290">
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/blackkklansman.jpg)
 
 En 1978, Ron Stallworth est le premier policier afro-américain de Colorado Springs. Il s'infiltre dans la branche locale du Ku Klux Klan et parvient à en devenir un membre officiel, avec l'aide de son partenaire (blanc) Flip Zimmerman. Va-t-il réussir à déjouer un attentat qui se prépare secrètement ? Pourra-t-il concilier sa vie privée avec l'activiste noire Patrice et sa mission ?
 
@@ -20,4 +20,4 @@ Alors bien sûr, on tombe parfois dans une caricature, que le KKK alimente lui m
 
 Un film fort, qui provoque, intrigue et ça devient rare !
 
-[la video](https://www.youtube.com/watch?v=IMsYunCW0i0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=IMsYunCW0i0)

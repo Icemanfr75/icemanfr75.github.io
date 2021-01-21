@@ -12,9 +12,9 @@ Et bien Inazuma Eleven, c'est une sorte de copie ou d'héritier. Sauf que cette 
 
 Le scénario n'est pas très différent de Captain Tsubasa. Sauf que le héros est un gardien qui essaye de sauver l'équipe de son école et va peu à peu vouloir gagner le championnat avec son nouvel ami, Axel Blaze. Comme pour l'autre série, il y a l'équipe des méchants, la Royal Academy. Mais ici, je vais parler du jeu qui est un RPG très scripté. On a l'impression de jouer à Pokemon puisqu'on va remplir ses slots de joueurs, les entrainer pour essayer de les faire progresser. Le système de combat, pardon, de match, fait appel à des éléments comme l'air, la terre, le bois et le feu. Il faut donc équilibrer son équipe en fonction de ce facteur. Les matchs se jouent au stylet et on peut donner la trajectoire de ses joueurs ou dire où l'on envoie le ballon. Malheureusement, c'est assez peu précis et lent pour rendre vraiment un match de football.
 
-<a href="https://cheziceman.files.wordpress.com/2018/05/screenshot_2018-05-02-12-49-11-849_com-dsemu-drastic.png"><img src="https://cheziceman.files.wordpress.com/2018/05/screenshot_2018-05-02-12-49-11-849_com-dsemu-drastic.png" alt="" class="wp-image-23060 alignnone size-full" width="720" height="1280"></a>
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/inazuma1.jpg)
 
-<a href="https://cheziceman.files.wordpress.com/2018/05/screenshot_2018-05-02-12-48-05-212_com-dsemu-drastic.png"><img src="https://cheziceman.files.wordpress.com/2018/05/screenshot_2018-05-02-12-48-05-212_com-dsemu-drastic.png" alt="" class="wp-image-23059 alignnone size-full" width="720" height="1280"></a>
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/inazuma2.jpg)
 
 Level-5 qui a édité le jeu, a vraiment bien travaillé sur l'univers, les cinématiques, les lieux à explorer. On retrouve le classique mode exploration, dialogue pour remplir une mission/quête. Mais ici, point de combat aléatoire mais des matchs intermédiaires, souvent prétextes à faire progresser l'intrigue. Je laisse la parole à ce jeune youtubeur pour voir ce que ça donne.
 
@@ -28,6 +28,6 @@ Le jeu est quand même assez unique et bien plus intéressant que les tentatives
 
 A la limite, je préférais le coté plus basique de Virtua Striker, en arcade ou sur le Gamecube. Il manquait quand même du spectaculaire.
 
-https://www.youtube.com/watch?v=Rj-PangLbDw
+[la video 3](https://www.youtube.com/watch?v=Rj-PangLbDw)
 
 Mais évidemment, tous ces jeux feront fuir les puristes du foot qui ne pensent qu'à PES, FIFA et jeux de gestion d'équipes.

@@ -8,7 +8,7 @@ tags: 1980s, action, arcade, geek, Geekeries, jeu video, retrogaming
 
 C'était sur mon Amstrad CPC et l'adaptation n'était pas si mauvaise. Il faut dire que toutes les machines de l'époque y ont eu droit. J'aimais ce jeu car on retrouvait un personnage assez typique des productions cinématographiques de l'époque : Le gamin qui livre les journaux avec son <a href="https://fr.wikipedia.org/wiki/BMX">BMX</a>. On retrouve la ville américaine typique, ses maisons bien alignées, ses jardins sans cloture, ... Et on a des obstacles à passer dans un défilement asymétrique qui essayait de rendre une impression de 3D. Toute la difficulté est de slalomer entre les obstacles, viser les maisons pour lancer le journal et tout ça dans le temps imparti. Mais avant ça, il fallait retenir quelle maison devait être livrée ou pas. Sans parler des "niveaux bonus" où on montrait sa dextérité en "Bicross"
 
-[la video](https://www.youtube.com/watch?v=hy8lN7L8OHo)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=hy8lN7L8OHo)
 
 Les nombreuses compilations de jeux Atari ont fait que le jeu est présent sur toutes les consoles jusqu'à nos jours, quasiment. A chaque fois, on est frappé par l'humour, l'originalité du jeu mais aussi sa difficulté. Pour passer le premier niveau à l'époque, il fallait que je m'accroche. Alors histoire de bien dégouter, voilà le Longplay sur ma machine de prédilection :
 

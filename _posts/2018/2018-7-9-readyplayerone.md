@@ -6,7 +6,7 @@ tags: action, aventure, Cinéma, geek, science fiction
 ---
 **Pentagon Papers m'avait un peu réconcilié avec Spielberg (quand on aime, on est exigent...). Mais la bande annonce de celui-ci ne m'avait pas spécialement séduit...jusqu'à cette séance de rattrapage.**
 
-<img class="alignleft size-full wp-image-23441" src="https://cheziceman.files.wordpress.com/2018/07/readyplayerone.jpg" alt="" width="215" height="290" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/readyplayerone.jpg)
 
 Contrairement à mon <a href="https://alias.erdorin.org/ready-player-one/">excellent collègue Alias</a>, je n'ai pas lu le livre dont est issus le film. C'est sans doute un avantage. Mais l'auteur, Ernest Cline est co-scénariste et crédité comme producteur donc je peux penser qu'il n'a pas complètement perdu l'idée de son oeuvre. Si je chronique ce film, même en retard, c'est parce qu'il a tout pour séduire ma génération et les geeks. On pourrait même dire qu'il a été parfaitement marketé. En effet, c'est un petit jeu dans le film de reconnaître toutes les références à des jeux, des films, des mangas, des séries cultes. La liste est longue comme le botin du geek, avec par exemple la série Batman des années 50, Retour vers le futur, <a href="https://fr.wikipedia.org/wiki/Akira_(manga)">Akira</a> ou Le <a href="https://fr.wikipedia.org/wiki/Le_Géant_de_fer">géant de fer</a> (Brad Bird en 99).
 
@@ -18,6 +18,6 @@ Spielberg n'a pas pris de stars dans ce film car la star, c'est l'histoire. Le c
 
 Comme je l'ai dit, on reste dans une structure assez classique avec des incohérences. Mon côté fan va les pardonner facilement mais pour d'autres, ça risque de coincer. C'est aussi un film à effets spéciaux et de ce côté là, Spielberg est un maître. Il s'appuie sur les équipes de son ami Georges Lucas (ILM, et studios d'enregistrements musicaux). Mais ceux qui préfèrent plus d'histoire vont déchanter. A noter que, malgré des similitudes, ce n'est pas John Williams qui signe la musique mais un autre grand du domaine, Alan Silvestri. Au final, nous avons un film pour fans de Pop Culture et j'apprécie ça. C'est tellement écrit dessus qu'il y a une grosse allusion en fin de film. Alors il n'a peut-être pas rencontré tout son public et c'est dommage. Mais je suis curieux de connaître la réception qu'a eu la jeune génération.
 
-[la video](https://www.youtube.com/watch?v=ixWL1BWi44U)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=ixWL1BWi44U)
 
 (vu en VOST et pas en 3D, cette fois!)

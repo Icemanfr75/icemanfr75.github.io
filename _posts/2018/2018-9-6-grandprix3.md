@@ -8,11 +8,11 @@ tags: 2000s, Automobile, formule 1, geek, jeu video, Réflexion, retrogaming, si
 
 Comme vous vous en doutez, il y a eu Grand Prix 1 en 1992 (alias World Circuit ou F1GP) que j'avais connu sur Amiga sans me convaincre totalement. Et puis, en 1995 est arrivé GP2 sur PC en DOS. Une fois l'autoexec.bat bien configuré, on pouvait avoir déjà le top de la simulation de F1 de l'époque. Le volant ne tournait toujours pas pendant la course, le tableau de bord était succin , mais les sensations étaient déjà là, même en ne jouant qu'avec un clavier. Restait alors à avoir le même sous Windows avec le volant qui tournait en même temps à l'écran et la gestion de la pluie. Ca ne parait pas, mais à l'époque, c'était une révolution.
 
-![capt](https://cheziceman.files.wordpress.com/2018/09/gp2.png)
+![capt](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/gp2.jpg)
 
 *Je n'ai pas pu résister à rejouer au GP2 en DOSBox*
 
-[la video](https://www.youtube.com/watch?v=ECEuVwjzHB4)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=ECEuVwjzHB4)
 
 Mais ce n'est pas tout car il y avait un tout petit problème. Le jeu est sorti en 2000 mais la saison qui était dans le jeu était celle de 1998. Forcément, les puristes ont râlé ... et on n'a pas tardé à voir des utilitaires pour customiser le jeu. D'abord on pouvait juste changer les noms, puis le tableau de bord. Et puis ce furent les couleurs des voitures, la géométrie des pistes. Et ça a permis au jeu d'avoir non seulement la saison 2000, mais d'avoir des mises à jours de toutes les saisons en attendant le prochain opus. En plus de ça, on a eu des fous qui s'amusaient à créer des pistes qui n'étaient pas dans le championnat. A l'heure d'Internet, ça offrait une vie énorme à ce jeu, ça le rendait encore plus beau qu'à l'origine.
 

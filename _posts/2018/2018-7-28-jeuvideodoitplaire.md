@@ -6,7 +6,7 @@ tags: art, Cinéma, geek, Geekeries, jeu video, Réflexion
 ---
 **L'idée de ce billet provient d'une vidéo d'At0mium, que je mets ci dessous. Au delà de cette question, il en vient deux autres : Le jeu vidéo est-il un art et l'art doit-il plaire.**
 
-[la video](https://youtu.be/JQd6MpzVn4o)
+En video : [![video](/images/youtube.png)](https://youtu.be/JQd6MpzVn4o)
 
 Vous n'aurez peut-être pas le courage de regarder la vidéo ci-dessus mais qu'importe. Nous avons chacun un intérêt à jouer à un jeu vidéo et je vais faire **beaucoup de parallèles avec le cinéma**, milieu assez proche de celui du jeu vidéo. En effet, quand je choisis de voir un film, cela répond en partie à mon état d'esprit de l'instant. Plus encore quand je sors pour aller au cinéma, je cherche une émotion, ou parfois la surprise quand je vais un peu au hasard. Je choisirai par exemple plutôt une comédie qu'un drame lorsque je suis triste. Ou alors une histoire similaire à ce que je vis. Mais pour un jeu vidéo, c'est aussi répondre à une envie d'un moment. Même le petit passe-temps, le jeu casual comme l'innommable Candy Crush, répond lui même à cette problématique de l'instant. Et là, étant en attente de quelque chose, j'attends donc que "ça me plaise".
 

@@ -8,7 +8,7 @@ tags: 2010s, caritatif, Cinéma, comédie dramatique, Film
 
 Evidemment, il faut aimer ce type d'humour qui n'est pas celui de leur Groland, mais il évolue aussi par rapport à un des films précédents, le très bon Mammuth. On retrouve pourtant un esprit Road Movie, une galerie de losers... Ici c'est Jacques, l'ambitieux raté, qui débarque en peignoir à la recherche de sa soeur Monique qui s'occupe d'une communauté Emmaüs près de Pau. On découvre le personnage, admirateur forcené des grands capitalistes qui cherche l'idée du siècle. Il la trouve : Créer une affaire de chirurgie esthétique lowcost... Mais on découvre vite que c'est un baratineur, fainéant qui a coupé les ponts avec ses parents, laissant sa soeur en dépression.
 
-<img src="https://cheziceman.files.wordpress.com/2018/10/ifeelgood.jpg" alt="" class="wp-image-24401" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/ifeelgood.jpg)
 
 Jacques, c'est Dujardin, dans un personnage proche de ses OSS117 et Brice de Nice pour le côté séducteur insupportable. Il est égoïste, méchant et pourtant on se dit qu'il va réagir dans le bon sens. Monique, c'est Yolande Moreau, toujours aussi impeccable dans ce rôle d'une femme brisée par la vie mais qui a trouvé dans cette communauté l'amitié et le soutien. Le reste du casting est constitué d'habitués du duo de réalisateurs. Toute cette galerie montre un mauvais goût assumé, même le "copain d'enfance" riche de Jacques et sa mémorable scène de la piscine.
 
@@ -16,7 +16,7 @@ Car un film de Delépine et Kervern, c'est un enchaînement de plan-séquences s
 
 Et puis il y a Mouss et Hakim (ex Zebda) en bande son...
 
-[la video](https://www.youtube.com/watch?v=ao1TS1q4wf8)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=ao1TS1q4wf8)
 
 
 

@@ -10,7 +10,7 @@ On m'avait indiqué que ça se trouvait dans des magasins Casino. Par chez moi, 
 
 Ben &amp; Jerry's c'est de la bonne glace américaine, donc à la crème. La particularité a toujours été de se présenter en Fair-trade, à défaut d'être véritablement bio, au sens américain du terme (Organic!). En gros, c'est de l'Häagen-Dazs en un peu plus respectueux. Je suis fan du Chunkie Monkey, leur glace à la banane avec des morceaux de noix... et je vous passe les autres Fairly Nuts, Caramel Chew chew, Fish food. Sauf que depuis que je suis passé Vegan il y a quelques années, j'ai du faire une croix dessus. Aux USA, j'avais bien testé (longuement ha ha) les Soy Delicious mais il y a quelques ingrédients qui me chiffonnaient quand même. Plus récemment, j'avais testé deux autres marques (dont Booja-Booja, l'autre nom m'a échappé) via Mon Epicerie Paris, ma nouvelle boutique vegan préférée mais c'était franchement trop sucré pour masquer le goût de la base. Sachant que chez Ben &amp; Jerry's ils utilisent du lait d'amande, j'ai un peu d'inquiétude car les<a href="https://cheziceman.wordpress.com/2018/05/31/veganisme-au-quotidien-les-glaces/"> meilleurs résultats</a> que j'ai vu étaient sur une base riz.
 
-<img class="aligncenter size-full wp-image-23777" src="https://cheziceman.files.wordpress.com/2018/08/cfb1.png" alt="" width="291" height="383" /> <img class="aligncenter size-full wp-image-23778" src="https://cheziceman.files.wordpress.com/2018/08/pbc.png" alt="" width="296" height="396" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/cfb1.jpg)
 
 Il y a trois parfums disponibles mais malheureusement, je n'en ai trouvé que deux : Chocolate Fudge Brownie et Peanut Butter &amp; Cookies. Pas mon Chunky Monkey préféré, ça va se payer, grrr... Regardons un peu le pot et les ingrédients :
 
@@ -20,7 +20,7 @@ Eau, sucre, graisses et huiles végétales (coco, soja), cacao (4%), farine de B
 
 Vu comme ça, ça donne un peu moins envie qu'une glace maison mais bon, si je regarde une concurrence Magnum, j'ai aussi la lécithine de soja, du beurre, du gras de différente provenance en concentré, en patte, et tout ce qu'on veut aussi, et on va voir en valeur nutritionnelle ce que ça donne. Chez Booja-Booja, c'est quand même plus naturel avec juste de l'eau, du sel de mer, du sirop d'agave, du sirop de coco et de la noix de cajou comme base. Une chose est sûre, oubliez le régime !
 
-<img class="aligncenter size-full wp-image-23779" src="https://cheziceman.files.wordpress.com/2018/08/cfb2.png" alt="" width="528" height="296" /> <img class="aligncenter size-full wp-image-23780" src="https://cheziceman.files.wordpress.com/2018/08/pbc2.png" alt="" width="528" height="322" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/cfb2.jpg)
 
 26 à 29% de glucides, ça calme ! 11 à 16% de matières grasses quand même. Mais ça reste moins que chez Magnum (près de 23% de graisses et 30% de glucides) et comparable à Booja-booja. Alors maintenant, on peut l'ouvrir ce pot, oui ou non !?
 

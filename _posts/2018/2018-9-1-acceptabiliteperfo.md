@@ -26,4 +26,4 @@ Aujourd'hui, en informatique aussi, nous avons **le confort d'avoir des choix**,
 
 Pas de quoi mériter la damnation, en tout cas !
 
-[la video](https://www.youtube.com/watch?v=-0Oa5wvARSc)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=-0Oa5wvARSc)

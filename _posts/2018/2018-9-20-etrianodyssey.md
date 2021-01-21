@@ -12,6 +12,6 @@ Mais ce "Dungeon crawler" enfant des Dungeon Master et autres perles du genre, �
 
 La ville d'Etria et son labyrinthe <a href="https://fr.wikipedia.org/wiki/Yggdrasil">d'Yggdrasil</a> paraissent sans fin (il y a 30 niveaux). C'est typiquement le jeu pour hardcore gamer car c'est répétitif et très dur. A y rejouer aujourd'hui, ça fait effectivement un choc et on retrouve des jeux similaires sur nos smartphones. Mais aucun n'a repris ce système de cartographie et cette difficulté peu progressive. Les aventuriers partent vraiment avec leur .... et leur couteau, comme dit l'expression populaire.
 
-[la video](https://www.youtube.com/watch?v=vNkPLXl871Y)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=vNkPLXl871Y)
 
 J'ai donc un attachement particulier pour ce jeu, que je n'ai pas terminé pour autant. Les possibilités sont nombreuses, puisque l'on peut recommencer avec différentes formations d'aventurier, permuter les aventuriers à souhait selon la destination. Un jeu qui se mérite vraiment et c'est devenu rare. A noter que la saga a continué sur DS, 3DS, mais que les projets d'Atlus sur PS Vita ont été abandonnés. Le dernier épisode risque donc bien d'être le X sur la 3DS.

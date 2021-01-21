@@ -10,7 +10,7 @@ Comme souvent, il y a eu une polémique sur twitter, ici sur la déclaration d'u
 
 Je me suis interrogé, moi-même, sur **ce qu'est mon identité**. Je suis français depuis ma naissance, de par mes parents, grands parents et bien plus loin. J'ai déjà parlé de mon <a href="https://cheziceman.wordpress.com/2017/07/08/blog-europeen/">sentiment "Européen"</a>. Mais j'ai aussi des liens régionaux en Auvergne, Alsace, Bretagne, Normandie et ...île de France. Mais je suis aussi marqué par les conflits européens du 20ème siècle qui me font rejeter tout nationalisme, tout patriotisme exacerbé. Mon identité est forgée par ce qu'a vécu ma famille, par des migrations à l'intérieur de la France, par des guerres, par des luttes sociales, ...par une Histoire. Chez mon épouse, mon voisin, mon collègue, mes amis, ça sera différent. Et pourtant, aujourd'hui nous vivons dans un même pays avec souvent des visions différentes, et nous soutenons parfois des équipes qui arborent ces couleurs tricolores. Je connais ainsi des personnes ayant la double-nationalité : Portugais, Turcs, Sri-lankais, Chinois, Brésiliens, Mexicains, Allemands... Tous ont une vision qui leur est propre de ce pays, de l'Europe et même du monde en général. Mais s'il y a un jour match entre France et leur pays natal, il n'y a guère de surprise de les voir choisir plus souvent le pays natal, même s'ils ne l'ont pas connu beaucoup. Je pense que je ferai de même si je vivais ailleurs même durant des dizaines d'années. Cela vient du plus profond de soi, de l'enfance, ces années qui forgent aussi notre personnalité.
 
-![image1](https://cheziceman.files.wordpress.com/2018/08/doublesecret.png)
+![image1](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/doublesecret.jpg)
 
 *Le Double Secret de René Magritte (1927)*
 
@@ -18,7 +18,7 @@ Je suis souvent **très critique envers <a href="https://cyrille-borne.com/compl
 
 Mais l'identité aujourd'hui, c'est **un truc marketing**. On se forge une identité à travers des marques, des choix de vie. Mon identité est d'être vegan (ça va au delà de l'alimentation végétalienne) ou au moins végétarien, d'utiliser des systèmes informatiques alternatifs et plus souvent libres, ... On me connaît pour ça et j'en discute volontiers sans énervement, comme je peux discuter religion avec un curé, un imam, un rabbin, un prêtre ou un simple pratiquant de ces religions, un bouddhiste, etc.... Je ne dis pas que je l'aurais fait de la même manière il y a 10 ou 20 ans, parce que déjà je n'avais pas le même mode de vie, la même culture de ces sujets. Mais aujourd'hui, c'est comme ça que je suis défini. Je n'ai pas vraiment d'appartenance à des marques, n'arborant pas spécialement du Superdry, du Abercrombie&amp;Fitch, du Levis ou du Naf-Naf pour reprendre quelques marques iconiques d'époques passées ou présentes. Je ne suis plus AppleFan depuis longtemps, pas plus que Google, Microsoft ou Xiaomi. Je ne fais pas mes courses systématiquement dans le même magasin ou n'achète pas de la nourriture d'une marque particulière. Mais j'en connais qui sont des publicités ambulantes, se bâtissant sans doute une identité et une appartenance à un groupe. C'est souvent très artificiel et lié à un effet de mode mais les marques savent flatter cela chez le consommateur. Vous avez vu à travers mon parcours musical que je suis un peu difficile à définir de ce côté là aussi, n'ayant jamais arboré de look non plus.
 
-![image2](https://cheziceman.files.wordpress.com/2016/04/iceman.jpg)
+![image2](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2016/iceman.jpg)
 
 *Un peu de moi ?*
 
@@ -26,4 +26,4 @@ Cette identité, c'est **ce qui intéresse justement les marques, les sondeurs,*
 
 Mon identité, je la vois **définie par mes actes au quotidien, mon passé, des choses intimes** qu'aucun réseau social ou espion ne devrait pouvoir capter. Il y a de ce que j'ai cité mais il y a bien plus. Il y a des failles, des passions, des brisures, des succès. On en masque certains aux autres, de ces éléments, même à ceux qui sont tous près de nous, chaque jour. Car on ne connaît jamais totalement l'identité de l'autre. Qu'à cela ne tienne, est-ce toujours si important si on est suffisamment ouvert pour l'accepter ainsi. Je ne saurais donc moi-même définir cette identité, mon identité. Mon identité ne m'appartient pas vraiment. Elle tient beaucoup à votre vision à vous, comme celle que je peux avoir de toi, lecteur-commentateur.
 
-[la video](https://www.youtube.com/watch?v=qN5zw04WxCc)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=qN5zw04WxCc)

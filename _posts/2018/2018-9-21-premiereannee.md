@@ -6,7 +6,7 @@ tags: éducation, Cinéma, comédie dramatique, Film, médecine, santé, 2010s
 ---
 **La question du <a href="https://fr.wikipedia.org/wiki/Numerus_clausus#Études_médicales_en_France">Numerus Clausus</a> chez les médecins fait débat et ce film vient l'alimenter en montrant les coulisses d'une première année sous forme de comédie dramatique. Mais il va aussi au delà de cette question...**
 
-<img src="https://cheziceman.files.wordpress.com/2018/09/premiereannee.jpg" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/premiereannee.jpg)
 
 Le réalisateur connaît bien son sujet puisqu'il est médecin lui-même et s'est même spécialisé sur le sujet (Médecin de Campagne et la série et le film Hippocrate). Ici, il nous fait suivre la première année de médecine d'un fils de chirurgien, Benjamin,  qui se cherche et la troisième première année d'un élève motivé par le métier, Antoine. L'un a des facilités dans l'exercice de bachotage, l'autre ne pense que travailler jusqu'à l'épuisement.
 
@@ -16,6 +16,6 @@ On voit la dérive de ce bachotage, mais on ne s'attarde pas sur le bizutage. On
 
 Malheureusement, la fin est presque prévisible dès la moitié du film et j'espère ne pas en avoir trop dit. Il fallait peut-être que le réalisateur, généraliste pendant 10 ans, règle lui même certaines choses ? Il garde d'ailleurs des éléments qui tiennent plus du souvenir que de la réalité d'aujourd'hui, mais ça passe mieux à l'écran. On ne peut enlever une part de caricature sans alors risquer de tomber dans un film austère. Cela n'enlève rien à la pertinence de ce bon film sur un sujet difficile à traître avec le sérieux nécessaire sans être trop pesant.  A voir donc... Et se pose alors la question de la forme de la sélection par rapport au fond du profil d'un bon médecin, ou autre professionnel de santé. Une question essentielle quand on essaye de faire de la santé (et l'éducation) une entreprise comme les autres.
 
-[la video](https://www.youtube.com/watch?v=6LPkNBGtZFA)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=6LPkNBGtZFA)
 
 

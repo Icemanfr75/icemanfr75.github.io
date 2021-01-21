@@ -6,7 +6,7 @@ tags: absurde, bd, délire, humour, 2000s, pouvoir, strips, ubuesque
 ---
 **J'étais passé plusieurs fois à coté de ce petit album à l'allure innocente et puis, Trondheim, quand même...**
 
-<img class="alignleft size-medium wp-image-23127" src="https://cheziceman.files.wordpress.com/2018/05/politiqueetrangerecv.jpg?w=257" alt="" width="257" height="300" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/politiqueetrangerecv.jpg)
 
 Ici, c'est Lewis Trondheim scénariste car Jochen Gerner est au dessin. Le pitch est simple : Un étranger débarque dans un royaume dans les nuages. Blessé, il est recueilli par le roi qui ne sait que faire de lui.
 
@@ -14,4 +14,4 @@ Le format est particulier puisque que Gerner nous livre des strips de 4 cases av
 
 Le défi est de créer une situation dans ces 4 cases. Pour m'être essayé à l'exercice pendant un temps, j'en connais la difficulté. Mission très largement accomplie, même quand un strip continue le précédent, ils peuvent être pris indépendamment. La crainte était que cela soit trop répétitif. Ce n'est pas du tout le cas et on voit se développer l'histoire au fil des pages. Trondheim, dans cette même collection "L'association" a déjà utilisé ce format, d'ailleurs avec "Moins d'un quart de seconde pour vivre", comme <a href="https://chezmo.wordpress.com/2010/09/27/moins-dun-quart-de-seconde-pour-vivre/">le rappelle Mo</a>.  C'est à la fois expérimental et intelligent avec un propos qui va plus loin que l'humour. Une lecture que je conseille vivement, même si le style vous rebute au premier abord.
 
-<img class="aligncenter size-full wp-image-23126" src="https://cheziceman.files.wordpress.com/2018/05/politiqueetrangerepl.jpg" alt="" width="500" height="618" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/politiqueetrangerepl.jpg)

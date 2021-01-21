@@ -6,11 +6,11 @@ tags: alimentation, Culture, lifestyle, végétarien, végétarisme, vegan
 ---
 **Je suis tombé dessus un peu par hasard et ça va froisser certainement de mes amis liégeois. Il s'agit d'un dessert industriel proposé par St Hubert.**
 
-<img class="aligncenter wp-image-22805 size-large" src="https://cheziceman.files.wordpress.com/2018/04/img_20180409_183226-e1523291922306.jpg?w=739" alt="" width="739" height="732" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/sojaliegeois.jpg)
 
 Estampillé végan, il ne fera pas de mal aux animaux, à priori. Le packaging est évidemment mensonger avec une crème qui déborde allègrement du pot dans de belles volutes. Ils ont mis des plantes pour faire végétarien et ça s'appelle un Petit plaisir soja, pour bien insister sur le plaisir. Mais bon, Saint Hubert a des produits pas mal en général. Et comme c'est du soja français, on se dit que c'est sans OGM. Ca existe en goût café et chocolat. J'ai choisi le café. Voyons voir la composition, maintenant.
 
-<img class="aligncenter size-large wp-image-22806" src="https://cheziceman.files.wordpress.com/2018/04/img_20180409_183300.jpg?w=739" alt="" width="739" height="456" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/sojaliegeois2.jpg)
 
 J'ai comparé au café viennois de Nestlé où il y a de la gélatine de porc (!!) et on retrouve le même genre d'épaississants avec des petits ajouts d'émulsifiants au colza, de carotte, ... On est dans de l'industriel donc on n'en abusera pas non plus. Il n'y en a que 4 par paquets, ça va. C'est moins sucré et surtout beaucoup moins gras que la concurrence classique, tout de même.
 

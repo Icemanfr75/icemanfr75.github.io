@@ -14,6 +14,6 @@ Cela donne un album très homogène avec une jolie intro sur "Standing on the ed
 
 Et puis en y réfléchissant, j'ai retrouvé un côté <a href="https://cheziceman.wordpress.com/2016/11/28/roxy-music-roxy-music/">Roxy music </a>(au delà du côté dandy des deux leaders des groupes), période glam, avec ce second degré typiquement anglais. Et quand on sait que Steve Jones des Sex Pistols était fan du groupe (cf le groupe The Strand), on se dit que la boucle est bouclée entre le punk et le glam rock. Alors je suis plutôt séduit par l'album car j'aime ce style et rétrospectivement, je comprends pourquoi Lageat l'a été. Ce n'est pas The Damned des années 70-80 mais c'est un retour aux sources, un plaisir de se retrouver ensemble en studio et surtout sur scène. Le groupe est sans doute plus sage qu'avant, moins extravagant mais il y a un petit quelque chose tellement séduisant dans tout cela que finalement, j'y reviens avec plaisir.
 
-[la video](https://www.youtube.com/watch?v=Za7S1q4qU2Q)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Za7S1q4qU2Q)
 
-![cover](https://cheziceman.files.wordpress.com/2018/07/cover.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/cover.jpg)

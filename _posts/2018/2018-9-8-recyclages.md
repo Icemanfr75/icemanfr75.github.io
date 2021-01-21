@@ -10,7 +10,7 @@ Déjà, les éboueurs passent deux fois plus pour ce que l'on ne recycle pas que
 
 Récemment, c'est **une alimentation de laboratoire** qui nous lâche au boulot. Le truc coûte environ 1300 euros neuf, pour balancer du 20 V avec 50A de manière stable. La panne est complexe, intermittente, quand l'alimentation chauffe un peu longtemps en charge. Le distributeur français nous annonce un forfait de 500 Euros. Nous passons par une société tierce pour la maintenance qui se prend 20% au passage. On sort alors la petite règle de gestion qui veut qu'on ne répare pas ce qui coûte plus de 30% du prix neuf et au revoir l'alimentation. Ca marche comme ça dans les grosses boites. Et puis nous sommes à la fin de l'année, le budget du service est déjà bien mangé, donc pour racheter une neuve, il va falloir prouver que c'est indispensable, qu'on ne peut pas travailler sans, etc... Evidemment, on peut toujours se démerder sans, être "Agile", comme on dit en <a href="https://fr.wikipedia.org/wiki/Novlangue">novlangue</a> ! Nous pourrions aussi passer du temps à l'ouvrir, regarder quel composant peut être en cause, le commander, le déssouder, le changer... Ce n'est pas notre métier et nous avons déjà trop à faire pour perdre du temps là dessus. L'alimentation va partir dans une benne "déchets électroniques", prise par un autre prestataire dont on espère juste qu'il <a href="https://cheziceman.wordpress.com/2012/02/02/lafrique-poubelle-du-monde/">n'envoie pas tout</a> dans un pays du tiers monde pour valoriser tout cela.
 
-![image](https://cheziceman.files.wordpress.com/2018/09/duchamp_roue.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/duchamp_roue.jpg)
 
 *La Roue de Bicyclette - Marcel Duchamp 1913*
 
@@ -24,7 +24,7 @@ Heureusement, **tout n'est pas comme ça**. On peut encore réparer des choses, 
 
 ![photo](https://upload.wikimedia.org/wikipedia/commons/2/28/Jakarta_slumlife42.JPG)
 
-(<span class="mw-mmv-source-author"><span class="mw-mmv-author"><a title="User:Thehero" href="https://commons.wikimedia.org/wiki/User:Thehero">Jonathan McIntosh</a>  sur Wikipedia)
+(<a title="User:Thehero" href="https://commons.wikimedia.org/wiki/User:Thehero">Jonathan McIntosh</a>  sur Wikipedia)
 
 Aujourd'hui, je vois **les télévisions** qui sont aussi l'objet de devis la rendant économiquement peu réparable. La grande dalle de 140cm, tu ne la transportes pas sous le bras, donc tu as déjà le forfait déplacement. Le technicien qui vient, sous-traitant de sous-traitant, n'a sans doute pas d'intérêt à rester très longtemps donc à aller chercher la petite bête. Et pour beaucoup de monde, se passer de télé, aujourd'hui, c'est comme se passer de portable, faut pas que ça soit trop long. On joue sur le psychologique, sur l'acceptation de la mort d'un objet. On a pourtant parfois intérêt à parcourir le net pour trouver ce qui lâche souvent dessus, le composant à changer, avoir un minimum d'outils ou d'amis en ayant pour se démerder. Sinon, là aussi, ce sont des centaines d'euros à la benne, c'est un gâchis de plus dont on ne mesure même pas l'impact environnemental. Et si on <a href="https://www.inc-conso.fr/content/obsolescence-programmee-ce-que-dit-la-loi-avec-la-cnl">légifère</a> sur l'obsolescence programmée, il n'y a aucune notion de réparabilité, pas de petite note sur l'étiquette du prix de A à F comme pour l'énergie. Et pourtant, c'est beaucoup d'énergie de refabriquer, de transporter les déchets, les recycler.
 
@@ -34,4 +34,4 @@ Evidemment, on peut aussi se poser la question façon "qui de l'oeuf ou la poule
 
 Peter s'y entendait, lui , dans ce domaine !
 
-[la video](https://www.youtube.com/watch?v=OJWJE0x7T4Q)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=OJWJE0x7T4Q)

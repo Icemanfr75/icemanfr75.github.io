@@ -10,7 +10,7 @@ Des titres phares du genre, comme Operation Wolf, ont été adaptés mais c'éta
 
 J'ai découvert ce jeu l'année suivant sur l'Amstrad CPC et je n'avais évidemment qu'un Joystick comme arme pour éliminer cette armée de tueurs sans scrupules. Ce qui m'a marqué, en plus du choix de couleur réduit, c'est la musique de Charles Callet. Les bruits de pétarade ne parviennent pas à masquer cette jolie partition. Je sais, ça a vieilli mais ça a son charme. Le but est de trouver le tueur dans les 3 à 5 secondes imparties dans ces immeubles aux multiples fenêtres. On peut jouer au clavier ou au joystick et je ne sais plus vraiment ce qui avait ma préférence. Mais ce petit compte-à-rebours apporte le stress qu'il faut au jeu. On comprend très vite que l'apparition des tueurs n'est pas aléatoire et qu'il faut apprendre la séquence de jeu pour progresser.
 
-[la video](https://www.youtube.com/watch?v=Ryp3I0qAj2M)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Ryp3I0qAj2M)
 
 Il faut de la précision, des réflexes, bien sûr mais c'est un jeu d'apprentissage. Il est répétitif au possible, donc, mais a son petit charme. Un charme qui le rend rejouable encore aujourd'hui et je dirai même adaptable sur des systèmes tactiles, si quelqu'un en avait l'idée. Sauf qu'aujourd'hui, le jeu de tir, c'est surtout du "<a href="https://fr.wikipedia.org/wiki/Shoot_%27em_up#Tube_shooter_et_rail_shooter">rail shooting</a>" ou du FPS. Alors Prohibition reste oublié, bien plus que des Time Crisis ou Virtua Cop auxquels on pouvait jouer chez soi avec un vrai pistolet. Mais ça sera pour une autre fois.
 

@@ -12,7 +12,7 @@ Je ne l'avais pas acheté à sa sortie et je l'ai regretté longtemps... jusqu'�
 
 L'album ouvre étonnament par un duo avec Christian Olivier des **Têtes raides**, groupe alors en pleine réussite. On a un titre rock acoustique arabisant et en français et arabe. Et pourtant il y a déjà des riffs samplés ce qui annonce parfaitement la teneur de l'album. C'est énergique, rapide et malin au niveau du texte. Je vous laisse découvrir. Mais la première pièce d'orfèvrerie de l'album est la reprise du "Rock the Casbah" de The Clash. C'est tellement réussi que Mick Jones la chantera parfois avec lui.
 
-[la video](https://www.youtube.com/watch?v=n1p_dkJo6Y8)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=n1p_dkJo6Y8)
 
 Mais après ce début rock, l'album prend une tonalité plus électro-rock avec "Lli Fat Mat!" (What Is Past Is Dead and Gone!), titre en arabe qui mèle des riffs, un orchestre oriental et des choeurs. Le morceau monte en puissance pour un véritable déchainement sonore avant de nous embarquer au son des cordes égyptiennes et des choeurs. Les percussions continuent de nous captiver avec "H'asbu-Hum" (Ask Them For An Explanation) qui est plus traditionnel mais n'est pas sans rappeler aussi des sonorités qu'on retrouve jusqu'en Inde par cette alliance avec des rythmiques modernes et des riffs de guitare électrique. Chaque seconde est exploitée et nous pousse à réécouter tous les détails du morceau. Taha emprunte évidemment à la musique Chaabi algérienne mais la mêle à son rock à tendance punk comme dans le puissant "Safi" (Pure). Le côté Electro de l'album revient plus dans les arrangements de "Meftuh'" (Open). On reste pourtant dans un style répétitif en apparence mais où les nuances apparaissent avec une écoute plus attentive. C'est bien un album électro-rock !
 
@@ -22,4 +22,4 @@ Un album qui peut paraître hétérogène mais fourmille de bonnes idées, de su
 
 [la video 2](https://www.youtube.com/watch?v=A6WIbvwcVUg)
 
-![cover](https://cheziceman.files.wordpress.com/2018/05/tekitoi.jpeg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/tekitoi.jpeg)
