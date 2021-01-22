@@ -6,7 +6,7 @@ tags: 1980s, 2010s, autobiographie, banlieue, littérature, racisme, Réflexion
 ---
 **On connaît Magyd Cherfi comme auteur et chanteur du groupe Zebda qui enchanta ma jeunesse, d'ailleurs. Le voilà écrivain depuis quelques années déjà...**
 
-<img class="wp-image-24209" src="https://cheziceman.files.wordpress.com/2018/09/ma-part-de-gaulois_4162.jpg" alt="" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/ma-part-de-gaulois_4162.jpg)
 
 C'est mon collègue belge <a href="https://odysseuslibre.be/site/">Odysseus</a> qui m'a soufflé l'idée de cette lecture et ce fut un très bon conseil. En effet ce livre réunit la forme et le fond, ce qui est rare. La forme, c'est un style remarquable même si ça s'essouffle assez naturellement au milieu du récit. C'est aussi une forme d'autobiographie qui a été volontairement  romancée par l'auteur. Cela veut dire que les anecdotes ont un fond de vérité mais sont "enjolivées". Le fond, c'est le parcours d'un fils d'immigrés algériens que la mère pousse à lire, à s'instruire, à réussir à l'école. C'est la banlieue toulousaine, le ghetto des quartiers nord, le regard néocolonialiste des français qui cantonnent ses camarades aux études techniques, CAP, BEP. C'est le refus de pratiquer le français chez les gitans comme chez les autres populations immigrées, cette langue qui représente aussi l'oppression, le mépris d'une société qui leur donne la nationalité française sans les considérer comme de "vrais français". On le traite de "pédé" lorsqu'il parle avec cette belle langue qu'il aime pratiquer. Il devient le "poète", celui qui sait séduire avec les mots. Il est le grand frère qui donne des cours de soutien aux collégiens.
 

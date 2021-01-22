@@ -14,4 +14,4 @@ Voilà un film absolument pas familial, avec du sexe, du cul, de la pipe, du nic
 
 Bref, si vous voulez voir un vrai film rock, savoir ce qu'est une groupie, vivre une tournée en quelques minutes (séquence signée Tommy Lee), vous souvenir d'Heather Locklear et ressortir la veste à patchs, c'est le film pour vous. Pour les autres, allez voir les films de pisse-froid. Par contre, pour incarner nos quatre héros, on aurait pu trouver un peu mieux. Cela empêche d'avoir plus de matière sur les personnages, notamment Nikki Sixx qui se dévoile autrement ou Mick Mars dont on entrevoit la souffrance. Difficile d'allier tout ça mais par rapport à la bio trash sortie en 2001, c'est fidèle.
 
-[la video](https://youtu.be/-NOp5ROn1HE)
+En video : [![video](/images/youtube.png)](https://youtu.be/-NOp5ROn1HE)

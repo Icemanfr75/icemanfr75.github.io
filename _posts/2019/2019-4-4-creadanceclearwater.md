@@ -6,7 +6,7 @@ tags: 1960s, blues, Country, creedence clearwater revival, folk, Musique, Pop, R
 ---
 **Si j'ai écouté beaucoup de titres de ce groupe devenu mythique, je me suis aperçu que je n'en avais pas un album. En 13 ans de carrière, ils en ont commis 7...et à l'heure du choix, je me suis décidé sur celui là. **
 
-![image](https://cheziceman.files.wordpress.com/2018/11/ccrwilly.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/ccrwilly.jpg)
 
 Je le trouve homogène, représentatif, et tout à fait écoutable de nos jours. Mais CCR, c'est qui ? Un quatuor constitué de John Fogerty (guitare et chant), Stu Cook (basse), Doug Clifford (batterie) et le regretté Tom Fogerty (guitare). Le groupe a participé à Woodstock, mais ça ne suffit pas à créer un mythe. Même avec une carrière réellement de 4 ans dans la formation originelle, il faut des hits. Et il y en a un paquet : "Proud Mary", c'est eux en 69. "Bad Moon rising" est peut-être moins connu mais est sacrément bon, tout comme "Green river". Un peu plus tard il y aura "Who'll stop the rain", "Travellin band", "Have you ever seen the rain". Et si des titres du groupe ont souvent été repris, ils ont aussi de superbes reprises à leur actif. Ils ont presque créé un genre, le Bayou rock, une rencontre entre le blues, le rock et la country...sachant qu'ils viennent de San francisco. Mais passons plutôt à cet album. 
 
@@ -16,6 +16,6 @@ J'imagine toujours "Don't look now" interprété par d'autres car Elvis ou d'aut
 
 Voilà donc un incontestable classique du rock mais qui ne peut se suffire à lui même. Je ne pouvais terminer que par ce moment magique : 
 
-[la video](https://www.youtube.com/watch?v=f33qUqdZapw)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=f33qUqdZapw)
 
 

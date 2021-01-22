@@ -8,7 +8,7 @@ tags: archivage, cloud, geek, Geekeries, informatique, logiciel libre, numériqu
 
 En fait mon employeur nous a proposé un coffre-fort numérique, mypeopledoc, et j'avais déjà ma propre solution en place. J'ai posé aussi la question sur le <a href="https://cyrille-borne.com/forum/discussion/613/coffre-fort-electronique#latest">forum de Cyrille</a> et on m'a beaucoup parlé de Digiposte, un peu de Cozycloud la solution libre que j'avais betatesté il y a longtemps. Je suis donc allé voir en priorité ces offres et j'ai comparé avec mes propres idées qui reposaient sur un NAS et du cloud tout à fait classique. Mes parents (et moi même d'ailleurs) sont restés à la boîte archive bien rangée avec des classeurs, etc...Sauf qu'aujourd'hui il n'y a plus de papier (et pourtant bien un coût carbone pour ce stockage numérique) donc on doit changer de stratégie dans les années qui viennent... ou imprimer tout ce qui est dématérialisé. Mais attention, numériser ne permet pas de supprimer le papier. Et imprimer un document dématérialisé ne le rend pas officiel. Cela dépend des démarches que l'on fait avec. Il faut donc prévoir d'avoir une cohabitation Papier/Numérique pendant de nombreuses années.
 
-![image](https://cheziceman.files.wordpress.com/2019/04/boitearchive1602389798.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/boitearchive.jpg)
 
 La première chose est de **savoir ce que l'on doit garder**. Ce n'est pas compliqué à savoir, <a href="https://www.service-public.fr/particuliers/vosdroits/F19134">le site service public nous rappelle cela</a>. Mais il peut aussi être bon de garder des justificatifs de domicile récents. Je vais donc parler de tout ce qui concerne la paie, la retraite, les impôts, les factures importantes pour les assurances, le dossier santé (puisque pour l'instant nous en sommes aux balbutiements du Dossier Medical Partagé). Il s'agit donc de garder des documents issus de son employeur, des caisses de retraite, des impôts, de magasins, de médecins, des fournisseurs d'énergie, de mutuelles et donc autant de mots de passe, de formats différents. A moins d'être jeune, il y a de fortes chances que tout ne soit pas numérisé aujourd'hui donc ça vous forcera à faire un peu de ménage dans la paperasse. La vie avançant, on a des points de passage qui forcent aussi à trouver des documents, comme la médaille du travail, par exemple. J'ai donc utilisé cette liste et regardé où se trouvaient aujourd'hui ces documents, si au moins je les avais en ma possession.
 
@@ -16,27 +16,27 @@ La seconde chose est de **récupérer, vérifier et trier tout cela**. Il faut a
 
 La troisième chose c'est de **mettre en face une solution d'archivage.** Comme je l'ai dit, elle peut-être automatisée par les prestataires alors que sinon, il faut se prendre par la main, aller vers son scanner connecté et y mettre les documents que l'on reçoit. Si l'on n'a pas un minimum d'organisation et de rigueur, je vous laisse deviner quelle solution sera à privilégier. Et c'est bien pour cela que ces services existent. Le problème est qu'aucun ne sait tout faire :
 
-![image](https://cheziceman.files.wordpress.com/2019/03/screenshot_2019-03-24-07-56-39-970_io1569792312.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/coffrecozy1.jpg)
 
 *Cozy en android*
 
-![image](https://cheziceman.files.wordpress.com/2019/03/screenshot_2019-03-24-07-58-08-393_com698683413.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/coffrecozy2.jpg)
 
 *Cozy en version web*
 
 Pour **Cozycloud, la solution libre**, il y a bien quelques administrations, des banques, assurances, magasins mais ça reste limité ... et développé par différents acteurs libres donc les évolutions sont à garantir par Cozycloud (CC). Il faut espérer que la gestion d'un tel projet ne va pas tourner en jus de boudin comme tant de projets libres. Par contre, on peut le lier à Digiposte et donc profiter des liens de ce service en plus de ceux proposés par CC. La version Web de CC est plutôt bien faite, lisible avec des couleurs. On a 5Go sur l'offre gratuite ce qui est dans la moyenne. L'ajout de document est simple, de même que la connexion aux services. Mais comme je l'avais déjà dit auparavant lors d'un comparatif avec Nextcloud, cette solution hésite entre le cloud et l'archivage. Le versioning (gestion de versions de documents) n'est pas présent mais crée au moins un fichier repérable. Je ne trouve pas pertinent de mélanger les photos, les documents officiels, etc...On peut même y faire son suivi de compte bancaire et quand ma banque le veut bien, on récupére vraiment bien les informations avec une catégorisation qui permet un bilan visuel très efficace. Au moins, cela à l'avantage d'un seul point d'entrée. L'application mobile reste malheureusement limitée et il faut encore avoir recours au site web pour bien gérer ses données. J'ai adopté pourtant ce service qui a su évoluer dans le bon sens. Certains modules sont en maintenance et c'est mon seul point d'inquiétude pour l'instant (voir plus loin).
 
-![image](https://cheziceman.files.wordpress.com/2019/03/screenshot_2019-03-24-07-51-42-911_com1341447294.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/coffremypeople.jpg)
 
 *L'interface unique de Mypeopledoc*
 
 Côté **MyPeopleDoc**, on m'a offert 10Go mais autant le dire tout de suite, cette solution française rachetée par une boîte US est à fuir pour son interface pourrie. La moindre sélection, le moindre tri est un épreuve et on peut juste reconnaître que l'upload multiple est efficace. Il n'y a aucun versioning contrairement à des solutions de cloud pur et on se retrouve avec de multiples fichiers au même nom. La sélection de plus de 20 documents est un parcours du combattant pour un utilisateur lambda. A vouloir faire trop simple, on fait surtout n'importe quoi donc je fuirais cette solution. Il n'y a pas d'application (oui, en 2019 !) mais une simple interface mobile friendly puisque déjà le site était minimaliste. Ils ont sûrement de bons vendeurs pour avoir fourgué ça à ma boîte. On ne me laisse pas le choix, pas de liaison possible en automatique avec d'autres services donc je dois faire mes réplications périodiques pour plus de sûreté.
 
-![image](https://cheziceman.files.wordpress.com/2019/03/screenshot_2019-03-24-07-55-15-288_com392487244.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/coffredigi1.jpg)
 
 *Digiposte en web*
 
-![image](https://cheziceman.files.wordpress.com/2019/03/screenshot_2019-03-24-07-56-13-966_com777137471.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/coffredigi2.jpg)
 
 Digiposte en Android*
 
@@ -50,7 +50,7 @@ Et puis sinon, il y a la possibilité de faire tout soi-même avec **n'importe q
 
 Mais quid de la **pérennité du prestataire** ? Mypeopledoc et Digiposte sont garantis par des organismes pour ce qui est du stockage ce qui permettrait le cas échéant de récupérer ses données pour les placer ailleurs. Cozycloud n'a pas la même approche avec je cite " si Cozy Cloud devait faillir à ses engagements, en tant que société nous perdrions nos utilisateurs qui pourraient aller utiliser la solution Cozy en s’hébergeant ailleurs." Je trouve donc que ça s'adresse à une clientèle moins grand public, malgré de nombreuses certifications. Pour la durée, elle n'est pas toujours illimitée, l'offre via mon employeur durant par exemple 50 ans. Le jour où un employeur nous garde 50 ans, appelez-moi... En attendant, je mettrai en place une réplication de document de ces services vers un stockage personnel, de manière annuelle pour limiter les risques. Je me suis posé aussi la question du coût carbone de tous ces stockages car pour le papier, une fois produit, il ne coûte rien, mais pour le numérique, on continue de payer écologiquement la note à chaque seconde de vie. Le cloud et les transferts de données engloutissent déjà plus de 7% de la production électrique, même si on consomme moins au Go de données qu'il y a 5 ans. Avec l'explosion des données on prévoit même près de 20% en 2030 dans les chiffres les plus alarmants. Se restreindre au strict nécessaire et faire du stockage local ponctuel paraît donc le plus intelligent.
 
-![image](https://cheziceman.files.wordpress.com/2019/04/cercueil-en-carton1939880783.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/cercueil-en-carton.jpg)
 
 *Et moi, on m'archivera là*
 

@@ -10,7 +10,7 @@ Créé par des passionnés de course automobile, ce jeu a un modèle et c'est de
 
 Forcément, j'ai dû comparer avec le leader du genre sur android, Real Racing 3. Je ne parlerai pas de Gear club dont le moteur graphique est trop gourmand, lent et le moteur physique très moyen. Ici nous avons un bon moteur physique, justement avec une approche encore très proche de Gran Turismo, c'est à dire un réalisme pas trop pointu et du feeling. Le problème est qu'ils ont cru bon de rajouter du Drift et là, c'est du violent, du puriste avec de bons gros dérapages mais sans la fumée des pneus. Car si graphiquement ça tient plutôt bien la route, il y a des manques sur les effets spéciaux. Le Replay est là mais ce n'est pas très spectaculaire. 
 
-[la video](https://www.youtube.com/watch?v=917q9zLbnKo)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=917q9zLbnKo)
 
 Mais les manques les plus flagrants c'est qu'il n'y a toujours que de la course contre la montre. Il y a bien du multijoueurs mais ça manque de joueurs et de finition. La détection des sorties de piste est buguée aussi avec d'ailleurs des temps à battre proprement impossibles sur certaines pistes. Et puis, comme Gran Turismo, il n'y a pas de déformation et de casse de la carrosserie. Et pourtant, le jeu me plaît pour le fun, le challenge de battre ses temps, le leveling nécessaire pour remplir son garage et améliorer ses voitures. Avec quelques réglages en plus, on peut même faire de belles glissades avec la Nissan Silvia S10... souvenirs.
 

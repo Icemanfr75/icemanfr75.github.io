@@ -8,7 +8,7 @@ tags: 1940s, 2010s, guerre, histoire, juif, littérature, Littérature et BD, m�
 
 Ce n'est pas le premier ouvrage sur le sujet, loin de là mais je voulais avoir une vision plus médicale du sujet. Mission à moitié remplie. Cymes et les personnes qui l'ont aidé à écrire entreprennent de brosser les portraits de ces hommes et femmes qui sont passés de la médecine à la tuerie de masse. Ils décrivent les horreurs commises et ça laisse comme une horrible nausée.
 
-<img src="https://cheziceman.files.wordpress.com/2018/09/hippocymes.jpeg" alt="" class="wp-image-24286" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/hippocymes.jpg)
 
 Mais il me manque des réponses. Cymes rappelle les lois de 33 et 35 qui interdisaient alors les expérimentations animales, ce qui montre au passage l'échelle de valeur en vogue à l'époque. Il rappelle aussi l'eugénisme et l'hygiènisme qui étaient en vogue à l'époque. Cet état d'esprit explique en partie le basculement mais ça ne suffit pas. Il y a un désir de revanche ou une grande ambition chez ces personnes. Le nazisme leur paraît être une redistribution des cartes pour certains qui n'étaient pas forcément du bon milieu. Pour d'autres , c'est simplement être  à la hauteur d'une réputation familiale. Mais là encore, ça ne suffit pas à tout expliquer. 
 

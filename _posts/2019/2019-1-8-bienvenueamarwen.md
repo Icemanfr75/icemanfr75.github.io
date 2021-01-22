@@ -8,7 +8,7 @@ tags: 2010s, Cinéma, différence, Film, racisme, traumatisme
 
 L'histoire me semblait intéressante, déjà, bien à l'image de ce réalisateur plein d'humanité : Après s'être fait tabasser dans un bar, Mark Hogancamp est resté plusieurs jours dans le coma. À son réveil, il est frappé d'amnésie. Il va alors se créer un monde imaginaire, Marwen, un village belge fictif durant la Seconde Guerre mondiale. La création de ce village en miniature devient une obsession. Comme une auto-thérapie, Mark invente des lieux imaginaires qu'il peuple avec des poupées représentant principalement des femmes de son entourage et de son passé. 
 
-<img src="https://cheziceman.files.wordpress.com/2019/01/marwen.jpg" alt="" class="wp-image-25182" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/marwen.jpg)
 
 Ce qui frappe d'entrée, c'est le mélange entre réalité et imaginaire avec ces "miniatures" créés avec la même technologie que Pole Express. Mais vient aussi un manque de rythme qui ressort d'autant plus que nous sommes aujourd'hui habitués à des films aux grosses scènes d'action spectaculaire. Zemeckis prend le temps d'installer patiemment son personnage, ses failles, son relationnel, tout son univers constitué d'innombrables personnages. Il le fait avec tendresse, même s'il montre les côtés moins reluisants de son héros. 
 
@@ -18,7 +18,7 @@ Malgré de nombreux défauts, c'est un film pour cinéphile. Plus j'y réfléchi
 
 Un film qui peut donc décevoir par rapport à la masse de ce qui sort mais qu'il faut prendre le temps d'apprécier, en revenant à un regard d'enfant que Zemeckis, lui, n'a pas oublié. Il est un peu comme quelques uns de ses héros, en marge, poursuivant une vision utopique, imaginaire, rêveuse et j'aime ça. J'en ai oublié de citer la jolie bande son(*), et le beau travail des acteurs et actrices, happé que j'étais par ces 2h...
 
-[la video](https://www.youtube.com/watch?v=EBKAxsJr-08)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=EBKAxsJr-08)
 
 *: les anglophones apprécieront quelques traits d'humour dans celle-ci
 

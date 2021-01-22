@@ -16,6 +16,6 @@ A y rejouer aujourd'hui, ça reste démodé par le graphisme. Pourtant, le chall
 
 Edité par Microids/Loriciels ou Broderbund sur Amstrad CPC, Atari ST, Amiga 500/600 (OCS/ECS), Apple IIGS, IBM PC (DOS), Commodore 64, ZX Spectrum
 
-[la video](https://www.youtube.com/watch?v=LxUeSczxV6c)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=LxUeSczxV6c)
 
 

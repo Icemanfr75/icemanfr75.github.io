@@ -8,7 +8,7 @@ tags: 2010s, éducation, Cinéma, dessin animé, famille, japon
 
 Fils unique d'un jeune couple japonais de Yokohama, Kun s'apprête à accueillir sa petite soeur à la maison. Jusqu'ici, il avait comme compagnon de jeu son chien Yuko et sa maman lui était proche. Cette arrivée va bouleverser sa vie ... et lui faire comprendre bien des choses sur sa famille.
 
-![photo](https://cheziceman.files.wordpress.com/2019/01/mirai-ma-petite-soeur-affiche-fr.jpg)
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/mirai-ma-petite-soeur-affiche-fr.jpg)
 
 Ce dessin animé d'un peu plus d'1h30 est à l'opposé des sorties habituelles de Noël. Il n'y a pas de grandes scènes d'action, de poursuites, de méchants, de gentils. Le héros de l'histoire, Kun, est même un petit garçon qui devient jaloux, méchant avec sa petite soeur. Hosoda Mamoru présente une vision très réaliste de la famille (s'inspirant de sa propre expérience, Mirai étant aussi le prénom de sa fille) et de l'arrivée du second enfant et tout cela dans une maison pourtant bien atypique par rapport au standard japonais (le père est architecte). Pourtant, dans cette description sociologique très précise, il y glisse des scènes oniriques de toute beauté. Derrière le dessin très classique des personnages, il y a une foule de détails dans les décors, un souci très poussé dans l'animation qui rend le spectateur adulte attentif. (je suis resté subjugué par la scène de la gare)
 
@@ -16,6 +16,6 @@ Mais j'ai regardé aussi le visage des enfants dans cette séance. Eux aussi ét
 
 Un film qui a le bon goût de ne pas trop en faire mais est délicat, tendre et attachant et qu'on aimera voir et revoir en famille.
 
-[la video](https://www.youtube.com/watch?v=aS4PPyVaJCc)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=aS4PPyVaJCc)
 
 

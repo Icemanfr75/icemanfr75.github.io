@@ -8,7 +8,7 @@ tags: 1980s, Cinéma, cinematheque ideale, comédie, horreur
 
 Un peu de tout cela mais il y a d'abord l'histoire improbable : 
 
-<img src="https://cheziceman.files.wordpress.com/2018/11/beetlejuice.jpg" alt="" class="wp-image-24525" width="325" height="485" />
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/beetlejuice.jpg)
 
 Un couple de jeunes mariés heureux, Adam et Barbara Maitland, vivent dans une superbe villa dans le Connecticut. Alors qu'ils sont en voiture, Barbara sort de la route en voulant éviter un chien et le véhicule plonge dans une rivière. Adam et Barbara rentrent chez eux mais s'aperçoivent vite qu'ils sont morts dans l'accident. Devenus des fantômes, ils ne peuvent quitter leur maison car ils se retrouvent alors dans une dimension effrayante peuplée de gigantesques vers de sables. Mais leur maison est vendue peu après à un couple de riches snobs new-yorkais, Charles et Delia Deetz, qui emménagent avec Lydia, une adolescente gothique fille de Charles et de sa première épouse. Le seul espoir du couple est de chasser ses intrus mais n'y arrivant pas, ils font appel à Bételgeuse/beetlejuice, un paria de l'Au-delà.
 
@@ -20,9 +20,7 @@ On trouve déjà ce regard acide sur la bonne société américaine, qui trouver
 
 Il y a évidemment des scènes devenues cultes et je me délecte toujours autant de la scène du repas où notre couple tente d'effrayer les convives en prenant possession de leurs corps avec en fond la chanson Day-O d'Harry Bellafonte. Le tout est empaqueté dans une comédie à l'américaine, enlevée, colorée et le succès est aussi inattendu que colossal avec 4 semaines en tête du box office. Le résultat donne alors plus de pouvoir à son réalisateur pour faire son premier Batman et installe aussi ce style si particulier qu'il ne cessera de développer dans les 15 ans suivant. Les années 2010 l'assagiront un peu trop ou le feront rester dans ses propres inventions. Reste ce premier vrai film qui sera aussi décliné en une série animée, qui est passé dans les années 90 sur nos antennes françaises. C'est moins réussi mais ça a installé aussi ce délire visuel dans l'imaginaire d'une génération d'enfants, devenus adultes. 
 
-[la video](https://www.youtube.com/watch?time_continue=13&amp;v=GuyNP-XyFHs)
-
-
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?time_continue=13&amp;v=GuyNP-XyFHs)
 
 
 A noter que la version française du film donne des voix très différentes au couple Maitland...

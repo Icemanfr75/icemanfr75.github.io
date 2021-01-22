@@ -50,6 +50,6 @@ Et le pire, c'est qu'il manque des titres pour moi. Comme un "On and on and on",
 
 Alors à l'heure de choisir un clip pour illustrer ce disque incontournable, après une réflexion de 79 minutes, je ne peux faire autrement que ça (maintenant vous pouvez me haïr) :
 
-[la video](https://www.youtube.com/watch?v=KKClIgUEPSI)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=KKClIgUEPSI)
 
-![cover](https://cheziceman.files.wordpress.com/2018/07/abbagold.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/abbagold.jpg)
