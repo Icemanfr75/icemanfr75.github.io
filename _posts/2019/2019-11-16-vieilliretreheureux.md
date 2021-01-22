@@ -26,7 +26,7 @@ C'est un peu comme aller en vacances le plus vite possible avec l'avion, visiter
 
 Petit aparté sur l'aspect **santé**... J'ai regardé ce que proposait le DMP (Dossier médical partagé), quelque chose qui permet de faire suivre ses informations de santé, en théorie...Mais qui au final recèle des dangers et trop de complexité pour ceux qui en auraient le plus besoin... Les personnes âgées. Déjà pour créer cela, c'est un parcours du combattant avec des codes et vérifications dans tous les sens mais ça reste logique et sécuritaire pour quelqu'un qui a l'habitude. Mais arrivé dans l'interface (qui a évolué complètement en 1 an au point d'avoir perdu ce qu'il y avait !), on voit qu'il n'y a aucune remontée d'information des organismes et praticiens. La gestion de la confidentialité est trop basique d'un côté pour un initié, trop complexe de l'autre pour un néophyte. Et je me retrouverai à devoir scanner et mettre moi-même des documents utiles mais qui seraient mal classés parmi tous les termes possibles dans les dossiers. Déjà qu'il faut un deux semaines minimum pour créer le truc et avec tous les bugs de la Sécu, je prédis un enterrement de première classe pour un truc qui aura coûté des millions. Car comme souvent, on a oublié le client/patient, les services en relation dans une chaîne bien compliqué alors que du temps, il y en a eu pour penser à l'édifice.
 
-![image](https://cheziceman.files.wordpress.com/2019/11/dmp.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/dmp.jpg)
 
 *Simple sur le papier... mais rien ne fonctionne. *
 
@@ -38,7 +38,7 @@ L'autre jour, un collègue posait justement **la question fatidique** autour d'u
 
 Je n'aurais pas forcément dit ça il y a un an, ou pas comme ça. J'espère pouvoir le dire longtemps évidemment. Nous sommes dans une société qui met le seuil de vieillesse de plus en plus jeune, malheureusement, en pensant que rapidité et énergie sont les facteurs de plus grande valeur. Cela commence à changer pourtant et je vois des petits signes, des frémissements. On commence lentement à revenir au local, à l'analogique, au vrai relationnel. A ce sujet on devrait imaginer plus souvent notre vie sans électricité, sans internet, juste au cas où... Ça remet les pieds sur terre, je vous l'assure. Coupez le jus et la box chez vous et regardez qui s'en sort le mieux. Vieillir ce n'est pas refuser le progrès, c'est mieux le comprendre et le choisir plutôt que le subir. Alors quand je parle de veille technologique, de ne plus suivre toutes les évolutions mais seulement certaines, ce n'est pas devenir "has been". Vieillir c'est pour moi utiliser l'expérience pour anticiper ce qu'il y a après. C'est parfois se planter mais savoir réagir. Et pour cela, utiliser son temps, cette nouvelle temporalité pour mieux... vivre !
 
-[la video](https://www.youtube.com/watch?v=8EdxM72EZ94)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=8EdxM72EZ94)
 
 Mettre Prince et Fragonard dans le même billet, c'est pas la classe ? 
 

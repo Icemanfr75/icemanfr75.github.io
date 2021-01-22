@@ -6,6 +6,8 @@ tags: 1970s, Cinéma, cinematheque ideale, comédie, Film, racisme
 ---
 **Malgré sa rediffusion annuelle, c'est un des rares films que je peux revoir avec plaisir, sans lassitude. Je le connais pourtant presque par cœur, avec ses répliques mais c'est une telle mécanique qu'il est au firmament des comédies. Alors finalement, pourquoi en parler ici ?**
 
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/rabbijacob.jpg)
+
 Je pourrais passer du temps à analyser les scènes, le pourquoi de ce succès qui ne se démode pas, mais des cinéastes et autres critiques l'ont déjà fait. Alors, autant faire simple et donner envie, partager ce moment de franche rigolade, mais avec du rire un peu plus intelligent que la moyenne. Car Rabbi Jacob n'a rien d'une comédie à l'humour régressif, comme on en fait maintenant. Elle traite du thème du racisme avec une telle modernité que l'on peut revoir sans nostalgie le film. A moins que notre société n'ait pas tant évolué que cela ?
 
 Pour incarner ce héros, M. Pivert, il fallait évidemment le français par excellence, le râleur, ... Louis de Funes (qui était d'origine espagnole). Et le succès du film doit au moins 50 % à l'énergie de l'interprète. On peut lui reprocher parfois d'en faire trop dans les mimiques mais elles collent parfaitement au ton du film, ici. On sait très rapidement qu'il y a de la caricature, mais on ne sombre pas non plus dans le cliché... Enfin pas trop : L'arabe et son pétrole, la communauté juive dans la fourrure, le delicatessen, .... Ca reste secondaire par rapport au reste. Il y a ensuite le rythme, les gags qui se succèdent, tant visuels que dans les répliques et cela sans aucun temps mort. On reste dans l'héritage du burlesque et de la comédie classique mais avec des dialogues ciselés.

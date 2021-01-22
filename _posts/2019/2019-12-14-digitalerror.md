@@ -34,4 +34,4 @@ Mais sans pour autant croire à une théorie du complot, le numérique permet ce
 
 Quel paradoxe finalement que j'écrive cela sur un outil numérique, que je le diffuse sur une plateforme qui représente aussi toute notre dérive incontrôlée ! Sans doute parce que je ne crois pas en un retour en arrière ou une décroissance sans numérique. J'essaie de croire en l'utopie d'un apprentissage de ces outils, en des utilisateurs qui comprennent ce qu'ils ont entre les mains. Mais c'est oublier toutes les inventions humaines des siècles passés et leurs dérives néfastes. A force d'insister sur le sujet, ça finira peut-être par passer ? J'espère que le rendez-vous ne sera pas manqué.
 
-[la video](https://www.youtube.com/watch?v=DiruxyikUew)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=DiruxyikUew)

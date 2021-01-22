@@ -6,7 +6,7 @@ tags: 2010s, banlieue, Cinéma, Film, france, politique, racisme
 ---
 **C'est le film qui fait le buzz en ce moment, dans le bon sens du terme. Encore un film sur la banlieue me direz vous ? Moi je m'inquiétais presque de cette mode, comme si ce n'était peut-être pas mérité.**
 
-![image](https://cheziceman.files.wordpress.com/2019/11/lesmiserables.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/lesmiserables.jpg)
 
 Le réalisateur vient du documentaire et du cours-métrage. Ca se ressent très vite dans cette peinture très réaliste d'une situation qu'il connaît bien, celle de Clichy - Montfermeil. Réaliste... mais extrême car les banlieues ne sont pas toutes dans cet état. C'est là qu'intervient le parti pris de mise en scène, le choix de l'histoire : "Stéphane, qui est policier, quitte Cherbourg pour se rapprocher de la mère de son fils. Il intègre la brigade anti-criminalité de Montfermeil où il fait équipe avec Chris et Gwada. Alors que le trio fait sa tournée journalière, ils rencontrent les différentes personnes influentes dans le quartier. Stéphane, encore habitué aux méthodes de sa ville, est un peu perdu et a du mal avec les actes de Chris, qui agit en caïd pour se faire respecter. La journée est émaillée par une altercation entre les gitans d'un cirque et les habitants de la cité. Un petit garçon à la peau noire aurait volé un lionceau appartenant au cirque, et les gitans menacent la communauté noire si leur lionceau n'est pas ramené dans les 24 heures"
 
@@ -18,6 +18,6 @@ On a appris dans un plan com voulu par le gouvernement, que le Président Macron
 
 Un film qui ne m'a pas forcément appris grand chose mais qui remet avec talent le sujet en lumière. J'ai juste la certitude que ça ne sera pas le dernier sur ce sujet...
 
-[la video](https://www.youtube.com/watch?v=_RBAqv0VQH8)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=_RBAqv0VQH8)
 
 

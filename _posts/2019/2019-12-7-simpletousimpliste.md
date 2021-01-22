@@ -6,9 +6,9 @@ tags: linux, logiciel libre, philosophie, Réflexion, sociologie, vieillesse
 ---
 **Si ma semaine a été marquée par une intense activité professionnelle, j'ai quand même pris le temps pour d'autres choses. Et je suis revenu sur un article passé de ce blog.**
 
-Souvenez-vous,<a href="https://cheziceman.wordpress.com/2016/08/20/blog-et-tuto-pourquoi-rechercher-simple-quand-on-peut-rechercher-complique/"> il y a trois ans,</a> je parlais de **la fonction Recherche** dans les distributions GNU/Linux et du retard par rapport à ce qui était connu dans les autres systèmes d'exploitation. Il y a toujours ce décalage sur les environnements de bureau...mais c'est moi qui ai changé en trois ans. Je n'ai plus forcément besoin de fonctions évoluées car j'utilise mon PC différemment. Oserai-je dire que nous utilisons nos PC ou terminaux informatiques autrement ? Je me focalise sur mon activité domestique, ici...Je ne sais pas vous mais je n'ai pas énormément de fichiers sur lesquels je travaille en même temps. Allez, trois ou quatre au maximum qui se trouvent dans un répertoire /Home de mon profil, comprenez /Mes documents pour les windowsiens. Donc pas besoin de recherche. Pour les fichiers musiques, films, tout est sur le NAS et je passe par l'interface synology pour retrouver mes petits. Et même les anciens documents y sont, ainsi que sur les sauvegardes locales ou distantes. Donc aucun besoin de recherche, car c'est ... rangé !
+Souvenez-vous, il y a [trois ans](https://www.cheziceman.fr/2016/recherchelinux/), je parlais de **la fonction Recherche** dans les distributions GNU/Linux et du retard par rapport à ce qui était connu dans les autres systèmes d'exploitation. Il y a toujours ce décalage sur les environnements de bureau...mais c'est moi qui ai changé en trois ans. Je n'ai plus forcément besoin de fonctions évoluées car j'utilise mon PC différemment. Oserai-je dire que nous utilisons nos PC ou terminaux informatiques autrement ? Je me focalise sur mon activité domestique, ici...Je ne sais pas vous mais je n'ai pas énormément de fichiers sur lesquels je travaille en même temps. Allez, trois ou quatre au maximum qui se trouvent dans un répertoire /Home de mon profil, comprenez /Mes documents pour les windowsiens. Donc pas besoin de recherche. Pour les fichiers musiques, films, tout est sur le NAS et je passe par l'interface synology pour retrouver mes petits. Et même les anciens documents y sont, ainsi que sur les sauvegardes locales ou distantes. Donc aucun besoin de recherche, car c'est ... rangé !
 
-![image](https://cheziceman.files.wordpress.com/2019/12/capture.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/capture.jpg)
 
 *j'épure, je satellise, ....*
 
@@ -26,7 +26,7 @@ Après, on me répond qu'**il en va de l'économie,** de la survie des commerces
 
 Déjà il y a 30 ans, j'étais en décalage. Pendant que mes camarades avaient pléthore de jeux, dont tous ceux à la mode, j'avais souvent un jouet, choisi pour son "utilité", et des livres. Les rares fois où mes parents ont craqué pour un plaisir à la mode, ce n'était pas forcément une réussite et cela a rapidement pris la poussière. Je jouais aussi chez les copains à ces jeux que j'enviais...pour finalement les oublier quelques temps après et me replonger dans les miens, ou encore les livres. Je n'ai franchement pas été malheureux. Et puis quand mes copains venaient chez moi, ils avaient aussi autre chose que chez eux. Je vous avoue quand même qu'ils n'ont pas joué à Mega 10 000, cette curieuse encyclopédie électronique que j'ai écumée, usée. Je l'ai retrouvé chez mes parents et ça fonctionnerait encore....c'était fait en France en plus, à base de ...livrets.
 
-![image](https://cheziceman.files.wordpress.com/2019/12/mega10000.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/mega10000.jpg)
 
 *Ah, le design français !*
 
@@ -38,7 +38,7 @@ Je n'ai **plus aucune envie d'un petit luxe** qui ne sera qu'un plaisir futile, 
 
 Simplifier alors ? Rester simple ? Ou **vivre comme le simplet** qui croit que ça va changer le monde ? Je ne pense pas que ma petite vie va changer grand chose dans la marche folle de ce monde humain dont j'espère presque la fin prochaine. Quand je parlais du veganisme la semaine dernière, je ne me faisais pas plus d'illusion sur ce que cela peut changer dans notre impact sur la planète puisque effectivement cela conduit à des contradictions, justement parce qu'il y a des envies irrationnelles. En bon converti, j'ai encore en mémoire des goûts qui ne sont pas ceux des légumes, des fruits et des produits non transformés. Il y a les goûts de charcuterie, de viandes, de fumés, etc...C'est finalement sur cela qu'une nouvelle industrie se construit avec du bon, du mauvais, comme l'élevage finalement mais moins pire pour la souffrance des êtres vivants...donc un gain malgré tout pour le vivant. Je pourrais vous donner des recettes de "burgers" qui n'utilisent que des produits bruts plutôt que des steaks. Mais on ne fait pas l'effort de chercher quand on a le produit tout préparé. On veut aussi tout vite, sans effort, c'est vrai.
 
-![image](https://cheziceman.files.wordpress.com/2019/12/puddingpain.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/puddingpain.png)
 
 *je rêve de retrouver ça à l'identique*
 
@@ -46,6 +46,6 @@ Encore heureux que j'ai été **éduqué pour manger toutes sortes de légumes**
 
 Et l'ami <a href="https://leblogdolivyeahh.wordpress.com/2019/12/01/the-wall-a-40-ans/">Olivyeahh</a> m'a remis en tête ce titre du Floyd, ces paroles...."I can't explain, you would not understand (Je ne peux pas l'expliquer, et puis tu ne comprendrais pas), <br />This is not how I am (Ce n'est pas vraiment moi), I have become comfortably numb(Je suis devenu agréablement engourdi)... Mais est-on un jour soi-même quand chaque jour nous change un peu plus?<br />
 
-[la video](https://www.youtube.com/watch?v=pl9dc5FhFYU)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=pl9dc5FhFYU)
 
 

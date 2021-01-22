@@ -10,7 +10,7 @@ Cette série parle apparemment des souvenirs d'enfance de Bill Cosby mais en sor
 
 Evidemment, on avait des voix françaises au top : Roger Carel, Francis Lax,... Ca nous causait à nous, les français, et pour une fois, on n'avait pas trop droit à l'accent noir habituel, ouf. Mais le charme de la série commençait dès le générique : 
 
-[la video](https://www.youtube.com/watch?v=VwPcO7s_x3Q)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=VwPcO7s_x3Q)
 
 Oui, c'est du Carlos pur jus !  Le côté sympathique vient surtout de ces personnages plutôt cool, à commencer par Fat Albert / Albert, évidemment, le sage du groupe.  Même le plus stupide de la bande n'était pas traité comme un moins que rien. Chaque épisode apportait une morale à l'histoire et se passe dans la banlieue de Philadelphie. A l'époque, on se foutait un peu d'où ça se passait... Ca aurait pu être Harlem, le Bronx. Bon, il faut avouer que le doublage est parfois bâclé sur les personnages secondaires et ça a beaucoup vieilli. Il y avait un côté aventure avec des méchants, la figure du vieux du parc ou d'autres personnages récurrents qui venaient élargir le spectre des personnages.
 

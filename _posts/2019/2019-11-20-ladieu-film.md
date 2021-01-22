@@ -8,7 +8,7 @@ tags: 2010s, chine, Cinéma, deuil
 
 Le sujet ? Billi (Awkwafina), une écrivaine américano-chinois, entretient des relations étroites avec Nai Nai (terme utilisé en mandarin pour qualifier "la grand-mère paternelle") qui vit à Changchun, en Chine. Elle lui cache pourtant sa situation, ses difficultés à payer son appartement, le refus de sa bourse d'étude..Mais elle apprend aussi par ses parents Haiyan (Tzi Ma vu dans énormément de séries) et Jian (Diana Lin), que Nai Nai (Zhao Shuzhen) a été diagnostiquée avec un cancer des poumons en phase terminal et qu'il ne lui restait plus que quelques mois à vivre. La famille décide de célébrer le mariage de Hao Hao, le cousin venu du japon, une excuse pour réunir toute la famille et passer un dernier moment avec Nai Nai. 
 
-![image](https://cheziceman.files.wordpress.com/2019/11/farewelllulu.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/farewelllulu.jpg)
 
 Le film aborde de nombreux thèmes comme la maladie, le deuil, les différences culturelles, le déracinement et le retour au pays. Des thèmes qui pourraient peser dans l'ambiance du film mais c'est là que Lulu Wang y apporte de l'humour dans l'écriture et la mise en scène (voir par exemple la scène des photos de mariage). On est touché évidemment par cette histoire, aidé en cela par le jeu des actrices Awkwafina (vue dans Crazy Rich Asians) et Zhao Shuzhen. Mais cette succession de scénettes apporte de la légèreté. On découvre aussi, avec les yeux de Billi, la ville de Changchun, énorme cité industrielle du nord-est avec 7 millions d'habitants. C'est gris, pollué, avec des groupes de tours d'habitation partout. Il n'y a plus de trace de la petite maison de famille, plus trace de l'enfance de Billi. A une autre échelle, c'est ce que j'ai pu ressentir en retournant sur les traces de mon enfance, quand des immeubles sans âmes ont remplacé les vieilles bâtisses.
 
@@ -16,6 +16,6 @@ Mais le film interroge sur la gestion de la maladie, cette différence culturell
 
 Un petit film qui arrive avec un "bouche à oreille" inédit et qui a conquis peu à peu les salles nord-américaine, puis mondiales. Il parlera à tous ceux qui oseront le voir. 
 
-[la video](https://www.youtube.com/watch?v=0jSvuaJbQ8s)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=0jSvuaJbQ8s)
 
 

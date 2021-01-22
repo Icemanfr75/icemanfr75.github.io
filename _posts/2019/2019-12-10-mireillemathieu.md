@@ -6,7 +6,7 @@ tags: 2010s, Chanson, Cinéma, mireille mathieu, Musique
 ---
 **Je cherchais un album pour rendre un hommage à la carrière de cette grande dame de la chanson. Et cette "compilation" me donne en plus l'occasion de parler de musiques de films, dont beaucoup m'ont enchantés.**
 
-![image](https://cheziceman.files.wordpress.com/2019/10/mireillecinema.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/mireillecinema.jpg)
 
 Alors j'en entends déjà dire que c'est une chanteuse ringarde, has been... Ce à quoi je répondrais que le jour où un chanteur à la mode actuellement aura le 10ème de sa carrière à international on pourra en parler. Car pendant plusieurs décennies, elle a représenté LA chanteuse française dans bien des pays, jusqu'en Chine et en Russie ou au Japon. Et pour l'avoir revu chanter récemment, je suis assez époustouflé de voir sa qualité vocale qui frise toujours la perfection. Et pourtant, je n'aime pas trop la perfection, on y reviendra. J'ai grandi avec des disques d'elle à la maison et je lui reconnais ce timbre, ce phrasé avec ce léger accent d'Avignon, bien plus prononcé quand elle parle. Je regrette juste qu'elle ait eu assez peu de chanson "personnelles" par rapport à tous les standards qu'elle a su magnifier. Et dans cet album réunissant 40 titres, il y en a des standards....
 
@@ -61,6 +61,6 @@ L'album fait la part belle à Francis Lai, Michel Legrand ou Maurice Jarre, ce q
 
 "Cinéma" n'est pas un album indispensable mais permet au moins de remettre cette artiste dans la lumière qu'elle n'a jamais vraiment quitté, même si ce n'était pas en France. 
 
-[la video](https://www.youtube.com/watch?v=MNdZ56T89qk)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=MNdZ56T89qk)
 
 

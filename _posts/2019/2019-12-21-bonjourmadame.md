@@ -30,6 +30,6 @@ On va donc se dire qu'on a de la chance. J'en connais qui voient cela comme une 
 
 Je lui dirai "Bonjour Madame", si son interlocuteur ne peut plus s'exprimer. Nous prendrons sûrement un café ensemble, nous veillerons. Nous pleurerons, nous rirons aussi parfois. Vous n'en saurez rien, de ce moment. Et à toi, lecteur, je ne te souhaite pas de la rencontrer de sitôt. Il y en a qui en ont peur, d'autres qui ont hâte de la retrouver. Je la prends comme une personne normale, avec juste ce goût vestimentaire singulier. Elle fait son job, elle le fait aussi bien que possible, avec parfois des excès de zèle. Je ne lui en veut pas...un peu plus quand ce sont des gamins qui trinquent. Elle a peut-être un.e chef.fe qui tire les ficelles, donne des ordres. Je n'ai pas envie de chercher des responsables à tout ça. On dit "c'est la vie"....Mais c'est qui d'ailleurs La Vie ? Jamais vue cette fille là. Si vous avez des indices pour la trouver, la décrire. Parce qu'elle, on pourrait lui causer aussi. Il y en a qui souffrent plus pendant sa présence que celle de la dame dont j'ai parlée tout cet article. Il y en a qui en font aussi des chansons. Pour l'instant, c'est la dame en noire (c'est quoi son prénom, Barbara? ) qui frappe à notre porte.
 
-[la video](https://www.youtube.com/watch?v=cCV84dTevX0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=cCV84dTevX0)
 
 
