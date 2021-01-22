@@ -14,4 +14,4 @@ Mais pourtant, pour l'originalité à l'époque, le graphisme très réussi (ah,
 
 Le jeu est aussi sorti sur l'Atari ST et l'Amiga, avec beaucoup plus de couleurs, évidemment ainsi que sur les machines 8 bits de l'époque.
 
-[la video](https://www.youtube.com/watch?v=IGesMYDoY5Q)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=IGesMYDoY5Q)

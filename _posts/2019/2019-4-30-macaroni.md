@@ -6,7 +6,7 @@ tags: 2010s, bd, belgique, biographie, immigration, italie, racisme
 ---
 **Voilà une histoire qui m'a vraiment touchée. Presque biographique, cette BD catégorisée "roman graphique" est une sorte d'hommage à cette génération d'émigrés italiens qui partirent travailler dans les mines du Nord et de Belgique. **
 
-![image](https://cheziceman.files.wordpress.com/2018/12/macaroni.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/macaroni.jpg)
 
 Inspirée de faits réels, d'un Ottavio qui a réellement existé, l'ouvrage est aussi préfacé par <a href="https://fr.wikipedia.org/wiki/Salvatore_Adamo">Salvatore Adamo</a>, qui y a retrouvé de lui-même. L'histoire ?
 
@@ -14,7 +14,7 @@ Inspirée de faits réels, d'un Ottavio qui a réellement existé, l'ouvrage est
 
 J'aime ce genre d'histoires, de transmission entre génération. Cela me rappelle parfois ma propre enfance, c'est vrai, notamment cette scène où le grand-père se confie à son petit fils. Il y a beaucoup de tendresse dans cet ouvrage malgré la dureté de l'histoire. Le dessin est beau, simple parfois mais met en valeur les personnages, leurs failles, entre l'innocence de l'enfance et les tortures du passés.
 
-![image](https://cheziceman.files.wordpress.com/2018/12/macaroni2.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2018/macaroni2.jpg)
 
 Et curieusement, si l'ouvrage m'a emporté, c'est à partir du moment où le petit Roméo parvient à mieux comprendre son grand père. J'ai du mal à en dire quelque chose sans trop en dévoiler car le secret gardé dans le tiroir de la commode n'est évidemment révélé qu'à la fin du récit. Il faut simplement se laisser porter par l'histoire. Curieusement, ça m'a aussi rappelé les ouvrages de <a href="https://cheziceman.wordpress.com/2013/06/09/bd-quitter-saigon-de-clement-baloup/">Clément Baloup</a> qui est parti sur les traces de ses ancêtres, au Vietnam. Il y a cette même recherche de ses racines, cette même volonté de transmission. 
 

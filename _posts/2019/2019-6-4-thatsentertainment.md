@@ -6,9 +6,7 @@ tags: 1940s, 1950s, 1970s, Cinéma, cinematheque ideale, comédie musicale, docu
 ---
 **Si vous voulez comprendre pourquoi je suis si sévère avec les comédies musicales récentes, si vous ne connaissez rien à cette période du cinéma hollywoodien, ou si comme moi vous êtes fan de danse, de Fred Astaire, etc... Ces trois films (le premier s'appelle Il était une fois Hollywood en français) sont des indispensables !**
 
-<!-- wp:image {"id":25144,"align":"left","width":315,"height":600} -->
-
-![image](https://cheziceman.files.wordpress.com/2019/01/thatsentertain.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/thatsentertain.jpg)
 
 Attention, les éditions Montparnasse ont sorti aussi un coffret avec le même nom et qui parle des films et stars de l'age d'or des studios. Ici, il s'agit d'un film de la MGM sur les comédies musicales essentiellement de la MGM avec les stars du studio. La trilogie n'a pas été éditée en français mais il est assez facile de retrouver des versions "en ligne", ou alors le coffret en DVD zone 2. Pour la VOD, je ne sais pas.
 

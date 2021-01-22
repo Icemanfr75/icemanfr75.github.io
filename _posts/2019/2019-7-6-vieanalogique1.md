@@ -11,7 +11,7 @@ Si je ne pratique plus aujourd'hui la photo argentique, faute de laboratoire pr�
 
 Je suis donc parti dans tous les sens, souvent avec des bribes, des numéros, des chiffres, des gribouillis infames. J'utilisais un crayon à papier pour cela et c'était la meilleure idée car après on peut corriger, remettre en forme. Mais après un an, je me suis dit qu'il fallait que je structure un peu tout cela, avec une trame, des mots clés, des symboles et puis surtout que le carnet à spirales quadrillé prenne du repos pour un support vierge, plus adapté à mes dessins, un papier qui absorbe mieux l'encre. J'ai donc cherché un autre support, ce qui m'a fait explorer les agendas et organiseurs rechargeables, ainsi que d'autres carnets.
 
-![image](https://cheziceman.files.wordpress.com/2019/05/timesystem.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/timesystem.jpg)
 
 *ça c'était avant et c'était vite le bordel quand même*
 
@@ -19,25 +19,25 @@ J'ai été un adepte des Time System et Exatime par le passé, avant les smartph
 
 Autant vous le dire tout de suite, je parle de la version originelle d'un designer new-yorkais Ryder Carroll et pas du truc infâme de toutes les blogueuses modes du net qui mettent des termes anglais partout sans les comprendre, qui ont une version plus proche du scrap booking et pas vraiment un outil de "productivité". Ici, donc, pas de pochoirs, de stickers, de feutres de couleurs dans tous les sens mais du brut, du fonctionnel, du noir et blanc. Le designer à l'origine de cette idée cherchait un moyen pour structurer ses idées, son travail car il souffrait de dyslexie légère et des problèmes d'attention et des amis ont trouvé cela intéressant. Il en a même fait un business depuis... avec une application en complément pour smartphone. Il faut en effet comprendre que ça ne peut pas supprimer définitivement le smartphone. C'est un outil d'organisation tout d'abord avec aussi pour objectif de l'amélioration dans sa gestion du temps.
 
-![image](https://cheziceman.files.wordpress.com/2019/05/bujo1.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/bujo1.jpg)
 
 *Un exemple de codification, différente de celle du concept de base*
 
 Dans Ma version, je n'ai pas jugé utile de trop axer sur l'agenda, le calendrier et les trackers, ces parties qui permettent un suivi de certains activités. Je n'ai pas, à ce jour, de longs projets qui pourraient le nécessiter mais ça peut être un besoin ponctuel sur un ou deux mois. L'intérêt est justement d'être souple et adaptable. Par contre j'ai conservé l'idée de l'index en début de carnet et des pages numérotées. J'ai aussi conservé l'idée d'un code pour les différents types d'écrits, que cela soit des tâches à effectuer, des questions, ou des informations. Chacun son truc mais j'ai pris la case à cocher pour l'action et le rond pour la question, le fait de le remplir montrant qu'on a répondu au sujet. Ces tâches se retrouvent ensuite dans une page dédiée pour chaque mois ce qui permet un suivi. J'ai aussi gardé l'idée des catégories pour des pages par thème. Je note ainsi des livres à lire, des idées à développer, de la santé, des trucs et astuces, etc...Et puis j'ai conservé quelques pages de références utiles pour les calculs, par exemple, notamment dans la métrologie. Je l'ai donc adapté à mon métier. Je me conserve aussi l'idée des pages de brain storming, là où je note par exemple un développement d'algorithme pour en comprendre la logique. C'est pûrement un brouillon. Et puis, contrairement à beaucoup de personnes qui font un truc propret, le mien est vivant, raturé, anoté. Le but est ensuite de faire un travail de synthèse derrière. De là à dire que ce n'est pas un BuJo, il n'y a qu'un pas.
 
-![image](https://cheziceman.files.wordpress.com/2019/06/img_20190608_1335532097044454.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/bujo2.jpg)
 
 *Ma version avec le support stylo juste à la bonne taille pour les poches... je l'ai consolidé sur la tranche, depuis, avec du scotch tissé*
 
 Mais pour le support, donc, je suis allé dans la recherche d'un carnet de taille A7 ou un petit A6, c'est à dire autour de 15cm de long. J'avais un 17cm de long cette année mais ça n'était pas toujours très pratique. Il faut y ajouter le stylo qui dont accompagner le carnet, ou bien le criterium. J'ai fait le choix d'un passant que j'ai trouvé sur le net, à coller sur la couverture de fond. D'autres utilisent des élastiques qui maintiennent le carnet ouvert. Comme le carnet que j'ai choisi, le ZapBook de Clairefontaine, n'en a pas, ça règle mon problème. A moins de 4 euros, c'est rentable pour 160 feuilles, alors que Leuchtturm (que je connais de ma période philatéliste) vend des produits à 15 euros avec un papier critiquable en plus. Et c'est du papier recyclé, fabriqué en France. Pour le stylo, je reste fidèle aux Pitt de chez Faber Castell, un compromis entre écriture et dessin avec plusieurs tailles possibles. L'encre est parfait pour les feuilles, pour moi. J'en utilise d'autres pour le dessin proprement dit, sur d'autres supports. A l'ancienne...
 
-![image](https://cheziceman.files.wordpress.com/2019/05/zapbookexemple.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/zapbookexemple.jpg)
 
 *ça pourrait donner ça après ...sauf que je renforcerai la tranche en plus*
 
 Partant de là, j'ai revu complètement mon vieux carnet en cours pour en extraire ce qu'il fallait afin de préparer la transitions. J'ai donc supprimé beaucoup de feuilles, de notes inutiles, déjà. J'ai remis au propre beaucoup de mes notes, restructuré les compte-rendus dont j'ai issu des tâches. La plupart ont été faites. Celles qui ne l'étaient pas ont été remises en forme sur une page mensuelle avec des questions associées. Et j'ai noté aussi ce qui devait être conservé, rajouté des choses utiles par rapport à des questions récurrentes auxquelles je n'ai pas de réponse. . C'est là qu'il faut se poser de bonnes questions : Que doit-on garder avec soi ? Quelles informations doivent être sauvegardées en numérique ? J'ai mis en place ma signalétique pour cette dernière question.
 
-![image](https://cheziceman.files.wordpress.com/2019/05/pitt.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/pitt.jpg)
 
 *Ils ne me payent pas mais entre le F et le M, mon coeur balance.*
 
@@ -45,7 +45,7 @@ Un carnet ça se perd aussi facilement qu'un smartphone. On évitera donc des do
 
 Je pars donc maintenant avec un outil qui me permet d'avoir du perso et du boulot dans la même poche, plus le smartphone qui conserve un intérêt pour la sauvegarde, les photos pour montrer, le GPS, la distraction, la recherche internet. A noter que je sépare bien l'agenda perso de l'agenda boulot. Le smartphone est exclusivement personnel pour ma part. Dans l'index, j'ai rajouté une notion de thématique aussi, ce qui n'est pas le cas chez tout le monde, mais je cherche encore la bonne formule entre mot-clé court, symbole, lettre, couleur, voir un système de colonnes. Un index ne suit pas forcément une logique très linéaire, ou très chronologique. Au fil de temps, je vais ajouter des catégories, j'en suis sûr. Un exemple, c'est la généalogie qui remplit beaucoup mes notes cette année passée. Je n'en fait que de manière ponctuelle, toutes les x années, x compris entre 1 et 5. Inutile donc de chercher quelque chose sur ce thème et là j'ai du mal à avoir une vision analogique des choses, tant le champ me paraît vaste. Je pense aussi que certains mettraient des hobbies comme le jardinage, par exemple avec les plantations, entretiens, etc. Le champ d'application est donc infini mais dépend surtout de sa propre capacité à s'organiser.
 
-![image](https://cheziceman.files.wordpress.com/2019/07/img_20190701_204632-011977098094.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/bujo3.jpg)
 
 *Avant ça donnait ça dans tous les coins...de page*
 
@@ -55,6 +55,6 @@ Mais pour aller au delà de cette simple organisation, il y a aussi des facteurs
 
 Je vais donc revenir pour un deuxième article qui montrera l'avancement des choses, des exemples plus concrets qu'ici.
 
-[la video](https://www.youtube.com/watch?v=tlFk6NIqHK0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=tlFk6NIqHK0)
 
 

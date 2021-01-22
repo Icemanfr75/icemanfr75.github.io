@@ -6,7 +6,7 @@ tags: 2010s, animation, chine, Cinéma, dessin animé, japanimation, modernité,
 ---
 **Ce film d'animation sino-japonais est en réalité l'assemblage de trois courts-métrages sur trois villes de Chine : Pékin, Canton et Shangaï. L'occasion aussi de redonner du sens à ces villes...**
 
-![image](https://cheziceman.files.wordpress.com/2019/05/flavors_of_youth.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/flavors_of_youth.jpg)
 
 Dans ce thème imposé, deux studios d'animation ont travaillé : CoMix Wave Films (<a href="https://cheziceman.wordpress.com/2017/11/24/cinema-your-name-de-makoto-shinkai-2016/">Your Name</a>...)  et Haoliners Animation (avec des antennes en Corée et Japon). Comme tout film à sketch, le résultat est inégal, même si ici, le traitement du dessin a de la cohérence. La première histoire va parler des nouilles San Xan, du Hunan, que l'on trouve aussi à Pékin. Le second va parler de la mode avec la fashion week de Canton et le troisième tourne autour de l'architecture à Shangaï. Mais tous ont un point commun : La Nostalgie de l'enfance ou de la jeunesse.
 
@@ -18,4 +18,4 @@ Dans la troisième histoire, c'est un amour de jeunesse plus classique avec les 
 
 Il n'y a pas que des happy end dans le film et tant mieux. Il y a de l'émotion malgré quelques ratages dans l'animation et des personnages qui manquent parfois de charisme. Mais autant pour le symbole de la collaboration sino-japonaise que pour des moments très réussis, j'ai apprécié l'oeuvre dans sa globalité. Elle nous ramène à notre enfance, malgré l'exotisme des lieux et prend alors bien plus d'universalité que l'on pourrait penser. 
 
-[la video](https://www.youtube.com/watch?v=9AqVZtlryqU)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=9AqVZtlryqU)

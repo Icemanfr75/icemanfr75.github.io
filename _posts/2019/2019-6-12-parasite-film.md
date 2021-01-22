@@ -12,7 +12,7 @@ J'avais laissé Bong Joon-Ho avec son Snowpiercer, un bon film qui montrait déj
 
 On ne sent pas vraiment venir la machination qui se trame dans ce film. On voit bien que cette famille galère pour joindre les deux bouts, tout en essayant de travailler (on peut y voir ici un parallèle avec <a href="https://cheziceman.wordpress.com/2019/05/08/cinema-une-affaire-de-famille-de-hirokazu-kore-eda-2018/">Une Affaire de Famille</a>...) mais que va pouvoir donner cette rencontre entre les riches et les pauvres. Une première machination s'installe et on se dit qu'on a compris ce qui allait se passer, que la falsification allait être découverte, etc... Mais non, tout ce Plan ne se déroule pas du tout comme prévu. Nous voilà plongé dans des fausses pistes et surtout dans l'envers du décor du miracle économique sud-coréen, un pays qui n'oublie pas la menace du nord, comme on peut aussi le découvrir.
 
-![image](https://cheziceman.files.wordpress.com/2019/06/parasite.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/parasite.jpg)
 
 Pour nous, occidentaux, la Corée, c'est des bagnoles, des téléphones, de l'électro-ménager, une sorte de Japon bis. On ne connaît que très peu de la situation politique, de la corruption endémique. On sait un peu plus que le système scolaire est assez proche du Japon dans son exigence et qu'il y a aussi un fort taux de suicide. Cela s'arrête à peu près là et voilà déjà un enrichissement qu'apportera le film : La société coréenne est très divisée entre une classe qui réussit et profite avec insouciance (ici les Park qui ne jurent que par l'Amérique et les produits européens) et une classe laborieuse qui fait tout pour survivre, jusqu'à vivre dans des caves, des entre-sols, sous des escaliers. Cette classe rêve des produits qu'elle contribue à fabriquer, érige le Wifi en dieu pour arriver à communiquer dans cette société numérique. Et paradoxalement, elle va utiliser cette société ultramoderne pour essayer de s'en sortir.
 
@@ -20,6 +20,6 @@ Le film est riche de métaphores, entre la pierre de collection et le jardin de 
 
 Il mérite donc sa palme pour moi, même si je le mets un cran en dessous de son prédécesseur japonais, sur une thématique qui reste proche. Je peux difficilement en dire plus sans dévoiler trop du film. Il y a pourtant beaucoup à discuter sur cette matière, ce sujet, la réaction du monde du cinéma qui est pourtant plus proche des Park que des Ki-taek. Ah si, il faudra trouver le lien qu'il y a entre Snowpiercer et ce film. Un indice, regardez le casting. 
 
-[la video](https://www.youtube.com/watch?v=Cq4Kd9v35GQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Cq4Kd9v35GQ)
 
 

@@ -16,7 +16,7 @@ C'était une période d'élections, donc de mensonges à n'en plus finir, de tra
 
 C'est aussi l'impression que beaucoup laissent tomber des causes, autour de soi. Moi même je ne participe plus à grand chose contre l'exploitation du vivant, la cause animaliste, sinon en soft power, par la force des choses, hélas. Car autour de moi, ça mange moins de viande, ça comprend peu à peu l'impact de notre consommation sur le vivant, l'eau, la pollution. Je vais me remettre à la tâche, parler de ces sujets. Il faut sans cesse vulgariser, faire comprendre, sans insulter, sans trop culpabiliser non plus car ça en bloque aussi. Et qu'importe si certains ne me lisent plus car ils ne veulent pas comprendre que le <a href="https://cheziceman.wordpress.com/2016/03/12/veganisme-et-media-qui-fait-du-proselytisme/">prosélytisme</a> n'est pas chez les vegans, où considère que le mot veut dire forcément extrémiste. A se refuser de réfléchir pour cela, on en devient con et ça va dans les deux sens. Je subis tous les jours, moi, de devoir tout vérifier, juste pour un choix éthique, d'être harcelé de publicités mensongères, d'annonces, d'articles sponsorisés par des lobbies, etc ... Mais du côté du logiciel libre je vois que le fossé se creuse aussi entre les extrémistes et les pragmatiques. Ces derniers ont l'air de disparaître, de laisser un peu tomber les solutions libres qui tardent à devenir fiables, adaptées aux outils d'aujourd'hui. J'aurai l'occasion d'en reparler très bientôt. En attendant, même si j'ai fait quelques choix de conservation de solutions propriétaires, je reste un partisan du libre, surtout en vivant tous les jours les blocages de solutions fermées à mon travail. C'est d'autant plus important quand les filiales françaises de société n'ont le droit de rien sur leur produit. Là aussi, un autre débat. 
 
-![image](https://cheziceman.files.wordpress.com/2019/05/nasopen.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/nasopen.jpg)
 
 *J'y peux rien, je suis allergique à cette marque...*
 
@@ -30,6 +30,6 @@ C'est justement la période où je me trouve des défis pour l'année à venir. 
 
 Dans ce billet qui ne cause en théorie qu'aux personnes qui écrivent, se filment, parlent et perdent un peu le fil, l'envie, je parle plus généralement d'une passion qui nous anime, nous guide. Cela aurait pu être du sport, un sport où je me donnerait à fond et qui à un moment m'ennuie, cesse de me motiver à aller à l'entrainement. Cela aurait pu être un métier aussi où à un moment on ne sait plus ce que l'on vient faire, où on a besoin d'un break, de repenser... Souvent, il y a des évènements extérieurs et on en devient plus irritable, aussi. Je l'ai vu chez des collègues, parfois, essayer de leur faire réaliser leur dérive. Pas évident de le réaliser par soi-même, n'est-ce pas, ou d'écouter ceux qui s'inquiètent autour de nous. Et puis ça repart, malgré tout le constat fait auparavant, qui ne change pas beaucoup. Des blogs, des lecteurs, des matériels, des amis, des enemis, etc.... ça va, ça vient. Finalement, c'était là l'essence de ce billet.
 
-[la video](https://www.youtube.com/watch?v=z0wK6s-6cbo)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=z0wK6s-6cbo)
 
 

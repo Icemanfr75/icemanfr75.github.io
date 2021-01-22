@@ -8,7 +8,7 @@ tags: antigaspi, lifestyle, pratique, tutoriel
 
 Il s'agit d'un petit outil dont j'ai découvert l'existence en Allemagne pour les tubes de dentifrice. Ce presse-tube ou pince à tube va permettre de presser le tube de votre choix par le bas puis de le rouler peu à peu pour ne pas en perdre une goutte ou un gramme. C'est tellement pratique qu'on se demande pourquoi on n'en trouve pas partout. J'ai un peu cherché pour en trouver en France et au prix que ça coûte (moins de 3 euros) je suis allé sur de la fabrication chinoise, malheureusement.
 
-![image](https://cheziceman.files.wordpress.com/2019/07/pincedentifrice.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/pincedentifrice.jpg)
 
 Comme pour les ouvre-boites, difficile de trouver encore du made-in-france dans ce genre de domaine. Pourtant, il suffirait d'une tige pas trop épaisse, fendue dans sa longueur, d'une soudure pour faire la clé et c'est parti. Le chromage à 2 balles bien polluant, on peut vraiment s'en passer. Donc avis aux amateurs un peu bricoleurs pour reproduire cet objet rigoureusement indispensable, car maintenant, Madame ne peut plus me dire "mais c'est trop dur à presser"....
 

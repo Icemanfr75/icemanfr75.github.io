@@ -6,7 +6,7 @@ tags: 1980s, 2010s, afrique, afrobeat, Disco, funk, Musique, reggae, somalie, wo
 ---
 **Si cet album (disponible sur Bandcamp) est estampillé 2018, en réalité, c'est un retour dans les années 80. Il s'agit de la retranscription numérique de cassettes sorties par ce groupe dans les années 80-86 environ et faite par le projet <a href="https://analogafrica.bandcamp.com">Analog Africa</a>, un label allemand qui s'est spécialisé dans la réédition de musique africaine "vintage".**
 
-![image](https://cheziceman.files.wordpress.com/2019/01/durdurband.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/durdurband.jpg)
 
 Nous voilà transportés dans la Somalie des années 80. Pour nous, ce pays est synonyme de guerre. De la fin des années 70 à aujourd'hui, le pays a basculé peu à peu dans un chaos inextricable, faisant de Mogadiscio l'une des villes les plus dangereuses au monde. Mais avant cela, c'était aussi un pays prolifique au niveau musical sachant mêler les sonorités africaines aux musiques en vogue ailleurs. C'est le cas de ce groupe, Dur-Dur Band à ne pas confondre avec Dur-Dur Band International London, un revival plus tardif.
 
@@ -16,6 +16,6 @@ Cela nous rappelle aussi le problème de la diffusion de la musique en Afrique a
 
 L'éditeur a fait appel à un des anciens membres pour créer un livret racontant l'histoire du groupe. Les membres sont disséminés dans le monde ou décédés pendant les nombreux conflits du pays. Mais ce double-album permet de prolonger un peu plus la vie du groupe et de regarder avec tristesse et nostalgie la Somalie... Mais aussi avec espoir d'un retour au calme. 
 
-[la video](https://www.youtube.com/watch?v=J1YaflvI0xM)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=J1YaflvI0xM)
 
 

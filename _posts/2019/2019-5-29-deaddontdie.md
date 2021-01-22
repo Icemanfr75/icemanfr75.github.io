@@ -8,7 +8,7 @@ tags: 2010s, Cinéma, consommation, décalé, Film, horreur, humour
 
 J'ai bien dit cinéphilie, pas nécrophilie, bande d'obsédés ! Car j'ai vu tous ses films de Stranger than paradise à Ghost Dog et je m'en veux un peu, je l'avoue, d'avoir raté quelques opus depuis. Mais il n'y a pas forcément de style Jarmusch évident, quand on compare un "Night on earth" à "Dead man"... Et surtout à celui-là, une incursion dans le film de zombies. Nous voilà donc dans la petite bourgade typique de l'Amérique profonde, Central city la bien nommée. La nuit ne se couche pas. La terre a dévié de son axe à cause des forages pétroliers dans les pôles. Et les animaux disparaissent soudainement, les montres et smartphones s'arrêtent, ... Et les morts se réveillent. Nous suivons 3<a href="https://en.wikipedia.org/wiki/Police_officer"> cops</a> bon teint (Bill Murray, Adam Driver, Chloe Sevigny) qui tentent de comprendre
 
-![image](https://cheziceman.files.wordpress.com/2019/05/deaddontdie.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/deaddontdie.jpg)
 
 Tout cela pourrait être une enième série Z ... comme zombie mais avec Jarmusch, il y a une certaine nonchalance, un flegme parfaitement incarné par Bill Murray. Un film avec Bill Murray est forcément un bon film, déjà, même à ses débuts... pour sa présence. Ici, il y a une ambiance, pas forcément pesante comme un <a href="https://fr.wikipedia.org/wiki/Slasher">slasher-movie</a>, mais étrange, incertaine. C'est une atmosphère de fin du monde, c'est vrai, silencieuse, attentiste. On a même la lune qui va avec. Les effets ne sont pas toujours maîtrisés mais c'est volontaire. Il y a un enchainement de clins d'œil (j'ai décidé d'en mettre qu'un, car les cadavres n'ont qu'un yeux, c'est connu) à ce genre, à des personnages très clichés, de la bimbo au beau gosse blond, au meilleur ami black qui meurt en premier. Mais il y a aussi ces personnages secondaires typiques de Jarmusch, comme ce Steve Buscemi loser redneck, raciste plus par provocation que conviction. Adam Driver trimballe sa grande carcasse dans un véhicule totalement innatendu... Effet comique assuré. Et pour la musique, mettez Tom Waits, RZA et Iggy Pop en presque cameo, et un titre récurent : La musique du film, quoi... (oups, j'ai oublié Selena Gomez, la pauvre...)
 
@@ -16,7 +16,7 @@ Ce film fera un flop malgré le casting (content d'avoir vu Rosie Perez, tiens..
 
 J'ai pris du plaisir à le voir, même si ce n'est pas un grand Jarmusch ou le film de l'année. Plus un film de potes, pour le réalisateur qui se lâche (dans la salle, nous étions... 5 par contre). J'aime cet humour, ces personnages, ce sentiment d'être toujours surpris et pris à contre-pied. J'ai presque pensé à<a href="https://fr.wikipedia.org/wiki/John_Waters_(réalisateur)"> John Waters</a> pour le délire ressenti. Il y a de la facilité, quelques longueurs mais si vous adhérez, ça marche. Sinon, vous ne tiendrez pas une demi-heure et irez vous taper un film de super-héros pré-mâché et aseptisé. Pour ma part, je pourrais m'étendre sur pas mal de détails, mais ça gâcherait un peu le spectacle. Alors soyez curieux et allez-y ... à jeun. Un petit café, Iggy ? ...juste un doigt.
 
-[la video](https://www.youtube.com/watch?v=ETFwCDQULOE)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=ETFwCDQULOE)
 
 "C'est peut être un animal sauvage ? Ou plusieurs animaux sauvages ? "
 

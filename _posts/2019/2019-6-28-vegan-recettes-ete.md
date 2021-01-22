@@ -12,19 +12,19 @@ tags: cuisine, Culture, lifestyle, végétarien, végétarisme, vegan, veganisme
 
 Si une pâte brisée n'est pas forcément difficile et longue à préparer, on peut toujours avoir recours à de la pâte toute faite pour s'en sortir. Pour le reste, un peu de Tofu (soyeux ou pas) pour l'appareil avec de la fécule de mais, par exemple, et vous avec un large panel de légumes possibles dans votre quiche : Bette, poivron, brocoli, concombre, courgette. On peut ajouter une pointe de curcuma pour que l'appareil soit un peu plus joli et goûtu, ainsi que des herbes aromatiques. En plus ça peut se manger chaud, froid, tiède.
 
-**Au Four / Barbecue**
+### Au Four / Barbecue
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Plusieurs_vari%C3%A9t%C3%A9s_d%27aubergines.jpg/220px-Plusieurs_vari%C3%A9t%C3%A9s_d%27aubergines.jpg)
 
 Il suffit d'un filet d'huile d'olive, d'un peu d'herbes aromatiques pour profiter de ces légumes de saison très simplement. Les aubergines, courgettes, poivrons sont excellents à faire griller, justement au four ou au barbecue. On peut aussi en faire des brochettes en jouant sur les couleurs, en intégrant de petits morceaux de Tofu, ou de Saucisses de soja/blé, par exemple. Sinon, on peut utiliser aussi l'aubergine grillée pour faire un petit caviar d'aubergine que l'on pourra tartiner.
 
-**De l'Exotisme**
+### De l'Exotisme
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bun_Bo_Nam_Bo.jpg/280px-Bun_Bo_Nam_Bo.jpg)
 
 Il y a quelques plats asiatiques ou apparentés qui peuvent se réaliser très facilement. Ainsi, j'ai trouvé du chou Kimchi coréen tout fait et sans anchois (ça se fabrique aussi facilement avec carottes, chou chinois, piment rouge en poudre...). C'est ce qu'il faudra à la base d'un Bibimbap, plat plutôt à la mode. Si j'aime ça avec des algues, des champignons émincés, on peut aussi mettre des haricots, des épinards, qui sont de saison, et on peut éventuellement se passer de l'oeuf. Les variantes sont nombreuses et il faut jouer avec couleurs, croustillant, etc. Même chose pour le Pokebowl <a href="https://fr.wikipedia.org/wiki/Poke_(plat)">hawaien</a>, aussi à la mode et qui utilise une grande variété d'ingrédients. Inutile de passer par l'Edamame si vous n'en trouvez pas, on peut mettre du petit-pois, de la fêve, sans oublier un petit tofu mariné et revenu à la poêle. Je pourrais aussi parler du Bo Bun vietnamien, avec un peu de concombres en plus des ingrédients habituels, sans forcément de Cha Gio (nems) végétariens en plus.
 
-**De la Couleur**
+### De la Couleur
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ratatouille_001.jpg/280px-Ratatouille_001.jpg)
 

@@ -14,7 +14,7 @@ La particularité de l'application est de ne pas envoyer de données à qui que 
 
 Pas de compte google, ça veut dire aussi pas de commentaires, pas de like ou dislike. Franchement, on s'en passe <a href="https://cheziceman.wordpress.com/2018/04/28/blog-halte-aux-like-jaime-coeur-etoile-vive-les-mots/">plutôt bien</a>, surtout vu le niveau des commentaires sur ce réseau. En fait, vous pourriez également utiliser Youtube avec votre navigateur préféré, si ce n'est qu'il y a des espions sur ce site et que pour avoir des abonnements, il faut être connecté. Donc ici on a les abonnements, sans le compte Google.
 
-![image](https://cheziceman.files.wordpress.com/2019/06/downloadapk.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/downloadapk.jpg)
 
 *Cliquez sur Download APK et pas sur Download FDroid, pour avoir l'application (pas là, c'est une photo!!)*
 

@@ -8,7 +8,7 @@ tags: 2010s, Cinéma, drame, famille, japon, pauvreté, société, cinematheque 
 
 Pourquoi voir ce film ? L'histoire est atypique : Une famille vit de boulots mal payés et de vols à l'étalage (le titre original japonais est plus explicite). Au retour d’un nouveau larcin, Osamu et son fils recueillent dans la rue une petite fille qui semble livrée à elle-même. D’abord réticente à l’idée d’abriter l’enfant pour la nuit, la femme d’Osamu accepte de s’occuper d’elle lorsqu‘elle comprend que ses parents la maltraitent. En dépit de leur pauvreté, les membres de cette famille semblent vivre heureux autour d'une mamie, dans une vieille maison entourée d'immeubles qui attise les spéculateurs immobiliers – jusqu’à ce qu’un incident révèle brutalement leurs plus terribles secrets…
 
-![image](https://cheziceman.files.wordpress.com/2019/05/shoplifters.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/shoplifters.jpg)
 
 *Je préfère le titre français, mais l'affiche américaine*
 
@@ -18,6 +18,6 @@ Le film est tendre, à fleur de peau, avec la tension palpable d'une famille qui
 
 Un film qui interroge donc sur la notion de famille, sur les liens du sang, dans notre monde moderne qui oublie simplement le relationnel, la tendresse, l'amour pour des sentiments préfabriqués et la possession de biens. La petite Rin ne dit-elle pas " ma maman était gentille, elle m'achetait des robes neuves"...Mais elle la battait ensuite. Tous les personnages ont un passé dramatique et se retrouvent justement à se soutenir mutuellement dans ce cocon fabriqué par eux-même, cette famille qu'ils ont choisie. Un film rare, qu'il faut prendre le temps de découvrir, loin du rythme fou des blockbusters de gens encapuchés à capes. Et aussi une immersion dans un Japon très différent des cartes postales, pour ceux qui aiment ce pays. 
 
-[la video](https://www.youtube.com/watch?v=Oy2rhcEbrAU)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Oy2rhcEbrAU)
 
 

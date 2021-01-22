@@ -8,13 +8,13 @@ tags: écologie, économie, banque, environnement, finance, Réflexion
 
 Alors je suis allé voir la dernière étude en date, celle d'Avril de <a href="https://www.ran.org/bankingonclimatechange2019/">RainForest Action Network</a>, par exemple et j'ai comparé à une étude plus ancienne que je connaissais. Il s'agit des investissements dans le charbon et les hydrocarbures, ce qui comprend donc mines à ciel ouvert, gaz de schiste et toutes ces saloperies qui prolongent le modèle carboné qui est en train de nous tuer. . 
 
-![image](https://cheziceman.files.wordpress.com/2019/04/bankclimate.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/bankclimate.jpg)
 
 *Le palmarès des pires banques il y a quelques années, avant que le greenwashing ne passe. en Millions d'Euros*
 
 Et donc maintenant, ça donne ça : 
 
-![image](https://cheziceman.files.wordpress.com/2019/04/bankclimate2019.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/bankclimate2019.jpg)
 
 Nous sommes bien loin des discours sur l'investissement vert des grands groupes et c'est même pire qu'avant. Ce qui ne change pas, c'est la présence de trois groupes français dans ce pire des banques (avec d'autres européens, beaucoup d'américains, de chinois). Ce qui ne change pas heureusement, c'est que ma banque n'est pas dedans mais malgré cela, il doit y avoir un impact dans ses investissements. Et seule consolation, le montant total ne progresse pas entre 2017 et 2018. 
 
@@ -25,13 +25,13 @@ Dans notre **monde capitaliste**, il faut que nos économies fructifient au mini
 Alors j'ai choisi de **faire un compromis**, entre du sûr pour ce qui est d'un crash boursier, du disponible au cas où et qui n'investisse pas trop dans des saloperies polluantes. Après, il y a de plus en plus d'offres bancaires "vertes" comme la NEF, par exemple. Mais l'expérience online est déplorable d'après ce que je lis, et question frais, ce n'est pas non plus le top. Encore du compromis à faire... mais j'ai tendance à penser que tous les services sont de plus en plus déplorables quelque soit la Banque. J'en parlais à ma conseillère l'année dernière, qui convenait elle-même que le "back-office" n'assurait plus comme avant.
 
 
-![image](https://cheziceman.files.wordpress.com/2019/04/capture.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/capture.jpg)
 
 Je dirai que l'on va être dans **le choix du moins pire** dans ce domaine. Car au delà du compte-courant, je me pose beaucoup de questions sur les autres placements, surtout quand on propose des plans en actions sur des boîtes qui ne gagnent pas que sur le terrain industriel mais aussi dans leur activité bancaire, notamment via intéressement et participation. Oui, problème de riche, dirait-on car tout le monde n'a pas droit à cela. La majorité a plus de mal à finir les fins de mois que de choisir un placement, et paye... des frais bancaires pour les découverts. Et puis, que veut dire investir dans du renouvelable, finalement ? Le terme est tellement mis à toutes les sauces que l'on ne sait plus vraiment ce qu'il y a derrière. 
 
 Récemment, je voyais un reportage sur **les éoliennes** : Le vent c'est non polluant mais malheureusement, l'installation d'une éolienne pollue... le visuel au moins. Bon, soit... mais c'est aussi un problème en durée de vie de l'installation, à peine 25 ans et personne ne sait comment recycler des pales en composite qui vont larguer des polluants un peu partout car il faut déjà avoir la volonté de la démonter, déplacer les morceaux... Pourtant, l’article L 553-3 du Code de l’environnement, précise que l’exploitant d’une éolienne est responsable de son démantèlement et de la remise en état du site. En plus de cela, on s'aperçoit que les raccordements au réseau sont souvent mal faits avec des "fuites" électriques, des défauts d'isolement qui provoquent aussi des morts inattendus chez des animaux. Difficile à prouver quand on sous-traite au plus offrant et que le métier d'EDF a été disloqué en autant de sociétés et risque de l'être encore plus pour le nucléaire . Je connais justement bien le massacre dans le nucléaire, de l'intérieur, et dans l'installation des compteurs Linky (sous-traitance de l'installation jusqu'à l'impossible) pour être méfiant sur le sujet. Le solaire ? Oui, bonne idée aussi, à condition que la fabrication des cellules et l'entretien soient prises en compte avec. Malheureusement, c'est fait à bas-coût en Chine avec des polluants, peu de social. Un peu comme la voiture électrique qui décale la pollution où on ne la regarde pas, nous avons tendance à nous voiler la face et ne pas penser global, terrien. Mais ce n'est pas une raison pour ne rien faire, bien au contraire. Si déjà on arrive à passer ce pic de charge électrique qu'on va créer en ne continuant de consommer comme avant mais en électrique, ça sera déjà pas mal...Personnellement, je vois la catastrophe arriver et je pense déjà à autre chose que l'électrification. Et en plus l'industrie du recyclage se fout de notre gueule, et balance le <a href="https://asialyst.com/fr/2019/04/27/recycles-non-dechets-plastiques-inondent-asie-sud-et/">tas de déchets ailleurs</a>.
 
-![image](https://cheziceman.files.wordpress.com/2019/04/screenshot_2019-04-12-18-05-21-265_com1536331202.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/bankfric.jpg)
 
 A force de penser source d'énergie, on oublie tout simplement de** faire évoluer son comportement**. Quelque soit la source d'énergie, le but n'est pas de consommer toujours autant, mais de devenir plus économe. En ce moment, les augmentations de gaz et d'électricité nous y pousseraient mais mes baisses de consommation compensent à peine les augmentations de tarif. Isoler ça reste plus cher que ce que l'on gagnera en coût probablement sur ce qui nous reste à vivre, mais c'est malgré tout un bon geste pour la planète. Je viens en fait de donner le cœur du problème : être réellement plus économe énergétiquement, c'est rarement rentable pour soi. Mon voisin qui a son poêle à bois qui me pourrit l'atmosphère est peut-être rentable mais c'est une infection dehors et j'hésite à ramener un compteur de particules de mon travail ! Après tout, le bois repousse, ça vient d'à coté, ça peut se discuter. Mais maintenant je vais certainement devoir entamer un ravalement sur la maison et je réfléchis évidemment à l'ampleur de la tâche. J'ai fait une estimation de ce que je coûte à la planète et ce n'est pas très joli. 80% vient de la consommation en énergie et encore j'essaie quand même de limiter mes déplacement, surtout en avion, et je ne mange pas de viande. 
 
@@ -49,6 +49,6 @@ Mon fric ne sent peut-être pas trop la fin du monde ou plutot de NOTRE monde (l
 
 (*): Il n'a pas fallu plus d'une semaine, par contre, pour sortir une**loi s'exonérant des contraintes environnementales**pour rebâtir Notre-dame et massacré le patrimoine. Ne vous trompez pas d'écologie.
 
-[la video](https://www.youtube.com/watch?v=P-7ynm24nhU)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=P-7ynm24nhU)
 
 

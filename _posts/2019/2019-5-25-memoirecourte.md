@@ -16,7 +16,7 @@ Tout est parti d'une vidéo qui montrait une "frappe chirurgicale", des enfants 
 
 Au delà de ce cas, cela m'a ramené à **des idéaux d'enfance**, à ma vision naïve du monde et j'ai décrit par ailleurs ce que j'avais pu ressentir dans cette période chahutée, une partie de mon évolution vers l'âge adulte. Les enfants veulent être pompier, cosmonaute, infirmier/ère, docteur, etc... Mais la réalité des études ramène aussi  à d'autres rêves, autant que la pression sociale, parentale. J'en discutais avec ma dentiste qui parlait d'une vocation née avec son propre dentiste et qui l'a guidée vers cette spécialisation alors qu'elle aurait pu aspirer à de la chirurgie, dans un cursus  de médecine plus classique. Elle est restée fidèle à son rêve, sans chercher gloire, fortune, mais plutôt la manière dont pratiquait son "mentor". J'ai la chance d'avoir finalement réussi à intégrer un de mes rêves de jeunesse, même si tout n'est pas conforme à ce que j'imaginais. Beaucoup d'autres n'ont pas cette chance mais je me souviens aussi de tout ce que j'imaginais pour avenir, ne sachant surtout pas quel métier mettre en face, donc quelles études. 
 
-![image](https://cheziceman.files.wordpress.com/2019/05/enlc3a8vement-enfant-argenteuil-854x641722041189..jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/enfantargenteuil.jpg)
 
 *Je viens de là...*
 
@@ -40,4 +40,4 @@ Les évènements récents autour de Firefox et de la fondation Mozilla m'ont aus
 
 Là encore, **les "pères fondateurs" du Web ou même du logiciel libre**, avaient une certaine vision des choses, souvent utopique et puis ils ont vu cela leur échapper. Parfois c'est de leur faute, souvent c'est comme <a href="https://fr.wikipedia.org/wiki/Robert_Oppenheimer">Oppenheimer</a>, Einstein, Nobel, ... une dérive politique ou économique qui a utilisé des découvertes, un endoctrinement de l'époque, un manque de vision du mauvais côté de la nature humaine. Si la mémoire est courte pour beaucoup, l'imaginaire de l'enfance n'a pas encore la vision de la nature humaine pour comprendre la vanité de certains idéaux. Tant mieux, car sinon, nous nous interdirions de rêver, d'avoir la possibilité de retrouver cette part d'enfance, d'utopie, de bon. Tenez, là, j'ai un rêve : Que chaque personne qui lit ces quelques lignes prenne le temps de repenser à ses rêves de jeunesse et ses idéaux et les confronte à ce qu'il est aujourd'hui, juste pour se dire que tout n'est pas joué, qu'on peut encore changer. C'est même ce qui nous fait avancer à nouveau et non nous enfermer dans le confort factice que l'on nous sert. Pour ma part, j'arrive encore à repenser de manière cyclique, à me forcer à plus de sagesse, mais il y a encore tellement d'écarts, de rêves non réalisés aussi. Que la vie paraît courte soudain, que la mémoire paraît lointaine.
 
-[la video](https://www.youtube.com/watch?v=MWoQW-b6Ph8)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=MWoQW-b6Ph8)

@@ -7,7 +7,7 @@ tags: 1970s, Dahmane El Harrachi, Musique, world
 
 **Dahmane El Harrachi, c'est un peu l'artiste maudit de la musique <a href="https://fr.wikipedia.org/wiki/Chaâbi_algérien">Chaâbi</a>, une sorte d'équivalent de <a href="https://fr.wikipedia.org/wiki/Robert_Johnson">Robert Johnson</a>. Jamais connu de son vivant, ou si peu, c'est après sa mort qu'on a chanté ses chansons et ses louanges...**
 
-![image](https://cheziceman.files.wordpress.com/2019/04/dahmaneelharachi.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/dahmaneelharachi.jpg)
 
 Car en réalité, j'ai déjà parlé de lui lorsque j'ai fait un article sur le regretté <a href="https://cheziceman.wordpress.com/2018/09/12/musique-rachid-taha-tekitoi-2004/">Rachid Taha</a>. Je discutais de musique avec mon collègue franco-algérien Saïd qui me disais d'écouter d'autres choses de Dahmane El Harrachi. Mais difficile de trouver des albums de ce musicien. Son fils Kamel parvient difficilement à faire vivre la mémoire de son père. Je pense pourtant qu'<a href="https://fr.wikipedia.org/wiki/Dahmane_El_Harrachi">il inspirerait</a> un bon film, tant sa vie a été tumultueuse. Artiste maudit car Ya Rayah a été plus populaire après sa mort avec d'autres chanteurs et en en lisant les paroles traduites, j'ai compris pourquoi elle m'avait touché, comme tant d'autres. C'est la magie de la musique qui fait passer l'émotion même sans comprendre le texte. 
 

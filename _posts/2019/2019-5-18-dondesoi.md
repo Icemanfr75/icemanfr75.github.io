@@ -30,6 +30,6 @@ Se pose alors la question du **coût de ce test**, puisqu'on nous dit toujours d
 
 Dans le cas présent, le **manque d'implication** de chacun est **un coût**. Quand j'entends dire de la part de personne de l'équipe projet que je "m'implique beaucoup", je ne le prends pas comme un compliment, mais comme une anomalie, car eux, je ne les vois pas beaucoup participer, ou sinon se reposer sur la personne stagiaire/en alternance. Sans doute les outils ne sont pas les plus pertinents pour avoir cette implication mais sur le fond, ça ne changerai pas. Il faut avoir une carotte au bout pour que les gens participent. La date butoir est fixée, sans changement. J'aurai formé tout le monde à cette date pour que ça tourne. J'ai des idées d'automatisations pour simplifier le fonctionnement, parce que j'ai l'expérience de tous les postes de ce "processus" maintenant mais je sais qu'on en a encore pour 3 ans à faire tomber les réticences, à faire bouger un développeur extérieur qui lui aussi à d'autres priorités que notre mode de fonctionnement. Et puis une bonne partie de l'équipe projet est ou sera à la retraite d'ici là, sans même parler d'un tiers de mes utilisateurs. Alors le don de soi risque encore de se transformer en don de moi...
 
-[la video](https://www.youtube.com/watch?&amp;v=SqayDnQ2wmw)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?&amp;v=SqayDnQ2wmw)
 
 

@@ -6,7 +6,7 @@ tags: 2010s, Cinéma, documentaire, Film, politique, social
 ---
 **Hasard du calendrier, je suis allé voir ce film juste avant le discours prévu de Jupiter. Hélas, une catastrophe a reporté ce dernier mais le film est resté... Parce qu'il est surtout fait pour laisser une trace, un témoignage du mouvement des Gilets jaunes.**
 
-![image](https://cheziceman.files.wordpress.com/2019/04/jveudusoleil.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/jveudusoleil.jpg)
 
 En effet, sous ce titre qui fleure bon l'optimisme et qui reprend le titre de la chanson d'<a href="https://fr.wikipedia.org/wiki/Au_p'tit_bonheur">Au P'tit bonheur</a> (1991 déjà...) , il s'agit d'un documentaire engagé où le député insoumis Ruffin parcourt les ronds-points à la rencontre de ces révoltés. Après son "Merci Patron", François Ruffin, déjà fondateur du magazine satirique Fakir, se positionne comme une sorte de <a href="https://fr.wikipedia.org/wiki/Michael_Moore">Michael Moore</a> à la picarde. Il se met en scène (ici avec l'aide de Gilles Perret) . On sait ce que l'on va voir, c'est à dire un film social et militant, ancré bien à gauche mais qui ne se voudra pas pour autant larmoyant. On aime ou on déteste.
 
@@ -18,6 +18,6 @@ C'est bien un témoignage, celui du mouvement mais aussi celui d'une réalité o
 
 On peut avoir l'impression d'avoir tout entendu et vu pendant ces 6 mois. Il y a évidemment des approches simplistes dans le film, mais n'y-a-t-il pas la même chose en face justement et cela constamment à coup d'éditocrates omniprésents. C'est un film qui vient justement contrebalancer le propos dominant et donne des éléments de compréhension. A ceux qui reprochent le manichéisme du propos, je répondrais que nous sommes justement dans un moment où l'on ne cesse de nous opposer, dont justement ce président qui, dans les élections européennes qui arrivent, demande de voter pour lui ou le chaos. Ce n'est pas un hasard si c'est un cinéma d'art et d'essai qui le programme pendant 3 semaines quasiment chaque jour vers chez moi, car le cinéma n'est pas que distraction. Alors pour ceux qui ont encore à coeur de comprendre la complexité du monde...
 
-[la video](https://www.youtube.com/watch?v=jIMlyh8JjBk)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=jIMlyh8JjBk)
 
 

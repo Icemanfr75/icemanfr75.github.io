@@ -8,7 +8,7 @@ tags: blog, flux rss, Geopolitique, information, Réflexion
 
 Déjà, j'avais craqué en reprenant un abonnement au Monde Diplomatique, même si c'est en numérique cette fois. Je ne suis pas forcément content de l'orientation trop française prise par le périodique mais il y a quand même encore suffisamment de fond sur le reste du monde pour que je sois intéressé...mais finalement je n'ai pas poursuivi l'expérience. Le périodique est devenu trop orienté par rapport à ce que je cherche. Par contre, je lis assez peu les autres titres généralistes de la presse française, même pour des dépêches. Le Canard Enchainé, parfois mais il n'y a pas de flux RSS ou d'abonnement numérique. J'ai laissé tomber le Courrier International il y a quelques années, pour la nouvelle orientation prise après le départ d'Alexandre Adler (qui est pourtant à l'opposé de mes opinions). Les magazines c'est autre chose, comme la Revue Dessinée et ses excellents reportages. Ils donnent justement à voir ce que l'on ne traite pas ailleurs. La presse se recopie trop dans chaque pays alors autant chercher la différence.
 
-![image](https://cheziceman.files.wordpress.com/2019/07/revuexxi.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/revuexxi.jpg)
 
 *Le meilleur des mondes serait-il dans le trimestriel ?*
 
@@ -24,7 +24,7 @@ La tendance n'est pas nouvelle : Les flux RSS deviennent rares, ou sinon il n'y 
 
 Beaucoup de journaux mettent les articles en accès sur un temps très court, puis les mettent réservés aux abonnés. Les dossier plus fouillés sont aussi réservés et cela me paraît normal : Il faut attirer mais ne pas trop donner. Le flux RSS est parfait pour cela et permet de suivre, de faire le tri avec (selon l'outil), la possibilité de marquer les articles d'intérêts pour les lires plus tard ou creuser un peu plus un sujet en allant voir des dossiers, des sources plus documentées. Notez que je n'utilise plus Wallabag, Pocket etc... Si je ne lis pas dans la journée, je ne lirai jamais, ou trop tard, malheureusement. Et comme j'ai déjà beaucoup de choses à lire, je me limite à un petit feuilletage de flux, souvent orienté sur un ou deux thèmes dans la journée pour me focaliser ensuite sur ce sujet. C'est quand même mieux que de se coltiner les réactions sur le changement de nom de la ligue de football ou le dernier match de NBA sur les réseaux sociaux. Bon, ok, chacun ses goûts...Quand je vois que Mozilla envisagerait de faire une version payante de Firefox pour éviter la publicité sur les sites des journaux, je me dis vraiment que je ne vis pas dans le même monde. Encore un projet du Panda roux qui sent le sapin. 
 
-![image](https://cheziceman.files.wordpress.com/2019/06/carte.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/carte.jpg)
 
 *Mercator 1587*
 
@@ -40,4 +40,4 @@ Donc, maintenant, j'ai l'impression d'être encore un peu chargé d'informations
 
 Le temps long, ça reste quand même le secret. Et puis pendant que j'y suis, je réfléchis très sérieusement à la suppression de quelques rubriques, après 6 à 8 mois d'essais sur ce blog. Je ne trouve pas que la qualité y est au niveau du reste. Certains essaieront de me persuader du contraire, mais je suis très autocritique, sans doute trop, puisque j'ai tant de fois sabordé le navire. Donc là aussi, je vais me concentrer sur l'essentiel, ce qui m'intéresse le plus finalement. L'écriture, la lecture, ... La nouvelle formule arrivera en douceur en Septembre. Bonnes vacances, pour ceux qui y sont ou y seront prochainement. Ici, ça ne ferme jamais vraiment.
 
-[la video](https://www.youtube.com/watch?v=M9BNoNFKCBI)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=M9BNoNFKCBI)
