@@ -8,7 +8,7 @@ tags: 1970s, Cinéma, cinematheque ideale, dystopie, eugenisme, Film, science fi
 
 Visuellement, le film est daté et cela explique sans doute le manque de rediffusion de ce classique. La "solution" proposée n'a rien de politiquement correcte cela explique peut-être pourquoi il n'y a pas eu de remake dans le "climat" actuel. Mais venons en à l'histoire : 
 
-![image](https://cheziceman.files.wordpress.com/2019/04/soylentgreen.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/soylentgreen.jpg)
 
 2022. L'industrialisation du 20ème siècle a conduit à la surpopulation et à la pollution mondiale. Les ressources naturelles étant maintenant épuisées, la population est nourrie par Soylent Industries, une entreprise qui fabrique des aliments de synthèse à partir du plancton océanique. (...) A New york, vivent 44 millions d'habitants à une température étouffante où l'eau est rare. Frank Thorn (Charlton Heston), un policier détective « de premier ordre » du New York Police Department, vit avec son ami Solomon « Sol » Roth (Edward G. Robinson), un vieux juif lettré dans le petit appartement délabré d'un immeuble surpeuplé, où la cage d'escalier est occupée par de nombreux sans-abri. Thorn est chargé d'enquèter sur la mort de William Simonson (Joseph Cotten), un dirigeant de Soylent Green. 
 

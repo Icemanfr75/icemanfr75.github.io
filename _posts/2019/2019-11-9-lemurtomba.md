@@ -26,7 +26,7 @@ Pour l'instant, je n'avais **suivi cela qu'à la télévision**, passant des soi
 
 Mais **l'été suivant**, j'étais en Allemagne, le sud de l'Allemagne et j'ai fait la connaissance d'allemands de l'est de mon age.  Rien ne m'a paru très différent pour cette génération qui avait profité un peu plus de la porosité des dernières années mais qui découvrait encore timidement cette liberté retrouvée. On s'amusait au tennis de table ensemble et, chose curieuse, on découvrait tous un même pays, l'Allemagne de l'ouest. J'ai correspondu quelques mois encore après avec ce jeune allemand de <a href="https://fr.wikipedia.org/wiki/Dresde">Dresde</a>. Cette ville était pour moi le théâtre d'un des pires bombardements de l'histoire, un tas de cendres après la seconde guerre mondiale. Mais à ce moment là, c'était redevenu une ville industrielle de l'est mais qui subirait de plein fouet la réunification et la remise à niveau entre les deux Allemagnes. Je ne me souviens plus vraiment aujourd'hui de ce que faisait ses parents, eux qui avaient entrepris un si long voyage pour rejoindre la région de Fribourg, bien plus long que le mien, surtout avec une voiture peu véloce comme leur <a href="https://fr.wikipedia.org/wiki/Wartburg_353">Wartburg</a>. 
 
-![image](https://cheziceman.files.wordpress.com/2019/10/dresden1989.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/dresden1989.jpg)
 
 *Dresde en 89*
 
@@ -38,4 +38,4 @@ Aujourd'hui nous reconstruisons des murs autour de nous, entre nous, en oubliant
 
 Et comment ne pas terminer par la chanson symbole de ce moment : 
 
-[la video](https://www.youtube.com/watch?v=n4RjJKxsamQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=n4RjJKxsamQ)

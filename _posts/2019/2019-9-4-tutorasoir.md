@@ -8,15 +8,13 @@ tags: antigaspi, Geekeries, lifestyle, rasage, rasoir, Tutoriels
 
 Tout est un peu parti <a href="https://cyrille-borne.com/forum/discussion/229/electrique-ou-mecanique">d'un sujet sur le forum de Maître Borne</a>. J'ai parcouru ensuite pas mal de forums spécialisés sur le rasage manuel/mécanique avant de me décider. Et je me suis aussi souvenu du rasoir du grand-père, un Gillette "Papillon", un peu comme celui ci-dessous : 
 
-![image](https://cheziceman.files.wordpress.com/2019/07/gilettepapillon.jpg)
-
-![image](https://cheziceman.files.wordpress.com/2019/08/lamederasoir.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/gilettepapillon.jpg)
 
 On peut me dire que c'est plus fragile que d'autres systèmes, je trouve ça joli et très pratique pour changer les lames qui sont donc uniques et parfaitement standards. Je peux aller n'importe où dans le monde, j'en trouverai une !
 
 J'ai donc parcouru des tonnes de tests/reviews, essais, vidéos de démonstration, sites vendeurs avant de porté mon dévolu sur un rasoir qui imite grandement ce vieux modèle. Aujourd'hui, comme beaucoup de choses, on fabrique tout cela en Chine avec souvent un chrome bien clinquant, qui ne résistera peut-être pas aussi bien à l'épreuve du temps que ses ancêtres. J'ai donc pris un Qshave comme celui ci-dessous et au bout d'un an, il est toujours vivant. J'y ai ajouté un lot de plusieurs marques de lames pour pouvoir tester celles qui me conviennent le mieux. Inutile de vous dire celle que j'ai choisi, ça peut changer d'une personne à une autre et selon la marque du rasoir. C'est un binôme à choisir après quelques essais. 
 
-![image](https://cheziceman.files.wordpress.com/2019/08/qshave.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/qshave.jpg)
 
 *Je ne suis pas payé par la marque... dommage :p*
 

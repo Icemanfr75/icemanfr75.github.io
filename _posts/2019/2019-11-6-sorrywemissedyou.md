@@ -10,7 +10,7 @@ Si on écoute le discours libéral ambiant, on a tendance à voir le monde avec 
 
 Nous suivons donc la famille Turner qui vit dans une ville ouvrière ( Newcastle comme Daniel Blake ) avec ses deux adolescents. La mère est aide à domicile et le père n'a d'autre choix que de devenir coursier "indépendant" pour une société de livraison. Il vend la voiture familiale qui servait à madame pour acheter son camion. Ils louent un petit pavillon parce que la maison qu'ils devaient acheter est partie avec la crise et la faillite d'une banque. Le père n'a jamais perçu le chômage de sa vie, car c'est pour lui une humiliation. 
 
-![image](https://cheziceman.files.wordpress.com/2019/11/sorry.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/sorry.jpg)
 
 Petit à petit, le piège se referme et le rève de devenir propriétaire avec l'argent de ce nouveau job disparaît. Les parents n'ont plus de vie familiale encore moins de couple, trop crevés par les journées de boulot de 7h à 21h. Les enfants sont perturbés et l’aîné sèche les cours, fait des graffitis et vole des bombes de peinture. La fatique aidant, les relations deviennent électriques dans cette famille qui a tout fait pour se préserver. Le "patron" du père humilie ses employés, ajoute pression sur pression à coup d'amendes pour toutes les "erreurs" que la plateforme comptabilise. 
 
@@ -24,6 +24,6 @@ Il permet de répondre à toutes ces belles promesses que l'on fait aux travaill
 
 Même si vous pensez savoir ce qu'est cette réalité, allez voir ce film, ça vous fera un peu réfléchir à vos, nos actes....oserais-je dire nos votes ? J'imaginerai bien une version allemande ou états-unienne pour démystifier cette fausse croissance qu'on nous assène avec Merkel, Trump, Schröder, Obama et qui laisse croître la pauvreté et le désespoir et monter les plus bas instincts. Et peut-être réalisera-t-on qu'il y a des <a href="https://alias.erdorin.org/traite-deconomie-heretique-de-thomas-porcher/">choix à faire</a>. 
 
-[la video](https://www.youtube.com/watch?v=IIAlLUjnmqs)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=IIAlLUjnmqs)
 
 

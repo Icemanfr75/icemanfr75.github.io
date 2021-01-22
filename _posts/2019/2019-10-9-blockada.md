@@ -10,43 +10,43 @@ L'astuce consiste à passer par la fonction VPN d'Android et j'étais un peu sce
 
 Si j'étais sceptique sur le principe du vpn c'est qu'on a vu des abus par des VPN gratuits qui récupèrent ni vu ni connu les données utilisateurs en passant. Le fait d'avoir un programme open source, d'être passé entre les fourches caudines de nombreux forums spécialisés permet d'avoir une certaine confiance dans ce produit qui en est à la version 4. J'ai regardé aussi quelques logs de connexion pour voir ce qui se passait lors de l'utilisation et testé sur applications et sites pour voir le résultat. Ca marche mais il convient de savoir utiliser correctement le produit. 
 
-![image](https://cheziceman.files.wordpress.com/2019/08/blockada_demar1.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/blockada_demar1.png)
 
 *Dans la liste des autorisations de démarrage*
 
-![image](https://cheziceman.files.wordpress.com/2019/08/blockada_demar2.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/blockada_demar2.png)
 
-![image](https://cheziceman.files.wordpress.com/2019/08/blockada_permis1.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/blockada_permis1.png)
 
 *Dans les paramètres de l'application dans Android*
 
-![image](https://cheziceman.files.wordpress.com/2019/08/blockada_permis2.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/blockada_permis2.png)
 
 *Dans les paramètres Android de l'application, rubrique autres autorisation*
 
 **Le garder en tache de fond** : Si comme moi vous avez une rom Android configurée pour tuer les applications qui ne servent pas et en empêcher de démarrer toutes seules, alors Blockada ne va pas aimer. Il faut donc commencer par lui céder des droits élémentaires. Vous verrez apparaître alors une notification VPN dans le haut de l'écran lorsqu'il fonctionne. Malheureusement, lors de l'utilisation de gros jeux gourmands en RAM, il peut arriver que la ROM ferme tout ce qui dérange et il faudra forcer ou attendre le redémarrage de Blockada dans ce cas. Je conseille de garder les notifications pour voir ce qui est bloqué... si une application/site refuse de fonctionner, ça aide à comprendre. 
 
-![image](https://cheziceman.files.wordpress.com/2019/08/blockada_main.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/blockada_main.jpg)
 
 *Il y a juste ça à lancer (ça se met en vert)*
 
 Voici les écrans de configuration de Blockada à minima, c'est à dire avec non pas la fonction de vrai VPN mais uniquement le filtrage de données entrantes et sortantes. Pour vous faire peur, dites vous bien que j'ai eu 50000 blocages en 1 semaine, c'est dire si on vous en veut... ou plutôt on en veut à vos données. Ainsi j'ai vu qu'Opera envoyait des données de personnalisation, que Flickr continuait à aller chez Yahoo, que Firefox ne fait rien mais que les sites veulent envoyer des données chez les analytics de toutes sortes, que FFBE a pas mal d'appels à des sites que l'on peut bloquer sans perturber le fonctionnement du jeu. On peut aussi mettre une application en liste blanche c'est à dire lui laisser tout faire... à vos risques et périls. 
 
-![image](https://cheziceman.files.wordpress.com/2019/08/blockada_blacklist.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/blockada_blacklist.png)
 
 *Une liste noire pour commencer, c'est bien*
 
 Je préfère aller voir dans la liste du journal ce qui se passe pour faire un peu d'apprentissage et bloquer moi même ce qui me dérange. Si vous utilisez le Google Play store ou Waze, il faudra les laisser faire beaucoup de choses, malheureusement. 
 
-![image](https://cheziceman.files.wordpress.com/2019/08/blockada_journal2.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/blockada_journal2.png)
 
 *C'est là que l'on voit ce qui se passe et qu'on peut bloquer certains accès...*
 
-![image](https://cheziceman.files.wordpress.com/2019/08/blockada_journal.png
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/blockada_journal.png)
 
 *Par exemple là, on voit que Facebook rode... mais attention si vous en avez besoin pour accéder à la page de ce réseau ou si un jeu utilise ce compte ?*
 
-![image](https://cheziceman.files.wordpress.com/2019/08/blockada_blocked.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/blockada_blocked.png)
 
 *Et là on voit les domaines bloqués !*
 
@@ -54,7 +54,7 @@ Voilà déjà pour assurer vos premiers pas avec cette application. Si un blocag
 
 Je termine par une vidéo de présentation en anglais (avec accent) qui permet de voir l'ensemble des possibilités du programme.
 
-[la video](https://www.youtube.com/watch?time_continue=1&amp;v=Z6mDcTnBmMA)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?time_continue=1&amp;v=Z6mDcTnBmMA)
 
 Les mises à jour se font lorsque le programme vous le dit, par téléchargement de l'APK. J'ai eu quelques soucis sur une version et je suis revenu avec du mal à la précédente. Donc laissez passer quelques jours avant la mise à jour, ça vaut mieux, parfois. Et gardez l'apk de la précédente tant que ce n'est pas complètement validé par votre utilisation. 
 

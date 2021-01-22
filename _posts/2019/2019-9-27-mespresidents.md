@@ -7,7 +7,7 @@ tags: blog, chirac, france, politique, Réflexion
 
 **Hier à 11h58, nous apprenions le décès de Jacques Chirac. Et avec lui s'en va le dernier de "mes" présidents... Même si je n'avais pas voté pour lui.**
 
-![image](https://cheziceman.files.wordpress.com/2019/09/mitterand.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/mitterand.jpg)
 
 Curieux hasard, mais il y a quelques jours, <a href="http://frederic.bezies.free.fr/blog/?p=19087">Frédéric</a> écrivait sur son dégout du monde politique actuel. Je ne suis pas loin de penser la même chose. Mais avec le décès de Chirac, j'enterre un peu ce monde politique du passé, celui d'avant Twitter, l'information continue, mais surtout celui où l'on ne passait pas son temps à commenter plus les petites phrases que les actes...J'idéalise ? Sans doute un peu, et on idéalise tous le passé. Mais j'ai eu véritablement 2 présidents, des hommes qui avaient la stature du rôle présidentiel, ce que l'on n'a plus retrouvé depuis et qu'on ne retrouvera jamais. Et pourtant, des hommes qui ont commis bien des méfaits, des affaires...
 

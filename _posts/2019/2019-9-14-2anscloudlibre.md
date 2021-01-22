@@ -10,9 +10,9 @@ Si chez moi j'ai fait le choix d'un banal NAS Sysnology DS218j fermé au monde, 
 
 J'utilise donc du Nextcloud d'un coté et du Cozy cloud de l'autre mais sans tomber dans l'auto-hébergement. C'est payant mais ça reste modéré. Après, évidement, on trouvera plus économique dans les solutions "non libres" qui peuvent ajouter bien plus de gigas. Zaclys et son Nextcloud, c'est la solution minimaliste pour qui veut héberger son agenda, ses contacts, ses notes, etc.. mais certainement pas ses photos, etc. Je suis très critique sur la mise en forme de cette partie, la rapidité de l'interface sur Nextcloud mais le point critique c'est évidemment le tarif du stockage chez Zaclys qui ne veut clairement pas concurrencer les ténors de ce côté là. Les quelques gigas peuvent dépanner pour un petit partage mais il vaut mieux trouver autre chose.
 
-Cozy, c'est plutôt pour les documents avec cette possibilité offerte de synchroniser automatiquement la sauvegarde de <a href="https://cheziceman.wordpress.com/2019/04/06/tuto-test-les-coffres-forts-numeriques/">documents officiels</a>, comme Digiposte. Après, reste mon problème de sauvegarde des photos. Franchement, j'en viens à penser que c'est futile. J'avais jusqu'ici deux sauvegardes cloud et un backup local sur un disque, sachant que le NAS sur lequel elles sont est aussi en RAID pour avoir une redondance. Je limite les risques, à moins d'un cambriolage, incendie. Dans ces cas là, les photos seront vraiment loin de mes premiers soucis. Cozy a donc hérité de ce que j'avais sur Box auparavant, c'est à dire les documents personnels qui ont une durée de vie longue. Je n'ai quasiment pas de partage de documents amenés à évoluer rapidement. J'ai scindé clairement l'utilisation de Cozy et Nextcloud. Les responsables de Cozy Cloud ont aussi décidé de ne pas marcher sur les plate-bandes de Nextcloud pour l'agenda, les contacts, les notes et les deux solutions s'allient bien.
+Cozy, c'est plutôt pour les documents avec cette possibilité offerte de synchroniser automatiquement la sauvegarde de [documents officiels](https://www.cheziceman.fr/2019/archivagenumerique/), comme Digiposte. Après, reste mon problème de sauvegarde des photos. Franchement, j'en viens à penser que c'est futile. J'avais jusqu'ici deux sauvegardes cloud et un backup local sur un disque, sachant que le NAS sur lequel elles sont est aussi en RAID pour avoir une redondance. Je limite les risques, à moins d'un cambriolage, incendie. Dans ces cas là, les photos seront vraiment loin de mes premiers soucis. Cozy a donc hérité de ce que j'avais sur Box auparavant, c'est à dire les documents personnels qui ont une durée de vie longue. Je n'ai quasiment pas de partage de documents amenés à évoluer rapidement. J'ai scindé clairement l'utilisation de Cozy et Nextcloud. Les responsables de Cozy Cloud ont aussi décidé de ne pas marcher sur les plate-bandes de Nextcloud pour l'agenda, les contacts, les notes et les deux solutions s'allient bien.
 
-![image](https://cheziceman.files.wordpress.com/2019/09/cozy1.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/cozy1.jpg)
 
 *un exemple des synchronisations possibles*
 
@@ -20,7 +20,7 @@ Reste alors le gros stockage, c'est à dire ces photos peu importantes mais auxq
 
 Pour tout le reste, je ne juge pas utile d'ouvrir cela au monde entier pour pouvoir lire ma musique loin de chez moi, mes vidéos, etc... Je sais que ça peut choquer les plus modernistes mais c'est un choix raisonné en terme de risque sécuritaire, en terme de débit, de <a href="https://cheziceman.wordpress.com/2019/08/31/reflexion-dematerialisation-et-destruction-de-lenvironnement/">coût écologique surtout</a> (j'en parlais il y a quelques semaines ) ... Mettre dans le nuage comprend en effet une part de risque même s'il ne s'agit que d'une sauvegarde. J'en reviens donc à la première réflexion sur l'utilité de ce que l'on met, la durée de vie. La bonne vieille sauvegarde passive, c'est à dire le disque dur que l'on branche momentanément pour répliquer ses données, puis débranché le reste du temps, c'est ce qui se fait de mieux en terme d'écologie...sans doute moins pour la sécurité, surtout si on ne range pas celui-ci dans un lieu différent. Je n'ai pas non plus réellement besoin d'accéder à tous les médias que je possède à tout moment.
 
-![image](https://cheziceman.files.wordpress.com/2019/09/nextcloudnotes.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/nextcloudnotes.jpg)
 
 *des notes simples avec des classements par catégorie, c'est le secret*
 
@@ -28,7 +28,7 @@ Petit détail qui compte : Pas d'enfants dans le foyer, donc pas trop de smartph
 
 Mais dans un monde où l'on s'habitue à avoir accès à tous nos désirs à tout moment, il y a urgence à se désintoxiquer de ce cloud, libre ou pas d'ailleurs. C'est réellement utile de partager des documents qui vivent par exemple, entre deux lieux, entre plusieurs personnes qui le mettent à jour. De ce point de vue là, Nextcloud et ma petite instance chez Zaclys me conviennent parfaitement. Avec Cozy qui archive tout automatiquement, on tient vraiment un bon duo pour tous les jours sans bourse délier, ni se compromettre chez les méchants prestataires américains à la solde du comique à la houppette poil de carotte. Ce qu'il faut vérifier ensuite, c'est la facilité à exporter ses données, à les récupérer pour les réinstaller ailleurs, par exemple. C'est fait pour ma part et je n'ai juste qu'à me forcer un peu la main à faire du ménage annuellement sur mes archives, car il faut bien avouer que c'est comme un grenier ou une cave. On finit toujours par stocker des trucs inutiles.
 
-![image](https://cheziceman.files.wordpress.com/2019/09/403562-944-777.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/magritte.jpg)
 
 *Variante de la tristesse - René Magritte 1957*
 
@@ -38,6 +38,6 @@ Mais si je devais faire un retour d'expérience sur les solutions libres aujourd
 
 La prise de conscience d'un besoin qui se réduit à l'essentiel est ce qui compte le plus dans ces deux ans. Le ménage était vraiment nécessaire dans les différents comptes autant que dans les données stockées. J'ai encore des documents trop anciens qui n'ont pas d'intérêt, de la même manière que sur mon PC de boulot. On ne prend jamais assez de temps à se poser ces questions, ne serait-ce qu'annuellement dans cette infobésité de données. 
 
-[la video](https://www.youtube.com/watch?v=1Lmh98z3Q9M)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=1Lmh98z3Q9M)
 
 

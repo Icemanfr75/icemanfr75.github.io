@@ -6,7 +6,7 @@ tags: 1920s, japon, littérature, livre, poésie
 ---
 **Une fois n'est pas coutume, je vais parler d'un recueil de nouvelles. Mais c'est le genre de livre qui peut vous accompagner longtemps, devenir un livre de chevet.**
 
-![image](https://cheziceman.files.wordpress.com/2019/03/citron.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/citron.jpg)
 
 En fait, c'est une sorte de poésie en prose, des instants de vie magnifiés par les mots. Le thème de la mort est omniprésent mais cela n'en fait pas un recueil sombre. La présentation de l'édition Picquier permet de mieux comprendre le contexte, qui est cet auteur éphémère qui ne vécut qu'une trentaine d'années. Il attendait lui même la mort avec une maladie qui le harcelait. Ce n'est pourtant pas autobiographique mais à la lecture, on ne peut s'empêcher de penser qu'il met beaucoup de lui-même dans chacune des histoires.
 

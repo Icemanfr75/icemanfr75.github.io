@@ -16,6 +16,6 @@ Tout bascule à l'heure de film avec une scène qu'on voit un peu venir, mais pa
 
 Comme souvent, la bande annonce en dit un peu trop mais est aussi là pour intriguer, captiver. On se doute que cela finira très mal, qu'il y a dès le départ un bâtiment du village qui est le coeur de l'intrigue mais jusqu'où osera-t-on aller ? Un film qui marque, malgré des défauts (effets speciaux/maquillage parfois à la limite du ridicule, style pouvant paraître excessif). Il sort en DVD, VOD, etc et peut vous réchauffer dans une soirée d'hiver un peu trop calme. Pour public averti.
 
-[la video](https://www.youtube.com/watch?v=YMKeRDlcpJQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=YMKeRDlcpJQ)
 
 

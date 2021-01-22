@@ -6,7 +6,7 @@ tags: 2010s, animation, Cinéma, dessin animé, deuil, poésie, romance
 ---
 **Je ne sais pas vous, mais je vais au cinéma pour ressentir des émotions. Elle sont rarement procurées par des effets spéciaux mais plus par des histoires, savamment mises en image, et en musique. Ce film d'animation de Jérémy Clapin a su me procurer ces émotions, assez diverses d'ailleurs.**
 
-![image](https://cheziceman.files.wordpress.com/2019/11/jaiperducorps.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/jaiperducorps.jpg)
 
 Une fois de plus, il s'agit d'un film pour adultes ou grands adolescents. L'histoire intrigue : "Dans un hôpital de la région parisienne, une main amputée s'échappe pour retrouver le corps auquel elle appartient. C'est celle de Naoufel, un jeune homme d'origine maghrébine qui rêvait d'être à la fois pianiste et astronaute, mais la vie en a décidé autrement.." Immédiatement, on s'attend à un conte horrifique ou glauque. Et pourtant, le spectateur va aller de surprises en surprises passant alternativement de la main au personnage de Naoufel. L'histoire est une adaptation d'un livre de Guillaume Laurent, "Happy Hand", ce même monsieur qui a travaillé sur le "<a href="https://cheziceman.wordpress.com/2016/09/05/yann-tiersen-le-fabuleux-destin-damelie-poulain/">Fabuleux destin d'Amélie poulain</a>" ou "Un long dimanche de fiançailles". 
 
@@ -16,6 +16,6 @@ Cette belle mise en scène est soutenue par une excellente bande-son de Dan Levy
 
 Et j'aime ça !
 
-[la video](https://www.youtube.com/watch?v=RTf-11SpSf0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=RTf-11SpSf0)
 
 

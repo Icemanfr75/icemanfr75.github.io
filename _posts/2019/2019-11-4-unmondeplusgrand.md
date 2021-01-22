@@ -4,9 +4,9 @@ title: Cinéma - Un monde plus grand de Fabienne Berthaud (2019)
 category: cinema
 tags: 2010s, ésotérisme, biopic, Cinéma, Film, recherche
 ---
-**Adaptation du livre <i>Mon initiation chez les chamanes </i>de <a href="https://fr.wikipedia.org/wiki/Corine_Sombrun">Corine Sombrun</a>, ce film plutôt classique est une jolie respiration dans cette période de grosses sorties cinéma.  On peut croire ou ne pas croire aux rites chamaniques à la base. Ce film a le mérite, comme le livre, d'expliquer ce que c'est et les mystères qui entourent ces pratiques.**
+**Adaptation du livre Mon initiation chez les chamanes de <a href="https://fr.wikipedia.org/wiki/Corine_Sombrun">Corine Sombrun</a>, ce film plutôt classique est une jolie respiration dans cette période de grosses sorties cinéma.  On peut croire ou ne pas croire aux rites chamaniques à la base. Ce film a le mérite, comme le livre, d'expliquer ce que c'est et les mystères qui entourent ces pratiques.**
 
-![image](https://cheziceman.files.wordpress.com/2019/11/unmondeplusgrand.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/unmondeplusgrand.jpg)
 
 Nous voilà donc partis en Mongolie, très au nord, dans un petit village de yourtes où les habitants élèvent des rennes. Mais pourquoi notre héroïne, Corine, part elle là bas ? Elle est ethno-musicienne mais elle vient surtout de perdre son mari des suites d'une longue maladie. Le voyage pour enregistrer des chants chamaniques dans le cadre de son métier lui semble une bonne manière de passer le deuil. Mais voilà que le jour où elle enregistre le rite d'une chamane, elle tombe dans une transe. Oyun, la chamane, lui fait comprendre qu'elle a aussi des dons pour être chamane.
 
@@ -16,4 +16,4 @@ Mais surtout, on ressort en s'interrogeant sur le chamanisme, d'autant que le fi
 
 Pas indispensable, ce petit film (moins de 4M€ de budget) remplit sa mission avec une Cécile De France qui porte le sujet, des acteurs et actrices mongols pros ou pas, Arieh Worthalter et Ludivine Sagnier dans des seconds rôles et ... le vrai professeur en neuroscience <a href="https://fr.wikipedia.org/wiki/Steven_Laureys">Steven Laureys</a>. Le tout est bien servi par la photographie de Nathalie Durand avec quelques plans séquences magnifiques. A voir pour tous ceux qui ont l'esprit assez ouvert pour se remettre en cause.
 
-[la video](https://www.youtube.com/watch?v=n8rzJBt4coI)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=n8rzJBt4coI)

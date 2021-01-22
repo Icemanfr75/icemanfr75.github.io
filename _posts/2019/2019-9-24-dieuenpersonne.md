@@ -6,7 +6,7 @@ tags: 2000s, bd, Littérature et BD, philosophie, religion
 ---
 **Dieu revient sur terre ! Enfin c'est ce que l'on peut croire dans cette BD sobre et métaphysique...**
 
-![image](https://cheziceman.files.wordpress.com/2019/01/dieuenpersonne_01.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/dieuenpersonne_01.jpg)
 
 *Dans une file d'attente, un petit bonhomme attend patiemment son tour. Au moment de décliner son identité, il se présente sous le nom de "Dieu". Il n'a pas de domicile, pas de papiers, ni de numéro de sécurité sociale. L'irruption de cette énigme métaphysique "en personne" déclenche un phénomène médiatique majeur... Un procès géant est bientôt organisé contre ce "Coupable Universel".*
 
@@ -18,4 +18,4 @@ Dieu est super star de tous les médias. Dieu est au théâtre, au cinéma, dans
 
 Nous étions en 2009 et aujourd'hui, si Marc-Antoine Mathieu devait recréer son oeuvre, il devrait tenir compte de l'hyper-communication, des réseaux sociaux...Ou bien l'a-t-il évité en créant ce monde un peu en marge du temps ? Un ouvrage dense qui mérite une lecture patiente et attentive pour en faire vraiment le tour. Le dessin passe presque au second plan.
 
-![image](https://cheziceman.files.wordpress.com/2019/01/dieuenpersonne_02.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/dieuenpersonne_02.jpg)

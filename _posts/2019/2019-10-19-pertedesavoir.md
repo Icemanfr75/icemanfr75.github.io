@@ -6,7 +6,7 @@ tags: 2010s, Cinéma, horreur, paganisme, thriller
 ---
 **Quand j'avais vu la bande annonce, je m'étais dis "Ouahou, il faut que je vois ce truc".... Car si le film est dans le genre "Horreur", à priori, il tient aussi du thriller psychologique et n'a surtout pas du tout le rythme habituel du teen movie horrifique de l'été.**
 
-![image](https://cheziceman.files.wordpress.com/2019/10/midsommar.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/midsommar.jpg)
 
 Ari Aster aime installer son ambiance dans ce film de 2h27 et pourtant ça ne paraît pas si long, tant la tension s'installe avec son lot de mystères. L'histoire ? Dani et Christian, deux étudiants à la fac sont sur le point de se séparer quand la famille de Dani est touchée par une tragédie : Sa soeur se suicide en tuant ses parents ...Attristé par le deuil de la jeune femme, Christian ne peut se résoudre à la laisser seule et l’emmène avec lui et ses amis à un festival estival paien qui n’a lieu qu'une fois tous les 90 ans et se déroule dans un village suédois isolé.
 
@@ -16,4 +16,4 @@ Tout bascule à l'heure de film avec une scène qu'on voit un peu venir, mais pa
 
 Comme souvent, la bande annonce en dit un peu trop mais est aussi là pour intriguer, captiver. On se doute que cela finira très mal, qu'il y a dès le départ un bâtiment du village qui est le coeur de l'intrigue mais jusqu'où osera-t-on aller ? Un film qui marque, malgré des défauts (effets speciaux/maquillage parfois à la limite du ridicule, style pouvant paraître excessif). Il sort en DVD, VOD, etc et peut vous réchauffer dans une soirée d'hiver un peu trop calme. Pour public averti.
 
-[la video](https://www.youtube.com/watch?v=YMKeRDlcpJQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=YMKeRDlcpJQ)

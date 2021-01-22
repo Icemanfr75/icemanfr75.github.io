@@ -6,7 +6,7 @@ tags: 2000s, aventure, bd, guerre, jeunesse,
 ---
 **Sur les conseils d'<a href="https://anatolemblog.wordpress.com">Anatole</a>, j'ai lu cette série qui est plutôt orientée jeunesse. Elle est constituée de 5 tomes pour les 5 années de la 1ère guerre mondiale. Il s'est ajouté ensuite un 6ème tome pour une sorte de Spin-off**
 
-![image](https://cheziceman.files.wordpress.com/2019/06/guerrelulu1.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/guerrelulu1.jpg)
 
 Cette série est une sorte de mélange du club des 5, de la guerre des boutons, tout ça dans la période de la 1ère guerre mondiale. Je m'explique : Nous suivons 4 orphelins qui, lorsque la guerre arrive dans la Somme, se retrouvent isolés du reste de l'orphelinat. Ils sont rejoints ensuite par une petite fille belge qui a aussi perdu ses parents dans leur fuite. Les 5 enfants vont tenter de survivre seuls dans ce monde en guerre. Chaque tome va donc balayer un an de leur vie, avec les rencontres, les peurs, les maladies, les fuites.
 
@@ -16,4 +16,4 @@ Justement, en terme de dessin, c'est à la fois détaillé avec des personnages 
 
 Est-ce que, pour autant, cette BD va permettre de raconter correctement la guerre de 14-18 ? Pas forcément mais je trouve ce complément agréable, justement pour rappeler que les guerres font des victimes civiles, autant par les armes que par la famine, la maladie. A lire, ou faire lire aux plus jeunes (jeunes adolescents).
 
-![image](https://cheziceman.files.wordpress.com/2019/06/guerrelulu2.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/guerrelulu2.jpg)

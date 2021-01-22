@@ -6,7 +6,7 @@ tags: 2010s, bd, croisade, fantastique, histoire, horreur, religion
 ---
 **Cette trilogie éditée aussi en intégrale me paraissait être une enième BD historique sur fond de croisade. Mais j'ai finalement été surpris des méandres empruntés par les scénaristes, tout autant que par ce dessin du chinois Zhang Xiaoyu.**
 
-![image](https://cheziceman.files.wordpress.com/2019/04/crusades.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/crusades.jpg)
 
 Car c'est aussi une BD internationale proposée par les Humanoïdes Associés. Nous voilà propulsés en 1219 dans la cinquième croisade. " Les Croisés essayent de passer par  le port stratégique de Damiette afin de pénétrer en Egypte et de reprendre Jérusalem aux Sarrasins.Alors que la victoire est proche, l'armée des chrétiens est terrassée par une mystérieuse peste... " En fait de peste, il s'agit de monstres d'origines inconnus. On entre dans le domaine du fantastique, presque de l'uchronie car l'histoire avec un grand H prend un autre tournure. 
 
@@ -14,4 +14,4 @@ J'ai trouvé le premier tome plutôt réussi en fait, avant un deuxième tome qu
 
 Une distraction très intéressante donc, pour qui n'est pas rebuté par un univers historique sombre, les gerbes d'hémoglobine et de membres les plus divers. Un petit avant goût ci-dessous. Il faut dire quand même toute la sauvagerie des combats au moyen-age puisque nous sommes entre 1219 et 1269. Oups, j'oubliais de dire qu'il y a des Templiers et ça, niveau complot et mystère, c'est un incontournable.
 
-![image](https://cheziceman.files.wordpress.com/2019/04/crusades2.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/crusades2.jpg)

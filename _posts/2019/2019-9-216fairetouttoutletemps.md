@@ -16,13 +16,13 @@ Tiens, je me souviens d'il y a bien des années, en Allemagne. Pas d'hypermarch�
 
 Voilà notre paradoxe : On regrette le commerce de proximité, mais on n'y va plus. Souvent parce que l'on profite d'un trajet travail-maison pour faire les courses. Quand je n'utilisais que les transports, encore, je n'avais pas d'excuses mais quand je suis en voiture pour x raisons, forcément, la tentation est multiple sur tout le trajet. En vacances, ça dépendra beaucoup du lieu. Quand je suis en Normandie, par exemple, il y a du commerce de proximité et je n'ai aucun besoin de la voiture pour la moindre activité donc elle n'a servi qu'à m'amener là et à me ramener à la fin du séjour, plus quelques visites touristiques ou animalières. Mais il y a des coins où il n'y a pas grand chose, même des stations balnéaires cotées qui préfèrent maintenant la boutique de souvenir à l'alimentation. Je ne parle même pas du bonheur d'avoir un marché avec des vrais produits du terroir et pas une copie du primeur qui va s'approvisionner à Rungis. A Rungis, d'ailleurs, on reçoit des produits qui autrefois étaient dans le domaine du luxe. Mais la baisse de qualité, de coût de production a rendu beaucoup plus de produits accessibles, tout le temps. Nous avons une fausse impression de pouvoir d'achat quand les marchandises baissent en même temps en qualité ou viennent de plus en plus loin. On a du saumon nourri aux farines et fumé je ne sais où, à tout moment. On a du foie gras assemblé ou produit dans des usines à canards, même de chez nous. On a du poulet en carton tout le temps, du veau anémié possiblement tous les jours...Tout, au plus bas prix. Sans même parler de la High-tech, des fringues jetables...
 
-![image](https://cheziceman.files.wordpress.com/2019/09/container.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/container.jpg)
 
 *et s'il n'y avait que la Chine...qui ne répond qu'à nos besoins d'enfants gâtés*
 
 Mais il n'y a pas que manger. Il y a aussi les loisirs que l'on veut tout le temps, à n'importe quel endroit. A commencer par films et séries. J'ai déjà parlé du <a href="https://cheziceman.wordpress.com/2019/08/31/reflexion-dematerialisation-et-destruction-de-lenvironnement/">coût écologique du streaming</a> qui est colossal. Mais si je reste un adepte du cinéma, malgré des contraintes (le bruit de quelques trublions, ce qui ne m'arrive pas avec les films que je vais voir, le déplacement, le prix de l'abonnement/de la place), ce n'est pas seulement parce qu'il y a du gros son et un très grand écran. Je n'ai pas trop à me plaindre de ce que j'ai à la maison. Il y a le fait que je bloque un instant de ma vie pour voir un film, sans aucune autre solicitation, sans dérangement d'une personne, d'un chat, etc...C'est un moment de calme et de dépaysement, où je peux réfléchir au sujet présenté sur l'écran aussi, où je reste Con-Cen-Tré ! Lorsque je regarde une série chez moi avec madame, ou même un film en DVD/numérisé, je sais que je peux arrêter quand je veux, que je peux répondre à ces notifications réelles ou immatérielles. Je perds alors de la concentration et je dois parfois même revenir en arrière pour bien reprendre le fil. Tiens d'ailleurs ce n'est pas un hasard si après les pages de pub ils reprennent un peu plus tôt avant la coupure. 
 
-![image](https://cheziceman.files.wordpress.com/2019/09/depression.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/depression.jpg)
 
 *Thomas Hart Benton, <a href="https://www.nga.gov/collection/art-object-page.143168.html">Departure of the Joads</a>, 1939 National Gallery of Art*
 
@@ -36,6 +36,6 @@ Quel bonheur quand il n'y a plus de réseau, quand il n'y a pas un centre commer
 
 A commencer par cette chanson....hyper commerciale pour un pur produit commercial et qui pourtant risque de vous rester en tête malgré une banalité évidente.
 
-[la video](https://www.youtube.com/watch?v=f5i81RY8S6Q)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=f5i81RY8S6Q)
 
 

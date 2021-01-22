@@ -20,7 +20,7 @@ Il y a évidemment l'aspect **relecture** et je sais la difficulté qu'il peut y
 
 Je pense commencer tout cela en Janvier, histoire de bien entamer ma 15ème saison bloguesque, un peu moins ici, mais je ne pense plus à changer d'adresse. Ca me laisse **le temps d'y réfléchir,** de récolter vos impressions, vos avis, vos envies. Je ne sais pas encore si je vais rester dans cette intrigue de base donc, qui me paraissait finalement trop complexe. J'étais dans l'idée d'une multinationale dominante, luttant contre d'autres multinationales, des états européens touchés par une catastrophe, une planète orientée vers l'Asie... Moui, bon, ce n'est pas hyper original, je l'avoue mais j'en maîtrise quelques données alors que si j'étais parti sur d'autres terres, ça ne serait pas évident. Il y avait un peu d'animalisme de prévu là dedans, du transhumanisme, de la biotechnologie....Finalement, je trouvais que ça manquait de magie et peut-être est-ce là que je dois changer ce que j'avais écrit.
 
-Il y a une part de **mise en danger** que j'aime, là dedans. Sortir d'un genre pour aller faire ce que je n'ai jamais fait, ça permet d'apprendre sur soi. Sortir directement un texte, brut, sans passer par des intermédiaires, c'est aussi dangereux mais je n'ai aucune envie de le faire sur des plateformes comme <a href="https://cheziceman.wordpress.com/2015/12/04/debat-du-bon-usage-de-creative-commons/">atramenta</a> ou autres, que j'avais déjà testé. Je suis pour tout garder au même endroit, maintenant. D'ailleurs, il y aura certainement d'autres retours dans l'année prochaine, ou des mélanges des genres, qui peuvent d'ailleurs très bien s'arrêter en cours de route, comme je l'ai fait cette année pour la musique ou les dessins. 
+Il y a une part de **mise en danger** que j'aime, là dedans. Sortir d'un genre pour aller faire ce que je n'ai jamais fait, ça permet d'apprendre sur soi. Sortir directement un texte, brut, sans passer par des intermédiaires, c'est aussi dangereux mais je n'ai aucune envie de le faire sur des plateformes comme atramenta ou autres, que j'avais déjà testé. Je suis pour tout garder au même endroit, maintenant. D'ailleurs, il y aura certainement d'autres retours dans l'année prochaine, ou des mélanges des genres, qui peuvent d'ailleurs très bien s'arrêter en cours de route, comme je l'ai fait cette année pour la musique ou les dessins. 
 
 Au fond, si j'ai envie d'écrire autre chose, c'est que j'ai **l'impression de radoter**, de revenir sans arrêt aux même thèmes.... ce que je fais dans mes marronniers annuels, d'ailleurs. C'est en fait tout à fait naturel de tourner autour de même sujets et si on regarde beaucoup de créateurs blogueurs compris, il y a toujours des points communs, des sujets de prédilections. Même sur les Haïkus, les poèmes, c'est le cas et c'est vrai que j'en ai un nombre conséquent maintenant, sans parvenir vraiment à faire un choix. J'arrêterai peut-être les "Instants", pendant un temps...ce qui me permettra mieux de me pencher sur les archives de mes écrits et d'autres activités. 
 
@@ -30,6 +30,6 @@ Pourtant, malgré cette envie d'écrire une histoire plus longue, j'ai toujours 
 
 A suivre...bientôt
 
-[la video](https://www.youtube.com/watch?v=Xox9J0FNjZ8)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Xox9J0FNjZ8)
 
 

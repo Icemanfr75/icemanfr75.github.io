@@ -6,7 +6,7 @@ tags: 1970s, Cinéma, cinematheque ideale, dictature, nazisme, paraguay, thrille
 ---
 **Ce film est un peu oublié (le titre français n'aide pas... traduction du titre original The Boys from Brazil) est un excellent thriller basé sur des faits réels... Une adaptation aussi du livre d'Ira Levin. Nous partons en effet sur les traces de Josef Mengele et de ses terribles expériences.**
 
-![image](https://cheziceman.files.wordpress.com/2019/05/boysfrombrazil.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/boysfrombrazil.jpg)
 
 *Vienne, Autriche, à la veille des années 1980. Ezra Lieberman est un célèbre chasseur de nazis (inspiré par Simon Wiesenthal et par Serge Klarsfeld) qui vit avec sa sœur dans un vieil appartement. Il reçoit un jour l'appel d'un jeune juif, Barry Kohler, en provenance du Paraguay. Ce dernier a retrouvé la trace de nombreux officiers nazis et pense qu'un complot se prépare. Malgré les recommandations de Lieberman qui lui suggère vivement de quitter le pays pour sa propre sécurité, Kohler décide d'en savoir plus. Après avoir découvert la villa où se tiendra une réunion secrète, il soudoie un jeune domestique afin d'y placer un micro. Le stratagème fonctionne.<br> Le chef de cette conspiration n'est autre que Josef Mengele, ancien médecin du camp d'extermination d'Auschwitz, et connu pour les expériences pseudo-médicales qu'il effectua sur les prisonniers pendant la Seconde Guerre mondiale.*
 
@@ -18,6 +18,6 @@ On peut y ajouter une bonne musique de Jerry Goldsmith, pour l'époque et le fil
 
 Difficile de trouver une bande annonce. La musique est ici trop grandiloquente mais les images sont celles du film de 78. De quoi passer un bon moment d'angoisse, avec de grands acteurs et une grande histoire. Et je l'inclus volontiers dans ma cinémathèque idéale, malgré ses défauts car ils finissent par faire tout son charme.
 
-[la video](https://www.youtube.com/watch?v=99ptdenuiX0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=99ptdenuiX0)
 
 

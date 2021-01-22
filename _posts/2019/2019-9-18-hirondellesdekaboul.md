@@ -6,7 +6,7 @@ tags: 2010s, afghanistan, Cinéma, dictature, guerre, religion
 ---
 **Encore une adaptation d'un livre à succès sur un sujet difficile : La place de la Femme dans l'Afghanistan des Talibans. Voilà qui résonne curieusement avec l'actualité, non ?**
 
-![image](https://cheziceman.files.wordpress.com/2019/09/kaboulhirondelle.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/kaboulhirondelle.jpg)
 
 Nous sommes ici dans l'Afghanistan d'avant le 11 septembre, avant la mort de <a href="https://fr.wikipedia.org/wiki/Ahmed_Chah_Massoud">Massoud</a> mais pendant l'occupation de la capitale afghane par les Talibans. Quand je dis que cela résonne avec l'actualité, c'est que les USA ont failli signer des accords avec les talibans afghans. Encore une preuve que Trump et ses faucons font n'importe quoi à l'international, avec de grands dangers, même si tout cela n'est pas terminé, même <a href="https://www.lorientlejour.com/article/1186535/usa-talibans-moscou-plaide-pour-une-relance-des-negociations.html">côté russe.</a>
 
@@ -18,6 +18,6 @@ La vision de ces horreurs est adoucie par le dessin dans un style empruntant à 
 
 L'histoire parle indirectement de l'avenir de ce pays, sur le fait qu'une population peut suivre complètement un endoctrinement mais peut aussi un jour se réveiller de ce cauchemar.Les personnages s'interrogent aussi sur le fait de rester et lutter, ou bien partir et revenir plus tard. Peut-on simplement se mettre à leur place sans comprendre ce sentiment d'impuissance ? A voir car hélas, cette histoire est encore d'actualité au même endroit. 
 
-[la video](https://www.youtube.com/watch?v=nycqzzawfxs)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=nycqzzawfxs)
 
 Pas convaincus ? Allez lire aussi TigerLilly et <a href="https://dragongalactique.com/2019/09/08/les-hirondelles-de-kaboul-zabou-breitman-elea-gobbe-mevellec/">son dragon galactique. </a>

@@ -8,7 +8,7 @@ tags: 2010s, Cinéma, dessin animé, environnement, japanimation, onirisme
 
 Pourtant ce n'est pas une production Ghibli et Wild Bunch s'est un peu planté en mettant ce film en face des mastodontes de l'été : Les spectateurs dans la salle se comptaient sur les doigts d'une main. Pourtant l'histoire interpelle : 
 
-![image](https://cheziceman.files.wordpress.com/2019/08/mysterepingouin.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/mysterepingouin.jpg)
 
 *Quand des pingouins apparaissent partout dans sa petite ville, semant au passage une joyeuse pagaille, le jeune Aoyama se dit qu’il y a là une enquête à mener. Ce studieux élève de CM1, accompagné de son meilleur ami, enrôle également sa rivale aux échecs et une énigmatique assistante dentaire pour percer le secret des pingouins. Mais ces petites bêtes ne sont que le premier signe d’une série d’événements extraordinaires. Commence alors pour le jeune garçon une aventure pleine de surprises… et de pingouins !
 
@@ -16,6 +16,6 @@ Le pingouin c'est mignon, c'est symbolique de l'environnement...Mais on a quand 
 
 Si je me suis laissé emporté par cet histoire, ce n'est pas grace au héros, un garçon un peu hautain, obsédé par les seins (ah les mangakas ne peuvent décidément pas s'en empêcher ! ) ... et les sciences. On a du mal à identifier aux personnages, si ce n'est peut-être la mystérieuse assistante dentaire. On réclamerait presque un peu de matière pour développer les personnages secondaires comme Oshida ou Hamamoto malgré déjà 1h48 de film. On a un grand discours sur l'importance des sciences et de l'approche expérimentale, même si la nature reste la plus forte. Et cela rajoute quelques longueurs parfois inutiles. On retrouve beaucoup de symboliques légendaires, du <a href="https://fr.wikipedia.org/wiki/Jabberwocky_(poème)">Jabberwocky</a> à la Licorne sans que tout s'explique facilement dans l'esprit du spectateur. A l'image de grandes productions Ghibli, cela vaut bien un deuxième visionnage. Et le réalisateur rentre dans la catégorie des personnes à suivre à l'avenir pour prendre la succession du maître Miyazaki. L'essentiel c'est bien d'avoir une offre différente dans l'animation et en cela, le film y réussit.
 
-[la video](https://www.youtube.com/watch?v=uApc-PwJu10)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=uApc-PwJu10)
 
 

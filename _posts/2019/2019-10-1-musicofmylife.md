@@ -6,7 +6,7 @@ tags: 1980s, 2010s, angleterre, Cinéma, Cinéma et série, musical, racisme, so
 ---
 **Et dire que j'ai failli rater ce film ! C'est en effet dans la toute dernière séance de mon cinéma que j'ai pu le voir dans une salle quasi vide...Après 3 semaines d'exploitation. Car quel plaisir de retrouver la réalisatrice Gurinder Chadha en pleine forme (Joue la comme Beckham, Coup de foudre à Bollywood).**
 
-![image](https://cheziceman.files.wordpress.com/2019/09/musicofmylife.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/musicofmylife.jpg)
 
 Alors bien sûr, j'entends déjà les esprits chagrins (surtout en France apparemment...) dirent que ce n'est qu'encore un film anglais qui joue sur le social, les bons sentiments le tout sur fond musical. Et alors, si c'est réussi !? Car cette adaptation de l'autobiographie du journaliste (et fan de Bruce Springsteen) Sarfraz Manzoor, est un film qui fait se sentir bien, malgré toutes les difficultés rencontrées par son héros alter-ego Jared durant près de 2h. Nous sommes à Luton, dans l'Angleterre ouvrière des années 80, en pleine ère Thatcher. L'usine Vauxhall s'apprète à licencier... Jared, un fils d'immigré pakistanais, s’apprête à passer son bac (enfin l'équivalent). Il n'a qu'un rêve, quitter cette ville où le racisme monte, où il ne se sent nulle part à sa place. Son meilleur ami Matt ne rève que d'avoir du succès avec son groupe de New wave. Mais un jour, il découvre<a href="https://fr.wikipedia.org/wiki/Bruce_Springsteen"> Bruce Springsteen</a> et tout change.&nbsp;
 
@@ -16,6 +16,6 @@ Entre le casting très réussi (une constante chez Mme Chadha) et la bande son, 
 
 Mais malgré la dureté du moment, les agressions racistes, notamment, on rit, on pleure aussi, on chante, on s'exalte. Dommage que faute de bonne promotion et de stars, le film n'ait pas rencontré son public. Son seul défaut est qu'il n'y a pas tant de surprise que cela. Il n'est pas trop tard pour se rattraper par la sortie vidéo. Pour ceux qui aiment ce genre de cinéma anglais, qui aiment sortir d'une salle de cinéma en chantant, ....qui aiment la vie !
 
-[la video](https://www.youtube.com/watch?v=eHTdigtzN5M)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=eHTdigtzN5M)
 
 
