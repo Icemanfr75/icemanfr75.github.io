@@ -36,3 +36,31 @@ Et enfin j'ai créé mon petit logo discret pour préciser qu'il n'y a plus rien
 ps : quand je vous dis que c'est compliqué dans ma tête...
 
 Bande son : [Zazie - J'envoie Valser ![video](/images/youtube.png)](https://www.youtube.com/watch?v=mYBI34quHdM)
+
+#### Commentaires :
+
+**@lord@pleroma.lord.re**
+
+> (...) Concernant le générateur de site je te comprends à fond.
+Et c’est ce genre de réflexions qui m’ont poussé vers hugo. Certe c’est un générateur qui t’enferme dans sa technologie mais en fait pas tant que ça.
+
+> Déjà vu que c’est du go, ça a l’avantage de pouvoir se compiler vers un peu toutes les plateformes (ils fournissent leurs propres binaires). Le binaire se suffit à lui-même, pas de dépendances, rien à installer, un gros binaire statique autonome.
+Globalement la forme des articles (un entête puis l’article en markdown) est pas standardisée mais pas mal des générateurs statiques ont adoptés un format similaire. Le jour où je souhaiterai migrer de hugo vers un concurrent, il y a de fortes chances que ce soit compatible ou bien qu’un outil soit créé et au pire en scriptant un un ptit truc il devrait y avoir moyen d’adapter.
+La vitesse de génération même si c’est du bonus c’est quand même agréable (même si en vrai c’est la compression des images, des textes, la génération du blogroll et l’upload qui prennent 99% du temps et non la génération elle-même).
+
+> Et juste pour réagir concernant gemini, je pense que c’est plus un terrain de jeu et que ça n’aura jamais une grande audience. Un de ses principaux avantage à mon goût est la garantie pour un visiteur de ne pas être traqué/analysé/monétisé. Tu démarres ton navigateur gemini l’esprit libre, pas besoin d’être sûr d’avoir un antipub, de nettoyer les cookies, de craindre un js qui minerait, de fuiter des infos en provenance d’un autre site que tu visites ou autre.
+Par contre les contraintes sur le formattage que permet gemini me rebute pas mal. :-/
+
+**@icemanfr75@mastodon.social**
+
+> A force de modifications je me suis détaché au maximum des spécificités jekyll pour pouvoir basculer sur autre chose le cas échéant avec tous les billets en md puis les images rangées au même endroit et retravaillées. bref j'ai supprimé tout plugin pour faire moi même la structure, fonctionnant ainsi sur n'importe quelle version de jekyll et ruby...là aussi ça aide pour autre chose. Hugo, pelican ou makesite.py  qu'importe...
+
+> Je suis d'accord avec toi concernant Gemini.
+
+**@lord@pleroma.lord.re**
+
+> (...) Ouaip. Je pense que si tu n’utilises pas de trucs vraiment spécifiques à ton générateur statique tu pourras migrer sans trop de difficulté de l’un à l’autre voir pourquoi pas créer ton propre générateur si vraiment tu es prêt à t’y investir lourdement mais vu la pléthore de générateurs existant…
+
+**@icemanfr75@mastodon.social**
+
+> partir sur ma propre solution, ça serait peut-être croire que je ferai mieux que toutes ces solutions... Hum, j'en suis très loin et le jeu n'en vaut pas la chandelle pour l'instant.
