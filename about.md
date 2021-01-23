@@ -9,7 +9,7 @@ Pour les [FAQ, c'est par ici](/pages/faq/)
 
 Quelques articles sont in <a href="{{ site.baseurl }}/pages/english">English</a>
 
-Et si vous avez aimez ce qui est ici, vous aimerez aussi ces [quelques blogs amis](/pages/blogroll/)
+Et si vous avez aimé ce qui est ici, vous aimerez aussi ces [quelques blogs amis](/pages/blogroll/)
 
 Ceci est mon blog mais me sert aussi à me présenter
 
