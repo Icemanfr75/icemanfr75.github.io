@@ -9,7 +9,7 @@ tags: 2000s, arcade, geek, jeu video, retrogaming
 
 Sorti en arcade en 2001, ce jeu est un peu l’équivalent du labyrinthe en bois avec la bille et le plateau mouvant de notre enfance. Déjà ce jeu était un cauchemar pour mon manque d’adresse et de patience.
 
-![image](https://cheziceman.files.wordpress.com/2020/05/labyrinthebille.jpeg?w=281)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/labyrinthebille.jpeg)
 
 Alors maintenant imaginez ça avec une bulle dans laquelle on a mis un petit singe qui doit attraper des bananes tout en rejoignant l’arrivée dans un temps imparti ! Autant vous dire que je n’ai passé que moins de 15 étapes ! Un cauchemar, car c’est ultra sensible et que finalement le labyrinthe en bois n’avait pas des plateformes mouvantes. Trop difficile.
 

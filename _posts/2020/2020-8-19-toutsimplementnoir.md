@@ -9,7 +9,7 @@ tags: cinema, racisme, comédie, 2020s
 
 Hasard du calendrier et pas volonté du distributeur, le film a bénéficié de l’éclairage du mouvement « Black Live Matters », d’un calendrier estival dégagé des blockbusters US, ce qui l’a mis certainement plus en lumière que ce que la production avait prévu. Tant mieux pour nous, spectateurs… rares spectateurs en cette période post-confinement.
 
-![affiche](https://cheziceman.files.wordpress.com/2020/08/toutsimplementnoir.jpg)
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/toutsimplementnoir.jpg)
 
 Le sujet est donc un faux documentaire sur un acteur à la recherche de boulot…mais aussi d’un sens à sa vie. Jean-Pascal Zadi y joue son propre rôle dans une composition d’acteur raté. Il décide de monter une grande marche de la contestation noire et part en quête de célébrités pour l’aider à fédérer autour de cette idée. Mais c’était oublier le caractère gaffeur et loser de cet anti-héros. A la manière d’un Sasha Baron-Cohen, l’accord des participants en plus, il nous dépeint ainsi ce milieu du show-business et du militantisme et la place qu’y tiennent… les noirs.
 
@@ -19,5 +19,5 @@ Pour que cela tienne, il faut quand même quelques scènes cultes (la scène du 
 
 Le film a donc plusieurs lectures, même si parfois les propos s’embrouillent. Il y a des moments de pure comédie où on rit volontiers. Il y a aussi des moments touchants car ce personnage de Jean-Pascal Zadi est touchant dans ses maladresses. Il y a des moments plus philosophiques qui vont au delà de la simple cause « noire » mais parlent de tous les militantismes. Ce n’est pas la comédie de l’année mais c’est largement au dessus de la moyenne de ce que nous avons eu récemment, surtout sur ce sujet.
 
-[la bande annonce](https://youtu.be/2Uk15jDnJz0)
+En video : [![video](/images/youtube.png)](https://youtu.be/2Uk15jDnJz0)
 

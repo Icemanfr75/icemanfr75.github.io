@@ -7,7 +7,7 @@ tags: roman, japon, littérature, 2010s, vieillesse, sociogie
 
 **Ce court Roman (moins de 200 pages) aurait été banal s’il n’était japonais. Je m’attendais à autre chose mais ce n’est pas forcément inutile.**
 
-![couverture](https://cheziceman.files.wordpress.com/2020/05/vieduboncote.jpg)
+![couverture](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/vieduboncote.jpg)
 
 Je m’attendais à quelque chose de bien plus positif dans cette histoire conjointe d’un petit-fils et son grand-père. Le petit-fils est au chômage, un peu malade avec son asthme, ses allergies. Le grand-père n’aspire qu’à la fin de sa vie. C’est finalement cette recherche de la mort qui va rendre la vie au plus jeune.
 

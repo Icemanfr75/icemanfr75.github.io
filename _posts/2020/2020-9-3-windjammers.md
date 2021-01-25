@@ -17,4 +17,4 @@ Je me suis laissé aller à faire une petite vidéo sur l’émulation Retroarch
 
 Je parlais de la version 2, sortie par DotEmu. Rien de bien neuf sinon un graphisme plus Cell-shading.
 
-[la version 2](https://youtu.be/OBWGUWI9PWk)
+En video : [![video](/images/youtube.png)](https://youtu.be/OBWGUWI9PWk)

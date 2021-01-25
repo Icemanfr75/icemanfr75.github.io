@@ -11,8 +11,8 @@ Le titre complet est Congo 1905, Le rapport Brazza, le premier secret de la fran
 
 Il redécouvre le pays sous le joug du colonisateur français, de ses compagnies et des mercenaires qui vont avec. Esclavage, séquestrations, brutalités, meurtres, camps d’internement, tout y passe avec les tortures, les meurtres arbitraires, les viols. Quand on pense que certains en restent au rôle positif de la colonisation, la simple lecture de cet ouvrage et du rapport (retrouvé en 1965) suffit à battre en brèche les arguments des nostalgiques. Tout cela est mis en mots et en images par le duo Bailly-Thil. Vincent Bailly nous gratifie de superbes planches à l’aquarelle qui montrent à la fois la beauté du pays et la dureté de ces scènes. Il faut ajouter le témoignage historique en fin d’ouvrage, pour ceux qui n’ont pas lu le livre paru sur ce même rapport.
 
-![cover](https://cheziceman.files.wordpress.com/2020/05/rapportbrazza0.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/rapportbrazza0.jpg)
 
 Je trouve malgré tout que le récit met trop en avant les bons sentiments de Brazza et ses sbires, presque à le rendre saint alors que le personnage a aussi ses parts d’ombres. Alors ce n’est certes pas une BD pour s’amuser et rire mais pour s’instruire sur ce sujet trop méconnu. Tristan Thyl remet bien dans le contexte politique de l’époque avec les grands personnages de l’état, les manigances de ministères et des petits chefs colonisateurs locaux. On ne voit peut-être pas assez qui étaient derrière ces « compagnies » qui vidaient littéralement le territoire congolais de sa substance. Si aujourd’hui il y a indépendance, il reste toujours ces compagnies toutes puissantes (les Bolloré, Total,, Areva, etc… en françafrique) et leurs sbires pour garder la main sur la françafrique. On retrouve ici les bases de cette situation soit plus d’un siècle et demi d’histoire. Je trouve ce type d’ouvrage essentiel pour faciliter l’accès et la compréhension de ce délicat sujet.
 
-![affiche](https://cheziceman.files.wordpress.com/2020/05/rapportbrazza2.jpg)
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/rapportbrazza2.jpg)

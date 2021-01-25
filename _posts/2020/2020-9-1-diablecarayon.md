@@ -9,7 +9,7 @@ tags: littérature, 2010s, roman, thriller
 
 *L’histoire ? Au cours de l’année 1924, un village isolé des montagnes tarnaises et menacé d’extinction est le théâtre de plusieurs assassinats atroces. Déjà les langues se délient et certaines superstitions ressortent… Malgré tout, la jeune institutrice Camille refuse de céder à ces croyances d’un autre âge et appelle à la rescousse son ami d’enfance Martial, détective amateur à ses heures.*
 
-![cover](https://cheziceman.files.wordpress.com/2020/05/diablecarayon.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/diablecarayon.jpg)
 
 L’histoire a fonctionné avec moi pour plusieurs raisons. Tout d’abord il y a un lien avec la première guerre mondiale et un soldat disparu qui reviendrait hanter les lieux. Une pointe de surnaturel, donc. Ensuite ça se passe dans le Tarn mais ça me rappelle des coins de mon enfance ou liés à mon histoire familiale, non loin de là. On passe aussi par Luchon, que je connais bien, donc je me sens en terrain connu. Christian Carayon écrit bien, trouvant le juste équilibre entre la description historique et géographique, la présentation des personnages, nombreux dans ce village et son intrigue bien sûr. La promo du livre parle de Simenon ou d’Hitchcock ? Sans aller jusque là, il n’y a pas l’austérité que je ressens chez Simenon ou le talent d’Hitchcock pour faire de choses simples des chefs d’oeuvres.
 

@@ -13,11 +13,11 @@ C’est encore un de ces jeux au principe simplissime mais dangereusement addict
 
 Pour enjoliver le tout, le fond de l’écran change à chaque niveau entre les sites de Gizeh et les Pyramides, l’Acropole, le château de Neuschwanstein en Bavière, et deux paysages ressemblant à la plage de Miami et Hollywood. Sauf que de fin, il n’y en a pas, à part le score qui doit être le plus élevé possible et la vitesse des ennemis qui augmente. Les ennemis sont au nombre de 5 types avec un comportement très prévisible mais pourtant gênant. Entre ceux qui nous suivent comme un aimant, ceux qui nous détectent pour nous foncer dessus et ceux qui suivent une trajectoire bien définie, ça suffit à vous pourrir un vol.
 
-![image](https://cheziceman.files.wordpress.com/2020/06/wp-1591528288605100701269.png?w=739)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/bombjack.jpg)
 
 Donc c’est répétitif mais on apprend vite à optimiser chaque niveau pour prendre les bombes bien dans l’ordre, faire apparaître les lettres bonus qui font multiplier le score. Si j’y rejouais et rejouais encore, c’était pour savoir s’il y avait une fin mais surtout pour améliorer mon score. L’Amstrad CPC avait des graphismes un peu grossiers mais l’essentiel était préservé par rapport à une version arcade que je n’ai jamais essayé…jusqu’à il y a peu. J’ai perdu le petit carnet où je notais mes scores car évidemment, pas de capture d’écran possible.
 
-[video longplay](https://youtu.be/G8NHjsrdjU8)
+En video : [![video](/images/youtube.png)](https://youtu.be/G8NHjsrdjU8)
 
 Sur mobile, aujourd’hui, c’est peu jouable mais il est disponible sur les consoles virtuelles. Cela reste toujours un challenge à relever avec son travail d’anticipation et les stratégies à développer pour améliorer son score.
 

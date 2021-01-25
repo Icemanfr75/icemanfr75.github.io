@@ -9,11 +9,11 @@ tags: geek, jeu video, retrogaming, réflexion
 
 Pourtant, je n’ai pas craqué pour la PS4 (même à 95 euros)… en entendant qu’une PS5 était présenté, ni pour la Xbox One par pitié pour Microsoft qui rame pour la vendre, ni pour la Switch qui a la faveur de beaucoup de joueurs plus nomades. Non, j’ai simplement mis à contribution mon vénérable smartphone qui a du potentiel, bien plus que le vieux PC anémique qui me sert encore à écrire quelques articles.
 
-[video de Gia To](https://youtu.be/R43mBpDmmcU)
+Video de Gia To : [![video](/images/youtube.png)](https://youtu.be/R43mBpDmmcU)
 
 Sauf que j’ai fait un constat. PS4, et autres : no way quand je vois la dématérialisation en cours qui va de paire avec des tailles de jeux astronomiques, même pour du transfert par fibre. Je n’ai pas envie de pourrir des bandes passantes à transférer des gigaoctets de données pour obtenir un jeu ou une mise à jour plus ou moins bancale. Ca me faisait déjà royalement chier avec la PS3 et la Xbox, c’est pire aujourd’hui. Quand un disque de dizaines de gigaoctets suffisait pour des sauvegardes de tout une ludothèque, il faut commencer à compter en tera-octets. La PS5 comportera un disque SSD de 850Go par exemple. Mais le pire n’est pas là. Tous les jeux premiums sur smartphone se comptent en GigaOctets aussi, de 2 à 4 Go maintenant ce qui est effectivement proche des ROMs de jeux rencontrés sur la PS2, la PS3 ou la XBOX360 et même plus que la PSP en son temps. En gros, tu peux avoir juste deux ou trois jeux sur ton mobile à moins d’avoir un SMIC mobile dans ta poche. Autant vous dire que j’ai abandonné FFBE aujourd’hui.
 
-![arcade](https://cheziceman.files.wordpress.com/2020/07/afterburner.jpg?w=739&h=702)
+![arcade](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/afterburner.jpg)
 
 *La Borne Afterburner avec la rotation du siège…et un peu moins d’un mégaoctet de programme*
 
@@ -21,13 +21,13 @@ J’ai donc fait un autre choix, surtout que je vois que les jeux récents misen
 
 En effet, j’ai regardé le marché de ces consoles qui permettent de jouer à tous les anciens jeux sur sa télévision (la NES Classic mini, la Mega Drive mini pour les officielles… mais aussi des bases de Raspberry Pi) ou en nomade. Plus interessé par les versions nomades, je me suis tapé tous les tests que j’ai pu trouver sur ces trucs chinois qui valent de 40 à 150 euros environ. Beaucoup sont construites de manière fragiles donc on élimine. Le Soft n’est pas toujours au niveau et il faut upgrader sur des custom firmwares. Le hard changeant quasiment tous les 6 mois, ça n’aide pas à rendre le produit durable. Actuellement, aucun ne me convient, même les récentes RG350M ou RK2020 qui ont un soft open source ou des engins sous Android, plus résistants aux extinctions sauvages. Bref, je fais avec ce que j’ai, ou presque.
 
-![resolution](https://cheziceman.files.wordpress.com/2020/07/resolution.png?w=739&h=416)
+![resolution](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/resolution.jpg)
 
 Je parlais de taille des jeux. Il faut savoir qu’elle dépend grandement de la résolution et des avancées techniques. Imaginez que nous étions en 320240 au mieux et que nous sommes aujourd’hui en 19201080 ou pire en 4K. Soit un rapport 27. J’ai quand même la vague impression que les développeurs ne font plus vraiment d’effort sur les compressions de texture, de sons puisqu’il y a de la place, de la puissance à revendre. Les restrictions techniques du passé faisaient du bien à la créativité. Aujourd’hui on poursuit cette quête du photo-réalisme en temps réel, on engloutit des millions pour des équipes gigantesques alors qu’avant un seul type pouvait faire tout le boulot pour sortir un jeu. Forcément le support et l’évolution technique demandent bien plus de travail graphique…parce que niveau longueur de jeu, ce n’est pas forcément en rapport. Et la taille était de …quelques kilo-octets. Une ROM de Nintendo NES/Famicom, c’est quelques dizaines de kilo-octets. Une ROM de Megadrive, c’est moins d’un méga-octet. Même une ROM de jeu Playstation ou PSP, c’est du giga-octet pour des heures de jeux. Et je passe donc par l’émulation. A cela s’ajoute la diversité de support et cela n’arrange rien pour la fiabilité des jeux, sortis souvent pour respecter le calendrier, pas la validité des tests. Autre époque…
 
 Si j’avais écrit des articles sur les meilleurs émulateurs android il y a quelques temps, j’ai simplifié depuis ce problème avec un programme qui les réunit tous : RetroArch. C’est un programme familier des libristes, des joueurs sur PC, sur Raspberry Pi (RetroPie) etc… Derrière ce nom, se cachent une multitude de « coeurs » (ou Core) renfermant chacun un émulateur pour une machine. On part des premières machines d’Arcade des années 70 jusqu’au récentes Nintendo Gamecube/Wii ou Sega Dreamcast. Un jour il y aura aussi la PS2, sans doute, car un émulateur existe déjà. Je dois quand même dire qu’il faut faire le tri parce que l’optimisation de ces coeurs n’est pas toujours aussi bonne que l’application équivalente. Par exemple, j’ai de bien meilleurs résultats sur ePSXE et PPSSPP que sur les coeurs pour PSX et PSP. Le payant DraStic pour la Nintendo DS qui a mérité sa retraite, a de bien meilleures résultats et fonctionnalités. Un smartphone plus puissant et récent que le mien n’y verra que du feu.
 
-![ambernic](https://cheziceman.files.wordpress.com/2020/07/rg350.jpg?w=739&h=739)
+![ambernic](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/rg350.jpg)
 
 J’ai donc un panel d’émulateur très large aujourd’hui, incluent des machines possédées par le passé (Amstrad CPC, SuperNintendo, Gameboy Advance, Nintendo DS, Sony PSP, Sega Saturn, Sony PSX… et la Megadrive de madame) autant que celles dont je rêvais (Arcade, NeoGeo, Wonderswan, Nec PCEngine). La légalité d’avoir des ROMs est discutable, puisque d’un côté nous avons des « abandonwares », des logiciels qui ne sont plus suivis par des sociétés et des créateurs qui ont disparus et de l’autre des droits qui subsistent car les fabricants de console les possédaient en partie via les droits d’accès au support. Je pense à Nintendo surtout qui fait la chasse aux sites de ROMs. S’ils pouvaient mettre autant d’énergie sur la qualité de leur hardware ! Mes DS peuvent en parler quand ma GBA SP est toujours fringante. Je rigole quand je vois les problèmes de manettes de switch.
 
@@ -35,7 +35,7 @@ Je m’interroge évidemment sur ma crise de nostalgie aiguë, comme il m’en a
 
 Pour mieux jouer à cela, j’avais une manette en bluetooth qui semblait pas mal. Mais sa durée de vie autant que sa précision et sa compatibilité ont eut raison d’elle après 3 ans. J’ai donc regardé ce qui se faisait et ce qui me convenait. Je m’en fiche, finalement d’avoir l’écran solidaire de la manette. C’est lourd et fatiguant, autant poser le smartphone. J’ai souvent vu revenir le nom de 8BitDo, un spécialiste qui reprend le design des manettes Nintendo ou Sony (le must). Je voulais quelque chose de pratique, rangeable, compatible. La NES30 Pro est ce qu’il me fallait avec ses sticks analogiques, son lool à la SuperNES, ses boutons L1, L2, R1, R2 et ses différents modes, dont le mode « switch », au cas où… J’ai un peu de mal à me souvenir de quel mode est le plus adéquat selon les jeux mais sur RetroArch, il y a tous les profils qu’il faut de même que sur les autres émulateurs. Je la mets en route avec le bluetooth sur le smartphone, c’est reconnu en un quart de seconde et ça a une autonomie d’une dizaine d’heures.
 
-![manette](https://cheziceman.files.wordpress.com/2020/06/nespro30.jpg?w=739&h=527)
+![manette](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/nespro30.jpg)
 
 Parce que sinon, c’est quasi impossible d’être précis dans les jeux de plateforme, les jeux de course etc… A moi Gran Turismo, Super Mario ou le plus obscur jeu d’arcade. J’ai creusé dans ma mémoire pour retrouver tout ce que j’avais joué depuis ma plus tendre enfance, voire possédé et rien que sur Amstrad CPC, je suis arrivé à plus d’une centaine, puisque ça s’échangeait beaucoup dans la cour du collège/lycée. J’ai déjà fait un paquet de chroniques mais vous imaginez tout ce qu’il reste puisque je dois compter tout ce qu’il y avait sur Game Boy Advance, Nintendo DS, Xbox, SNES, Saturn, PS 1… Heureusement que je n’ai pas joué à tout mais j’ai l’occasion d’en redécouvrir certains. La vivacité déclinante de mes petits doigts et de mon regard n’aident pas trop quand même. Mais tout de même, un spécialiste nommé Kawashima m’a dit que j’avais 16 ans de moins que mon age!
 
@@ -43,16 +43,16 @@ Bref, je suis en bonne voie dans ce retour vers l’enfance ou l’adolescence d
 
 Mes coeurs :
 
-- CrocoDS pour l’Amstrad
-- FB Neo pour l’arcade
-- Beetle Cygne pour la Wonderswan
-- Beetle PCE pour la PC Engine
-- Nestopia pour la NES
-- Gambatte pour la Gameboy
-- mGBA pour la Gameboy advance
-- Mupen64 Plus-Next pour la Nintendo 64
-- Snes9X – current pour la Super Nintendo
-- Genesis Plus GX pour la Sega Megadrive
+* CrocoDS pour l’Amstrad
+* FB Neo pour l’arcade
+* Beetle Cygne pour la Wonderswan
+* Beetle PCE pour la PC Engine
+* Nestopia pour la NES
+* Gambatte pour la Gameboy
+* mGBA pour la Gameboy advance
+* Mupen64 Plus-Next pour la Nintendo 64
+* Snes9X – current pour la Super Nintendo
+* Genesis Plus GX pour la Sega Megadrive
 
 C’est déjà pas mal. Il faut ensuite utiliser les « surimpressions » disponibles pour chacun de ces coeurs lorsque l’on va les lancer. Après, à chacun de voir si le jeu à l’horizontal avec l’écran ou avec une manette est préférable au mode vertical qui donne l’impression de finesse à l’écran. On peut « enjoliver » les jeux par des systèmes d’interpolation, par exemple. C’est particulièrement valable sur l’émulateur PPSSPP, très efficace dans ce domaine, même si là, c’est mon Hardware qui coince sur les jeux les plus gourmands. Je ne suis pas allé au delà de la PSP et la génération 64 bits sur les consoles de salon car ça rame. Mais il y a de bons émulateurs pour la Dreamcast, pour enfin jouer à Shenmue….si on n’a pas gardé non plus la Xbox. La Gamecube a l’air d’être pas mal émulée aujourd’hui avec Dolphin qui fait forcément sa cousine la Wii.
 
@@ -64,7 +64,7 @@ Pour voir, finalement, parce que ça finissait par me gêner de profiter des « 
 
 Et puis finalement, j’ai ressorti ma vieille PSP pas trop usée pour en faire une console rétro car avec ce qu’il y a sous le capot et les derniers développement de homebrews, ça reste le top de ce que l’on peut faire dans le domaine. D’ailleurs les prix en occasion sont en train d’augmenter. Quand je vous disais que c’était un marché porteur, c’est aussi vrai pour le n’importe quoi marketing. Mais cela a au moins le mérite de rapprocher des générations de gamers.
 
-![psp arcade](https://cheziceman.files.wordpress.com/2020/08/img_20200716_1232341037680949.jpg?w=739)
+![psp arcade](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/psparcade.jpg)
 
-[la video](https://youtu.be/ubR9cXWkXv8)
+[![video](/images/youtube.png)](https://youtu.be/ubR9cXWkXv8)
 

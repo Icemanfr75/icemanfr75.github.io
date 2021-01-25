@@ -7,7 +7,7 @@ tags: musique, pop, rock, folk, 1980s
 
 **Artiste iconique, inclassable, Kate Bush m’a aussi marqué mais j’étais bien incapable de faire le choix dans ces albums. Et comme celui-ci reste sa meilleure vente, pourquo i choisir ?**
 
-![couverture](https://cheziceman.files.wordpress.com/2020/04/katebush.jpeg)
+![couverture](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/katebush.jpg)
 
 Chanteuse pop ? Artiste complète ? Diva intello ? Que n’a-t-on de qualificatifs pour la géniale anglaise, découverte par David Gilmour, excusez du peu. Il faut dire qu’entre sa voix extraordinaire et hyper-technique, sa maîtrise de tout son art (composition, écriture, production, mise en scène,chorégraphie, captation), c’est une chanteuse hors du commun. Elle a choisi elle-même de se mettre en retrait du star-system, de se mettre hors des strass et des paillettes. On ne sait finalement pas grand chose d’elle et ça ajoute à son aura. Restait à trouver un disque représentatif, sachant que je n’ai pas fait tourner un album plus qu’un autre. En me penchant sur sa bio wikipedia, j’ai vu que c’est cette compilation qui était son plus grand succès, revenant dans les charts à chaque actualité la concernant. Alors c’est parti pour un voyage dans le temps !
 
@@ -23,4 +23,4 @@ Je regrette qu’il y ait autant de titres du précédent album, « The Dreaming
 
 Il ne reste donc plus qu’à se mettre la totale dans la playlist ! pour l’éternité…
 
-[la video](https://youtu.be/Fk-4lXLM34g)
+[![video](/images/youtube.png)](https://youtu.be/Fk-4lXLM34g)

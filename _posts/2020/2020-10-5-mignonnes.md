@@ -9,7 +9,7 @@ tags: 2020s, Cinéma, Film, hypersexualisation
 
 Car la réalisatrice française aborde le sujet de la sexualisation du corps chez les adolescentes. Elle situe son récit dans un quartier qu’elle connaît bien, dans le nord de Paris et vers La Villette. On y suit Aminata (Amy) qui vient d’emménager dans un foyer avec sa mère, son petit frère et  un autre frère encore bébé. On comprend vite que la tante a permis cela et qu’elle impose sa rigueur religieuse et son mode de vie. Amy fait la connaissance d’Angelica dans son immeuble, dont la passion est à la danse. Au collège, elle est bien seule et essaye de se faire des copines. Elle essaye de se rapprocher d’Angelica et ses 3 copines qui portent des tenues plus que sexy pour leur age. Leur objectif : gagner un concours de danse. Mais Amy apprend que son père s’est marié une seconde fois et qu’il va revenir du Sénégal avec cette épouse. La mère d’Amy est à bout entre ses boulots, les prépératifs et le chagrin.
 
-![cover](https://cheziceman.files.wordpress.com/2020/10/film_9259822044046178.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/mignonnes1.jpg)
 
 Pour moi, le film est une franche réussite dans le sens où il parvient à donner la nausée devant l’hypersexualisation chez ces adolescentes. La réalisatrice a l’intelligence de montrer d’un côté leur innocence face aux choses du sexe qu’elles ne connaissent pas, sinon par des vidéos sur internet. Elles subissent aussi la transformation de leur corps mais sont harcelées par des images de femmes hypersexualisées dans les clips ou les publicités. Amy dérive lentement, veut en faire plus que ses copines pour se faire accepter. Elle finit par dépasser largement les bornes jusqu’à presque franchir la ligne rouge. On la sent perdue avec l’absence de repères et tiraillées entre deux extrèmes : La rigueur religieuse ou le laisser aller sans limite.
 
@@ -19,4 +19,4 @@ Le film est fort, sur le fil souvent et pour qui regarde trop distraitement (la 
 
 A voir, d’urgence.
 
-[la video](https://youtu.be/qwdKwmDnk_M)
+En video : [![video](/images/youtube.png)](https://youtu.be/qwdKwmDnk_M)

@@ -9,7 +9,7 @@ tags:  1980s, action, arts martiaux, Cinéma, cinematheque ideale
 
 Les films d’arts martiaux, c’était les films « chanbara » japonais dans les années florissantes (avant 1970) de ce cinéma, ou bien les films de Bruce Lee qui ont ouvert ce genre au monde entier. Pourtant, Bruce Lee était bien un hong-kongais d’adoption (car né aux USA) qui permis à cette industrie locale d’émerger (Big Boss est une production HK). Quand il décéda prématurément, il fallu lui trouver un successeur. Parmi les nombreux prétendants, Jackie Chan (qui a tourné aussi avec Bruce Lee) trouva sa voie dans un style bien différent, tout en gardant la virtuosité du maître. Je ne vais pas refaire la biographie de M. Chan ici mais regarder un peu plus ce film qui me marqua dès la première vision.
 
-![cover](https://cheziceman.files.wordpress.com/2020/07/policestory.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/policestory.jpg)
 
 Pour être totalement honnête, j’ai eu d’abord envie de fuir la version française, tant le doublage est affligeant. C’est le cas d’énormément de films des années 80 en provenance de chine et d’Hong-kong. Au moins, on a échappé à l’accent « chinois » qui est symptomatique du racisme du milieu du cinéma (on a eu le même problème pour les noirs, les arabes)… même aujourd’hui quand on demande à un acteur asiatique de faire l’accent chinois. J’y ai mis du mien pour résister à l’envie de couper et cela tient pour beaucoup à la prodigieuse séquence d’introduction dans le bidonville. On a là quasiment 15 minutes d’action ininterrompue avec des combats, des poursuites, des explosions, des cascades comme seuls savaient faire les Hong-kongais à l’époque (qui a dit …encore maintenant ? )
 
@@ -21,6 +21,6 @@ Le fil rouge est dans la manière de faire tomber le méchant de l’histoire et
 
 J’aurai pu traiter de deux autres films de Chan qui ont aussi les ingrédients types de son cinéma (j’ai beaucoup hésité avec Drunken Master qui n’est pas une réalisation de Chan et Le Marin des mers de Chine / Projet A qui est souvent cité par les fans) pour ce qui est des sorties dans les années 80. Police story a quelque chose de particulier pour moi, plus synthétique de son cinéma même s’il peut apparaître parfois brouillon. Il revenait d’une mauvais expérience à Hollywood (qui se souvient de Cannonball 2 ? ) et on a l’impression qu’il veut montrer l’étendue de son talent. C’est aussi un film qui est le début de la licence Police Story (qui comprend à ce jour 7 opus). Jackie Chan aura l’occasion de parfaire son jeu dans les différentes directions vues ici, que cela soit dans le burlesque, la comédie, l’action pure, le polar. Les non spécialistes du genre attendront surtout les Rush Hour pour le découvrir et c’est bien dommage. Rien que la filmo des années 80-90 comprend près de 60 films ! Aujourd’hui, il reste sur un terrain très conservateur (les affaires sont les affaires), préférant la chanson au cinéma, sans doute parce que son corps n’est plus si bien réparé que cela maintenant.
 
-[la video](https://youtu.be/AxZ9VSmj5U8)
+En video : [![video](/images/youtube.png)](https://youtu.be/AxZ9VSmj5U8)
 
 A écouter aussi : Le podcast de [Blockbusters](https://www.franceinter.fr/emissions/blockbusters/blockbusters-13-juillet-2020) qui y fut consacré.

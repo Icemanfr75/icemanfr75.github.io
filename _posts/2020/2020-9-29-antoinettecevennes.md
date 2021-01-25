@@ -9,7 +9,7 @@ tags: 2020s, comédie, moeurs, randonnée
 
 En 1997, Philippe Harel nous contait déjà une comédie de moeurs sur fond de randonnée, avec ses amours, ses aventures rocambolesques. Remplacez Karin Viard par Laure Calamy (découverte réellement dans la série 10%) et virez les randonneurs pour les remplacer par Patrick l’âne. J’exagère à peine. On remplace la Corse par le GR dit « chemin Stevenson » du nom du romancier qui parcourut ces montagnes et vallées avec un âne. Bienvenue en Lozère  avec ses paysages trop méconnus encore. Nous sommes à moins de 50km de terres que je connais bien.
 
-![cover](https://cheziceman.files.wordpress.com/2020/09/antoinettedanslescevennes.jpeg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/antoinettedanslescevennes.jpg)
 
 Antoinette est une professeur des écoles qui est amoureuse d’un homme mariée, Vladimir. Elle pensait passer des vacances avec lui mais il lui annonce qu’il part en randonnée dans les Cévennes avec sa femme et sa fille, et un âne. Antoinette décide de réserver à la dernière minute une randonnée avec un âne en même temps, sans lui en parler. Mais lorsqu’elle arrive, aucune trace de Vladimir. Le seul qu’elle rencontre, c’est Patrick son âne et un groupe de randonneurs à qui elle confie son histoire.
 
@@ -19,4 +19,4 @@ L’autre intérêt est dans les paysages, la nature, ce dépaysement si proche 
 
 P.S. : il y a certainement des propriétaires d’ânes qui proposent des randonnées près de chez vous. Même en région parisienne d’ailleurs puisque j’en connais un dans le Val D’oise. L’association ADADA recueille aussi des ânes abandonnés ou maltraités. 
 
-[la bande annonce](https://youtu.be/qsbBWaCKlW4)
+En video : [![video](/images/youtube.png)](https://youtu.be/qsbBWaCKlW4)

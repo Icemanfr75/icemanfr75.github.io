@@ -9,7 +9,7 @@ tags: serie, comédie, 1990s, télévision
 
 Je me souviens quand elle a commencé à être diffusée le soir sur M6, succèdant aux habituels Cosby Show et autres dérivés. C’était en 1995 et je découvrais cette hallucinante « nounou » plutôt sexy avec ses robes colorées et extravagantes, sa voix haut perchée et nasillarde. Et encore, je n’avais que la Version Française. Mais il y avait d’abord cet amusant générique de début, tout en swing. Fran Drescher, je ne la connaissais que pour des petits rôles au cinéma (Cadillac Man, par exemple), et dans d’autres séries (Madame est servie). New-yorkaise pur jus, elle reste justement à New-york dans ce rôle de juive new-yorkaise larguée par son petit ami, virée de son emploi et trouvant miraculeusement un emploi de gouvernante chez un richissime veuf anglais.
 
-[générique](https://youtu.be/1bMaS-Dq3Gk)
+Générique: [![video](/images/youtube.png)](https://youtu.be/1bMaS-Dq3Gk)
 
 On retrouve tous les ressorts de la comédies à l’américaine : Opposition entre deux personnages et deux mondes qui ne devraient pas se rencontrer, Répliques cinglantes, Running gags, Seconds rôles aussi voire plus intéressants que certains premiers rôles. Si cela fonctionne, c’est justement parce que c’est trop tout le temps, sans laisser le temps de respirer. C’est caricatural et c’est aussi un peu calqué sur le principe de tant d’autres séries (comme Madame est servie, au hasard dont le créateur a fait un épisode). Mais sans Fran Drescher, ça ne fonctionnerait pas. Il faut sa gouaille, son côté Jew-york, fashion victim et ses gimmicks (elle a éternellement 29 ans et une tenue différente par scène) pour que la sauce prenne. Au commande, il y a Peter Marc Jacobson, mari de Fran Drescher à la ville. La série aura raison de leur mariage, pour la petite histoire. La série a eu quelques prix et du succès dans 3 saisons sur les 6 diffusées ce qui poussa la production à des ajustements dans les personnages. Le spectateur voyant les enfants grandir, il y a besoin aussi de faire évoluer l’équilibre entre les rôles.
 
@@ -23,4 +23,4 @@ Si la première saison se cherche un peu, elle est indispensable, surtout en DVD
 
 Si je prends plaisir à la revoir, malgré un style très années 90, c’est justement pour ce débit de gags, tous ces petits détails, ces invités, ces situations totalement exagérées. C’est presque comme le générique, une sorte de dessin animé coloré à souhait et tellement trop qu’on ne peut s’empêcher de faire soi même la bande son d’ambiance. Alors pour la peine, je vous laisse avec un extrait avec Niles et CC (ils ont trouvé refuge étrangement sur TFX).
 
-[extrait](https://youtu.be/pUx8l9C6rrg)
+Extrait : [![video](/images/youtube.png)](https://youtu.be/pUx8l9C6rrg)
