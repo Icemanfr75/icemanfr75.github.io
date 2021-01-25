@@ -31,7 +31,7 @@ Et là, la touche finale, c'est **le petit gratiné végétal** maison :
 
 Reste à servir les pâtes, cette sauce délicieuse et ce petit gratiné qui rajoute un peu de croquant et de goût. Comme j'ai été un goinfre hier soir, je n'ai pas pensé à faire de photos et je n'avais pas pris trop de soin dans le dressage, de toute façon. Mais avec quelques efforts, ça donne à peu près ça aux pâtes et champignons près évidemment. 
 
-![image](https://cheziceman.files.wordpress.com/2020/04/carbovegane.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/carbovegane.jpg)
 
 *par https://cuisineveganepourdebutant.com*
 

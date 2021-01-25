@@ -11,11 +11,11 @@ Oui, c’est un peu le cousin chez Nintendo de Bub et Bob, nos amis de Taito. C�
 
 A l’époque, j’avais trouvé le jeu trop cher et en occasion ça pouvait encore passer. Il n’y a qu’un niveau de jeu en apparence, décomposé en deux phases. Dans un premier temps on guide la chute de bébé mario accroché à des ballons en dessinant des nuages au stylet dans la partie basse. Ca donne un score et plus il est élevé, plus on change la couleur de Yoshi en haut à gauche ce qui va donner accès à une seconde partie différente.
 
-![capture1](https://cheziceman.files.wordpress.com/2020/04/screenshot_2020-04-19-23-44-04-293_com292790536.png)
+![capture1](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/yoshitouch1.jpg)
 
 Après avoir rejoint Yoshi, on a la seconde partie qui est en défilement horizontal. On peut toujours dessiner des nuages pour aider Yoshi à franchir les obstacles mais on tire aussi des oeufs pour récolter des pièces et tuer des ennemis. Le principe est simple, il faut atteindre le meilleur score pour débloquer un autre mode de jeu, le but ultime étant de libérer bébé…Luigi. Idem en Marathon où on doit durer le plus longtemps possible.
 
-![capture2](https://cheziceman.files.wordpress.com/2020/04/screenshot_2020-04-19-23-44-23-413_com990895500.png)
+![capture2](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/yoshitouch2.jpg)
 
 C’est un jeu de scoring pur et dur, répétitif où on doit apprendre par coeur le niveau pour s’améliorer sans arrêt, trouver la perfection. C’est très japonais donc…Mais hyperjouable, facile d’accès. Au point qu’il y a aujourd’hui des jeux qui reprennent un peu de ce principe sans en atteindre la simplicité et la beauté ici présente. Il vieillit bien Yoshi. Bon, je ne suis pas des plus doués mais ça marche bien sur mon écran de smartphone aussi. Il a été aussi édité sur la virtual console plus tard. Un gros minijeu en fait mais qui donne du plaisir.
 
@@ -25,4 +25,4 @@ Je ferai maintenant de courtes vidéos pour montrer le jeu, moins longues qu’u
 
 Et donc le longplay…
 
-[longplay](https://youtu.be/8UCj4j1rjwo)
+En video : [![video](/images/youtube.png)](https://youtu.be/8UCj4j1rjwo)

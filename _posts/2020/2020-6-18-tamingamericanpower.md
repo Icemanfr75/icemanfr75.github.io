@@ -7,7 +7,7 @@ tags: 2000s, geopolitique, neorealisme, politique
 
 **Je m’étais promis de chroniquer un livre de Stephen M. Walt mais le choix ne fut pas facile. Déjà parce qu’il n’y a pas de traductions en dehors de sujets dont je n’avais pas envie de parler (Lobby pro-israelien dans l’establishment US) et que je préfère avoir l’écrit original sur un thème aussi pointu (et un peu par défi personnel). J’ai donc jeté mon dévolu sur ce livre qu’on pourrait traduire par « Apprivoiser la Suprématie Américaine ». Il est traduit 2 ans plus tard en « Pourquoi le monde n’aime plus les Etats-unis » préfacé par Pascal Boniface, pour ceux qui veulent la version française.**
 
-![cover](https://cheziceman.files.wordpress.com/2020/02/tamingamerican.jpeg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/tamingamerican.jpg)
 
 Stephen M. Walt est un professeur de géopolitique à l’université JF Kennedy de Harvard. Il est dans la veine néoréaliste de la géopolitique, dans la lignée de Kenneth Waltz. Il serait vain de faire un résumé de cette « école » de pensée des relations internationale ici. « Le néoréalisme défensif affirme que l’expansion agressive telle que promue par les néoréalistes offensifs bouleverse la tendance des États à se conformer à la théorie de l’équilibre des pouvoirs, diminuant ainsi l’objectif premier de l’État, qui selon eux est d’assurer sa sécurité. » Il s’oppose évidemment au néo-conservatisme souvent dominant dans les dernières années.
 
@@ -17,7 +17,7 @@ Le livre se focalise surtout sur les période Bush père, Clinton, Bush fils, mo
 
 Ce qui est plus intéressant, c’est de regarder l’impact dans les institutions, la recherche, l’éducation, la langue…C’est aussi une expression de cette suprématie. Les Etats-unis hébergent ou influent sur les plus grandes institutions mondiales, les financent en majorité (ce n’est donc pas un hasard que Trump utilise cette arme du financement durant son mandat). Boutros Boutros-Ghali peut en parler…Il y a la recherche, les sociétés de l’Internet, les positions des universités US dans les classements mondiaux, les dépôts de brevets et évidemment le fait que l’Anglais ou plutôt l’Américain soit la langue d’échange principale. Il y a le système bancaire qui reste aussi majoritairement orienté sur le dollar, avec les défauts que l’on a vu.
 
-![photo](https://cheziceman.files.wordpress.com/2020/02/stephenwalt.jpeg)
+![photo](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/stephenwalt.jpg)
 
 Cela se lit aussi comme un livre d’histoire puisqu’il faut analyser la puissance américaine au regard de la période de guerre froide et des actions depuis la chute de l’URSS. C’est donc un œil critique sur l’expansion de l’OTAN autant que sur les crises en Bosnie, au Moyen-orient. Walt y analyse avec force détails les différentes positions politiques des états qui sont alliés ou opposés aux USA. On y développe, comme dans d’autres de ses ouvrage, la théorie de l’équilibre des pouvoirs. Il y a l’opposition d’un monde unilatéral avec une puissance dominante face à un monde multilatéral.
 

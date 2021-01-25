@@ -7,7 +7,7 @@ tags: 2010s, cinéma, angoisse, fantastique
 
 **Leçon du confinement : Quand tu es confiné, tu regardes des films de gens comme toi…**
 
-![cover](https://cheziceman.files.wordpress.com/2020/03/vivarium.jpeg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/vivarium.jpg)
 
 Tom et Gemma est un jeune couple qui vit gentiment en Angleterre. Elle est professeur des écoles, il est jardinier et rêvent d’acquérir une maison dans une ville anglaise bien proprette. Mais alors pourquoi sont ils allé voir Prospect proterties et leur vendeur Martin pour visiter le lotissement Yonder ?!
 
@@ -15,4 +15,4 @@ Les premières minutes du film avec ce Martin, le vendeur le plus flippant et le
 
 Science-fiction, horreur, fantastique, on oscille entre ces genres dans ce film européens (Irlando, anglo, belgo, danoir) co produit aussi par l’acteur Jesse Eisenberg (Tom). On retrouve aussi l’actrice anglaise Imogen Poots, plutôt habité par ce rôle. Graphiquement, c’est plutôt réussi avec ce choix de couleur, des décors très magrittiens (la pate belge de la production ? ). L’histoire fonctionne bien, un peu comme un épisode de la 4ème dimension, mais il faut avouer un essoufflement au bout d’une heure pour terminer cette histoire. Dans la série que je cite, il y avait l’intervention du présentateur pour aider. Il ne faut pourtant pas bouder son plaisir dans ce film de genre atypique. Tant qu’ils ne font pas de suite, en tout cas ! Je regarderai les lotissements autrement maintenant…
 
-[la bande annonce](https://youtu.be/m7z4L4gy4M4)
+En video : [![video](/images/youtube.png)](https://youtu.be/m7z4L4gy4M4)

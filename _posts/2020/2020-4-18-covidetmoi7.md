@@ -23,9 +23,9 @@ Mais le **peu d'escapades à l'extérieur** m'ont confirmé que l'humain reste c
 
 Ah oui mais pas **les écoles de commerce**, ces établissements qui ont tant de succès avec des droits d'entrée mirobolants, surtout pour un carnet d'adresse et un nom sur un CV. Pour avoir fréquenté des gens issus de ce milieu, pour avoir aussi une nièce là dedans, on voit clairement que ça ne vole pas si haut, à part leur faire croire qu'ils sont une élite auto-proclamée (comme l'ENA...). Heureusement qu'ils n'y croient pas tous. Nous avons valorisé le marketing, le commerce, la pub, une finance virtualisée par rapport à la création, à la technique depuis des années. Même en entreprise, on vend de la méthode de management hors-sol ce qui donne souvent des catastrophes (cf Orange...), l'objectif étant avant tout la rentabilité court-terme. A force de ne plus valoriser la technique, on perd de la capacité à innover même quand on y met des moyens, et on se retrouve à ne plus avoir d'industrie localement, de tissus industriel capable de répondre à une crise, d'évoluer, de se muter rapidement. Et quand il y a encore de l'industrie, il y a de moins en moins de moyens pour l'innovation par rapport au marketing, du moins sur le sol national. Les chiffres de 2016 montraient la Corée du sud en tête de la part d'investissement en R&amp;D dans le Produit intérieur brut. La France n'est que 13ème, cette part stagnant depuis 20 ans, pendant que le voisin Allemand passait de 2,2 à presque 3%. On fera peut-être des masques pour tous, des trucs lavables qui feront rire le reste des pays développés qui ont les "bons masques", un peu moins ceux qui n'ont même pas d'eau, ou à qui nous la volons... autre sujet qu'il faudra revoir.
 
-![image](https://cheziceman.files.wordpress.com/2020/04/retd.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/covid7a.jpg)
 
-![image](https://cheziceman.files.wordpress.com/2020/04/reddspending.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/covid7b.jpg)
 
 *stagnation de l'investissement en R&D*
 
@@ -37,4 +37,4 @@ Le tableau que l'on peut dresser dans cette période **n'est pas joyeux**. Parad
 
 De cet exercice de billet devenu une sorte de journal, je ne sais ce qu'il en ressortira avec le recul de quelques mois. Je n'aurai pas cœur à le relire tout de suite. Je relis déjà de vieux articles dans mon blog de backup, des textes surprenants aussi. Je n'ai aucune certitude sur ce que cela changera en chacun de nous, en dehors de ce sentiment de mortalité qui avait pu disparaître. J'avais parlé il y a peu dans un moment difficile du fait que je pensais avoir fait déjà beaucoup de choses ici bas. Ma seule inquiétude était pour préparer mes proches à mon absence si ça arrivait. J'ai bien fait de faire le nécessaire, d'écrire tout, de prévoir. Aucune crainte, aucune peur, à part peut-être la souffrance, ce que l'on craint un peu tous finalement, cette question que l'on pose aux soignants : "il/elle souffre ? ". Ce moment où l'on ne pense plus seulement à nous. S'est-on posé cette question assez souvent pour les autres, la nature, la terre ?  Il y aura tant à dire aussi sur ce sujet balayé pour l'instant d'un revers de la main, plus tard..pas trop tard.
 
-[la video](https://www.youtube.com/watch?v=2YE26AbXAZ4)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=2YE26AbXAZ4)

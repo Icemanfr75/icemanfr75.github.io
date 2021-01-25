@@ -7,7 +7,7 @@ tags: japon, 2010s, thriller, fantastique, roman
 
 **Je ne sais pas vraiment pourquoi mais j’ai été captivé par cette couverture, et deux chroniques ([Alias](https://alias.erdorin.org/les-miracles-du-bazar-namiya-de-keigo-higashino/) et [Tigger Lilly](https://dragongalactique.com/2020/03/08/les-miracles-du-bazar-namiya-keigo-higashino/) ) m’ont conforté dans cette envie de lire ce livre.**
 
-![image](https://cheziceman.files.wordpress.com/2020/04/bazarnamuiya.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/bazarnamiya.jpg)
 
 Pourtant l’histoire laisse croire à un banal thriller : « En 2012, après avoir commis un méfait, trois jeunes hommes se réfugient dans une vieille boutique abandonnée dans l’intention d’y rester jusqu’au lendemain. Mais tard dans la nuit, l’un d’eux découvre une lettre, écrite 32 ans plus tôt et adressée à l’ancien propriétaire. … »
 

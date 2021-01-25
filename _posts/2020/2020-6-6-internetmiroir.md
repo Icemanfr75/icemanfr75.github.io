@@ -45,4 +45,4 @@ Je ressasse souvent cette question de l'après Internet d'aujourd'hui. Mais je p
 
 Alors comme je n'ai pas l'intention de rivaliser avec un des [<del datetime="2020-06-03T08:22:10+00:00">derniers</del> billets de Maître B](https://cyrille-borne.com/japprends-a-perdre-mais-pas-trop/), je vais m'arrêter là, vous laissant la suite pour réfléchir ([podcast](https://www.franceinter.fr/emissions/le-code-a-change/psychanalyse-du-web)) et pourquoi pas répondre par un article. Oui, ça se perd malheureusement comme les liens, la lecture des liens. Enfin ça je vous bassine depuis un paquet de temps dessus. Spéciale dédicace aux blogueurs morts ! ...le repentir ? mouais
 
-[la video](https://www.youtube.com/watch?v=yjb0j9l1sz4)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=yjb0j9l1sz4)

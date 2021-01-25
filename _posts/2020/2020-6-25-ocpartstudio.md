@@ -13,11 +13,11 @@ J’ai recherché un peu dans les archives du net pour cela. L’outil est né s
 
 Il y avait des « Brush » ou brosses prédéfinies pour faire des fonds comme par exemple des murs. Cela facilitait beaucoup les choses. La vidéo plus bas montre cela. Mais on pouvait créer ses brosses, revenir en arrière, utiliser un crayon de différente taille ou un « aérographe ». On pouvait évidemment travailler dans les différents modes graphiques 0 à 2 de l’Amstrad pour avoir moins de couleur mais plus de finesse.  J’en ai copié des exemples, la vidéo plus loin étant en mode 0 soit les 16 couleurs en 160×200, ouahou. 
 
-![ocp1](https://cpcrulez.fr/img/1/art_studio2.png)
+![ocp1](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/art_studio2.jpg)
 
 Comme l’Amstrad n’avait nativement pas de souris, on utilisait le joystick ou le curseur avec les flèches directionnelles. Je n’ai pas eu la souris AMX compatible. C’était quand même long et fastidieux mais très formateur pour créer des effets par juxtaposition de pixels de couleurs différentes. Cela donnait du brillant, du métallique, du mat, du relief, du reflet. Il valait mieux bien prévoir sa palette avant pour cela. Quand je pense qu’après on avait des milliers de couleurs sur les machines 16 bits.
 
-![ocp2](https://cpcrulez.fr/img/1/art_studio.png)
+![ocp2](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/art_studio.jpg)
 
 On pouvait aussi utiliser des trames, un peu comme le manga, tiens. C’étais sommaire, en effet et les sauvegardes ne prenaient que quelques octets évidemment. Pas de format de compression et réglages de qualité à cette époque. Il y avait donc une loupe, un outil pour mettre du texte, des formes de base, du remplissage, la sauvegarde des couleurs de la palette. Ce petit menu en haut était finalement très efficace. Après avoir cherché des vidéos, je me suis collé à en faire une grâce aux options d’enregistrement de … WinApe, sur une de mes musiques. Ah oui, c’était édité par Rainbird, éditeur de jeux… de Telecomsoft. Mais c’est un certain James Hutchby qui créa la première version. Allez, on prend la DeLorean
 
@@ -27,4 +27,4 @@ Comme j’ai un peu branché Fred là dessus, il a sorti une vidéo lui-même su
 
 Juste pour le fun, je vous ai bricolé ce que ça donnait à peu près sur OCP Art après quelques heures (alors que là j’ai fait ça avec Paint en 10 minutes)
 
-![monimage](https://cheziceman.files.wordpress.com/2020/06/xmocpartstudio.gif)
+![monimage](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/xmocpartstudio.gif)

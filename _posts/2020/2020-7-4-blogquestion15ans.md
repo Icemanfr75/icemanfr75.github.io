@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Blog - 15 ans et des questions ?
 category: reflexion
@@ -27,34 +27,34 @@ Iceman : J’ai 2E ans depuis quelques semaines. Et cela fait 16 années humaine
 
 Iceman : Sans classement,
 
-- Citizen Kane (1941)
-- Noblesse Oblige (1949)
-- Hana-Bi (1997)
-- Chantons sous la pluie (1952)
-- Orange mécanique (1971)
-- Freaks (1932)
-- La Ligne Verte (1999)
-- L’Aurore (1927)
-- Les Vestiges du jour (1993)
-- Fenêtre sur cour (1954)
-puisque tu me limites à 10
+* Citizen Kane (1941)
+* Noblesse Oblige (1949)
+* Hana-Bi (1997)
+* Chantons sous la pluie (1952)
+* Orange mécanique (1971)
+* Freaks (1932)
+* La Ligne Verte (1999)
+* L’Aurore (1927)
+* Les Vestiges du jour (1993)
+* Fenêtre sur cour (1954)
 
- 
+puisque tu me limites à 10
 
 **Cascador : Tes 10 albums préférés ?**
 
 Iceman : Toujours difficile donc je vais prendre les 10 groupes et ne garder qu’un album …
 
-- Queen – Live Killers
-- Tom Petty – Into the Great wide open
-- Anathema – Hindsight
-- Morcheeba – Big Calm
-- REM – Automatic for the People
-- The Prodigy – Music for the jilted generation
-- VAST – Visual audio sensory theater
-- Yann Tiersen – …Amélie Poulain? 
-- The Police – synchronicity
-- Kosheen – Resist
+* Queen – Live Killers
+* Tom Petty – Into the Great wide open
+* Anathema – Hindsight
+* Morcheeba – Big Calm
+* REM – Automatic for the People
+* The Prodigy – Music for the jilted generation
+* VAST – Visual audio sensory theater
+* Yann Tiersen – …Amélie Poulain? 
+* The Police – synchronicity
+* Kosheen – Resist
+
 Il m’en faudrait 15 je pense car il en manque sur mon île déserte (Dead Can Dance, Zoe Keating, AC/DC, Cheap Trick, Kiss…)
 
  

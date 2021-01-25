@@ -7,7 +7,7 @@ tags: japon, littérature, musique, drogue, suicide, 2010s
 
 **On va encore me répondre que je n’aime que les sujets tristes et dramatiques. Comme les grands films et grandes chansons, il y a souvent un drame dans les grandes histoires. L’écrivaine japonaise Mayumi Inaba nous emmène dans les années 70 pour suivre un couple.**
 
-![cover](https://cheziceman.files.wordpress.com/2020/03/valsesansfin.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/valsesansfin.jpg)
 
 Dès l’introduction, le.la lecteur.rice est au courant du drame : La mort de Abe Kaoru par overdose. Il laisse Suzuki Izumi dans le chagrin. Elle va nous raconter d’abord sa vie avant la rencontre de son amant, son mari, le père de sa fille. C’est l’histoire d’une romance autodestructrice chez une personne qui fuit aussi son passé. Sur fond de drogue, de musique pop et jazz, le.la lecteur.rice est entrainé lui-même dans cette spirale.
 

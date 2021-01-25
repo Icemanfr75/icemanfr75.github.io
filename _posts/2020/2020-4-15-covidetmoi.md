@@ -32,4 +32,4 @@ Tout cela n'est finalement que dans le temps long. Le plus urgent, comme dit <a 
 
 Avec un peu de recul sur ces dernières semaines, j'ai le sentiment d'avoir basculé dans une autre routine après avoir fait une transition. L'urgence est pourtant encore là.
 
-[la video](https://m.youtube.com/watch?v=Lcb-Fsx_phM)
+En video : [![video](/images/youtube.png)](https://m.youtube.com/watch?v=Lcb-Fsx_phM)

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Blog - Covid-19 et moi, épisode 11/?
 category: reflexion
@@ -13,7 +13,7 @@ J’ai pas mal réinvesti les réseaux sociaux comme twitter, facebook, mastodon
 
 Toute cette activité n’a pas empêché la création, qu’elle soit écrite (le roman feuilleton a toujours deux épisodes d’avance), qu’elle soit bloguesque (top secret…), qu’elle soit picturale. Je dessine moins ici, mais les idées sont là, notamment un projet avec un collègue blogueur qu’il faudra qu’on se décide à montrer un jour pour peut-être fédérer quelque chose. Je ne suis pas totalement satisfait du style (le mien) mais si je m’écoutais toujours, il n’y aurait même pas ou plus d’articles ici. Je me suis remis aussi à redessiner d’autres choses que je ne faisais plus, parce qu’en ce moment j’essaie d’imaginer ce que pourrait-être ou devrait-être notre mobilité de demain. J’ai donc regardé pas mal de designers qui mettent leurs inspirations sur Instagram et je suis assez déçu par ce que je vois qui tourne toujours autour des mêmes sujets : SUV, Dreamcars… désespérant ! Seul un article de Caradisiac parlant de la stupidité de la mode des SUV m’a un peu réconforté, mais alors léger.
 
-![image](https://cheziceman.files.wordpress.com/2020/05/instaiceman.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/instaiceman.jpg)
 
 *Juste pour la présence…et mettre un peu de rêve*
 
@@ -43,4 +43,4 @@ Donc j’essaie, nous essayons de voir le bon côté et j’ai retrouvé cette c
 
 Alors malgré des moments sombres qui planent au-dessus, malgré les peurs, les menaces, la vie continue et plutôt que de chercher un Sens à la vie, le sacré Graal, autant la prendre comme elle vient en regardant Brian …
 
-[la video](https://youtu.be/VOAtCOsNuVM)
+En video : [![video](/images/youtube.png)](https://youtu.be/VOAtCOsNuVM)

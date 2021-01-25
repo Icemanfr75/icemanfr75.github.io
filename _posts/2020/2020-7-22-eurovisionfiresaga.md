@@ -7,7 +7,7 @@ tags: cinéma, musique, 2020s, eurovision
 
 **J’aime les films parodiques. J’aime l’Eurovision… Alors quand un film rejoint les deux, ça peut m’intéresser. Surtout que cette année, j’ai été sevré de concours…**
 
-![cover](https://cheziceman.files.wordpress.com/2020/07/eurovisionfilm.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/eurovisionfilm.jpg)
 
 En plus, si on me met Will Ferrel (ex SNL)… Par contre, il faut aller sur Netflix pour trouver cela. A la manière d’un Spinal Tap (dont il faudra que je parle aussi), nous allons suivre l’épopée du duo islandais (!?) Fire Saga. Mais nous n’avons pas l’impression de voir un faux documentaire comme son modèle, le réalisateur David Dobkin préférant rester dans de la comédie. C’est sans doute le premier point qui me dérange… Ferrel a signé le scénario avec Andrew Steele. Il joue le leader du groupe, loser magnifique, fils renié par son père (Pierce Brosnan), qui rève de participer à l’Eurovision depuis la fois où il a vu ABBA.  Avec sa demi-soeur / cousine / voisine Sigrid (on ne sait pas), il forme le duo Fire Saga qui écume le bar de la ville et les quelques mariages.  Sigrid (Rachel Mc Adams) croit aux elfes et les invoque pour que la chance tourne. Un concours de circonstance (euh, l’explosion du bateau des candidats islandais …) fait qu’ils sont les candidats de leur pays.
 
@@ -17,4 +17,4 @@ C’est totalement farfelu, foutraque .. ça ça me va. Mais c’est surtout tro
 
 Le film vise avant tout les « eurofans » c’est vrai mais aussi les amateurs de parodie. Passé ce public, j’ai comme en doute sur l’efficacité du film qui reste moyen. Il y a des moments cultes et Ferrel traine son habituel air de chien battu / loser qui lui donne un petit air de Dana Carvey dans Wayne’s World, autre chef d’oeuvre du genre … issu du SNL encore. Rachel McAdams n’a pas un rôle suffisamment développé pour donner dans le comique et c’est dommage. Brosnan fait sans doute le lien avec les films sur ABBA, se contentant du minimum syndical (être beauuuuu….). Tout cela m’aura fait passer un bon petit moment, me consolant de l’émission bâclée de cette année (pour cause de COVID) dont le casting était finalement plutôt pauvre (je ne garderai qu’un titre…). Un bon timing finalement et un moyen pour l’ESC de se faire connaître aux USA, dans l’hypothèse où ils ont de l’humour. Ils en ont jusque dans les élections de leur président, c’est vrai, ha ha .
 
-[la video](https://youtu.be/7q6Co-nd0lM)
+En video : [![video](/images/youtube.png)](https://youtu.be/7q6Co-nd0lM)

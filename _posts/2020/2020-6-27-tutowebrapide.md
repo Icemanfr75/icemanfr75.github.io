@@ -9,11 +9,11 @@ tags: tutoriel, développement, geek, web, internet, hébergement, blog
 
 J’ai très vite cherché à faire un site statique puisque cela évite de recourir à une base de données, à trop d’outils externes. La logique était aussi d’avoir un fichier par article ce qui dans mon cas (plus de 1500 articles), représente une colossale base. J’avais aussi envie de faire du tri. J’ai donc cherché un truc qui me permette de transcrire une base wordpress xml en des fichiers les plus proches du texte, soit donc en markdown, ce langage à balise des plus simples. J’ai trouvé l’outil pour faire le passage en automatique grâce à ce développeur.
 
-**Le Cahier des charges**
+### Le Cahier des charges
 
 Je ne voulais rien avoir en local, c’est à dire ne pas faire appel à du easyphp ou autre outil pour visualiser avant le site. Une fois le template présent, l’article doit s’insérer dedans. Je ne voulais que des fichiers sources en html, markdown et css, ce que j’arrive encore à comprendre facilement. J’ai découvert l’existence des githubpages qui permettent cela. J’ai fait un fork d’un template existant parmi les plus basiques et j’ai donc commencé à bosser dessus pour comprendre comment c’était fichu. Je préfère parti d’un truc qui fonctionne plutôt que de tout recréer de A à Z, je perds moins de temps. En plus cette base est suffisamment populaire pour trouver de la doc, malgré une absence de support depuis 3 ans. Oui, je prends un risque si évolution des githubpages et de ce qu’il y a derrière. Mais je pense pouvoir m’en sortir surtout qu’il reste encore des utilisateurs actifs.
 
-**La solution choisie**
+### La solution choisie
 
 Githubpages, c’est pas de pub, pas de coût d’hébergement dans mon cas puisque aucune image ou presque. Pas besoin d’installer jekyll en local, déjà que c’est une cata sous windows 10. Pas envie de faire subir ça non plus à ma Debian. J’attaque directement le code et je regarde des prévisualisations des pages markdown localement quand je les édite. Pour le peu de scripts en langage Liquid (natif sur jekyll ), ça peut se tester directement, github gère les version. Il a juste fallu que je pose un peu ma structure des catégories wordpress sur un papier pour le repenser pour ce site. J’ai environ 6 Mo d’articles en plus du peu de base qu’il y a pour le site. Ridicule. J’ai compris rapidement qu’il y aurait des manques :
 
@@ -39,32 +39,32 @@ Restait à tester **la rapidité de l’engin** et c’est assez édifiant. J’
 
 Avec GT Metrix on a ça
 
-![gt1](https://cheziceman.files.wordpress.com/2020/04/gtmetrixfree.jpg)
+![gt1](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/gtmetrixfree.jpg)
 
-![gt2](https://cheziceman.files.wordpress.com/2020/04/gtmetricwp.jpg)
+![gt2](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/gtmetricwp.jpg)
 
-![gt3](https://cheziceman.files.wordpress.com/2020/04/image.png)
+![gt3](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/gtmetrixgithub.jpg)
 
 
 Avec Googe Insight Speed on a ça
 
-![gis1](https://cheziceman.files.wordpress.com/2020/04/insightfree.jpg)
+![gis1](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/insightfree.jpg)
 
-![gis2](https://cheziceman.files.wordpress.com/2020/04/insightwp.jpg)
+![gis2](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/insightwp.jpg)
 
-![gis3](https://cheziceman.files.wordpress.com/2020/04/insightgh.jpg)
+![gis3](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/insightgh.jpg)
 
 Avec Pingdom on a ça
 
-![ping1](https://cheziceman.files.wordpress.com/2020/04/pingdomfree.jpg)
+![ping1](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/pingdomfree.jpg)
 
-![ping2](https://cheziceman.files.wordpress.com/2020/04/pingdomwp.jpg)
+![ping2](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/pingdomwp.jpg)
 
-![ping3](https://cheziceman.files.wordpress.com/2020/04/pingdomgh.jpg)
+![ping3](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/pingdomgh.jpg)
 
 Les résultats se recoupent parfaitement sur les requests et les tailles de page. Je pensais avoir fait mieux en taille par mon choix de thème sur l’ancien backup mais c’est raté. Malgré la vélocité de worpress.com aujourd’hui, j’ai quand même du retard par rapport au temps de chargement. La taille est bien divisée par 10, donc c’est ce que je voulais. Les performances sont quasiment au max de ce que je pouvais faire. Les résultats du backup chez free sont aussi très parlants. Ce n’est pas fait pour ça maintenant et en plus Free est toujours 2 ans en retard sur les versions.
 
-**Et après?**
+### Et après?
 
 Maintenant la question qui se posera sera de savoir si un jour je passe définitivement sur ma solution github pages ou pas ? Il manque la partie programmation d’article évidemment qui est un grand confort sur wordpress, même par rapport à d’autres plateformes concurrentes. Les brouillons, ça peut se gérer encore en laissant des drafts par ailleurs dans une rubrique à part. Il manque surtout une facilité de création de liens entre articles par rapport à WordPress qui sait regarder directement dans sa propre base. Forcément, pas de base, pas de chocolat. Question forme c’est le plus épuré que je pouvais, pas au point d’un RMS et son fourre-tout, quand même. J’ai encore à retravailler quelques aspects de forme et de fond. Il faut aussi que je rajoute des commentaires sur les ajouts, même si j’en ai mis dans le readme. Tout ça se trouve ici : [le github](https://github.com/Icemanfr75/icemanfr75.github.io)
 

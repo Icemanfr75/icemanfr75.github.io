@@ -17,6 +17,6 @@ Mais c’est un album très américain avec le très funky « We’ll be togethe
 
 Et ce n’est qu’en le réécoutant que je me suis souvenu qu’il y avait la reprise de « Little Wing » d’Hendrix. J’ai écouté Hendrix plus tard. C’est Hiram Bullock qui se colle au solo. Pas inoubliable pour moi…la preuve. Je me souvenais un peu plus de « The Secret Marriage » qui clôture l’album. Mais j’en suis toujours déçu. J’aurais arrêté à Sister Moon en fait. Et pourtant je trouve que l’album n’a pas tant vieilli. Il reste avec bonheur dans ma playlist aujourd’hui. Oh bien sûr, il y a quelques sont qui font datés mais ce n’est pas si dérangeant. Mais si je suis attaché à cet album, c’est aussi par nostalgie et pour tous les souvenirs liés à son écoute. Ça personne ne mes les enlèvera… ou ne vous les offrira à votre écoute.
 
-[la video](https://youtu.be/KYps5LfOaGg)
+En video : [![video](/images/youtube.png)](https://youtu.be/KYps5LfOaGg)
 
-![cover](https://cheziceman.files.wordpress.com/2020/01/stingnothing.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/stingnothing.jpg)

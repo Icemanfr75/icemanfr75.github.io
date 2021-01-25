@@ -6,7 +6,7 @@ tags: 1990s, bd, communisme, histoire, 1870s, révolution
 ---
 **Cette série de 4 tomes n'est pas l'histoire du journal<a href="https://fr.wikipedia.org/wiki/Le_Cri_du_peuple_(journal,_1871)"> Le Cri </a>du peuple créé par Jules Vallès mais Lhistoire de La Commune de Paris par l'écrivain Jean Vautrin mise en image. Et pourtant... on retrouve justement Jules Vallès dans les protagonistes de cette fiction historique.**
 
-![image](https://cheziceman.files.wordpress.com/2020/01/cridupeuple.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/cridupeuple.jpg)
 
 Difficile d'être neutre dans une telle histoire, un tel drame. Jean Vautrin est clairement à gauche politiquement et son point de vue reste celui des Communards, moins celui des Versaillais. Je ne vais pas reprendre ici toute l'histoire de ces <a href="https://fr.wikipedia.org/wiki/Commune_de_Paris_(1871)">quelques semaines de 1871</a>, il y a d'autres sites pour cela... et cette BD. Nous suivons des personnages qui se retrouvent acteurs de cette petite révolution prolétarienne qui agita Paris. Il y a le Capitaine Tarpagnan, une certaine Gabriella Pucci dite "caf'conc", Grondin l'ancien notaire, bagnard, et mystérieux policier, Hyppolyte l'espion ou bien encore des anonymes, des leaders éphémères comme "Fil-de-fer", en plus de toutes les figures historiques (Louise Michel, Valles, Gustave Courbet...). Tardi nous les croque avec maestria dans ces quatres superbes albums au format à l'italienne. Ce format horizontal donne de grandes planches sur la Mairie de Paris, siège de ce gouvernement provisoire, ou sur les barricades, les canons de Montmartre, etc. 
 
@@ -16,4 +16,4 @@ C'était aussi l'histoire d'une utopie révolutionnaire et prolétaire qui montr
 
 Une série d'album qui est très dense, bouleversante à bien des égards et encore un classique de Tardi. On peut lui reprocher le militantisme mais pas tant que ça, tant ces albums montrent les massacres et vengeances perpétrés de part et d'autres. Âmes sensibles... 
 
-![image](https://cheziceman.files.wordpress.com/2020/01/cridupeuple2.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/cridupeuple2.jpg)

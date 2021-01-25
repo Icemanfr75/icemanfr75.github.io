@@ -9,7 +9,7 @@ tags: 2020s, Cinéma, drame, environnement, écologie, Film
 
 Et pourtant, on va parler Teflon ou plutôt pollution généralisée au Teflon dans ce film hollywoodien mais militant. A noter qu’il est produit par l’acteur star du film, Mark Ruffalo, accessoirement proche de certaines causes environnementales. L’histoire ?
 
-![affiche](https://cheziceman.files.wordpress.com/2020/03/dark-waters.jpg)
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/dark-waters.jpg)
 
 C’est une histoire vraie dont les personnages existent ou ont existé. Dupont et le composée APFO – C8, autrement appelé plus poétiquement Acide Perfluorooctanoïque, sert à fabriquer le teflon, ce que l’on retrouve sur des poêles, des tapis, des rubans pour la plomberie et autres traitements de surface. On en rejette partout comme produit fini mais déjà lors de la fabrication. C’est le sujet principal du film mais ce n’est pas seulement ça. Ca reste en nous, ça crée des cancers à haute dose. Ça se retrouve même dans la chaîne alimentaire pourtant éloignée de ce polymère. Le classement dans les polluants persistant date seulement de 2019…quand il y avait une connaissance d’effets néfastes dès les années 60.
 
@@ -19,4 +19,4 @@ Le film est donc informatif de ce point de vue là sans sombrer dans des termes 
 
 Comme c’est une histoire vraie et un biopic, il n’y a aucun suspens sur l’issue finale. Il faut donc maintenir le spectateur en haleine par d’autres artifices comme des faiblesses chez nos héros, l’attente de résultats d’enquête, etc…Cela fonctionne plutôt bien. J’ai plus de réserve sur le choix d’une photo exagérément grise bleutée en extérieur ou carrément jaune lorsque le héros est chez lui ou à son bureau. Cette opposition couleur froide / couleur chaude est trop caricaturale. Ruffalo est crédible dans ce monde de requin même si sa moue et ses mimiques me semblent superflues. Pour Todd Haynes, j’avais aimé son Velvet goldmine, je le trouve presque scolaire ici. Malgré cela , pour l’histoire, le film mérite un détour.
 
-[la video](https://youtu.be/Il2EggMmRDU)
+En video : [![video](/images/youtube.png)](https://youtu.be/Il2EggMmRDU)

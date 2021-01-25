@@ -10,6 +10,7 @@ tags: 2020s, 1990s, 2000s, classique, cinéma
 J'ai un peu vieilli avec les bandes son de ses films. J'ai découvert cela surtout à la fin des années 90 (les Ghibli ont mis du temps à arriver) et je n'ai jamais été déçu par ses productions. Sauf que des compilations, on peut s'en faire, on peut en trouver. Là c'est aussi une réorchestration en symphonique avec le London Philarmonic Orchestra ou le Japan Philarmonic Orchestra, plus quelques autres formations. De quoi en faire la compilation ultime...puisqu'en plus on peut découvrir des titres qui nous auraient échappé. Car il y a tout de même 2 CD !
 
 Disc 1
+
 1. One Summer's Day (from "Spirited Away") (04:02)
 2. Kiki's Delivery Service (from "Kiki's Delivery Service") (04:31)
 3. Summer (from "Kikujiro") (04:04)
@@ -22,7 +23,9 @@ Disc 1
 10. 「もののけ姫」組曲 (Live At すみだトリフォニーホール / 2006) (08:32)
 11. 交響幻想曲「かぐや姫の物語」~天人の音楽 (from "The Tale of Princess Kaguya") (02:47)
 12. My Neighbour TOTORO (from "My Neighbor Totoro") (04:07)
+
 Disc 2 
+
 1. Ballade (from "BROTHER") (04:20)
 2. KIDS RETURN (from "Kids Return") (04:22)
 3. Asian Dream Song (05:30)
@@ -40,7 +43,7 @@ Disc 2
 15. Cinema Nostalgia (06:08)
 16. 人生のメリーゴーランド (from "Howl's Moving Castle") (05:09)
 
-[video 1](https://www.youtube.com/watch?v=DALUUm6st6M)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=DALUUm6st6M)
 
 28 titres et 28 moments de bonheur, ça vous dit ? Hisaishi (Mamoru Fujisawa de son vrai nom) c'est d'abord du piano et une vision du minimalisme avec une gestion du silence. Amateur de jazz et de funk, il s'inspire pourtant d’œuvres classiques européennes et même hollywoodienne. Ce double-album a le mérite d'en donner un panel représentatif.
 
@@ -54,4 +57,4 @@ Le thème d'"Hana bi " est pour moi incontournable aussi. Ce film est culte pour
 
 Avec cette compilation, nous avons donc un best-of de ses Piano stories, de ses plus grandes bande-son ce qui en fait à la fois un moyen de le découvrir ou bien d'avoir toujours cela près de soi, maintenant que nous pouvons transporter notre musique préférée. On peut toujours critiquer des choix et des enchaînements dans cet exercice mais c'est un très beau double-album pour l'un des plus grands compositeurs modernes. Encore un album qui finit dans mes classiques.
 
-[la video](https://www.youtube.com/watch?v=l0GN40EL1VU)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=l0GN40EL1VU)

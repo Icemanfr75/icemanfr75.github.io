@@ -7,7 +7,7 @@ tags: 1990s, guitare, hard-rock, joe satriani, Musique
 **C'est dans ma période "guitare" et hard-rock que j'ai totalement craqué pour cet album de "Satch". Le Shreder se laissait aller à un peu plus d'émotion ce qui allait plus dans mes goûts. Et c'est aussi sa meilleure vente dans l'hexagone.**
 
 
-![image](https://cheziceman.files.wordpress.com/2019/12/theextremist.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/theextremist.jpg)
 
 J'avoue que le guitar-hero était un peu passé en dehors de mes radars à l'époque. Je goûtais de plus en plus de musique un peu plus extrême et lorsque je vis le clip de "summer song" la première fois dans une émission du Top 50 de Marc Toesca, je craquais directement. Dans la semaine qui suivais, l'album tournait sur ma platine. 
 
@@ -17,4 +17,4 @@ et tout commence par *Friends* un joli single en puissance en mid-tempo avec de 
 
 Mais chassez le naturel...Satch is back avec *Why* . Il y a une très belle mélodie mais là il en fait des caisses sur les breaks, les soli, virevoltant de notes en notes. Heureusement que le reste me convient. Le plus heavy *Motorcycle Driver* n'est pas non plus inoubliable dans l'album. Et je suis presque un peu déçu de la fin de cet album avec *New Blues* , un peu trop démo à mon goût malgré les intonations entre jazz, blues et rock. Cela ne gache pas pour autant mon plaisir d'écouter et réécouter cet album depuis toutes ces années. S'il n'est pas le plus représentatif du style Satriani, il est accessible à tous (j'ai testé avec des réfractaires au metal). Alors laissez vous tenter par un album d'instrumental pour une fois.
 
-[la video](https://www.youtube.com/watch?v=7NJ_nzOckOQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=7NJ_nzOckOQ)

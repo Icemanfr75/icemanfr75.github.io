@@ -7,7 +7,7 @@ tags: 2020s, féminisme, littérature, livre, témoignage, viol
 
 **C’est le livre Témoignage qui a changé (j’espère durablement) la fédération française des sports de glace, fait sauter une omerta, et enfin fait chuter le dictateur Didier Gailhaguet. Mais c’est encore un livre utile dans la compréhension traumatisme qu’est un viol, parce que j’entends encore trop d’imbéciles s’exprimer sur ce sujet.**
 
-![image1](https://cheziceman.files.wordpress.com/2020/03/abitbol1.jpeg)
+![image1](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/abitbol1.jpg)
 
 En préambule, il faut que je vous dise que Sarah Abitbol (avec son partenaire de patinage Stéphane Bernadis) a une place particulière dans mon coeur, celui d’un fan de patinage artistique. Elle a participé à l’âge d’or du patinage artistique mondial (entre 1985 et 2000) et m’a fait suivre la discipline de couple, sachant que je suivais plutôt la Danse sur glace. C’était la TeamColombes de Jean-Roland Racle. Et puis comme en plus j’ai une nièce par alliance qui a fréquenté à très haut niveau ce milieu, ça me touche un peu plus. Sarah Abitbol c’était la patineuse pétillante et drôle à l’époque de sa carrière, la battante qui nous a fait pleuré à sa blessure aux JO de Salt Lake, que j’avais retrouvé brièvement à l’écran lors d’un challenge télé sur glace un peu foireux. Et c’est donc un choc qu’elle dévoile ce drame un jour de 2020.
 
@@ -17,7 +17,7 @@ Sarah Abitbol s’adresse à M.O, son ex-entraîneur des français volants (que 
 
 Puis vient la construction de l’emprise, le viol, les viols à répétition, le piège qui se referme sur une jeune fille de 15 ans qui aime d’abord son sport. Sa carrière en pâtit et heureusement elle trouve la porte de sortie du patinage en couple, plutôt qu’en solo. Stéphane Bernadis sera sans le savoir son protecteur, son épaule, son moyen d’oublier et Sarah Abitbol redeviendra la battante qu’elle était… Brièvement. Car vient la terrible blessure, la reconversion, la tentative de reconstruction d’une femme meurtrie, qui pense d’abord que c’est « la petite mort » d’un arrêt de la compétition. Elle cherche à s’en sortir mais professionellement comme personnellement c’est grave. Les médicaments ne suffisent pas, et ce qu’elle avait oublié, cette période des viols, ressurgit.
 
-![image2](https://cheziceman.files.wordpress.com/2020/03/abitbol2.jpeg)
+![image2](hhttps://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/abitbol2.jpg)
 
 Emmanuelle Anizon a su mettre les bons mots sur cette souffrance, sur ce parcours de la combattante qu’est Sarah Abitbol. C’est choc mais aussi touchant et drôle parfois. Il y a, par exemple, cette évocation des chiens, ses Yorkshire terrier qui accompagnaient déjà la patineuse sans que l’on comprenne alors pourquoi. Le livre est court, intense mais dit les choses telles qu’elles sont. On peut avoir quelques envies de meurtre devant la dureté des faits (surtout en temps que parent de victime, j’imagine). Ce n’est pas là que l’on aura trop de confidences sur les coulisses des compétitions, à part les échanges de bons procédés entre fédération pour privilégier un champion de l’une contre le vote de l’autre. Je ne pense pas que quelqu’un doute encore de ce que représente ce sport comme difficulté avec 5 à 6 h d’entrainement par jour pendant des années.
 

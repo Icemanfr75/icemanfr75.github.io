@@ -10,7 +10,7 @@ tags: 1970s, bd, post-apocalyptique, vampire
 Dans une sorte de long poême post-apocalyptique, Druillet réinvente le vampire popularisé par le cinéaste FW Murnau, et pas seulement le Dracula de Bram Stoker. Dans l'album, il y a d'ailleurs une introduction sur le mythe du vampire qui permet de rappeler l'origine de Nosferatu.
 
 
-![cover](https://cheziceman.files.wordpress.com/2020/01/nosferatu.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/nosferatu1.jpg)
 
 Dans ce dessin en noir et blanc, on retrouve tout le génie de Druillet. C'est un style qui a peut-être pris de l'âge dans sa série Lone Sloane avec la mise en couleur mais ce Dracula n'a pas se problème. La planète ravagée sur laquelle vit notre vampire pourrait-être la terre du futur ou un autre. Le trait est nerveux, acéré, détaillé comme d'habitude chez cet auteur. Je ne lui trouve pas d'équivalent. Celui qui fit les belles heures de Metal Hurlant trouve dans cette histoire une matière pour exprimer sa poésie.&lt;
 
@@ -18,4 +18,4 @@ Il a trouvé déjà à illustrer du Moorcock ou du Flaubert par le passé. Mais 
 
 J'ai hésité à chroniquer cet album plutôt qu'un autre Druillet pour commencer. Ce n'est pas le plus représentatif d'un auteur qui peut paraître en décalage, aujourd'hui, avec ce qui sort. Et pourtant je trouve du charme à cette histoire, cette ode. Ces planches gagnent à être touchées, regardées en très grand format, avec cette encre de chine au noir profond. J'adore déjà cette couverture aux traits géométriques et simples. Et même si l'on ne comprend pas tout à la première lecture, c'est une lecture qui nous sort de notre zone de confort. J'aime aussi ce mystère chez Druillet, cette poésie si particulière qui me touche sans que j'arrive à le comprendre, même par les traits où je laisse vagabonder mon regard.
 
-![extrait](https://cheziceman.files.wordpress.com/2020/01/nosferatu2.jpg)
+![extrait](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/nosferatu2.jpg)
