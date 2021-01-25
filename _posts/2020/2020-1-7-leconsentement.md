@@ -6,7 +6,7 @@ tags: 2020s, autobiographie, Littérature et BD, pédocriminalité, témoignage
 ---
 **Livre événement de ce début d'année, il a aussi hélas remis dans la lumière un bien sinistre personnage, amant, manipulateur, tortionnaire, ....écrivain, l'autre héros de cette autobiographie, le pédocriminel(*) Gabriel Matzneff. Mais je me suis demandé pourquoi ce livre était si essentiel.**
 
-![image](https://cheziceman.files.wordpress.com/2020/01/vanessaspringora.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/vanessaspringora.jpg)
 
 En à peu près 200 pages, Vanessa Springora parvient à écrire près de 30 ans de sa vie, de sa jeunesse jusqu'au dernier prix de celui qu'elle nomme G.M. comme lui l'appelait V. C'est puissant, intense, dur et on imagine l'épreuve qu'a été l'écriture après les autres épreuves subies. Car on pourrait diviser le livre en trois partie : D'abord l'analyse du contexte, de son enfance avant la rencontre. Puis vient cette rencontre, cette idylle pour l'un, domination pour l'autre. Enfin c'est l'analyse des réactions, de l'acceptation de certains, du refus des autres. Le tout est à la fois bien écrit, sans abuser d'un style trop littéraire (et ce milieu a bien trop tendance à encourager la suffisance) et en même temps accessible sans être trop cru. On peut toujours le craindre lorsque l'on parle d'abus sexuels sur des enfants et adolescents.
 

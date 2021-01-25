@@ -9,7 +9,7 @@ tags: 2010s, Cinéma, Film, folie, horreur
 
 The Lighthouse est un film de cinéphile pour les cinéphiles. Déjà, le choix de l'image en moyen format (en réalité du 1,19:1) en noir et blanc, filmé avec des objectifs anciens sur une vieille caméra 35mm. Ensuite l'histoire inspirée par Edgard Allan Poe, sur une nouvelle inachevée du même nom. Et puis le lieu : Un phare perdu en mer, deux personnages qui ne se connaissent pas, et ... des mystères que cachent ces deux hommes (Willem Dafoe et Robert Pattinson). Pour son deuxième long métrage, Eggers est ambitieux, insérant aussi des textes d'Herman Melville (Moby Dick) dans les dialogues. 
 
-![image](https://cheziceman.files.wordpress.com/2020/01/lighthouse.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/lighthouse.jpg)
 
 L'aspect formel a énormément d'importance. C'est déjà un bel objet filmique. J'y suis sensible parce que j'aime les films classiques et la photo en noir et blanc. Et quelle photo ! Il y a un véritable hommage à l'expressionnisme allemand années 30. Les gros plans sur Dafoe sont absolument sublimes avec ce regard de l'acteur, cette peau burinée, cette barbe hirsute. La lumière est absolument fantastique et Jarin Blachke mérite les récompenses sur ce point. On le retrouve sur un épisode de Servant, dont je parlerai bientôt. La bande son de Mark Korven n'est pas à négliger avec des sons d'ambiance et cette musique dont on ne sait si elle vient de machines, de la nature ou d'instruments. Tout cela rend le film fascinant, pesant aussi, angoissant dans ce petit carré qui nous est donné à voir sur l'écran.
 
@@ -19,4 +19,4 @@ Il faut un acteur comme Willem Dafoe pour incarner ce marin handicapé devenu ga
 
 Voilà clairement le genre de film qui ne laisse pas indifférent. On déteste vite ou on adore, il n'y a pas de demi mesure. Enfin si, un peu puisque j'ai mis des bémols sur certains points. Eggers pourra améliorer sa copie au prochain mais après "The Witch" il semble fait pour ce genre là. Un film qui se mérite, et pas seulement parce qu'il faut courir dans une salle éloigné de chez soi, 3 semaines après la sortie nationale par la faute d'un distributeur un peu couillon. Bon, c'est vrai que ce n'est pas non plus le film qui remplira les salles à millions mais de  là à le sortir pendant les vacances scolaires où il y a des blockbusters et des dessins animés. En plus, il est déjà disponible sur les réseaux....Mais je n'ai rien dit. 
 
-[la video](https://www.youtube.com/watch?v=Hyag7lR8CPA)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=Hyag7lR8CPA)

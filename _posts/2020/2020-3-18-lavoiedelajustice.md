@@ -16,4 +16,4 @@ C'est une histoire vraie, une histoire qui mêle deux thèmes : Le Racisme et la
 
 Si le marketing cite "La ligne verte", nous sommes loin de la charge émotionnelle de ce modèle. L'histoire suffit à nous faire nous révolter, à pleurer pour un condamné à mort exécuté, à hurler à l'injustice, à frapper les barreaux. La mise en scène est finalement très classique, presque banale. Techniquement, il n'y a rien à dire. Les acteurs sont investis, avec un Jamie Foxx qui n'a pas le rôle du héros mais surprend agréablement. Le moment du doute, crucial dans le film, est traité en mode religieux. Bref, ce n'est ni un très bon film, ni un mauvais film mais un film narrativement efficace. Vous le verrez plus probablement chez vous que dans une salle maintenant. S'il faut vous convaincre que la peine de mort n'est pas une bonne solution, cela peut participer à votre réflexion, à défaut de convaincre.
 
-[la video](https://www.youtube.com/watch?v=t26KEl6kdy0)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=t26KEl6kdy0)

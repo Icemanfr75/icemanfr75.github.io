@@ -8,7 +8,7 @@ tags: 2010s, agriculture, autobiographie, bd, enfance, nature
 
 La dessinatrice nous emmène en effet dans sa propre enfance, du moment où ses parents ont décidés de s'installer "à la campagne" jusqu'à nos jours quand sa vocation de dessinatrices de BD s'est faite. Il faut dire que son père est ingénieur des forêts et connaît un peu le sujet des ... grands espaces, c'est à dire l'aménagement du territoire, ce que l'on fait à la nature pour cohabiter, pardon, habiter dessus. N'espérez pas voir quelque chose sur sa vie de dessinatrice de presse, sur sa période Charlie Hebdo, ce n'est pas le propos. Mais cet ouvrage arrive justement après ce choc.
 
-![image](https://cheziceman.files.wordpress.com/2019/11/grandsespace.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/grandsespace.jpg)
 
 La dessinatrice se caricature donc en une petite fille au grand pif et aux cheveux raides comme elle aime à se décrire. Elle trouve des camarades de classe pour se décrire de manière plus vacharde. Mais elle ne parle pas tant que ça de sa vie scolaire mais plus de sa vie d'enfant avec sa sœur dans ce grand jardin que leurs parents créent pour combler ce grand espace.  Née en 1980, elle parle beaucoup de cette période 80-95 forcément et ça me parle forcément.
 
@@ -20,4 +20,4 @@ J'ai été touché par ce récit car j'y ai retrouvé aussi de ma propre enfance
 
 J'imagine que cet ouvrage répondait déjà à un besoin de l'auteur de parler de cela à ce moment mais il y a des sujets terriblement d'actualité lorsque aujourd'hui on parle de la fin de la ruralité, des problèmes de l'agriculture, de la cohabitation avec le vivant. Nous ne faisons finalement que payer les erreurs d'avant, de ne pas avoir vu l'importance de nos ... grands espaces. 
 
-![image](https://cheziceman.files.wordpress.com/2019/11/grandsespaces2.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/grandsespaces2.jpg)

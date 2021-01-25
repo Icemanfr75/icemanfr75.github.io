@@ -6,7 +6,7 @@ tags: 1990s, metal, Musique, progressif, Rock
 ---
 **Je tiens ce musicien canadien pour un génie... Un génie plutôt torturé et inattendu mais c'est aussi ce qui fait son charme. Et au rang des albums cultes, Ocean Machine a bien sa place.**
 
-![image](https://cheziceman.files.wordpress.com/2019/04/devintownsend.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/devintownsend.jpg)
 
 Devin Townsend, c'est un multi-instrumentiste, producteur, qui s'est fait connaître alors comme leader du groupe metal Strapping young lad... et pas du genre metal guimauve. Il a aussi accompagné Steve Vai au chant sur un album mais il n'a jamais été vraiment attiré par le Hard mainstream... L'industrie musicale, ce n'est pas son truc, comme le relationnel diront certains car il a une réputation de chien fou. Ah les génies...
 
@@ -16,6 +16,6 @@ Difficile de se dire qu'un titre est de trop dans tout cela car il y a toujours 
 
 Devin Townsend va me perdre parfois dans le reste de sa carrière par ses concepts, ses suites d'albums qui se répondent les uns aux autres mais qui représentent un peu de lui même, dans toute sa complexité. Alors pas étonnant de trouver des moments presque œcuméniques ici, et des solis tellement séduisant. (je ne me lasse pas de Greetings). Au moment de choisir un extrait qui donne envie, je suis assez confus. Un live, sans aucun doute alors...
 
-[la video](https://www.youtube.com/watch?v=yOCdzAiZgeQ)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=yOCdzAiZgeQ)
 
 

@@ -6,7 +6,7 @@ tags: 2010s, Cinéma, féminisme, Film, romance
 ---
 **Quel regret de l'avoir vu si tard ! Si ce film se mérite, il nous le rend au centuple...**
 
-![image](https://cheziceman.files.wordpress.com/2020/03/portrait-de-la-jeune-fille-en-feu.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/portraitfillefeu.jpg)
 
 Quand je parle de se mériter, c'est que l'histoire peut ne pas parler à tout le monde, au premier abord : "À la fin du dix-huitième siècle, Marianne, une artiste peintre, dirige une leçon de peinture. L'une de ses étudiantes l'interroge sur l'un de ses tableaux intitulé Portrait de la jeune fille en feu.Des années auparavant, Marianne arrive sur une île bretonne. Une comtesse lui a commandé un portrait de sa fille Héloïse, fiancée à un noble milanais. Mais on informe Marianne qu'Héloïse refuse de poser pour un portrait car elle ne souhaite pas se marier. Marianne est donc présentée à Héloïse en tant que dame de compagnie, et l'accompagne quotidiennement lors de ses sorties afin d'analyser et de mémoriser ses traits pour les recopier ensuite sur une toile."
 
@@ -16,6 +16,6 @@ J'avais apprécié le travail de Céline Sciamma scénariste sur "Ma vie de cour
 
 Tout cela fait que l'on se laisse emporter par cette histoire, dans ce tourbillon, cette tempête. Céline Sciamma sait parfaitement nous rappeler ce que c'était d'être femme et ce que c'est encore. Elle nous montre cette aspiration à la liberté que l'on refuse toujours, et notamment la liberté d'artiste, de réalisatrice. Que ce film a du être dur à monter, comme la vie de ses héroïnes. Là encore, ce sont des femmes à la production. J'espère que la mise en lumière indirecte au césar permettra une seconde vie à ce film qui n'a fait "que" 300 000 entrées France.
 
-[la video](https://www.youtube.com/watch?v=LBDSrUFfGHI)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=LBDSrUFfGHI)
 
 

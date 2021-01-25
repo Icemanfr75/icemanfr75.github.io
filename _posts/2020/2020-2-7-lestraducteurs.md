@@ -6,7 +6,7 @@ tags: 2020s, énigme, Cinéma, Film, thriller
 ---
 **Que voilà un bien joli thriller dans le monde de l’édition avec une énigme à résoudre !**
 
-![image](https://cheziceman.files.wordpress.com/2020/02/traducteurs.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/traducteurs.jpg)
 
 Pour une fois, la bande annonce avait bien fait le job en donnant envie sans trop en montrer. "Le dernier tome de la série littéraire à succès Dedalus, du mystérieux auteur Oscar Brach, est sur le point de sortir chez la maison d'édition d'Eric Angstrom (Lambert Wilson). Neuf traducteurs sont avant cela rassemblés pour travailler dans le secret absolu sur la traduction du texte en français dans leur langue respective (anglais, allemand, russe, portugais, danois, mandarin, espagnol, grec et italien). D'horizons différents, ils vont devoir vivre reclus dans un luxueux bunker situé sous un manoir en France, pour éviter toute fuite. Malgré ces précautions, les dix premières pages du roman vont être dévoilées sur Internet. D'où vient la fuite et qui fait chanter l'éditeur ? "
 
@@ -18,6 +18,6 @@ Bien sûr, il y a des incohérences en apparence...C'est pour mieux nous balader
 
 Un très bon moment passé pour un film d'1h45 bien remplie.Il aborde sa deuxième semaine d'exploitation mais je pense qu'il a un potentiel de bouche à oreille. A condition de ne pas donner trop d'indices ! 
 
-[la video](https://www.youtube.com/watch?v=FzGZb_IzaRA)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=FzGZb_IzaRA)
 
 

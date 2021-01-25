@@ -6,7 +6,7 @@ tags: 2020s, chomage, Cinéma, comédie dramatique, Film
 ---
 **Encore un film sur le Nord, la Mine, la misère sociale tournée en comédie, me direz-vous ? Oui, il est à prendre dans le prolongement des <a href="https://cheziceman.wordpress.com/2015/02/02/cinema-discount-de-louis-julien-petit/">Discount</a>, <a href="https://cheziceman.wordpress.com/2019/01/15/cinema-les-invisibles-de-louis-julien-petit-2019/">Les Invisibles</a>, plutôt que Bienvenue chez les chtis.**
 
-![image](https://cheziceman.files.wordpress.com/2020/03/minederien.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/minederien.jpg)
 
 C'est aussi la première réalisation de l'acteur Mathias Mlekuz, sur un scénario écrit avec Philippe Rebbot (à l'affiche aussi comme acteur), et Cécile Telerman. L'histoire justement : "Dans une petite commune du Nord, Buchy, l'ancienne mine est sur le point de fermer, laissant des dizaines de personnes sur le carreau. Décidant de ne pas se laisser faire, les ouvriers décident de tenir un siège devant l'usine. Devant l'ultimatum de la maire qui menace de les exproprier, une idée lumineuse vient à l'un d'entre eux : transformer l'ancienne mine en parc d'attractions." Et en plus tout cela se passe avant Noêl. 
 
@@ -16,6 +16,6 @@ Pour l'émotion on a une bande son bien trouvée par Mathieu Gonet et son réali
 
 Mathias Mlekuz, natif de Lens nous parle de sa région. Il a tourné d'ailleurs dans sa ville. On sent qu'il nous parle de sa famille, d'amis, de voisins sans doute dans cette jolie galerie de portraits. Et puis c'est un film militant de gôche, qui ne vient pas demander l’aumône mais juste un peu de respect et de mémoire. Le final avec les drapeaux rouges, sang et or, est à l'image du film : Généreux.
 
-[la video](https://www.youtube.com/watch?v=MWR8RVSS-DM)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=MWR8RVSS-DM)
 
 

@@ -7,7 +7,7 @@ tags: 2000s, BOF, Cinéma, classique, electro, Kenji Kawai, Musique, opéra
 
 **Je pourrais parler de ce film extraordinaire de Mamoru Oshii qui ne cesse de m'interroger mais j'ai préféré commencer par le chef d'oeuvre du compositeur de la bande son. Une bande son sans qui le film n'aurait pas eu cette force !**
 
-![image](https://cheziceman.files.wordpress.com/2019/11/kawaiavalon.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/kawaiavalon.jpg)
 
 Kenji Kawai n'est pas à sa première collaboration avec le réalisateur japonais puisqu'il a déjà été sur les Patlabor, le Ghost in the shell (l'unique pour moi). Mais ici il a droit à un projet ambitieux qui touche le cyberpunk, le post-apocalyptique dans un certain sens, et tout ça dans une production polono-japonaise... Ce qui explique la présence de l'Orchestre philarmonique de Varsovie et d'une soliste polonaise. Le film alternant entre une réalité sombre et une réalité virtuelle plus guerrière, il fallait une musique à l'avenant et qui renforce les moments forts du film. 
 
@@ -19,6 +19,6 @@ Elle se poursuit avec le très électronique "Ruins D99" où le travail des perc
 
 Un album à découvrir, à passer en boucle pour vraiment rentrer dans l'univers et qui ne peut pousser qu'à une chose : Voir ce film dont la fin fait toujours débat. Que voulez vous, avec Oshii, on est au delà du divertissement pour entrer dans de la philosophie. Il fallait bien un Kenji Kawai pour y aider.
 
-[la video](https://www.youtube.com/watch?v=6FLrh7wMoTA)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=6FLrh7wMoTA)
 
 

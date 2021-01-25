@@ -5,10 +5,10 @@ category: musique
 tags: 1990s, big beat, electro, Fatboy slim, Musique, Pop, techno
 ---
 
-
 **Dans la catégorie "Big Beat" de cette fin des années 90, un DJ a fait son trou dans un style plus "grand public", Fatboy Slim. Norman Cook, de son vrai nom, va inonder les ondes et les écrans avec les hits de cet album... qui forcément a tourné beaucoup chez moi.**
 
-![image](https://cheziceman.files.wordpress.com/2019/05/fatboyslim.jpg)
+
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/fatboyslim.jpg)
 
 Je ne sais plus vraiment où j'ai entendu ou vu le premier hit de Norman Cook, mais ce que j'ai en mémoire, c'est que je connaissais ce gars avec Beats International, un collectif britannique de Brighton, la ville emblématique de Fatboy Slim... La légende veut qu'une rencontre avec les Chemical Brothers le pousse à une carrière solo dans leur style qui métissait déjà Hip-Hop, Dance, Rock et Techno. Si j'avais aussi son premier opus "Better living through chemistry" (hum...), je n'avais pas plus accroché que cela. Il manquait un élément dans cette alchimie de la musique.
 
@@ -18,6 +18,6 @@ Il se moque de lui même comme dans "Fucking in heaven", et utilise à fond le s
 
 Il utilise même des petites choses innatendues comme ce sample de Camille Yarbrough sur "Praise you". Il le fait durer, le distord avant de mettre un gros méchant beat qui tue et du funk qui fait bouger. Il y a même un petit clin d'oeil à une série mythique des enfants des années 70 comme moi. Il y a vraiment une part générationnelle dans sa musique. Et cela fit son succès encore dans les années 2000 avant qu'il ne rentre dans le rang, comme le Big Beat, d'ailleurs. Il reste un DJ hors-pair et un grand remixeur, pourtant et cet album reste toujours aussi actuel aujourd'hui selon moi, ce qui est rare dans cette catégorie de musique. D'ailleurs les hits repassent très souvent dans films et pubs.
 
-[la video](https://www.youtube.com/watch?v=F7jSp2xmmEE)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=F7jSp2xmmEE)
 
 

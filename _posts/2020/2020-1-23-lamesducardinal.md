@@ -6,7 +6,7 @@ tags: 2000s, historique, littérature, Littérature et BD, roman, uchronie
 ---
 **Ce roman est le premier tome de la trilogie du même nom. Une trilogie d'heroic fantasy, mais dans une uchronie qui nous ramène sous Louis XIII, lorsque le Cardinal Richelieu dirigeait la France d'une main de fer.**
 
-![image](https://cheziceman.files.wordpress.com/2019/10/les-lames-du-cardinal.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/leslamesducardinal.jpg)
 
 Trilogie, Richelieu, Mousquetaires... Mais oui, mais c'est bien sûr, c'est inspiré des "Trois Mousquetaires" d'Alexandre Dumas père (avec là aussi un roman du même nom suivi de deux autres tomes). Effectivement, on retrouve des personnages communs avec Richelieu bien sûr mais aussi De Tréville, Rochefort et même Athos parmi les mousquetaires. Pour ceux qui ont lu Dumas, on est en terrain connu mais Pierre Pevel, en faisant que le siège de La Rochelle soit une défaite, a changé l'histoire. Il a surtout introduit toute une partie Fantasy avec des Dragons qui sont à la fois des animaux domestiques, des espions, des transports. Il y a des Dracs, des sangs mélés et une maladie qui contamine les humains, la Ranse. Tout ça avec des sociétés secrètes (la Griffe noire) et des intrigues de cour et nous voilà embarqué dans une belle aventure de longue haleine dans un style proche du roman de cape et d'épée originel.
 

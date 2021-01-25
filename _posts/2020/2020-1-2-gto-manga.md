@@ -6,9 +6,9 @@ tags: 1990s, éducation, enseignement, japon, manga, seinen, shonen
 ---
 **J'ai lu ce manga à sa sortie il y a presque 20 ans et je n'avais jamais pris le temps de le chroniquer. Cela m'a donc donné l'occasion de le relire pour voir si ça avait vieilli.**
 
-Petite précision, en France, l'éditeur Pika a sorti toutes les séries parallèles à GTO après le succès de la série. En réalité, <i><span class="lang-ja-latn-alalc97" lang="ja-latn-alalc97">Shōnan jun'ai gumi (Young GTO)</i><span class="lang-ja-latn-alalc97" lang="ja-latn-alalc97"> est antérieure à celle ci . L'auteur, Toru Fujisawa, a eu un succès tardif, et d'ailleurs a du revenir à son héros, Onizuka, et à ses amis pour continuer d'avoir du succès, après des essais infructueux. Le manga est classé en Shonen car il traite de problèmes adolescents et s'adresse par son style caricatural à ce public. Mais il y a une part de Seinen (manga adulte) par la qualité de son propos et la gravité des thèmes abordés.
+Petite précision, en France, l'éditeur Pika a sorti toutes les séries parallèles à GTO après le succès de la série. En réalité, Shōnan jun'ai gumi (Young GTO) est antérieure à celle ci . L'auteur, Toru Fujisawa, a eu un succès tardif, et d'ailleurs a du revenir à son héros, Onizuka, et à ses amis pour continuer d'avoir du succès, après des essais infructueux. Le manga est classé en Shonen car il traite de problèmes adolescents et s'adresse par son style caricatural à ce public. Mais il y a une part de Seinen (manga adulte) par la qualité de son propos et la gravité des thèmes abordés.
 
-![image](https://cheziceman.files.wordpress.com/2019/06/gto1.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/gto1.jpg)
 
 *La couv de la première édition française, évidemment...*
 
@@ -18,7 +18,7 @@ Dans le premier tome, on se demande ce qui peut être attachant chez ce looser q
 
 L'histoire fonctionne avec sa galerie de personnages, comme Fuyutsuki, la collègue d'Onizuka, sorte d'opposée en apparence, une girl next door typique des séries japs. L'histoire est ponctuée d'histoires personnelles d'élèves, de drames mais aussi de manigances de Uchiyamada et autres profs et directeurs machiavéliques. On n'échappe pas au running gag (la voiture d'Uchiyamada...) ou aux petites caricatures d'Onizuka dans les scènes comiques (le petit vieux, par exemple). Mais il faut aussi avouer que les personnages masculins sont quasi tous de gros obsédés sexuels.  <a href="https://fr.wikipedia.org/wiki/Ry%C3%B4_Saeba">Ryô Saeba</a>, sort de ce corps... La découpe des tomes est plutôt habile avec un cliffhanger en fin de tome.
 
-![image](https://cheziceman.files.wordpress.com/2019/06/gto2.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/gto2.jpg)
 
 *Admirez le détail, les trames... et la coiffure avant la métamorphose.*
 

@@ -6,7 +6,7 @@ tags: cuisine, tuto, tutoriel, Tutoriels, vegan
 ---
 **Un des éléments les plus difficiles à remplacer en étant vegan, c'est l’œuf. Et entre le jus de pois chiche et autres préparations, il y a une belle collection de techniques. Reste l'omelette, dont je me passe depuis pas mal de temps. J'ai donc testé un produit "miracle" : <a href="http://www.orgran.com/products/vegan-easy-egg-2/">L'easy egg d'Orgran</a>.**
 
-![image](https://cheziceman.files.wordpress.com/2019/12/easyegg.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/easyegg.jpg)
 
 Ce n'est pas de la chimie, bien que la cuisine soit de la chimie. Il s'agit d'un mélange de farine de pois chiche, de maïs, de curcuma pour la couleur et d'algues avec un peu de levure ... chimique finalement. On mélange 50g de préparation à un quart de litre d'eau et ça donne une pâte épaisse jaune correspondant à 3 oeufs environ
 
@@ -14,7 +14,7 @@ J'avais vu des tutos qui trouvaient ça sans goût mais avec une bonne texture. 
 
 **Le truc**: J'avais essayé le <a href="https://fr.wikipedia.org/wiki/Sel_noir">sel noir</a> de l'Himalaya pour apporter le goût d’œuf dans une préparation à base de farine de pois chiche. Bluffant pour le goût, raté pour la texture. J'ai donc mélangé les deux techniques. Deux pincées de sel pour 50 grammes de préparation me paraissent un bon réglage parce qu'après on aura vraiment trop de sel. On mélange donc tout ça à froid dans l'eau et on fait chauffer dans une large poêle bien huilée. Pour les accompagnements, je vous laisse choisir, et préparer si nécessaire avant. Je couvre ma poêle aussi pour que ça gonfle mieux.
 
-![image](https://cheziceman.files.wordpress.com/2019/12/easyegg2.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2019/easyegg2.jpg)
 
 *Je vous jure, ça donne ça en visuel en mélangeant bien*
 

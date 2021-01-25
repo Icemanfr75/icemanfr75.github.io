@@ -34,4 +34,4 @@ Je ne suis plus en recherche de sens en ce moment mais je sais que tout peut cha
 
 Et ça vaut bien une des plus belles chanson du monde : 
 
-[la video](https://www.youtube.com/watch?v=WDynFluHPJs)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=WDynFluHPJs)

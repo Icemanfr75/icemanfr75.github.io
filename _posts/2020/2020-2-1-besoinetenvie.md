@@ -32,6 +32,6 @@ J'ai finalement **repris la lecture** du premier jet, quelques paragraphes au de
 
 Vient le moment où **je cherche** l'illustration ... Là je vois une nature morte, froide, horrible, à l'opposé de ce que j'aime contempler dans cet exercice académique. J'ai trouvé, je la mets au dessus. J'avais même pire en tête à ce moment. Pour l'instant musical, c'est difficile...Il y avait tant de silence. Un simple ronflement de vieux chat aurait été bien. Mais non, je vais encore utiliser la rage, ce que j'ai écouté dans la semaine aussi. Le titre est particulièrement bien nommé en plus. Voilà, le billet se termine, comme le mois bientôt. Une feuille à arracher du calendrier, une illustration qui s'efface, que l'on roule en boule pour qu'elle rejoigne des brouillons, des calculs, des emballages, des résidus d'une vie. Je crois conclure... et dans quelques jours je reprendrais encore ce brouillon pour une 6ème, une 7ème, une 8ème fois. Je refrénerai l'envie de mettre ça à la corbeille, de ne pas le montrer, de pas prendre ce qui m'apparaît comme un risque. Et puis le suivant n'aura vraisemblablement rien à voir, écrit peut-être avant, ou d'un jet. A bientôt l'ami...A bientôt moi-même.
 
-[la video](https://www.youtube.com/watch?v=nM__lPTWThU)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=nM__lPTWThU)
 
 

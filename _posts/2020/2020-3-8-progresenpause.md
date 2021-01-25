@@ -10,17 +10,17 @@ Sur le papier c'est du Core i5 7ème génération, 8go de Ram au lieu de 4, mais
 
 Alors Ok, le système démarre vite avec un SSD récent (là encore, pas mieux que le petit Atom en SSD sous debian) mais le navigateur rame toujours en bouffant de la RAM (quelqu'il soit),** le Office n'est pas franchement plus rapide**, et le menu Windows franchement rétrograde avec son flat design "à la mode" du moment. Tous les goûts sont peut-être dans la nature mais à quoi bon sortir un OS pour juste ... sortir un OS. Peut-être pour me le donner à ronger, l'os. Mais ne soyons pas chien. L'intégration du nuage maison est presque plus merdique qu'avant d'ailleurs avec des bugs étranges, des redirections foireuses. Et en même temps, je me pose déjà la même question sur les enchaînements de version x.0 des Mint, Ubuntu, Debian qui ne sont pas de franches révolutions mais de banales évolutions. Les révolutions sont plus dans la forme de l'environnement (dont on a le choix, d'ailleurs) même si rien n'a bougé depuis quelques temps, dans les modes de diffusion des packages et logiciels, dans l'aspect sécuritaire, ce que l'on voit moins, c'est vrai au niveau utilisateur desktop. Bref, le progrès, c'est parfois de ne pas changer ce qui fonctionne, et pas d'être partagé par tous. Pas de chance, mon PC de boulot fonctionnait bancale depuis le début et de moins en moins (USB aléatoire, ethernet aux abonnés absents). Et celui là aussi, même si je soupçonne un problème de profil. Merci HP.
 
-![image](https://cheziceman.files.wordpress.com/2020/03/winxp.png)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/progres1.jpg)
 
 *WinXP, c'étiat joyeux*
 
-![image](https://cheziceman.files.wordpress.com/2020/03/win10.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/progres2.jpg)
 
 *Win 10, c'est moche et triste, mais y'a des tuiles, wahoo*
 
 Le pompon a quand même été quand j'ai voulu utiliser **un convertisseur USB/RS232** parce que sur un portable, tu n'as pas de port série. Le pilote s'installe, tout va bien. Je branche le bouzin et là, erreur 10 dans le panneau de config des périphériques. En fait, après une petite recherche, je tombe sur la FAQ du constructeur et je trouve le fait que c'est la première définition hardware du machin et que ce n'est pas compatible avec ...Windows 10. Donc tu balances tous tes convertisseurs à 20 balles et tu rachètes le même en révision B jusqu'à la prochaine fois parce que je ne sais pas qui a décidé de ne pas supporter un composant de chez Prolific ou FTDI. Sûrement une action de rétorsion de Donald la houpette. Oh, on a un peu l'habitude avec les windaubes sur les petits convertisseurs chinois aux pilotes mal finis. Bah oui, le monde de la mesure reste encore avec pas mal de communication en port série. Je m'en suis même sorti avec un bon vieux terminal sous Putty pour faire une acquisition, l'autre jour. Ca ne parlera qu'aux anciens. Si encore j'avais pu me payer un bon port série garantie supporté pendant 10 ans. Oups, ça n'existe pas.
 
-![image](https://cheziceman.files.wordpress.com/2020/03/uc232.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/progres1.jpg)
 
 *Si tu retrouves ça au Ghana, c'est moi qui l'ai jeté*
 
@@ -50,5 +50,5 @@ Je pourrais faire la **comparaison avec le bien être animal**. La plupart des g
 
 Le 20ème siècle et ce début de 21ème siècle a montré un progrès (supposé) accéléré mais qui a conduit à une catastrophe écologique depuis la révolution industrielle. On sait voler, rouler, partir dans l'espace, communiquer rapidement et c'est fabuleux. On ne s'imagine pas dire stop à tout ça et le risque d'effondrement de la civilisation pourrait nous amener à penser à un futur sans progrès. On pourrait même dire en régression. Ce qu'il convient c'est de s'entendre sur ce qu'est le progrès finalement. Ce n'est pas forcément la croissance infinie professée par les libéraux et capitalistes malgré la certitude que notre planète est finie (dans le sens mathématique). Le progrès, c'est peut-être bien ce slogan un peu débile...D'être partagé par tous.
 
-[la video](https://m.youtube.com/watch?v=MjemOB9ILrs)
+En video : [![video](/images/youtube.png)](https://m.youtube.com/watch?v=MjemOB9ILrs)
 

@@ -4,9 +4,9 @@ title: Cinéma - Les enfants du temps de Makoto Shinkai (2019)
 category: cinema
 tags: 2010s, animation, écologie, Cinéma, dessin animé, japanimation, japon, romance
 ---
-**Après un <a href="https://cheziceman.wordpress.com/2017/11/24/cinema-your-name-de-makoto-shinkai-2016/">"Your Name"</a> qui avait battu tous les records, on peut dire que Makoto Shinkai était attendu au tournant pour son prochain film. Le voici donc seulement 3 ans après le précédent....oui, il a juste 6 mois de retard en France.**
+**Après un ["Your Name"](https://www.cheziceman.fr/2017/yourname/) qui avait battu tous les records, on peut dire que Makoto Shinkai était attendu au tournant pour son prochain film. Le voici donc seulement 3 ans après le précédent....oui, il a juste 6 mois de retard en France.**
 
-![image](https://cheziceman.files.wordpress.com/2020/01/weathering.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/weathering.jpg)
 
 Le thème des deux films est très similaire, à savoir une romance entre deux adolescents dans une grande ville. Ici c'est Tokyo qui devient presque un personnage du film, nous entraînant dans des lieux emblématiques et d'autres plus anonymes. Mais avec les enfants du temps, le temps (météo) remplace le temps (années) : 
 
@@ -18,4 +18,4 @@ Alors si le film m'a paru d'emblée plus facile d'accès, je pense qu'il nous é
 
 C'est un Beau film déjà esthétiquement. Je ne sais finalement pas lequel des deux je préfère. Je pense que je n'ai pas encore tout saisi de celui-ci. Et puis dans ce moment, je suis un peu plus sensible que d'ordinaire alors je surnote peut-être. Mais c'est ce besoin de réflexion qui me plaît justement dans cet animé, et qui me fait faire cette chronique. Sans divulgacher les choses, je peux vous promettre du sourire, des larmes et du ravissement. Allez, ne choisissez pas, voyez les deux, ou revoyez l'un après l'autre.
 
-[la video](https://www.youtube.com/watch?v=E8qYl2_b6HI)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=E8qYl2_b6HI)

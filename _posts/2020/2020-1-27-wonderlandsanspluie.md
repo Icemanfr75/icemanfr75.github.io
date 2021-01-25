@@ -6,7 +6,7 @@ tags: 2010s, animation, anime, écologie, Cinéma, conte, dessin animé, japanim
 ---
 **Encore un candidat à l'héritage Ghibli, même s'il n'a aucun lien avec la célèbre firme...Non, Hara Keiichi se réclame plutôt du réalisateur Keisuke Kinoshita. Mais dans ce film il y a un aspect conte (c'est une adaptation d'un livre pour enfant) qui le rapproche de la firme au Totoro.**
 
-![image](https://cheziceman.files.wordpress.com/2020/01/wonderlandcover.jpg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/wonderlandcover.jpg)
 
 Contrairement au récent Les Enfants du temps, il n'y a pas de problème avec trop de pluie, mais plutôt un manque de pluie. Le film débute avec la jeune Akane qui vit en bordure d'une ville dans une jolie maison fleurie avec sa mère. Elle s'y ennuie mais en se rendant chez une amie de sa mère pour son anniversaire, Chii, se retrouve propulsée dans un monde parallèle. Entre le magicien d'Oz et Alice au pays des merveilles, la voilà missionnée pour sauver ce royaume de la menace du terrible Zang et de son acolyte. Aidée par l'alchimiste Hippocrate et de Pipo, Akane devient la déesse du vent vert. Mais réussira-t-elle à faire revenir l'eau et les couleurs dans ce monde ?
 
@@ -14,6 +14,6 @@ L'histoire est moins alambiquée ou ésotérique que celles de Miyazaki. Pourtan
 
 Très classique d'aspect, le film alterne le très bon et le banal, notamment dans l'animation parfois un peu simpliste même dans l'utilisation de l'image de synthèse. Dommage pour celui qui a commencé avec <a href="https://fr.wikipedia.org/wiki/Doraemon">Doraemon</a>. Tiens, d'ailleurs, il y a beaucoup de chats ici aussi. Le rendu est plus "kawaï" et adresse le film à un public un peu plus jeune qu'un Miyazaki. S'il y a toujours une double lecture, je trouve que le film est moins adulte, tout en restant de très bonne facture. Un joli dépaysement, une histoire dont je ne dévoilerai totalement le sens profond, ... Je conseille donc la séance de rattrapage pour ce film sorti au cœur de l'été 2019. 
 
-[la video](https://www.youtube.com/watch?v=tMqrXqwdVf8)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=tMqrXqwdVf8)
 
 

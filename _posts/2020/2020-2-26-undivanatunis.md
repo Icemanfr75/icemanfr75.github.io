@@ -6,7 +6,7 @@ tags: 2020s, Cinéma, comédie, conte, Film, printemps arabe, psychanalyse, tuni
 ---
 **Voilà un film qui part sur un malentendu. En effet, avec la bande-annonce on peut croire à une énième comédie autour de la psychanalyse dont la particularité serait de se passer à Tunis, avec son petit lot de clichés. Raté, même si le film ne l'est pas.**
 
-![image](https://cheziceman.files.wordpress.com/2020/02/divantunis.jpeg)
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/divantunis.jpg)
 
 Pour son premier long-métrage, la réalisatrice franco-tunisienne se penche sur un autre patient : La Tunisie. A travers la figure de son héroïne Selma (jouée par l'iranienne (!!!) Golshifteh Faharani), psychanaliste qui revient au pays, elle fait défiler une galerie de personnages qui représentent un peu de cette Tunisie post-printemps arabes. On cite souvent ce pays en exemple de transition réussie parce que n'ayant pas sombré dans le chaos ou dans une nouvelle dictature. Mais est-ce que ce n'est pas plus compliqué que cela, justement ? 
 
@@ -16,4 +16,4 @@ L’œil est très critique, même vis à vis des voisins proches (Maroc, Egypte
 
 Malheureusement, cela manque parfois de rythme, de répondant. On reste assez factuel eet d'ailleurs, je vous laisserai juge de la conclusion dont j'ai mon interprétation. La réalisatrice est née en France et a forcément une vision biaisée par rapport à ce qu'un tunisien resté au pays pourrait en voir. Il aurait peut-être fallu un peu plus des deux malgré les nombreux efforts de mise en scène. C'est un peu le Freud du portrait dans le cabinet, finalement, qui se met à écouter parler la Tunisie. Et si justement, il fallait d'abord écouter ce que la Tunisie a à dire avant de vouloir en faire un laboratoire ou un exemple ?
 
-[la video](https://www.youtube.com/watch?v=u5K6SQcyFsA)
+En video : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=u5K6SQcyFsA)
