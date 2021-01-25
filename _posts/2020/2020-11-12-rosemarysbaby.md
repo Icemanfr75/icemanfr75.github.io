@@ -9,7 +9,7 @@ tags: 1960s, angoisse, Cinéma, cinematheque ideale, horreur, religion, satanism
 
 Si j’ai parfois du mal avec la froide mécanique de la mise en scène de ce réalisateur, avec le vieillissement de certains de ses films (Le Bal des Vampires), je reconnais aussi qu’il a à son compte de grandes réussites, quand il n’essaie pas de passer d’autres messages que l’histoire d’un livre ou d’un homme. Avec Ira Levin (Les femmes de Stepford, Ces enfants qui venaient du Brésil…), il trouve un grand auteur et scénariste pour lui fournir une histoire qui n’avait pas attendu le film pour être un succès.
 
-![cover](https://cheziceman.files.wordpress.com/2020/08/rosemarybaby.jpeg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/rosemarybaby.jpg)
 
 L’histoire : « Un jeune couple, Rosemary et Guy Woodhouse, s’installe pour un loyer modique dans un spacieux appartement de la célèbre maison Bramford, un vieux bâtiment de Manhattan assez inquiétant du fait de la réputation sinistre de certains résidents d’autrefois.Rosemary est une femme heureuse, qui se consacre totalement à sa maison et à son mari dont elle souhaiterait avoir un bébé. Guy, de son côté, voudrait devenir un acteur reconnu mais sa carrière peine à démarrer. À la suite de circonstances bizarres, les Woodhouse deviennent amis avec Roman et Minnie Castevet, un couple d’âge avancé, qui vit au même étage qu’eux et qui se transforme en « parents » de substitution à l’égard de Rosemary et Guy. La maladie étrange d’un rival de Guy fait enfin décoller sa carrière et le fait vouloir un bébé avec beaucoup de zèle… », hum.
 
@@ -21,4 +21,4 @@ Les thèmes de ce film résonne étrangement aujourd’hui avec l’histoire de 
 
 Comme toujours, on évitera les remakes et suites non officielles pour ne garder que l’original.
 
-[la video](https://youtu.be/BjpA6IH_Skc)
+video : [![video](/images/youtube.png)](https://youtu.be/BjpA6IH_Skc)

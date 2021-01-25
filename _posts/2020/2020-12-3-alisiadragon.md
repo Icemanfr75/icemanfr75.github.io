@@ -13,11 +13,11 @@ On est dans un jeu de plateforme action, limite beat’em all parfois. Il y a qu
 
 Là c’est le début du premier niveau :
 
-![image1](https://cheziceman.files.wordpress.com/2020/06/alisia-dragoon-europe-200608-1415161634936642..jpg)
+![image1](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/alisia1.jpg)
 
 Là, c’est le début du second niveau :
 
-![image2](https://cheziceman.files.wordpress.com/2020/06/alisia-dragoon-200613-085940742013397..jpg?w=739)
+![image2](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/alisia2.jpg)
 
 Je n’ai pas de souvenir de ce jeu sur megadrive pour la bonne et simple raison que ni moi ni mes amis n’avaient cette console. Madame Iceman en avait une mais pas ce jeu. On est très loin du Sonic de Sega mais la réalisation est très bonne avec une ambiance bien faite, de beaux décors même si je trouve que le panneau de contrôle en haut est peu lisible. Cela aurait pu être développé façon Castlevania pour rester dans le côté RPG. C’est rapide avec un bon level-design qui maintient l’attention du joueur et son intérêt. Car le risque est d’être répétitif. Le niveau 2 avec ses nénuphars carnivores, ses serpents est bien glauque à souhait. Le semi-boss en milieu de niveau est aussi costaud mais je crois surtout que je n’avais pas la bonne technique quand je l’ai abordé. Il faut passer du temps, améliorer ses passages.
 
@@ -27,6 +27,6 @@ J’ai pris une video de ma première partie en screenrecorder…
 
 Mais mieux vaut un vrai longplay avec la musique et tout pour mieux voir la mécanique du jeu avec un joueur qui le connaît bien. C’est typiquement un jeu des années 80 avec une réalisation des années 90 et il arrivait un peu tard pour une console qui déjà commençait à décliner, et quand toutes les sorties étaient canibalisées par Sonic et les licences cinéma. Il est pourtant très intéressant par la richesse de sa mécanique et je ne regrette pas de l’avoir essayé. (qui me l’a cité, d’ailleurs ? ). Il est tout à fait jouable en émulation sur tous les supports mais la manette est obligatoire. Il faut en effet trois boutons et la croix directionnelle pour y jouer.
 
-[longplay](https://youtu.be/ZIIRtWPYBtg)
+En video : [![video](/images/youtube.png)](https://youtu.be/ZIIRtWPYBtg)
 
 Edité par Game Arts en 1992 sur … Sega Megadrive/Genesis uniquement.

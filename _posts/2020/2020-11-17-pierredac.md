@@ -11,7 +11,7 @@ L’humour de Dac, c’est un peu d’absurde, du calembour, du jeu de mot, du p
 
 Dac, c’est un humour sans doute plus cérébral que ce qui se pratique aujourd’hui. Le texte est plus long chez un Raymond Devos (autre auteur de chevet) mais il y a quelques points communs. Car il est difficile de faire court.
 
-![cover](https://cheziceman.files.wordpress.com/2020/06/51gfaf34dhl285120810.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/pierredac.jpg)
 
 Malheureusement les situations et le vocabulaire ont vieilli et cela a tendance a gâcher la fête. Il faut se replonger dans la période 50-70 au moins par l’esprit car je ne l’ai pas vécu moi-même.
 

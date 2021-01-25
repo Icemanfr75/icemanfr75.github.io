@@ -9,7 +9,7 @@ tags: 1960s, littérature, policier, racisme, usa
 
 Il faut un peu contextualiser… Le titre réel est « All Shot Up » ou « Don’t Play with Death « … L’éditeur français n’a pas l’air de comprendre et nous a sorti ce truc …bizarre. Nous sommes en 1960 mais Chester Himes situe plutôt cela dans les années 50. C’est un des premiers auteurs afro-américains à être publié à l’étranger ou à sortir du giron de sa communauté. Ancien prisonnier, il trouve la rédemption en écrivant et en parlant aussi de la condition noire à travers des livres policiers, des crimes ou des récits de critique sociale pure. J’étais resté sur son fameux La reine des Pommes, qui se passe déjà à Harlem. Retour à Harlem aussi pour ce récit qui part, comme souvent, d’un fait divers.
 
-![cover](https://cheziceman.files.wordpress.com/2020/07/imbroglionegro.jpg)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/imbroglionegro.jpg)
 
 C’est le 5ème opus de sa série « Fossoyeur Jones et Ed Cercueil », du nom des deux policiers noirs qui sont les héros de ses livres. Avec eux, on ne fait pas dans la dentelle. Et on retrouve aussi le NYPD de l’époque avec le racisme, les difficultés avec des collègues blancs, même si ce n’est qu’en filigrane. Ici le fait divers, c’est une femme qui se fait renverser par une Cadillac dorée achetée par un mec qui a tout du mac. Un témoin ? Un type qui fauche des roues de bagnoles. Et puis tout part en vrille avec une Buick remplie de faux policiers, un assassinat dans un bar gay de Harlem, des travestis, etc…
 

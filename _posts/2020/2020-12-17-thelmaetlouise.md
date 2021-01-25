@@ -9,7 +9,7 @@ tags:  1990s, aventure, Cinéma, cinematheque ideale, drame, féminisme, road mo
 
 Je rappelle l’histoire, qui doit énormément à Callie Khouri : « Thelma Lauren Dickinson, la trentaine, est l’épouse au foyer frustrée et soumise de Darryl, archétype du macho d’autant plus parfaitement inconscient de son ridicule2 que son complexe de supériorité est renforcé par sa réussite professionnelle. Louise Elizabeth Sawyer, son amie, serveuse dans une cafétéria, l’a convaincue de s’évader pour un week-end à la montagne. Quittant l’Arkansas, elles sont bien décidées à profiter de ces heures de liberté. Elles s’arrêtent en cours de route, dans une boîte où Thelma abuse de l’alcool. Alors qu’un homme essaie de la violer sur le parking, Louise arrive in extremis, sort un revolver et empêche le viol. Devant la vulgarité et l’agressivité de l’homme, elle le tue. Louise refuse catégoriquement de se rendre à la police et décide de prendre la direction du Mexique, entraînant Thelma dans sa cavale. »
 
-![cover](https://cheziceman.files.wordpress.com/2020/06/thelmaetlouise.jpg?w=739&h=988)
+![cover](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/thelmaetlouise.jpg)
 
 Quand je parlais d’en avance sur son temps, il faut rappeler que le thème du viol avait été peu traité par Hollywood et encore moins celui de la place de la femme dans le couple, dans le même film du moins. En 1988, le film « les Accusés » avec Jodie Foster en parlait avec talent…Une Jodie Foster qui fut d’ailleurs pressentie pour l’un des rôles, en compagnie de Michelle Pfeiffer. Le film fut dur à monter et prit du retard…ce qui précipita un changement d’actrices. Heriter de Susan Sarandon et Geena Davis n’est pas mal non plus ! Puisque je parle casting, on y retrouve l’excellent Michael Madsen et le nom moins excellent Harvey Keitel, plus quelques bons seconds rôles. Le casting participe allègrement au succès du film.
 
@@ -21,4 +21,4 @@ Pour enrober ce joli packaging, il faut de la technique. Il y a déjà la photo 
 
 Si j’en connais la fin et tous les rebondissements, je ne me lasse jamais de le revoir, de verser mes larmes après avoir ri et souri. C’est devenu un classique indémodable pour moi, d’autant que le thème n’a pas tant été repris que cela.
 
-[La video](https://youtu.be/2iBFmKlO4BY)
+En video : [![video](/images/youtube.png)](https://youtu.be/2iBFmKlO4BY)

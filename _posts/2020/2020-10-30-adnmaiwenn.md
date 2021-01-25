@@ -9,7 +9,7 @@ tags: 2020s, Cinéma, deuil, famille, Film, origines
 
 « Neige, divorcée et mère de trois enfants, rend régulièrement visite à Émir, son grand-père algérien qui vit désormais en maison de retraite. Elle adore et admire ce pilier de la famille, qui l’a élevée et surtout protégée de la toxicité de ses parents. Les rapports entre les nombreux membres de la famille sont compliqués et les rancœurs nombreuses… Heureusement Neige peut compter sur le soutien et l’humour de François, son ex. La mort du grand-père va déclencher une tempête familiale et une profonde crise identitaire chez Neige. Dès lors elle va vouloir comprendre et connaître son ADN »
 
-![affiche](https://cheziceman.files.wordpress.com/2020/10/adnmaiwenn.jpeg?w=1024)
+![affiche](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/adnmaiwenn.jpg)
 
 Le deuil est évidemment le premier des sujets. Et juste avant nous avons les conditions de vie en EHPAD, j’en reparlerai prochainement. Dans cette famille nombreuse, chacun vit ce moment à sa manière. On peut pleurer ou se murer dans le silence, feindre le détachement ou surjouer. Maïwenn décrit cela très bien. C’est souvent la force de ses films de savoir rendre ces situations critiques avec une vision collégiale.
 
@@ -21,4 +21,4 @@ Il y a un gros Casting comme le montre l’affiche. Maïwenn filme un peu inéga
 
 Un film où on rit, on pleure, on peste, on grogne et qui, comme les autres films de la réalisatrice, ne comblera pas tout le monde. Plutôt bon signe , non ? Certains trouveront ça voyeuriste par rapport à la situation même de la réalisatrice mais il est permis de s’en détacher et de s’y retrouver.
 
-[la bande annonce](https://youtu.be/mY59W8nBExg)
+video : [![video](/images/youtube.png)](https://youtu.be/mY59W8nBExg)

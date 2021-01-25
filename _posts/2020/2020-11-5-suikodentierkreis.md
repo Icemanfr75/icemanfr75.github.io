@@ -11,11 +11,11 @@ C’est une des plus grosses ROMS de la Nintendo DS parce que dedans, il y a une
 
 On pourrait l’appeler Suikoden 6 mais ce n’est pas tout à fait exact. En effet, il ne se déroule pas dans le même monde que les autres Suikoden. Une sorte de Spin Off. 
 
-![image1](https://cheziceman.files.wordpress.com/2020/07/wp-15950600479781954503225.png)
+![image1](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/suikoden1.jpg)
 
 « Le jeu met en scène un jeune garçon et ses amis qui tentent d’endiguer la montée en puissance d’une organisation ayant pour but de conquérir les différents territoires pour diffuser sa pensée unique.  » (..) « Le héros vit dans un petit village paisible appelé Citro. Depuis quelque temps, les créatures peuplant les environs se montrent agressives. Avec ses amis, il va essayer d’en savoir un peu plus mais la découverte d’un livre mystérieux transmettant des pouvoirs magiques le décidera pour de bon à se lancer dans une aventure pleine d’imprévus. L’exploration des différents endroits le fera rencontrer de nombreux alliés mais aussi de nombreux ennemis, et principalement une organisation malveillante du nom de l’« Ordre de la Voie Unique » contre qui il luttera en rassemblant tous les alliés dans une base, située sur un château en ruine réquisitionné »
 
-![image2](https://cheziceman.files.wordpress.com/2020/07/wp-15950600872261755105474.png)
+![image2](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/suikoden2.jpg)
 
 On est dans une mécanique classique de JRPG c’est à dire avec un environnement très guidé où il faut parler successivement à des personnages, voir des cinématiques, se balader dans des labyrinthes et des cités. Il y a des combats aléatoires (trop…!!) qui permettent aussi de faire du « leveling » afin d’avoir des personnages suffisamment puissants pour battre les boss. Comme dans les Final Fantasy de la Playstation, on bascule en 3D (superdeformed) lors des combats, le reste étant de la 2,5D ou de la 2D. Le character design est réussi, plutôt moderne à l’image des nombreux jeux de rôle coréens et japonais de l’époque. La bande son est magnifique.
 
@@ -27,7 +27,7 @@ Je suis rentré assez facilement dans ce système de jeu par habitude. Il y a é
 
 Par rapport au dernier Dragon Quest IX paru sur cette console, je l’ai trouvé d’un abord plus facile, plus classique aussi. Dommage que l’action soit trop hachée par ces combats aléatoires trop fréquents même s’ils aident à la progression. Dans les autres licences, il faut passer plus de temps à « leveler » par soi-même volontairement alors qu’on peut ici plus facilement suivre le fil de l’histoire. C’est un choix…
 
-![image3](https://cheziceman.files.wordpress.com/2020/07/wp-15953083195652081514199.png)
+![image3](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2020/suikoden3.jpg)
 
 Je ne révélerai pas la fin de cette aventure magnifique (sauf cet écran, ha ha)  mais je regrette finalement d’avoir attendu autant de temps pour mettre la main dessus. On le trouve d’occasion mais c’est assez rare, forcément… donc il atteint des prix prohibitifs (2 à 3 fois son prix de sortie!!). Parfois la spéculation tue la passion.
 
