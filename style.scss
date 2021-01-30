@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: #3F3F3B;
+	background: #222220;
   font: 18px/1.4 $helvetica;
   color: #FFFFFF;
 }
@@ -51,16 +51,17 @@ h1 {
 
 h2 {
   font-size: 24px;
-  color : #D9ECFB
+  color : #8CAEDE;
 }
 
 h3 {
   font-size: 20px;
+  color : #8CAEDE;
 }
 
 h4 {
-  font-size: 18px;
-  color: $blue;
+  font-size: 20px;
+  color: #8CAEDE;
 }
 
 p {
@@ -68,11 +69,12 @@ p {
 }
 
 a {
-  color: #D9ECFB;
+  color: #92B2C4;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
+    text-decoration: underline;
   }
 }
 
@@ -282,7 +284,6 @@ footer {
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
-@import "svg-icons";
 
 //share buttons
 .share-box a {
@@ -319,3 +320,4 @@ footer {
   .e:hover {
     color: #fff;
     background-color: #EEEEEE; }
+
