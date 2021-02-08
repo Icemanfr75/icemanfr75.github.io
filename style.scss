@@ -71,6 +71,11 @@ h4 {
   color: #8CAEDE;
 }
 
+h5 {
+  font-size: 18px;
+  color: #8CAEDE;
+}
+
 p {
   margin: 15px 0;
 }
@@ -80,7 +85,7 @@ a {
       	cursor: pointer;
     	text-decoration: underline;
   &:hover, &:active {
-    color: $blue;
+    color: #DD8C74;
     text-decoration: underline;
   }
 }
