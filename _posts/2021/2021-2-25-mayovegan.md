@@ -52,3 +52,14 @@ Ingrédients :  huile de colza, eau, vinaigre d’alcool, sucre, sel, amidons mo
 Je n’ai pas la répartition des ingrédients (pas d’obligation ).. ce que je peux constater dans les chiffres, c’est que c’est encore plus calorique que les versions veganes spécialisées (+20 à 30%) et similaire à se concurrente. Par rapport à de l’industrielle « classique » on est aussi dans le même type d’ingrédients et de teneur calorique, si ce n’est un peu plus. Pas vraiment de surprise ? Ah oui, c’est encore moins cher : 2,40€ les 420g.
 
 Comme d’habitude, si on fait maison, ce sera meilleur pour la santé. Avec un peu de curcuma ou de paprika, on peut donner un peu de couleur, ainsi qu’en prenant une bonne moutarde. Et si les poules heureuses de votre connaissance vous donne gentiment des œufs, on fermera les yeux sur une recette non végane. Je n’en connais pas beaucoup… Bref, vous voilà informés sur ce qui existe, alors bon appétit bien sûr.
+
+#### Commentaires
+
+**Anatolem par mail**
+
+>Chez nous la mayonnaise ce n'est pas trop notre  "cam" mais on en mange quand même durant l'été.
+Des poules végan j'en connais pas beaucoup non plus, il doit rester quelques gênes préhistoriques dans L’ADN des volatiles.Je ne sais pas où sont fabriqués les mayonnaises végétales mais cela devrait entrer en ligne de compte car j'ai l'impression que les pots ont traversés l'atlantique
+
+**Iceman**
+
+>En effet, la provenance est à prendre en compte non seulement pour les produits vegans mais aussi dans le bio qui vient souvent de loin. Entre du moins bio d'à coté et du bio de l'autre coté de la planète, mon coeur balance peu, parfois. 
