@@ -32,3 +32,12 @@ Je pourrais parler de **la dépression** aussi, ce qui est intimement lié à to
 Des gens bien plus talentueux que moi, et plus savants ont disserté et **philosophé sur ce même sujet**. Tiens, je prends une citation au passage d’une écrivain et philosophe : « Qui n’a jamais connu l’échec a raté sa vie ! » Charles Pépin. Une évidence et j’aimerai pourtant connaître la personne qui n’a jamais connu le moindre échec dans sa vie… A moins de les transformer en réussite évidemment. C’est peut-être ce qu’il faut garder en tête, autant qu’on le puisse. Et pour finir, autant le faire en musique avec un titre de notre JJG national
 
 Terminons en musique : [![video](/images/youtube.png)](https://www.dailymotion.com/video/x2u4t){:target="_blank"}
+
+#### Commentaires : 
+
+**Anatolem par mail**
+
+> "Si à 50 ans on n'a pas une Rolex, c'est qu'on a raté sa vie" une célèbre phrase de notre ancien président, prévenu,...Alors oui, je dois l’admettre, j'ai passé la date de péremption, je n'ai pas de Rolex, même pas une montre (ce n'est pas la vérité car j'ai un montre gousset au fond d'un tiroir mais qui ne fonctionne plus) donc par la force des choses j'ai  raté ma vie (selon Nicolas), mais j'ai pu croiser de belles personnes, avoir de beaux enfants (qui ne jettent pas de cailloux sur les forces de l'ordre), avoir deux mains qui me permettent de bricoler, deux jambes pour me déplacer, des yeux pour lire, puis j'ai fréquenté par obligation des cons et des connes, j’ai aussi croiser la mort en glissant mon père dans le sac mortuaire, c'est aussi cela la vie.
+
+> Il ne faut pas penser que la vie soit toute rose, la vie c'est un mélange de couleur. 
+
