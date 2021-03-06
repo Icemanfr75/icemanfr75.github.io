@@ -41,3 +41,17 @@ Terminons en musique : [![video](/images/youtube.png)](https://www.dailymotion.c
 
 > Il ne faut pas penser que la vie soit toute rose, la vie c'est un mélange de couleur. 
 
+**Ewen par mail**
+
+> Le syndrome de l'imposteur vient de l'approbation que l'on recherche chez autrui. Au syndrome de l'imposteur, je réponds par la légitimité. Est-ce que je m'accorde cette légitimité, ou au contraire est-ce que je me la refuse ? Dès lors que l'on s'accorde légitimité sur tel ou tel sujet, alors le syndrome de l'imposteur s'efface. Cela n'empêche nullement de douter, douter c'est ne pas entrer dans un système de dogmes. Douter, ce n'est pas remettre TOUT en question, simplement laisser place à une incertitude qui pousse à la réflexion.
+
+> Concernant la "mauvaise voie", c'est l'histoire du boulevard du vice.
+Plus attirant, plus simple que le chemin de chèvre du juste, de l'équilibré. Le second réclame des efforts que le premier ne requiert pas. J'ai rencontré des individus dont les parents leur avaient transmis le goût de la tolérance, de la compassion, de la justesse, etc., et pourtant ces mêmes individus s'asseyaient sur cette éducation et empruntaient la "mauvaise voie". Que faisons-nous au final de notre éducation ? Trop d'individus fonctionnent de manière binaire face à l'éducation reçue : prendre ou rejeter. Manque de nuance... D'ailleurs, rien n'empêche de picorer ici et là pour construire sa propre éducation. Les possibilités sont infinies ! A l'inverse, j'ai été dressé à la dure par un père féroce. Ai-je sombré dans le vice ? Non. Tout n'est qu'une question de positionnement.
+
+> Je finis sur un point important : la victimisation. Dans ce processus, la victime confond sa vulnérabilité et son incapacité à agir. La fragilité devient prétexte pour entretenir ce mal-être, car passer à l'action signifie que la guérison s'amorce, que l'on accepte l'inconnue. A lire, les travaux sur le Triangle Dramatique et Compassionnel produits par le Dr Stephen Karpman.
+
+**Iceman**
+
+> Le fameux triangle de Karpman mis aujourd'hui à toutes les sauces me paraît réducteur mais reste une première approche dans la description des relations humaines. Nous aurons l'occasion d'en parler dans un prochain billet déjà prêt mais que je garde pour plus tard après X relectures...
+
+
