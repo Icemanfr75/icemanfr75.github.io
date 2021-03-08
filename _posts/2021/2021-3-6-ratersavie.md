@@ -35,13 +35,13 @@ Terminons en musique : [![video](/images/youtube.png)](https://www.dailymotion.c
 
 #### Commentaires : 
 
-**Anatolem par mail**
+**[Anatolem](https://anatolemblog.wordpress.com) par mail**
 
 > "Si à 50 ans on n'a pas une Rolex, c'est qu'on a raté sa vie" une célèbre phrase de notre ancien président, prévenu,...Alors oui, je dois l’admettre, j'ai passé la date de péremption, je n'ai pas de Rolex, même pas une montre (ce n'est pas la vérité car j'ai un montre gousset au fond d'un tiroir mais qui ne fonctionne plus) donc par la force des choses j'ai  raté ma vie (selon Nicolas), mais j'ai pu croiser de belles personnes, avoir de beaux enfants (qui ne jettent pas de cailloux sur les forces de l'ordre), avoir deux mains qui me permettent de bricoler, deux jambes pour me déplacer, des yeux pour lire, puis j'ai fréquenté par obligation des cons et des connes, j’ai aussi croiser la mort en glissant mon père dans le sac mortuaire, c'est aussi cela la vie.
 
 > Il ne faut pas penser que la vie soit toute rose, la vie c'est un mélange de couleur. 
 
-**Ewen par mail**
+**[Ewen](https://bluemooneyeswolf.wordpress.com) par mail**
 
 > Le syndrome de l'imposteur vient de l'approbation que l'on recherche chez autrui. Au syndrome de l'imposteur, je réponds par la légitimité. Est-ce que je m'accorde cette légitimité, ou au contraire est-ce que je me la refuse ? Dès lors que l'on s'accorde légitimité sur tel ou tel sujet, alors le syndrome de l'imposteur s'efface. Cela n'empêche nullement de douter, douter c'est ne pas entrer dans un système de dogmes. Douter, ce n'est pas remettre TOUT en question, simplement laisser place à une incertitude qui pousse à la réflexion.
 
@@ -54,4 +54,10 @@ Plus attirant, plus simple que le chemin de chèvre du juste, de l'équilibré. 
 
 > Le fameux triangle de Karpman mis aujourd'hui à toutes les sauces me paraît réducteur mais reste une première approche dans la description des relations humaines. Nous aurons l'occasion d'en parler dans un prochain billet déjà prêt mais que je garde pour plus tard après X relectures...
 
+**[Olivyeahh](https://leblogdolivyeahh.wordpress.com) par mail**
 
+> Et si réussir sa vie, c'était simplement être une bonne personne???Beaucoup de similitudes, même si le parcours est différent et que j'ai mis bien plus de temps à trouver ma voie. Mais, ça ne reste que du professionnel. Les échecs m'ont fait mal puis je les ai considéré comme des passages obligés, structurants. Le fait d'avoir changé ce rapport à l'échec a changé la vision que j'avais de moi-même. Plus de regrets, ou très peu. Donc peu de poids à porter. Ce qui doit arriver, arrive.... Par expérience, je pense qu'on ne maîtrise jamais totalement les choses (à tous les échelons de la vie). A partir du moment où tu as donné sans tricher, aucun remords à avoir... Et au diable les pressions familiales, amicales ou sociétales. Elles ne sont que des freins (de mon point de vue)
+
+> Je suis loin et ne donne pas de nouvelles à mes anciens camarades de classe, de lycée. Eux voient toujours les mêmes gens, les mêmes endroits depuis 40 ans. Avec le recul, je suis content d'avoir poussé la porte de l'inconnu. L'immobilisme est une chose que je peux conceptualiser (les peurs doivent y avoir une belle place) mais que je ne comprends pas. Pas de jugement de ma part, pas d'amertume. Chacun est maître de ses choix. Nous sommes tous différents, c'est ce qui nous lie.
+
+> Pour le doute, je pense qu'il est utile s'il ne devient pas paralysant (j'ai mis du temps avant que ce soit le cas). Professionnellement, il nous permet d'être bon et attentatif dans ce que l'on fait. Humainement, il nous permet de ne pas adhérer aux visions simplistes du monde qui gambadent autour de nous.
