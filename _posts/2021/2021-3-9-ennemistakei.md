@@ -21,3 +21,9 @@ En Californie, le coupable de cette mesure a été longtemps gouverneur avant d�
 Un ouvrage bouleversant qui montre que les grandes démocraties peuvent vite sombrer dans le pire. Ces périodes sombres, ces exactions envers des populations ne sont pas l’apanage des USA. Pensez aussi aux réfugiés espagnols, aux Harkis en France ou aux bidonvilles qui existaient après guerre, et existent à nouveau maintenant, sans évidemment oublier la période de l’occupation et le camp français du Struthof. Takei raconte son histoire avec sobriété, sans animosité, factuellement. Ce pays qui l’enferma lui a offert aussi une belle carrière, même si là aussi il représenta au cinéma et en télévision l' »Asiatique de service » plutôt que l’acteur à part entière. Il trouva d’autres rôles au théâtre. Que de chemin à parcourir encore… Que ce témoignage nous y aide.
 
 ![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2021/ennemistakei2.png)
+
+#### Commentaires : 
+
+**[Alias](https://imaginair.es/@Alias) sur Mastodon** 
+
+> J'avais vu passer un article, il y a peu, qui parlait de cet épisode historique sous l'angle de la confiscation des terres tenues par des familles d'origine japonaise. Je n'ai pas réussi à retrouver l'article en question, mais j'ai trouvé celui-ci: [(en anglais)](https://www.capradio.org/articles/2019/06/04/what-happened-to-the-property-of-sacramentos-japanese-american-community-interned-during-world-war-ii/)
