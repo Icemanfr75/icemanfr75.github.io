@@ -1,0 +1,16 @@
+---
+layout: post
+title: Série du passé - Superminds (1985-1987)
+category: serie
+tags:  1980s, série, science-fiction, usa, adolescence
+---
+
+**Le titre original était "Misfits of science" (que l'on entendait aussi dans le générique) et cette série a marqué pourtant sa génération malgré seulement 15 épisodes.**
+
+Elle a permis la découverte d’une certaine Courteney Cox déjà, qui a écumée quelques séries, et avant d’avoir le succès de Friends. Mais elle était aussi une sorte d’incursion dans le monde des super-héros, sans avoir le kitsch des séries Batman, Wonderwoman ou même Buck Rogers. Enfin je dis ça à l’époque… Car nous avons une bande de jeunes adultes aux superpouvoirs avec comme « chef » un scientifique. Ca ne vous rappelle rien ? Oui, les XMen…Bon là, on a beaucoup, beaucoup moins de moyens et donc beaucoup moins de pouvoirs : Un type qui peut rapetisser, un autre qui a la possibilité de se déplacer à grande vitesse (Flash….?) et de lancer des décharges électriques, et une télékinésiste. Toute cette petite équipe vit en marge de la communauté scientique, ce qui est un peu le gimmick de pas mal de séries des années 80-90. (de l’agence tout risque ou les têtes brulées en marge de l’armée, jusqu’au rebelle en marge de la société, ha ha )
+
+Dans mes souvenirs, je l’imaginais diffusée sur TF1 mais c’était bien sur la 5 (après un passage sur l’éphémère TV6). Je n’avais alors pas fait le rapprochement avec Ghostbusters, le film, sans doute parce que j’ai du le voir plus tard. Mais il est vrai que le Dr Hayes (joué par le fils de Dean Martin, Dean Paul Martin) a un peu le rôle de Bill Murray et que la secrétaire à la voix énervante est aussi reprise du même type de rôle. Ca s’arrête là car il n’y a pas d’ectoplasme à capturer ici et que dans ghostbusters les membres n’avaient pas de superpouvoirs. C’est surtout pour montrer que la série a pris des idées dans différentes choses. Les acteurs sont, comme souvent, trop vieux pour faire les adolescents mais se comportent parfois comme eux. On a de gros clichés bien épais pour les personnages, comme par exemple Johnny, le rockeur qui se prend pour Chuck Berry… gros décalage pendant ces années hard-rock. Pourtant, le noir de la série n’est ni un basketteur, ni un ancien malfrat et c’est encore assez rare car c’est lui aussi un scientifique. 
+
+Les épisodes se concentraient sur une sorte d’enquête sur un phénomène que la science n’arrivait pas à expliquer. Les autorités font donc appel à cette équipe d’Humadyne, et le fil rouge est que l’état veut faire fermer cette « société ». Au final, c’est plus la série qui s’arrêtera faute de bonne audience et surtout après la mort de son acteur principal. Ce qu’il en reste justement, c’est quelques bons délires avec ces clins d’œil à la culture pop. La science apparaissait comme amusante et « utile », pour une fois. On retrouvera ce traitement du paranormal dans d’autres séries ultérieures d’une manière plus classique ou adulte mais rarement dans ce mélange de pulp, teen movie, super héros. Alors même si j’avais un peu oublié les détails, j’avais encore la série dans un coin de ma tête. Surtout le générique d’ailleurs. Le reste a vieilli car les séries semblent se démoder encore plus vite que le cinéma. Un phénomène à analyser par Humadyne ?
+
+En Vidéo : [![video](/images/youtube.png)](https://youtu.be/ZbvLYap-0pQ)
