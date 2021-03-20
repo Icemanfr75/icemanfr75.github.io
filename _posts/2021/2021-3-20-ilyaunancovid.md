@@ -58,3 +58,32 @@ Bande son : [Depeche Mode - New Life ![video](/images/youtube.png)](https://www.
 **[Anatole M](https://anatolemblog.wordpress.com) par mail**
 
 > Il y a dans ton billet plusieurs passages qui me semble intéressants: "sortie de l’hiver","la nature se réveille"," jardinage","surtout si les évènements nous y forcent","Revenir aux basiques","je faisais déjà pas mal de petites choses moi-même",“semi-survivaliste”... tu l'auras compris ces petits mots qui me parlent, ne semble pas pouvoir être mis en pratique sur un territoire bitumé, où des millions de gens se côtoient, se serrent dans le bus, le métro et c'est cette liberté qu'il faut retrouver à la campagne. Et je ne suis pas seul à penser cela, puisqu'il suffit de regarder le flot de franciliens et parisiens qui se réfugient en zone rurale avant chaque confinement 
+
+
+**Ewen par mail**
+
+>J'ai pris le temps de lire cet article. J'ai tiqué, par moment. Mon passif m'amène à ne pas adhérer à certains de tes propos.
+
+> Premier point : les vaccins. Alors, les vaccins sont une solution envisageable, mais pas LA solution. Je me suis renseigné sur les procédures de mise sur le marché d'un vaccin : de 9 à 12 ans ! En un an, c'est torché. Les composants de ces vaccins sont flous, pourtant de nombreuses personnes par peur de la mort (réduction des interactions sociales donc suicide social en douceur ; mort pure et dure) sont prêtes à s'injecter sans guère de précisions un produit dont ils ignorent les tenants et aboutissants.
+Après la Seconde Guerre Mondiale, fut décrété le Code de Nuremberg : en bref, consentement LIBRE et ECLAIRE dès lors que des expériences médicales sont proposées à titre expérimental. Ce n'est ABSOLUMENT pas le cas ici. D'ailleurs, je suis certain que l'Etat français intentionnellement fait la vaccination au pas-à-pas. Si ça dérape, il peut rétropédaler. Le chantage du vaccin contre regagner un peu de liberté (de loisirs, plutôt) me dégoûte. La culpabilisation aussi. Ces médecins spécialistes de plateaux TV passent plus de temps sur des plateaux TV que en cabinet ! Malins les singes, ils conservent un semblant d'activités pour conserver leur titre de médecin. Quelle belle
+brochette de connards ! Quant à la compétition de bistouquettes "qui a vacciné le plus ?"... NO COMMENT. Le soin n'est pas une compétition. C'est du cas-par-cas. Je suis aussi sidéré que l'UE n'ait accepté AUCUNE clause auprès des industries pharmaceutiques en cas de potentiels effets indésirables de leurs produits. Ces groupes sont désormais intouchables, peuvent jouer les apprentis sorciers en toute impunité.
+
+> Second point : (qui découle du premier) le soin apporté aux malades de la covid-19. Comment se fait-il que le premier soin n'est pas été réellement considéré dans la balance ? Vous êtes malades, restez chez vous ! Ba putain, j'ai abordé ce covid-19 physiquement et psychiquement dans la douleur et l'inconnue. Plus d'un mois pour récupérer de ce virus, suivi pendant encore quelques temps de difficultés respiratoires. Quid de booster les défenses immunitaires par de la Vitamine D, du
+Zinc, des huiles essentielles (l'eucalyptus radié pour les douleurs pulmonaires, le laurier pour les douleurs musculaires), etc. ? Les médecins se sont vus pratiquement interdire de véritablement
+soigner les malades. Quid de soulager le déséquilibre psychique des français ? NADA, RIEN !
+
+> Troisième point : la désinfection ou sur-désinfection ? J'ai été malade psychiquement, physiquement durant quelques années. Je vivais sous le toit d'un individu toxique et d'une hygiène (sur tous
+ses aspects) déplorable. J'en étais venu à décontaminer chaque espace dans lequel il s'était introduit. Je me lavais avec un savon d'hôpital, fragilisant encore plus ma peau, mon esprit.
+Je m'en suis fort heureusement sorti. La désinfection oui. Par contre, la sur-désinfection, l'hystérie du terrain aseptisé, non. 
+
+> Quatrième point : le passeport santé. Cela se base sur le modèle chinois : évaluation sociale. Si je remplis telles conditions, alors je peux circuler librement (dans les faits...). Sachant, qu'apparemment la Chine a décrété que seuls les individus vaccinés par un vaccin chinois pourront déambuler dans leur pays. Ce sera sûrement le cas pour d'autres pays. Du coup, la véritable frontière deviendra celle du vaccin... Terrible.
+
+> Cinquième point : les libertés. Je partage ton point de vue : les libertés ne sont pas là où nous
+pensons qu'elles sont. Les loisirs, les interactions sociales sont des libertés. Mais elles découlent d'autres libertés relevant plus du cadre légal, constitutionnel. Le passage de l'Etat d'urgence du droit d'exception dans le droit commun est un monstre dont nous payerons les conséquences très bientôt. A vrai dire, nous en payons déjà certaines en ce moment. L'individualisme a été le moteur d'une économie consumériste sans nuance, sans équilibre. Difficile de repenser collectif dans ces
+instants. Le Japon est un exemple de collectif, malheureusement aussi au détriment de l'individualisme et de l'individualité. "Le Petit Livre de l'Ikigaï" de Ken Mogi m'a amené les dernières clefs pour comprendre le modèle sociétal nippon.
+
+> Sixième point : la Science. La Science comme présentée bêtement et sans nuance par les journaux
+m'effraie tout autant que certaines religions. Parlons plutôt DES sciences. Il n'y a pas qu'une voix, il y a en une multitude. Et les sciences se trompent aussi. L'absence de doute, c'est ce qui
+manque à ce domaine. Trop de certitudes (de croyances, donc de dogmes), pas assez d'humilité (un "je ne sais pas").
+
+> J'aurais pu aborder d'autres points mais je n'ai pas l'envie de faire une analyse de ton texte mot par mot. Il y a des points que je partage (le court-termisme politique ; les économies basées sur le tourisme ; les "privilégiés" du télétravail - puis-je les appeler ainsi ? ; la dépendance aux hautes technologies et à l'énergie électrique ; la hausse de la productivité - les marketeux appellent cela la "qualité" - en parallèle d'une réduction des effectifs ; les luttes collectives).
