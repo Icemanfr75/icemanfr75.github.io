@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Pause poésie - Emmêlé
+title: Pause Photo et Poésie - Emmêlé
 category: poesie
 tags: [création, Créations, poème]
 ---
 
 La soupe cuit lentement,
 
-le bouillonement en surface,
+le bouillonnement en surface,
 
 le mien au plus profond de mon sang,
 
