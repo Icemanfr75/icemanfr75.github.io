@@ -7,7 +7,7 @@ tags:  roman, chat, littérature, 2020s
 
 **J'ai craqué pour ce court roman avec une couverture toute mimi. Forcément, ça parle de chat, mais pas que...**
 
-Nagore a la petite quarantaine et sort d'une douloureuse rupture. Elle a décidé de s'installer à Barcelone après avoir quitté Londres. Sans ressource, elle postule à un emploi trouvé par une de ses amies : Sefveuse dans un "Bar à chat" ouvert par une japonaise. Pas le choix pour elle qui n'a aucune affinité avec les félins, ou même le café. Il faut bien vivre...
+Nagore a la petite quarantaine et sort d'une douloureuse rupture. Elle a décidé de s'installer à Barcelone après avoir quitté Londres. Sans ressource, elle postule à un emploi trouvé par une de ses amies : Serveuse dans un "Bar à chat" ouvert par une japonaise. Pas le choix pour elle qui n'a aucune affinité avec les félins, ou même le café. Il faut bien vivre...
 
 Ce petit livre ne paye pas de mine mais il est très agréable à lire avec le même sentiment que notre héroïne. On se sent bien après ces quelques pages en compagnie de nos 8 félins facétieux. C'est une rencontre, mais pas seulement entre Nagore et des chats. Nagore se rencontre à nouveau après des années d'oubli. Je pense aussi que pour certains lecteurs, cela sera aussi une rencontre. Les chats nous dominent, nous choisissent, c'est connu. Je vis chez mes chats mais ils me le rendent bien.
 
