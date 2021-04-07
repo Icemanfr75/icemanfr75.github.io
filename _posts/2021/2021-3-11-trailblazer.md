@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Souvenir de gamer - Trailblazer (1986)
+title: Souvenir de Gamer - Trailblazer (1986)
 category: geek
 tags: 1980s, jeu video, retrogaming, Amstrad CPC, arcade
 ---
