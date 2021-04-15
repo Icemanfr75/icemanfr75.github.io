@@ -1,0 +1,20 @@
+---
+layout: post
+title: Cinéma - Sacco et Vanzetti de Giuliano Montaldo (1971)
+category: cinema
+tags: cinémathèque idéale, film, cinéma, politique, anarchisme, usa, italie, 1970s
+---
+
+**Sacco et Vanzetti, c'est une histoire, une erreur judiciaire. Mais c'est aussi un film qui retranscrit magnifiquement ce drame et qui malgré son âge, reste toujours aussi fort.**
+
+Si son réalisateur est un peu oublié aujourd'hui, il réalise ici une œuvre majeure dans le cinéma italien. Car derrière cette affaire, c'est tout un pays qui fut touché alors. Nous sommes dans le début du 20ème siècle et les italiens migrent en masse aux États-unis. On ne peut pas dire qu'ils soient bien accueillis par les générations précédentes de ce pays de migration. Les années 20 arrivent, son puritanisme, sa peur du rouge, déjà. C'est l'époque de grandes grèves, du syndicalisme mais aussi de l'anarchisme qu'on lie un peu facilement à toute une population d'immigrés. Car il y a des attentats anarchistes contre les puissances de l'argent, les politiciens corrompus. Des politiciens jouent déjà très bien sur ces peurs pour faire passer des lois liberticides, pour expulser de pauvres innocents ou les mettre en prisons. Le procureur général Palmer fut de cela et avec lui, le zélé procureur de district Katzmann qui est un des protagonistes principaux du film. Dans ce contexte de peur, les italiens sont des parias. Un casse a lieu dans une usine du Massachusetts et on arrête par hasard deux anarchistes en possession d'armes à feu : Sacco et Vanzetti sont les coupables idéaux.
+
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2021/saccoetvanzetti.jpg)
+
+Rien que la scène d'introduction du film est marquante avec son noir et blanc, la musique d'Ennio Morricone, la voix de Joan Baez, la violence de la police sur des familles italiennes pauvres et résignées. Le reste du film est en couleur. Le réalisateur nous montre la construction de la culpabilité, l'implacable machine d'état qui se met en place sur fond de "racisme" institutionnalisé. L'essentiel du film tient à un procès. On comprend très rapidement la position très politisée du juge, ses sous-entendus, et ce procureur détestable (Cyril Cusack). Vanzetti (Gian Maria Volonte) fait face. Sacco (Riccardo Cucciolla) s'effondre mais ne rompt pas. L'avocat Moore (Milo O'Shea) reste encore idéaliste comme son collègue Thompson qui croit en la justice de son pays. On connaît vite l'issue de ce drame.
+
+C'est évidemment un film politique, car l'affaire n'a jamais été réglée. On sait qu'ils étaient innocents mais la justice n'a jamais révisé le procès. En 1977, il y a juste eu une annulation de jugement, un peu dictée par les vues présidentielles d'un gouverneur. Les USA de cette époque n'étaient finalement guère mieux que celles du Maccarthisme, mais on trouvera ailleurs d'autres Sacco et Vanzetti. L'affaire fut mondiale, comme l'était la peur du rouge, la racisme envers des minorités (ici les italiens, ailleurs les polonais, les juifs, ...). En cela, le film garde de l'universalité. Il ne défend pas spécialement l'idéal anarchiste de nos deux malheureux héros, même s'il s'en fait la tribune. Il rappelle juste qu'il ne faut parfois que quelques hommes influents pour entraîner tout un pays à la dérive, dans une hystérie collective. Les images sont violentes, tout comme les mots ici. 
+
+Le bémol à mettre est dans des décors qu'on devine italiens (cinecitta) avec la lumière de ces scènes. Les femmes sont belles, parfois trop. Mais ce ne sont que des détails, tant le film recèle de force. Il y a l'apport musical d'Ennio Morricone en plus et pour terminer, la marche de Nicola and Bart chantée par Joan Baez qui la reprend depuis dans chacun de ses concerts. Un film inoubliable pour une histoire à ne pas oublier. 
+
+Bande annonce : [![video](/images/youtube.png)](https://www.youtube.com/watch?v=onVLArB4wuQ)
