@@ -9,7 +9,7 @@ title: Tutoriels
     {% for post in site.posts %}
     {% if post.category contains "tuto" %}
     <li>
-      <span class="date">{{ post.date | date: "%d/%d/%Y" }} - </span>
+      <span class="date">{{ post.date | date: "%d/%m/%Y" }} - </span>
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}} - </a>
       <span class="category">{{ post.category | categorie : "%B" }}</span>
     </li>
