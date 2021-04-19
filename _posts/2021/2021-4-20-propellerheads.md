@@ -1,0 +1,18 @@
+---
+layout: post
+title: Musique - Proppelerheads - Decksandrumsandrockandroll (1998)
+category: musique
+tags:  1990s, musique, bigbeat, techno, dance, electro
+---
+
+**Parmi les groupes phares de ce style éphémère du "Big Beat", il y a eu le duo anglais Propellerheads. Entre de nombreux remix très grand-public, ils ont commis cet album devenu un classique dont les titres sont encore repris aujourd'hui dans des publicités et génériques TV/Radio**
+
+![image](https://filedn.eu/llqi9IBxlYouGRXYG2xlROb/img/2021/propellerheads.jpg)
+
+Il faut dire que ces deux DJ ont une discographie encore plus éphémère que le style qu'ils ont adopté avec seulement 1 album et trois EP. Pour rappel, le Big Beat, c'est ce dérivé du Breakbeat (vous voilà bien avancé !) qui conserve une rythmique marquée et multiple avec des cassures, mais y ajoute des éléments de techno trance, de rock, de hip-hop. Le style est principalement anglais notamment du coté de Brighton et évidemment à Londres. Mais revenons à ce duo constitué de deux DJ :  Will White and Alex Gifford. Ils apparaissent dans les radars grace à un remix du thème de James Bond de John Barry, en 1996. Il est suivi par un autre fameux remix, celui d'"History repeating" de Shirley Bassey. Grace à ça, ils peuvent enfin dépasser le statut de remixeurs pour créer un véritable album. Nous voilà donc à cet album mythique "Decksandrumsandrockandroll".
+
+L'album a été notamment popularisé par le cinéma (décidément) avec une scène de Matrix qui utilise le titre "Spybreak!". Mais il commence par un titre devenu un classique depuis "Take California" où on reconnaît le style caractéristique du duo : Une ligne de basse bien linéaire et une grosse session rythmique basée sur des breaks et des sons hip-hop, le tout avec des samples savamment travaillés. Il y a peu d'intervention de chanteurs dans leur production, en dehors donc de ces samples. C'est donc très proche d'un travail de remixeur, en effet. Mais quelle efficacité ! On retrouve des titres plus "house" qui se rapprochent de leurs "cousins" de [Basement Jaxx](https://www.cheziceman.fr/2010/basementjaxx-singles/), des choses plus funky ("Better?"), plus Hip-hop ("360 ? oh yeah") mais ça manque un peu de substance. Il fallait aussi y remettre le mix de "History Repeating" et c'est là que l'on entend tout le soin apporté au son, aux effets stereo par exemple qui captent l'attention de l'auditeur, surtout au casque.
+
+L'album n'a pas autant de hits que l'on pense, restant assez moyen pour pas mal des pistes mais il garde une certaine homogénéité malgré la diversité des styles abordés. "Bang on!" par exemple est un titre plus survitaminé que le reste, mais il manque cette fois d'une bonne production pour sortir du lot. Curieusement, le son reste plat et brouillon à l'opposé de bien des pistes de l'album. Il aurait pu très bien être réalisé par un certain Norman Cook... Le duo ne semble jamais aussi à l'aise qu'en manipulant des matières venant d'autres, comme évidemment le "On Her Majesty's Secret service" qui les a fait connaître. Exception peut-être faite de "Bigger?" quoiqu'il y a ici beaucoup de samples. S'il fallait les résumer, ça serait par le recours à un son très fifties dans une production résolument nineties avec de gros beats. L'album reste efficace dans son ensemble mais montre les limites de ses auteurs par rapport aux boss du Big Beat. Est-ce que cela explique leur retour à l'oubli dans les années 2000 en tant que duo ?
+
+Vous en jugerez en écoutant par exemple ce titre : [Le clip ![video](/images/youtube.png)](https://www.youtube.com/watch?v=yzLT6_TQmq8)
