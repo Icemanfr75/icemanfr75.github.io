@@ -59,3 +59,14 @@ Toutes ces étiquettes sont donc bien jolies mais le véritable problème reste 
 Alors quand il faut payer cher pour réparer certaines choses, pensez aussi à ce que cela coûte non seulement à racheter mais à reconstruire un nouveau produit. Et j'avais envie de terminer par un groupe Texan, état souvent symbolique...
 
 Bande son : [ZZ Top - I Gotsta get Paid ![video](/images/youtube.png)](https://www.youtube.com/watch?v=kaIZWjItReI){:target="_blank"}
+
+#### Commentaires
+
+**Anatolem par mail**
+
+> J'ai quand même du mal à comprendre qu'on serait plus écologique en jetant un produit qui fait le boulot, pour en acheter un qui a fait des centaines de kilomètres, qui emploie des gens à bas coût et avec des conditions de travail qui laissent sans doute à désirer. 
+Faut avoir une âme écologique mais faut pas sombrer dans l'extrémisme. On nous fait miroiter un monde meilleur avec de l’électricité éolien, mais qu'est-ce qu'on va faire des pales lorsqu'elles seront en fin de vie sans compter combien il a fallu d'énergie pour la produire. 
+
+**Iceman**
+
+> C'est aussi cet argument social qu'il faut mettre dans la balance lorsque l'on achète pour rempalcer. Pour l'électro-ménager, c'est simple, il n'y a que l'Europe de l'est au mieux, maintenant. Pour les petites voitures aussi, à quelques rares exceptions. Et puis il y a le ratio entre le prix de la réparation et le prix du neuf. Il arrive justement à cause de ces éléments sociaux que le neuf est aussi cher ou moins cher que la réparation ! Et pourtant environnementalement, ce n'est pas pareil. Pour les éoliennes, il me semble justement que des associations ont mis en lumière ce problème d'usure et donc d'abandon de certaines pales, machines, parfois par manque d'entretien aussi. Mais en face aussi il y a sur d'autres énergies ce même problème et une énergie considérable à déployer pour "détruire" ce que l'on a construit et qui aura duré 40-50 ans. L'équation est complexe mais pas insoluble.
