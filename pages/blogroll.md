@@ -12,7 +12,7 @@ Quelques liens essentiels, indispensables… bref, on se demande à quoi ça ser
 * [https://alterlibriste.free.fr/](http://alterlibriste.free.fr/) : Le blog d’Alterlibriste, une vision du monde libre
 * [https://leblogdolivyeahh.wordpress.com/](https://leblogdolivyeahh.wordpress.com/) : Le blog d’Olivyeahh, sur GNU/Linux essentiellement.
 * [https://lesptitsdessinsdepeha.wordpress.com/](https://lesptitsdessinsdepeha.wordpress.com/) : Les petits papiers de Péhä, libriste et dessinateur
-* [http://www.blog-libre.org/](http://www.blog-libre.org/) : Le blog libre continue de vivre, avec cascador, damien, etc…
+* [https://www.bloglibre.net/](https://www.bloglibre.net/) : Le blog libre continue de vivre, avec cascador, damien, augier, etc…
 * [http://leblogdericgranier.org/](http://leblogdericgranier.org/) : Le Blog d’Eric Granier, logiciel libre, cinéma
 * [http://destinationpassions.wordpress.com/](http://destinationpassions.wordpress.com/) : Pour les passionnés de lecture, le seul blog littéraire que je peux supporter
 * [https://chezmo.wordpress.com](https://chezmo.wordpress.com) : Le Bar à BD de MO, le site de chronique BD que je préfère.
