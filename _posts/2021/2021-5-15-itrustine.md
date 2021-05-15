@@ -35,5 +35,23 @@ Je vous laisse imaginer le fonctionnement de l'informatique actuelle dans d'autr
 
 Bande-son : [In This Moment - The In Between ![video](/images/youtube.png)](https://www.youtube.com/watch?v=pjOtKC_GZ9o){:target="_blank"}
 
+#### Commentaires
+
+**Popolon sur Mastodon**
+
+>  Je suis bien d'accord, il faudrait sortir des programmes sans bugs et complètements complets des le premier claquement de doigt ^ ^. Pour l'analogie avec la musique : Non, il y a des logiciels de musiques libres professionnels gratuits et aux sons d'une qualité irréprochable. À propos de patchs, l'utilisation de synthétiseurs modulaire, que ce soit matériel avec des baies de patchs, ou logiciel avec des tonnes de plugins VST/LV2, etc...) ça en fait aussi des choses complexes et c'est ce que veulent les musiciens pour avoir toute une panoplie d'instruments spécialisés. Le cas contraire serait par exemple limiter un orchestre philharmonique à des seuls violons, ça se fait mais c'est moins riche qu'un orchestre hétérogène avec toutes ses différences et les qualités de ces différences.
+
+> L'avantage d'utiliser plusieurs bibliothèques spécialisées en va de même, ne pas refaire 150 fois le même travail, sauf si on ne peut intégrer ses besoin à l'existant, mais préférer proposer un patchs adaptatif aux auteurs de la bibliothèque. La tendance du monde de Rust est de tout dupliquer en statique, ça à tout de même pas mal d'inconvénient:
+> * ça prend beaucoup de place (disque, mémoire) dans un monde fini avec des ressources fini. Plus de place sur disque veut aussi dire, plus de temps de chargement en mémoire, et de plus de chance de sortir des caches.
+> * Quand il y a un correctif sur une bibliothèque (comme elles sont codées par des humains). Au lieu de juste recompiler la biblio, il fait recompiler tous les programmes liés en statiques. Non seulement ça va prendre beaucoup plus de ressources (CPU pour tout recompiler+ stockage nécessaire sur l’ordinateur qui compile), mais en plus ça va encore démultiplier la taille des programmes sur disque, transfert vers chez les utilisateurs de la distro, restockage chez eux). Il faudra de plus bien penser ou bien avoir automatisé la recompilation automatique de tous les logiciels utilisant cette bibliothèque.... Un travail monstrueux au global, lorsque la compilation de la petite bibliothèque aurait été suffisante.
+
+**Iceman**
+
+> Ah si la perfection existait :D C'est justement parce qu'on sous-estime le temps de test et aussi d'optimisation que l'on a aujourd'hui des programmes avec des bugs majeurs qui sortent. J'en ai quelques exemples en mémoire dans mon boulot, autant que de bons exemples inverses, heureusement. 
+
+> C'est vrai que pour la musique j'aurais du préciser de quel type d'outils je parlais car il y a aussi de très bons produits libres du niveau pro. Je pensais plus à ceux que l'on trouve plutôt sur mobile, tablette et qui automatisent la prod pour "faire du son" genre beatmakers.
+
+> Et bien sur que la bibliothèque simplifie le travail mais quelque part on en perd le savoir-faire et donc comme tu le dis, on prend le risque lors d'une modif de bibliothèque d'avoir beaucoup plus de travail et de lourdeur. C'est aussi un choix que l'on paye par des lenteurs à l'utilisation quand d'autres optimisent le code pour la performance, étape tout simplement zappée dans le développement puisque l'on se dit "le hardware à venir compensera".
+
 
 
