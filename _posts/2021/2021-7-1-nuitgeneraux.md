@@ -17,4 +17,4 @@ Mais c'est surtout un bon thriller dont on se doute assez rapidement du coupable
 
 Comme on parle d'acteurs français, il y a Pierre Mondy dans un rôle plus léger. Mais c'est aussi une belle partition de Maurice Jarre qui s'inspire certes des maîtres allemands dans certains moments mais trouve aussi de belles envolées plus légères. Le film est long pour l'époque avec ses 2h28 mais je n'y ai pas trouvé d'ennui, ni à la première vision, ni après d'autres séances. C'est un tout, une film homogène malgré le fait qu'il hésite entre les genres. Le scénario de Kessel et Dehn tient pour beaucoup dans cet équilibre. Et pour son avant-dernier film, le vieux routier de la réalisation tient bien son sujet. Un classique pour moi qui tient une jolie place dans ma cinémathèque. 
 
-[titre ![video](/images/youtube.png)](https://www.youtube.com/watch?v=h-8rJJ4uYlA){:target="_blank"}
+[Bande Annonce ![video](/images/youtube.png)](https://www.youtube.com/watch?v=h-8rJJ4uYlA){:target="_blank"}
