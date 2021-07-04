@@ -73,3 +73,13 @@ Bref, dans mon petit classement personnel, je mets toujours Opera en premier mai
 
 
 Bande son : [Gary Moore reprenant le Foxy Lady de Jimi Hendrix ![video](/images/youtube.png)](https://www.youtube.com/watch?v=LjUZ0amX4EI){:target="_blank"}
+
+#### Commentaires
+
+**Gilles sur Mastodon**
+
+> Trop long à lancer l'URL demandé, à chaque fois je dois attendre 5 à 10 secondes, alors que Chrome est 100% réactif (sur Android)...
+
+**Iceman**
+
+> En effet; @Gilles, j'ai remarqué aussi des ralentissements que j'ai minimisé en virant les plugins et que je retrouve pourtant un peu plus sur la version Nightly, qui est aussi évidemment plus instable. A surveiller de près car selon les sites, ça peut être très long comme tu dis.
